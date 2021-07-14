@@ -34,6 +34,11 @@ HD:
 Laptop Battery:  
 [BATExpert⊞](https://kcsoftwares.com/?batexpert)
 
+## Aesthetics
+
+RGB control:  
+[OpenRGB⊞⌘🐧](https://gitlab.com/CalcProgrammer1/OpenRGB)
+
 ## Planning
 
 PC builds:  

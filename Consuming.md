@@ -33,7 +33,8 @@ Blacklist specific websites from web search:
 
 Block scripts/ads:  
 [NoScript⇉](https://noscript.net/),
-[uBlock Origin⇉](https://github.com/gorhill/uBlock/)
+[uBlock Origin⇉](https://github.com/gorhill/uBlock/),
+[AdNauseam⇉](https://adnauseam.io/)
 
 Block chat widgets:  
 [Hello, Goodbye⇉](https://hellogoodbye.app/)
