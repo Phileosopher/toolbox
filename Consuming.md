@@ -60,6 +60,9 @@ FTP client:
 Torrents:  
 [qBittorrent⊞■⌘🐧](https://www.qbittorrent.org/)
 
+Torrents - search:  
+[SkyTorrents☁](http://www.skytorrents.me/)
+
 Torrents - streaming:  
 [Popcorn Time⊞⌘🐧🤖](https://popcorntime.app/)
 

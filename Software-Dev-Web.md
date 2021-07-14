@@ -96,4 +96,5 @@ Emails:
 
 Analytics:  
 [Clicky☁](https://clicky.com/),
+[Simple Analytics☁](https://simpleanalytics.com/),
 [Statcounter☁](https://statcounter.com/)

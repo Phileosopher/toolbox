@@ -16,7 +16,10 @@ Automated legal services:
 
 Post-it note/sticker over built-in camera
 
-## Against Private Organizations
+## Against Private Organizations Like FAANG
+
+Tracker/permissions search:  
+[εxodus☁(for🤖)](https://reports.exodus-privacy.eu.org/en/)
 
 Account deleter:  
 [Account Killer☁](https://www.accountkiller.com/en/popular)
