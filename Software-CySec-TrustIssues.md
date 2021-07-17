@@ -49,7 +49,8 @@ App store:
 ## Against Google
 
 [degoogle☁](https://degoogle.jmoore.dev/),
-[No More Google☁](https://nomoregoogle.com/)
+[No More Google☁](https://nomoregoogle.com/),
+[Bloom☁](https://bloom.sh/)
 
 APK files:  
 [APK-DL☁](https://apk-dl.com/),
