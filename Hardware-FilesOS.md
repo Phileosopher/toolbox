@@ -150,8 +150,8 @@ Portable apps:
 [PortableApps.com⊞■](https://portableapps.com/)
 
 Portable OS:  
-[UNetbootin⊞■⌘🐧](https://unetbootin.github.io/),
-[Rufus⊞■](https://rufus.ie/)
+[Rufus⊞■](https://rufus.ie/),
+[Ventoy⊞■⌘🐧](https://www.ventoy.net/en/index.html)
 
 Portable USB/CD drive (from a phone's storage):  
 [DriveDroid🤖](https://www.drivedroid.io/)

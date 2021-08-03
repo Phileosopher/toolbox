@@ -72,6 +72,6 @@ Dynamic checking - C:
 [Kite](https://www.kite.com/),
 [Tabnine](https://www.tabnine.com/)
 
-## Logos For Software
+## Software Logos
 
 [Open Logos](https://openlogos.org/)

@@ -28,7 +28,8 @@ Accounting/ERP software:
 ## Positions/Budgeting
 
 [Betterment☁](https://www.betterment.com/),
-[Personal Capital☁](https://www.personalcapital.com/)
+[Personal Capital☁](https://www.personalcapital.com/),
+[ProjectiFi☁](https://projectifi.io/)
 
 Reward programs:  
 [AwardWallet☁](https://awardwallet.com/)

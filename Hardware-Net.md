@@ -140,8 +140,15 @@ Persistent connection test:
 
 ## L6 Presentation
 
+Support tables:  
+[Can I email...☁](https://www.caniemail.com/),
+[Can I use...☁](https://www.caniuse.com/)
+
 JavaScript browser test:  
 [Java Tester's JavaScript Tester☁](https://javatester.org/javascript.html)
+
+Encryption test:  
+[Google's Encode/Decode☁](https://toolbox.googleapps.com/apps/encode_decode/)
 
 ## L7 Application
 

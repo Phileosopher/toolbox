@@ -46,8 +46,11 @@ Distributed file encryption (requires several copies to decrypt):
 
 ## Hardening/Auditing
 
-UNIX-like hardening/auditing:  
+Hardening/auditing - UNIX-likes:  
 [Lynis🐧](https://cisofy.com/lynis/)
+
+Hardening/auditing - mobile devices:  
+[MVT (Mobile Verification Toolkit)🍎🤖](https://github.com/mvt-project/mvt)
 
 Remove old Java versions:  
 [Java Uninstall Tool⊞](https://java.com/en/download/uninstalltool.jsp)

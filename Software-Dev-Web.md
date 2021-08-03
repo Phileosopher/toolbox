@@ -131,3 +131,6 @@ Analytics:
 [Clicky☁](https://clicky.com/),
 [Simple Analytics☁](https://simpleanalytics.com/),
 [Statcounter☁](https://statcounter.com/)
+
+Email - verify if an email is real:  
+[check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)

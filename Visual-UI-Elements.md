@@ -58,6 +58,9 @@ Shadows:
 Frosted glass:  
 [Glassmorphism☁](https://glassmorphism.com/)
 
+Paintbrush:  
+[Fluid Paint](https://david.li/paint/)
+
 ## 3D Elements
 
 Block patterns (by manipulating shadows):  

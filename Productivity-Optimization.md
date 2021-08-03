@@ -35,7 +35,8 @@ Repetitive strain timer:
 Ambient noise:  
 [Noisli☁🍎🤖⇉](https://www.noisli.com/),
 [generative.fm☁](https://generative.fm/),
-[lofi.cafe☁](https://lofi.cafe/)
+[lofi.cafe☁](https://lofi.cafe/),
+[musicForProgramming☁);](https://www.musicforprogramming.net/)
 
 Binaural beats:  
 [Gnaural⬇️](https://sourceforge.net/projects/gnaural/)
@@ -70,6 +71,7 @@ Built-in:
 
 Keyboard macros:  
 [AutoHotkey⊞](https://www.autohotkey.com/),
+[espanso⊞⌘🐧](https://espanso.org/),
 [TinyTask⊞■](https://thetinytask.com/)
 
 Facial movement tracking:  

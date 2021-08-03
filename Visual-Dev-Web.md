@@ -22,8 +22,7 @@ Automatic theme generation:
 
 ## Usability Testing
 
-Support tables:  
-[Can I use...☁](https://www.caniuse.com/)
+NOTE: Check out Hardware-Net, L6-L7
 
 Color contrast test:  
 [Check My Colours☁](http://www.checkmycolours.com/),

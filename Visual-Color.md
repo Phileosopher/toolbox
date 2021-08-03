@@ -102,6 +102,9 @@ Photo color filters:
 Dynamic lighting/visuals for sprites:  
 [SpriteIlluminator](https://www.codeandweb.com/spriteilluminator)
 
+Automated color system:  
+[Radix UI](https://www.radix-ui.com/colors)
+
 ## Testing
 
 Color pairing:  
