@@ -3,7 +3,8 @@
 ## Inspiration
 
 [Fantasy UIs*](https://www.pushing-pixels.org/fui/),
-[Game UI Database☁](https://www.gameuidatabase.com/)
+[Game UI Database☁](https://www.gameuidatabase.com/), 
+[HUDS+GUIS☁](https://www.hudsandguis.com/)
 
 CSS improvements:  
 [CSS-Tricks*](https://css-tricks.com/)

@@ -20,19 +20,10 @@ Game engine:
 Automatic theme generation:  
 [Bootstrap Magic☁](https://pikock.github.io/bootstrap-magic/)
 
-## Testing - Functionality
+## Usability Testing
 
-Debugging:  
-[Telerik's Fiddler⊞⌘🐧](https://www.telerik.com/fiddler),
-[web.dev☁](https://web.dev/)
-
-Validation - HTML:  
-[W3C Markup Validation Service☁](https://validator.w3.org/)
-
-Validation - CSS:  
-[W3C CSS Validation Service☁](http://jigsaw.w3.org/css-validator/)
-
-## Testing - Usability
+Support tables:  
+[Can I use...☁](https://www.caniuse.com/)
 
 Color contrast test:  
 [Check My Colours☁](http://www.checkmycolours.com/),

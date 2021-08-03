@@ -5,6 +5,9 @@
 Linting:  
 [GitHub's Super Linter](https://github.com/github/super-linter)
 
+Linting - JS:  
+[JSHint☁](https://jshint.com/)
+
 ## Runtime Errors
 
 Unix-like terminal:  
@@ -35,9 +38,6 @@ Audio:
 [Audio Noise Generator☁](https://www.random.org/audio-noise/)
 
 ## Manual Debugging
-
-Dev advice:  
-[Stack Overflow☁](https://stackoverflow.com/)
 
 Bug tracking:  
 [Bugzilla🐧](https://www.bugzilla.org/),

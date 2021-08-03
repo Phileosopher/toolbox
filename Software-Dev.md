@@ -1,5 +1,7 @@
 # Software: Development
 
+## Inspiration
+
 Possible projects:  
 [Mega Projects List*](https://github.com/karan/Projects/)
 
@@ -21,7 +23,19 @@ IDEs:
 Distraction-free coding videos:  
 [CodeOnVideo☁](https://codeonvideo.com/)
 
+## FLOSS Languages
+
+SQL database engine:  
+[SQLite](https://sqlite.org/index.html)
+
 ## Existing Source Code
+
+Tutorials:  
+[W3Schools☁](https://www.w3schools.com/), 
+[Select Star SQL☁ - SQL](https://selectstarsql.com/)
+
+Dev advice:  
+[Stack Overflow☁](https://stackoverflow.com/)
 
 Entire apps:  
 [Historical Source](https://github.com/historicalsource),

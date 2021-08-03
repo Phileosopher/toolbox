@@ -29,27 +29,27 @@ However, if I need something to stretch audio or batch-compare files, my largest
 
 I _might_ find lots of things here useful someday, but I don't feel like dragging around 4 terabytes of constantly updating programs just to know where they are.
 
-So, this is a bit like a hoarder's barn, but collects less dust and is proportionally smaller. I will probably not use 95% of the stuff here, but I figure someone else might.
+So, this is a bit like a hoarder's barn, but collects less dust and is proportionally smaller. I will probably not use 95% of the stuff here, but someone else might, and I might run across them.
 
 ## Rules
 
 For brevity's sake, I'm mostly glossing over a few groups:
 
 - The built-in tools. If I need them, they're in the computer already.
-- Paid tools, at least when I have to pause to consider my budget.
-- Most courses and courseware, since the means of accomplishing many things in a computer are *constantly* changing technology fashions.
+- Paid tools, when they cost enough that it makes me pause to consider my budget.
+- Most courses and courseware, since I'm convinced most of that is part of a *constantly* revolving cycle of technology fashions (Remember when Java and Netscape was going to run the world forever? By contrast, how about web browsers and corporation-endorsed programming languages?)
 
 I've broken everything into malleable groupings, since there are *many* things that someone could use a computer for, and people are constantly adding new things. These groupings have a philosophical basis in their designed *final* purpose:
 
 - Consuming: to experience others' created works without any creative goals in mind
 - Foraging: to acquire others' creative works
-- Calculators: to create a simple, usually numerical solution
+- Calculators: to calculate a simple, usually numerical solution
 - Communicating: to communicate with other people, directly or indirectly
-- Hardware: to make or manage physical things, which include computer information on the OS level
-- Software: to broadly make or manage conceptual things
-- Visual: to visually design or adapt things which contain some intended aesthetic
-- Audio: to create or manipulate sound for some intended aesthetic
-- Text: to create or manipulate language for some intended aesthetic
+- Hardware: to make or manage physical things, which includes computer hardware and OS-level things
+- Software: to broadly make or manage conceptual things (aka "back-end")
+- Visual: to visually design or adapt things which contain some intended aesthetic (aka "front-end")
+- Audio: to work with sound for some intended aesthetic
+- Text: to work with language for some intended aesthetic
 - Productivity: to broadly streamline doing any of the above
 
 ## What it needs
@@ -62,21 +62,18 @@ I've broken everything into malleable groupings, since there are *many* things t
 - ■ for standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/)).
 - 🐍 if it runs in Python
 
-These are volatile out-of-the-box estimations for several reasons:
+These are volatile out-of-the-box OS estimations for several reasons:
 
 - If the specs are high enough (and they usually are), you can make any software run on any popular OS. Quick-and-dirty still does the job, even if it's running on an MS-DOS emulator inside a Windows XP VM.
-- Developers keep making new things for new technologies, so in ten years everyone might have BlahBlahOS where everything runs on it and these won't matter.
+- Developers keep making new things for new technologies, so this is constantly becoming obsolete (PR if you want to fix that).
+- In ten years everyone might have BlahBlahOS where everything runs on it and these won't matter.
 
 ## What I'm looking for
 
-Please feel free to pull request if you have anything I've missed. Or, if tech's not your thing, contact me via "greg at stucky dot tech":
+Please PR if you see anything I've missed. Or, if tech's not your thing, contact me via "dave at stucky dot tech":
 
 1. Things that are obsolete and their superior replacement.
 2. Any relevant platforms/languages the tool needs (e.g., ⊞■⌘🐧🍎🤖⇉).
 3. Any classes or sub-classes of tool I may have missed.
-
-Also, right now I'm *really* looking for the following:
-
-- Free or affordable technology standards (e.g., ISO 9000)
   
 If you like what you see, feel free to fork, or visit [my website](https://stucky.tech) for other useful things.

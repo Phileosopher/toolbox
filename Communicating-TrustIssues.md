@@ -28,6 +28,9 @@ Secure text messaging:
 [Signal⊞⌘🐧🍎🤖](https://signal.org/),
 [Telegram⊞⌘🐧🍎🤖](https://telegram.org/)
 
+Temporary text messaging:  
+[tmpsms](https://github.com/sdushantha/tmpsms)
+
 Secure email:  
 [ProtonMail☁](https://protonmail.com/),
 [Tutanota☁](https://tutanota.com/)

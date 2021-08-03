@@ -26,6 +26,9 @@ JSON:
 
 ## Testing/Debugging
 
+Support tables:  
+[Can I email...☁](https://www.caniemail.com/)
+
 Linting - CSS:  
 [CSS Lint☁](http://csslint.net/)
 
