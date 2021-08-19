@@ -1,4 +1,4 @@
-# Software: Development - Debugging
+# Software Development: Debugging
 
 ## Syntax Errors
 

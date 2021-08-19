@@ -1,17 +1,30 @@
-# Software: Development
+# Software Development
 
 ## Inspiration
 
 Possible projects:  
+[awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 [Mega Projects List*](https://github.com/karan/Projects/)
+
+New languages:  
+[pl-catalog☁](https://github.com/prathyvsh/pl-catalog)
+
+## Planning
 
 Open-source licenses:  
 [Choose a License*](https://choosealicense.com/)
+
+Privacy policies:  
+[PrivacyPolicy.com☁](https://www.privacypolicies.com/)
 
 Tutorials:  
 [Build Your Own X*](https://github.com/danistefanovic/build-your-own-x)
 
 ## Productivity Improvement
+
+Cheat sheets:  
+[Code House☁](https://codehouse.vercel.app/),
+[OverAPI.com*](http://overapi.com/)
 
 IDEs:  
 [Apache NetBeans⊞⌘🐧](https://netbeans.org/),
@@ -20,13 +33,12 @@ IDEs:
 [Microsoft Visual Studio⊞⌘🐧](https://visualstudio.microsoft.com/),
 [VSCodium⊞⌘🐧](https://vscodium.com/)
 
+IDEs - Specific:  
+[Android SDK⊞⌘🐧](https://developer.android.com/studio/),
+[Xcode⌘🍎](https://developer.apple.com/xcode/)
+
 Distraction-free coding videos:  
 [CodeOnVideo☁](https://codeonvideo.com/)
-
-## FLOSS Languages
-
-SQL database engine:  
-[SQLite](https://sqlite.org/index.html)
 
 ## Existing Source Code
 
@@ -48,14 +60,6 @@ Full games:
 [Command & Conquer/Red Alert](https://github.com/electronicarts/CnC_Remastered_Collection),
 [Elite (for the BBC Micro)](https://www.bbcelite.com/),
 [VVVVVV](https://github.com/TerryCavanagh/vvvvvv)
-
-## APIs
-
-API Cheatsheets:  
-[OverAPI.com*](http://overapi.com/)
-
-Public-access APIs:  
-[Public APIs☁](https://public-apis.xyz/)
 
 ## Decompilers
 

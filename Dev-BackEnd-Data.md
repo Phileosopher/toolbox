@@ -1,4 +1,7 @@
-# Software: Database Management
+# Software Development - Back-End: Database Management
+
+SQL database engine:  
+[SQLite](https://sqlite.org/index.html)
 
 ## Prepping
 
@@ -14,6 +17,12 @@ Spreadsheets:
 Approximate Spreadsheets:  
 [Guesstimate☁](https://www.getguesstimate.com/)
 
+## Time Series Analysis
+
+[Demographic Analysis & Population Projection System (DAPPS) Software](https://www.census.gov/data/software/dapps.html),
+[gretl](http://gretl.sourceforge.net/),
+[X-13ARIMA-SEATS Seasonal Adjustment Program](https://www.census.gov/data/software/x13as.html)
+
 ## Artificial Intelligence
 
 [OpenCog](https://opencog.org/)
@@ -22,7 +31,3 @@ Approximate Spreadsheets:
 
 Barcodes:  
 [Zint Barcode Generator⊞■](https://sourceforge.net/projects/zint/)
-
-## Privacy Policy
-
-[PrivacyPolicy.com☁](https://www.privacypolicies.com/)

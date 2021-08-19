@@ -1,18 +1,29 @@
-# Visual Design: Development - Web-Specific
+# Software Development - Front-End
 
-[Firefox Developer Edition⊞■⌘🐧🍎🤖](https://www.mozilla.org/en-US/firefox/developer/)
+Checklist:  
+[Front-End Checklist☁](https://frontendchecklist.io/),
 
 ## Frameworks/Engines
 
+2D Physics:  
+[PhysicsEditor](https://www.codeandweb.com/physicseditor)
+
+Cross-platform webapps:  
+[Electron](https://www.electronjs.org/),
+[NW.js](https://nwjs.io/)
+
 CSS:  
+[Bulma](https://bulma.io/),
 [Tailwind CSS](https://tailwindcss.com/)
 
-Game engine:  
-[Taro(JS)](https://www.echou.xyz/taro/)
+PHP:  
+[Laravel](https://laravel.com/)
 
 ## CSS Themes
 
-[Bootstrap](https://getbootstrap.com/) CSS themes/templates:  
+[Bootstrap](https://getbootstrap.com/)
+
+CSS themes/templates:  
 [Bootswatch■](https://bootswatch.com/),
 [Creative Tim's Free Templates■](https://www.creative-tim.com/templates/free),
 [Bootstrap 4 Cheat Sheet*](https://hackerthemes.com/bootstrap-cheatsheet/)
@@ -48,6 +59,20 @@ Accessibility test:
 Worldwide test:  
 [W3C I18n Checker☁](https://validator.w3.org/i18n-checker/)
 
+## Icons
+
+Favicons:  
+[favicon.io☁](https://favicon.io/), [Favicon & App Icon Generator☁](https://www.favicon-generator.org/),
+[Real Favicon Generator☁](https://realfavicongenerator.net/),
+[SVG Favicon Maker☁](https://formito.com/tools/favicon),
+[Favicon Cheat Sheet*](https://github.com/audreyfeldroy/favicon-cheat-sheet)
+
+App icons:  
+[App Icon Generator☁](https://appicon.co/)
+
+QR codes:  
+[QR picture☁](https://www.qrpicture.com/)
+
 ## Social Media
 
 Twitter:  
@@ -61,3 +86,4 @@ LinkedIn:
 
 SERP (search engine results page) preview:  
 [Portent's SERP Snippet Preview☁](https://www.portent.com/serp-preview-tool/)
+

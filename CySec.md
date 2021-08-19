@@ -1,4 +1,4 @@
-# Software: Cybersecurity
+# Cybersecurity
 
 ## Web Anonymity
 

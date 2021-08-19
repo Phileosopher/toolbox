@@ -45,9 +45,10 @@ I've broken everything into malleable groupings, since there are *many* things t
 - Foraging: to acquire others' creative works
 - Calculators: to calculate a simple, usually numerical solution
 - Communicating: to communicate with other people, directly or indirectly
+- CySec: to protect from bad things happening to computers or information
 - Hardware: to make or manage physical things, which includes computer hardware and OS-level things
-- Software: to broadly make or manage conceptual things (aka "back-end")
-- Visual: to visually design or adapt things which contain some intended aesthetic (aka "front-end")
+- Dev: to broadly make or manage computer code
+- Visual: to visually design or adapt things which contain some intended aesthetic
 - Audio: to work with sound for some intended aesthetic
 - Text: to work with language for some intended aesthetic
 - Productivity: to broadly streamline doing any of the above

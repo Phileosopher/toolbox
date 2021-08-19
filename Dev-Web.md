@@ -1,4 +1,6 @@
-# Software: Development - Web-Specific
+# Software Development: Web-Specific
+
+[Firefox Developer Edition⊞■⌘🐧🍎🤖](https://www.mozilla.org/en-US/firefox/developer/)
 
 Checklist:  
 [Toptal's Web Developer Checklist*](https://www.toptal.com/developers/webdevchecklist)
@@ -37,7 +39,7 @@ SEO checker:
 [BuzzSumo☁](https://app.buzzsumo.com/),
 [woorank☁](https://www.woorank.com/)
 
-## SEO - Speed
+## SEO: Speed
 
 Site speed test:  
 [GTmetrix☁](https://gtmetrix.com),
@@ -60,7 +62,7 @@ Image compression:
 JIT preloading:  
 [instant.page☁](https://instant.page/)
 
-## SEO - Network
+## SEO: Network
 
 Uptime tracking:  
 [Uptime Robot☁](https://uptimerobot.com/),
@@ -69,7 +71,7 @@ Uptime tracking:
 Persistent connection test:  
 [Supple's keep-alive Validation SEO Tool☁](https://supple.com.au/tools/check-persistent-connection/)
 
-## SEO - Data Validation
+## SEO: Data Validation
 
 Debugging:  
 [Telerik's Fiddler⊞⌘🐧](https://www.telerik.com/fiddler),
@@ -97,7 +99,10 @@ Validation/linting - CSS:
 [CSS Lint☁](http://csslint.net/)
 [The W3C CSS Validation Service☁](https://jigsaw.w3.org/css-validator/)
 
-## SEO - Links
+## SEO: Links
+
+Meta tag generator:  
+[Meta Tags☁](https://metatags.io/)
 
 Social media - Facebook:  
 [Facebook's Batch Invalidator☁](https://developers.facebook.com/tools/debug/sharing/batch/), 
@@ -120,7 +125,7 @@ Google business review link generator:
 Local business schema generator:  
 [Supple's Local Business Schema Generator☁](https://supple.com.au/tools/local-business-schema-generator/)
 
-## SEO - Publishing
+## SEO: Publishing
 
 Emails:  
 [MailPoet(WordPress)⇉](https://www.mailpoet.com/)
@@ -131,6 +136,9 @@ Analytics:
 [Clicky☁](https://clicky.com/),
 [Simple Analytics☁](https://simpleanalytics.com/),
 [Statcounter☁](https://statcounter.com/)
+
+Analytics - Heavy Lifting:  
+[Plausible Analytics☁](https://plausible.io/)
 
 Email - verify if an email is real:  
 [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)

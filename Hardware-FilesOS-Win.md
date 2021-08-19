@@ -3,6 +3,9 @@
 Power tools:  
 [Windows Sysinternals⊞■](https://docs.microsoft.com/en-us/sysinternals/)
 
+RAM drive:  
+[ImDisk⊞](https://sourceforge.net/projects/imdisk-toolkit/)
+
 ## Analysis
 
 PE format file analysis (.exe, .dll, .ocx, .bpl, et al):  
@@ -76,6 +79,9 @@ Driver Update:
 [DUMo⊞](https://kcsoftwares.com/?dumo)
 
 ## Cleanup
+
+Default apps:  
+[Windows 10 App Remover⊞](https://m.majorgeeks.com/files/details/windows_10_app_remover.html)
 
 PC junk:  
 [CCleaner⊞■](https://www.ccleaner.com/) (with [CCEnhancer](https://singularlabs.com/software/ccenhancer/)),

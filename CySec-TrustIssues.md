@@ -1,4 +1,4 @@
-# Software: Cybersecurity - Trust Issues
+# Cybersecurity: Trust Issues
 
 File deletion:  
 [BleachBit⊞■⌘🐧](https://www.bleachbit.org/),

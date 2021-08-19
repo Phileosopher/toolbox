@@ -57,8 +57,11 @@ HTTP media downloads:
 FTP client:  
 [FileZilla⊞■⌘🐧](https://filezilla-project.org/)
 
-Torrents:  
+BitTorrent client:  
 [qBittorrent⊞■⌘🐧](https://www.qbittorrent.org/)
+
+BitTorrent - hash to magnet link:  
+[Hash to Magnet link☁](https://www.hashtomagnet.com/)
 
 Torrents - search:  
 [SkyTorrents☁](http://www.skytorrents.me/)
@@ -88,7 +91,7 @@ News aggregation:
 Bookmarks emailed to inbox:  
 [Link Drop☁](https://www.linkdrop.co/)
 
-Site status (for when any code on the site itself changes):  
+Site status (for when any code on the site changes):  
 [Follow That Page☁](https://www.followthatpage.com/)
 
 ## Learning

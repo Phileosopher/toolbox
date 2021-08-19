@@ -21,6 +21,11 @@ Work-life balance:
 Procrastination diagnosis:  
 [Why do I procrastinate?](https://whydoiprocrastinate.com/)
 
+## Time Management - Travel
+
+Generate geographical heatmap:  
+[geo-heatmap](https://github.com/luka1199/geo-heatmap)
+
 ## Focus
 
 Timer:  

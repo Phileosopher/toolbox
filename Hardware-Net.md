@@ -1,9 +1,24 @@
 # Hardware: Networks
 
+## L1 Physical - Network Documentation
+
+- Physical cable map (with a floor plan if possible)
+- Switch port mapping
+- Service provider connection and contact information
+- IP address allocation
+- Network diagram
+- Encrypted credential vault
+- Rack layout (useful)
+- WAP layout (useful)
+- Asset tracking (useful)
+- STP Snapshot (useful)
+
 ## L1 Physical - Mobile
 
-Mobile Network Test:  
-[OpenSignal🍎🤖](https://www.opensignal.com/apps)
+Mobile Networks:  
+[OpenSignal🍎🤖](https://www.opensignal.com/apps),
+[SCADACore's Cell Tower Map - Canada](https://www.scadacore.com/tools/rf-path/cell-tower-map-canada/),
+[SCADACore's Cell Tower Map - United States](https://www.scadacore.com/tools/rf-path/cell-tower-map-united-states/)
 
 Wireless network surveys:  
 [NetSpot⊞⌘🤖](https://www.netspotapp.com/)
@@ -13,6 +28,9 @@ Wireless network surveys:
 
 Wireless network search:  
 [WiGLE☁](https://wigle.net/)
+
+Line-of-sight:  
+[SCADACore's RF Line of Sight](https://www.scadacore.com/tools/rf-path/rf-line-of-sight/)
 
 ## L1 Physical - Cabled
 
@@ -93,19 +111,25 @@ HOSTS file:
 [MVPs HOSTS file*](https://winhelp2002.mvps.org/hosts.htm)
 
 Speed test:  
+[DSLReports' Speed test☁](https://www.dslreports.com/speedtest),
 [SpeedTest☁](https://www.speedtest.net/)
+[DSLReports' Streams test☁](http://www.dslreports.com/tools/streamtest)
 
 Bandwidth analysis:  
-[bandwhich⊞⌘🐧□](https://github.com/imsnif/bandwhich)
+[bandwhich⊞⌘🐧□](https://github.com/imsnif/bandwhich),
+[DSLReports' bandwidth calculator☁](http://www.dslreports.com/calculator),
+[DSLReports' Jitter/Ping test☁](https://www.dslreports.com/tools/pingtest)
 
 IP/location cross-reference:  
-[Where is my IP location?☁](https://www.iplocation.net/)
+[Where is my IP location?☁](https://www.iplocation.net/),
+[DSLReports' What is my IP address?☁](http://www.dslreports.com/whatismyip),
 [WhatIsMyIPAddress☁](https://whatismyipaddress.com/),
 [WhatIsMyIPAddress.com's IP Lookup☁](https://whatismyipaddress.com/ip-lookup)
 
 ## L3 Network: Internet - Specific Sites
 
 Site status:  
+[Brot & Games' ciao](https://brotandgames.com/ciao/),
 [Down For Everyone Or Just Me☁](https://downforeveryoneorjustme.com/),
 [downdetector.com☁](https://downdetector.com/),
 [Website Down or Not?☁](https://www.websiteplanet.com/webtools/down-or-not/)
@@ -139,6 +163,12 @@ Persistent connection test:
 [OpenSignal's Meteor🍎🤖](https://www.opensignal.com/apps)
 
 ## L6 Presentation
+
+Checksums:
+[SCADACore's Online Checksum Calculator](https://www.scadacore.com/tools/programming-calculators/online-checksum-calculator)
+
+Conversion:  
+[SCADACore's Online Hex Converter](https://www.scadacore.com/tools/programming-calculators/online-hex-converter/)
 
 Support tables:  
 [Can I email...☁](https://www.caniemail.com/),

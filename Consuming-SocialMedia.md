@@ -3,6 +3,10 @@
 Shared screen experience:  
 [Kosmi☁](https://kosmi.io/)
 
+Articles behind paywalls:  
+[Wayback Machine☁](https://archive.org/web/),
+[Web Archives⇉](https://github.com/dessant/web-archives)
+
 Videos:  
 [YouTube☁](https://youtube.com),
 [Vimeo☁](https://vimeo.com/watch),
