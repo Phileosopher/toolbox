@@ -85,7 +85,7 @@ Facial movement tracking:
 NumPad shortcuts:  
 [ControlPad⊞■](https://sector-seven.com/software/controlpad)
 
-Keys to gamepad:  
+Keys to gamepad/controller:  
 [AntiMicro⊞■🐧](https://github.com/AntiMicro/antimicro),
 
 Text substitution:  
