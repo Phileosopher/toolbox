@@ -100,6 +100,8 @@ USB NIC
 
 ## L3 Network: Internet - Connecting
 
+[Complete Internet Repair⊞](https://www.rizonesoft.com/downloads/complete-internet-repair/)
+
 DNS probe:  
 [Dnsutils🐧](https://packages.debian.org/jessie/dnsutils)
 [Google's Dig☁](https://toolbox.googleapps.com/apps/dig/)

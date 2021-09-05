@@ -154,6 +154,11 @@ Internet bookmarks:
 Decentralized music server:  
 [Funkwhale](https://funkwhale.audio/)
 
+## Media Issues
+
+Media codecs:  
+[K-Lite Codec Pack⊞](https://codecguide.com/about_kl.htm)
+
 ## Games
 
 Web browsing:  

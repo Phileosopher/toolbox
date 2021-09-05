@@ -67,12 +67,21 @@ Clipboard management:
 [Clipboard PRO🍎](https://clipboardpro.app/),
 [Clipboardic⊞](https://www.nirsoft.net/utils/clipboardic.html)
 
+Context menu - New files:  
+[ShellMenuNew⊞](https://www.nirsoft.net/utils/shell_menu_new.html)
+
+Context menu - Open with:
+[ShellMenuView⊞](https://www.nirsoft.net/utils/shell_menu_view.html)
+
 ## OS Tweaking - Keyboard Shortcuts
 
 Built-in:
 [Universal Shortcuts*](https://stucky.tech/toolbox/u),
 [Browser Shortcuts*](https://stucky.tech/toolbox/b),
 [MS Office Shortcuts*](https://stucky.tech/toolbox/o)
+
+Existing hotkeys (for assigning others):  
+[HotKeysList⊞](https://www.nirsoft.net/utils/hot_keys_list.html)
 
 Keyboard macros:  
 [AutoHotkey⊞](https://www.autohotkey.com/),

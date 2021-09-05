@@ -3,24 +3,31 @@
 Power tools:  
 [Windows Sysinternals⊞■](https://docs.microsoft.com/en-us/sysinternals/)
 
-RAM drive:  
-[ImDisk⊞](https://sourceforge.net/projects/imdisk-toolkit/)
+Windows Search alternative:  
+[SearchMyFiles⊞](https://www.nirsoft.net/utils/search_my_files.html)
 
-## Analysis
+Drive letter management:  
+[DriveLetterView⊞](https://www.nirsoft.net/utils/drive_letter_view.html)
 
-PE format file analysis (.exe, .dll, .ocx, .bpl, et al):  
+## File/Folder Issues
+
+Special folder management:  
+[SpecialFoldersView⊞](https://www.nirsoft.net/utils/special_folders_view.html)
+
+Shortcut management:  
+[ShortcutsMan⊞](https://www.nirsoft.net/utils/shman.html)
+
+PE file analysis (.exe, .dll, .ocx, .bpl, et al):  
 [PEInfo⊞■](http://www.pazera-software.com/products/peinfo/)
 
 BSOD:  
 [Microsoft's Bug Checks*](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/bug-checks--blue-screens-)
 
-## Opened Windows
+File type management:  
+[FileTypesMan⊞](https://www.nirsoft.net/utils/file_types_manager.html)
 
-Window analysis:  
-[WinInfo⊞■](http://www.pazera-software.com/products/wininfo/)
-
-View open windows:  
-[GUIPropView⊞■](https://www.nirsoft.net/utils/gui_prop_view.html)
+"Open With" dialog box management:  
+[OpenWithView⊞](https://www.nirsoft.net/utils/open_with_view.html)
 
 ## Process Issues
 
@@ -33,52 +40,51 @@ Timed process killing:
 Delete on reboot:  
 [Delete.On.Reboot⊞](https://www.softwareok.com/?seite=Freeware/Delete.On.Reboot)
 
-"Open With" dialog box management:  
-[OpenWithView⊞](https://www.nirsoft.net/utils/open_with_view.html)
+Opened window analysis:  
+[GUIPropView⊞■](https://www.nirsoft.net/utils/gui_prop_view.html), 
+[WinInfo⊞■](http://www.pazera-software.com/products/wininfo/)
 
-File type management:  
-[FileTypesMan⊞](https://www.nirsoft.net/utils/file_types_manager.html)
+## Registry Issues
 
-## Folder Issues
-
-Special folder management:  
-[SpecialFoldersView⊞](https://www.nirsoft.net/utils/special_folders_view.html)
-
-Shortcut management:  
-[ShortcutsMan⊞](https://www.nirsoft.net/utils/shman.html)
-
-## Driver issues
-
-Display drivers:  
-[Display Driver Uninstaller⊞](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)
-
-## Internet Issues
-
-[Complete Internet Repair⊞](https://www.rizonesoft.com/downloads/complete-internet-repair/)
-
-## Media Issues
-
-Media codecs:  
-[K-Lite Codec Pack⊞](https://codecguide.com/about_kl.htm)
-
-## Registry
-
-Registry:  
+Registry browser:  
 [RegAlyzer⊞■](https://www.safer-networking.org/products/regalyzer/)
 
 Registry comparison:  
 [WhatChanged⊞■](https://portableapps.com/apps/utilities/whatchanged-portable)
 
+## GUI Issues
+
+Font viewer:  
+[WinFontsView⊞](https://www.nirsoft.net/utils/windows_fonts_viewer.html)
+
+Display drivers:  
+[Display Driver Uninstaller⊞](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)
+
 ## System Updates
 
-Software Update:  
+Installation media:  
+[Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
+
+Software update:  
 [Ninite⊞](https://ninite.com/),
 [SUMo⊞](https://kcsoftwares.com/?sumo)
 
-Driver Update:  
+Driver update:  
 [DUMo⊞](https://kcsoftwares.com/?dumo)
 
+Update history:  
+[WinUpdatesView⊞](https://www.nirsoft.net/utils/windows_updates_history_viewer.html)
+
+SFC /scannow issues:  
+[SFCFix⊞](https://www.sysnative.com/forums/downloads/sfcfix/)
+
+Update automation:  
+[WinNTSetup⊞](https://www.softpedia.com/get/System/OS-Enhancements/WinNTSetup.shtml),
+
 ## Cleanup
+
+Batch cleanup/repair:  
+[Tron⊞](https://www.reddit.com/r/TronScript/comments/oqe6qg/tron_v1200_20210723_completely_remove_support_for/)
 
 Default apps:  
 [Windows 10 App Remover⊞](https://m.majorgeeks.com/files/details/windows_10_app_remover.html)
