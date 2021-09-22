@@ -86,4 +86,3 @@ LinkedIn:
 
 SERP (search engine results page) preview:  
 [Portent's SERP Snippet Preview☁](https://www.portent.com/serp-preview-tool/)
-

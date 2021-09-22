@@ -9,13 +9,13 @@ Deepfake detection:
 Machine-learning-generated photos:  
 [This Person Does Not Exist☁](https://thispersondoesnotexist.com/)
 
-Machine-learning-generated resume:  
-[This resume does not exist☁](https://thisresumedoesnotexist.com)
-
 Private web hosting:  
 [Haven](https://havenweb.org/)
 
 ## Messaging
+
+Reverse phone lookup:  
+[NumLookup☁](https://www.numlookup.com/)
 
 General sensitive information:  
 [Bitwarden Send⊞⌘🐧🍎🤖](https://bitwarden.com/products/send/)
