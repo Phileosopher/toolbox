@@ -98,6 +98,9 @@ IoT server:
 
 USB NIC
 
+WiFi network QR code:  
+[WiFi Card☁](https://wificard.io/)
+
 ## L3 Network: Internet - Connecting
 
 [Complete Internet Repair⊞](https://www.rizonesoft.com/downloads/complete-internet-repair/)
@@ -123,6 +126,7 @@ Bandwidth analysis:
 [DSLReports' Jitter/Ping test☁](https://www.dslreports.com/tools/pingtest)
 
 IP/location cross-reference:  
+[ICanHazIP☁](https://icanhazip.com/),
 [Where is my IP location?☁](https://www.iplocation.net/),
 [DSLReports' What is my IP address?☁](http://www.dslreports.com/whatismyip),
 [WhatIsMyIPAddress☁](https://whatismyipaddress.com/),

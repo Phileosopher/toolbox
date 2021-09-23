@@ -2,6 +2,7 @@
 
 Link shortener:  
 [bitly☁](https://bitly.com/),
+[Short URL☁](https://www.shorturl.at/),
 [TinyURL☁](https://tinyurl.com)
 
 Language translation:  

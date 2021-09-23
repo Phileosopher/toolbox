@@ -143,3 +143,9 @@ Charities/NPO:
 
 Financial institutions:  
 [FINRA☁](https://www.finra.org/)
+
+Whale movements:  
+[Unusual Whales☁](https://unusualwhales.com/)
+
+Blockchain movements:  
+[Blockchain Whispers](https://blockchainwhispers.com/)

@@ -95,6 +95,10 @@ Emojis:
 
 [SlidesCarnival](https://www.slidescarnival.com/)
 
+## Clipart
+
+[Openclipart](https://www.openclipart.org/)
+
 ## SVGs/Illustrations/Animations
 
 [Absurd Design](https://absurd.design/), [Amigos Illustrations](https://amigos.blush.design/), [Avataaars](https://avataaars.com/),

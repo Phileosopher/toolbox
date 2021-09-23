@@ -115,6 +115,9 @@ Languages:
 Machine learning research papers:  
 [OpenReview☁](https://openreview.net/)
 
+Public domain audio books:  
+[LibriVox☁*](https://librivox.org/)
+
 ## Media Players
 
 A/V player:  

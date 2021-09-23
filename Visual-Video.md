@@ -16,6 +16,9 @@ Church events:
 [Kdenlive⊞■⌘🐧](https://kdenlive.org/),
 [DaVinci Resolve⊞⌘🐧](https://www.blackmagicdesign.com/products/davinciresolve/)
 
+Machine-learning-enhanced editing:  
+[Runway☁](https://runwayml.com/)
+
 Team editing:  
 [Motionbox☁](https://motionbox.io/)
 
