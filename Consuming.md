@@ -32,12 +32,15 @@ Blacklist specific websites from web search:
 ## Websites
 
 Block scripts/ads:  
+[AdNauseam⇉](https://adnauseam.io/),
 [NoScript⇉](https://noscript.net/),
-[uBlock Origin⇉](https://github.com/gorhill/uBlock/),
-[AdNauseam⇉](https://adnauseam.io/)
+[uBlock Origin⇉](https://github.com/gorhill/uBlock/)
 
 Block chat widgets:  
 [Hello, Goodbye⇉](https://hellogoodbye.app/)
+
+Automatic reader mode:  
+[Automatic Reader View⇉](https://addons.mozilla.org/en-US/firefox/addon/automatic-reader-view/)
 
 ## Downloading
 

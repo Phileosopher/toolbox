@@ -1,5 +1,9 @@
 # Cybersecurity: Trust Issues
 
+## Hardware
+
+Post-it note/sticker over built-in camera
+
 File deletion:  
 [BleachBit⊞■⌘🐧](https://www.bleachbit.org/),
 [DBAN (Darik's Boot & Nuke)⊞⌘🐧🍎🤖](https://dban.org/),
@@ -11,12 +15,22 @@ Drive encryption:
 Shut down when unplugging USB device:  
 [usbkill🐧](https://github.com/hephaest0s/usbkill)
 
-Automated legal services:  
-[DoNotPay](https://donotpay.com/)
+## Identity
 
-Post-it note/sticker over built-in camera
+Self-detect IP:  
+[ICanHazIP☁](https://icanhazip.com/),
+[Where is my IP location?☁](https://www.iplocation.net/),
+[DSLReports' What is my IP address?☁](http://www.dslreports.com/whatismyip),
+[WhatIsMyIPAddress☁](https://whatismyipaddress.com/),
+[WhatIsMyIPAddress.com's IP Lookup☁](https://whatismyipaddress.com/ip-lookup)
 
-## Against Private Organizations Like FAANG
+Location detection (by browser):  
+[LocateJS☁](https://iknowwhatyoudownload.com/)
+
+Torrent tracking:  
+[I Know What You Download☁](https://iknowwhatyoudownload.com/)
+
+## With Private Organizations Like FAANG
 
 Tracker/permissions search:  
 [εxodus☁(for🤖)](https://reports.exodus-privacy.eu.org/en/)
@@ -37,7 +51,7 @@ Scam reporting:
 [FBI's Submit a Tip☁ (USA)](https://www.fbi.gov/tips),
 [ReportFraud.ftc.gov☁ (USA)](https://reportfraud.ftc.gov/#/)
 
-## Against Apple
+## With Apple
 
 Bootloader:  
 [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
@@ -46,7 +60,7 @@ App store:
 [AltStore🍎](https://github.com/rileytestut/AltStore),
 [AppPure🍎](https://iphone.apkpure.com/)
 
-## Against Google
+## With Google
 
 [degoogle☁](https://degoogle.jmoore.dev/),
 [No More Google☁](https://nomoregoogle.com/),
@@ -65,7 +79,7 @@ Alternative Google Play Store:
 Google Play Services:  
 [MicroG Project🤖](https://microg.org/)
 
-## Against Other Private Organizations
+## With Other Private Organizations
 
 Anti-Facebook:  
 [No More Facebook](https://nomorefacebook.xyz/)
@@ -76,10 +90,15 @@ Anti-Reddit:
 Alternative app store:  
 [Appraw☁](https://appraw.com/)
 
-## Against Governments/Public Organizations
+## With Governments/Public Organizations
 
 Image scrubbing:  
 [Image Scrubber☁](https://everestpipkin.github.io/image-scrubber/)
 
 Photo IDs:  
 [IDPhotoStudio⊞■](https://kcsoftwares.com/?idps)
+
+## Legal
+
+Automated legal services:  
+[DoNotPay](https://donotpay.com/)

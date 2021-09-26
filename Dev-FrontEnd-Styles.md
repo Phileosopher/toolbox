@@ -1,6 +1,9 @@
 # Software Development - Front-End: Visual Styles
 
-## Libraries/Frameworks
+## General Effects
+
+Color filters:  
+[filters.css](https://bansal.io/filters-css)
 
 Dark mode:  
 [Night Eye's Dark CSS Generator☁](https://nighteye.app/dark-css-generator/)
@@ -11,15 +14,19 @@ Minimalism:
 Print-friendly:  
 [Gutenberg](https://github.com/BafS/Gutenberg)
 
-Futuristic sci-fi:  
-[Arwes](https://arwes.dev/),
-[augmented-ui](https://augmented-ui.com/)
+Shadows:  
+[brumm.af's SmoothShadows☁](https://brumm.af/shadows)
+
+Frosted glass:  
+[Glassmorphism☁](https://glassmorphism.com/)
+
+## Unique styles/themes
 
 Old NES:  
 [NES.css](https://nostalgic-css.github.io/NES.css/)
 
-Hand-drawn sketch feel:  
-[Wired Elements](https://wiredjs.com/)
+MS-DOS:  
+[BOOTSTRA.386](https://kristopolous.github.io/BOOTSTRA.386/)
 
 Windows 98:  
 [98.css](https://jdan.github.io/98.css/)
@@ -30,21 +37,18 @@ Windows XP:
 Windows 7:  
 [7.css](https://khang-nd.github.io/7.css/)
 
-## Effects
+Hand-drawn sketch feel:  
+[Rough.js](https://github.com/rough-stuff/rough),
+[Wired Elements](https://wiredjs.com/)
 
-Shadows:  
-[brumm.af's SmoothShadows☁](https://brumm.af/shadows)
+Futuristic sci-fi:  
+[Arwes](https://arwes.dev/),
+[augmented-ui](https://augmented-ui.com/)
 
-Frosted glass:  
-[Glassmorphism☁](https://glassmorphism.com/)
+## Text-Specific Styling
 
-Paintbrush:  
-[Fluid Paint](https://david.li/paint/)
-
-Sketchy, hand-drawn style:  
-[Rough.js](https://github.com/rough-stuff/rough)
-
-## Text
+3D typography:  
+[ztext.js](https://bennettfeely.com/ztext/)
 
 Annotation styling:  
 [RoughNotation](https://roughnotation.com/)
@@ -52,7 +56,12 @@ Annotation styling:
 Text-to-handwriting:  
 [Calligrapher.ai☁](https://www.calligrapher.ai/)
 
-## Background
+## Graphical Effects
+
+Paintbrush:  
+[Fluid Paint](https://david.li/paint/)
+
+## Background Effects
 
 Live backgrounds:  
 [makebackground.io☁](https://makebackground.io/)
@@ -64,7 +73,7 @@ Geometric patterns:
 Geometric patterns - triangles:  
 [Trianglify.io☁](https://trianglify.io/)
 
-## Background: Specific Elements
+## Background Effects: Specific Elements
 
 Blobs:  
 [z creative labs' Blobmaker☁](https://www.blobmaker.app/),

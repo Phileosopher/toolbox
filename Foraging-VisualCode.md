@@ -1,9 +1,23 @@
 # Foraging: Visual Code
 
+[Creative Tim*](https://www.creative-tim.com/),
+[Wicked Templates*](https://www.wickedtemplates.com/templates)
+
+Themes/Templates:  
+[Cruip](https://cruip.com/),
+[HTML5 UP!](https://html5up.net/),
+[Material Design for Bootstrap 5 & 4](https://mdbootstrap.com/)
+[ThemeSelection](https://themeselection.com/)
+
 ## CSS
+
+[Free CSS*](https://www.free-css.com/)
 
 Properties:  
 [codrops' CSS Reference*](https://tympanus.net/codrops/css_reference/)
+
+Blocks:  
+[wickedblocks*](https://blocks.wickedtemplates.com/)
 
 Animations:  
 [Animate.css*](https://animate.style/)
@@ -29,6 +43,11 @@ Patterns:
 Shadows:  
 [Keyframes.app's Animate☁](https://keyframes.app/shadows/),
 [Trendy CSS Text Shadows by Mixfont☁](https://www.mixfont.com/shadows)
+
+Tailwind components:  
+[daisyUI](https://daisyui.com/),
+[Tailwind UI](https://tailwindui.com/#components)
+[Tailwind UI Kit](https://www.tailwind-kit.com/)
 
 ## HTML
 
