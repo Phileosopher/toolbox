@@ -1,16 +1,15 @@
-# Visual Design: Color
-
-## Inspiration
-
-[UI Design Daily*](https://uidesigndaily.com/)
+# Software Development: Front-End Design - Color
 
 ## Color Search
 
-By associated object:  
-[Picular☁](https://picular.co/)
+By comparison to another color:  
+[Accessible Color Generator](https://learnui.design/tools/accessible-color-generator.html)
 
 By color name:  
 [Color-Names☁](https://meodai.github.io/color-names/)
+
+By associated object:  
+[Picular☁](https://picular.co/)
 
 By extraction from an image:  
 [Adobe Color☁](https://color.adobe.com/create/image),
@@ -69,6 +68,7 @@ Tailored gradients:
 [Gradient Hunt*](https://gradienthunt.com/),
 [Gradient by ShapeFactory*](https://gradient.shapefactory.co/),
 [Gradihunt*](https://gradihunt.com/),
+[Vivid Gradient Generator Tool☁](https://learnui.design/tools/gradient-generator.html),
 [WebGradients*](https://webgradients.com/)
 
 Pickers:  
@@ -111,6 +111,7 @@ Color pairing:
 [Colorable☁](https://colorable.jxnblk.com/),
 [ColorShark☁](https://colorshark.io/),
 [Colour Contrast Analyzer⊞■⌘](https://developer.paciellogroup.com/resources/contrastanalyser/),
+[Hex Naw☁](https://hexnaw.com/),
 [WebAIM Contrast Checker☁](https://webaim.org/resources/contrastchecker/),
 [Who Can Use☁](https://whocanuse.com/)
 

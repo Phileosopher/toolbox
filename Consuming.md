@@ -121,6 +121,12 @@ Machine learning research papers:
 Public domain audio books:  
 [LibriVox☁*](https://librivox.org/)
 
+Visual design:  
+[Canva's Design School☁](https://designschool.canva.com/),
+[Degreeless.design☁](https://www.degreeless.design/),
+[Hack Design☁](https://hackdesign.org/),
+[Learn UI Design☁](https://learnui.design/)
+
 ## Media Players
 
 A/V player:  

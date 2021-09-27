@@ -26,3 +26,10 @@ Decentralized storage:
 
 Video conferencing:  
 [Jitsi Videobridge](https://jitsi.org/jitsi-videobridge/)
+
+## Enterprise Diagramming
+
+[CloudSkew](https://www.cloudskew.com/)
+
+AWS Architecture:  
+[Cloudcraft☁](https://www.cloudcraft.co/)

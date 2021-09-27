@@ -15,12 +15,15 @@ Paper sizes:
 Device metrics:  
 [How to Find Device Metrics for Any Screen*](https://material.io/blog/device-metrics)
 
-## Design Interfaces
+## Design Interfaces/Generators
 
 Animations:  
 [Blush(Figma/Sketch)☁⇉](https://blush.design/),
 [OpenToonz⊞⌘](https://opentoonz.github.io/e/),
 [Pencil2D Animation⊞■⌘🐧](https://www.pencil2d.org/)
+
+Blob generator:  
+[MagicPattern's Doodle Backgrounds☁](https://www.magicpattern.design/tools/doodle-backgrounds)
 
 Drawing/painting:  
 [Krita⊞■⌘🐧](https://krita.org/en/)
@@ -36,6 +39,7 @@ Icons/cursors:
 
 Logos:  
 [Fiverr's Logo Maker☁](https://www.fiverr.com/logo-maker),
+[Hipster Logo Generator☁](https://hipsterlogogenerator.com/),
 [Logo by ShapeFactory☁](https://logo.shapefactory.co/),
 [LogoHub☁](https://logohub.io/),
 [Namecheap's Free Logo Maker☁](https://www.namecheap.com/logo-maker/app/new),
@@ -63,6 +67,9 @@ Multitool:
 Voxel art/path tracing renderer:  
 [MagicaVoxel⊞⌘](https://ephtracy.github.io/)
 
+Block patterns (by manipulating shadows):  
+[Sombras.app☁](https://sombras.app/)
+
 ## Design Interfaces - Very Specific
 
 Human models:  
@@ -84,7 +91,8 @@ Presentations:
 Mockups:  
 [Animockup☁](https://animockup.com/),
 [Cleanmock☁](https://cleanmock.com/),
-[morflax things☁](https://things.morflax.com/)
+[morflax things☁](https://things.morflax.com/),
+[Screely☁](https://www.screely.com/),
 [Threed.io☁](https://threed.io/),
 [Web App Mockups (Figma)⇉](https://www.figma.com/community/file/945035983482109746)
 

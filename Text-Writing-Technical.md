@@ -1,5 +1,12 @@
 # Text: Writing/Speeches - Technical
 
+## Inspiration
+
+Email copy:  
+[Good Copy](https://www.goodemailcopy.com/)
+
+## Writing Software
+
 [LaTeX☁⊞⌘🐧](https://www.latex-project.org/),
 [SwiftLaTeX☁](https://www.swiftlatex.com)
 

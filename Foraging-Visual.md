@@ -76,6 +76,10 @@ Landing pages:
 [Unicons by iconscout](https://iconscout.com/unicons), [UXWing](https://uxwing.com/),
 [vivid.js](https://webkul.github.io/vivid/)
 
+AWS:  
+[awsicons](https://awsicons.dev/),
+[AWS Architecture Icons](https://aws.amazon.com/architecture/icons/)
+
 Low-memory icons:  
 [SuperTinyIcons](https://github.com/edent/SuperTinyIcons)
 
@@ -97,6 +101,7 @@ Emojis:
 
 ## Clipart
 
+[Microsoft Clipart Extra](https://archive.org/details/mso97clipart),
 [Openclipart](https://www.openclipart.org/)
 
 ## SVGs/Illustrations/Animations

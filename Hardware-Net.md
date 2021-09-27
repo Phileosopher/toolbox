@@ -87,7 +87,7 @@ WiFi network QR code:
 
 ## L3 Network
 
-[See Hardware-Net-Internet.md](https://github.com/Phileosopher/toolbox/blob/master/Hardware-Net-Internet.md)
+[See Hardware-Net-Internet.md for internet-based tools](https://github.com/Phileosopher/toolbox/blob/master/Hardware-Net-Internet.md)
 
 Router traffic analysis:  
 [MRTG (Multi Router Traffic Grapher)⊞⌘🐧](https://oss.oetiker.ch/mrtg/)
