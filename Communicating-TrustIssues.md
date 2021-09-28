@@ -6,9 +6,6 @@ Deepfake detection:
 [Amber🍎](https://ambervideo.co/),
 [Sensity☁](https://platform.sensity.ai/deepfake-detection)
 
-Machine-learning-generated photos:  
-[This Person Does Not Exist☁](https://thispersondoesnotexist.com/)
-
 Private web hosting:  
 [Haven](https://havenweb.org/)
 

@@ -1,4 +1,4 @@
-# Software Development: Front-End Design - Color
+# Visual Front-End Design: Color-Related
 
 ## Color Search
 
@@ -14,6 +14,7 @@ By associated object:
 By extraction from an image:  
 [Adobe Color☁](https://color.adobe.com/create/image),
 [Color Picker online☁](https://image-color.com/),
+[Colors Generator☁](https://colorgen.dev/),
 [Tineye's Color extraction☁](https://labs.tineye.com/color/)
 
 Object search (by color):  
@@ -37,6 +38,7 @@ Tailored palettes:
 [Colormind*](http://colormind.io/),
 [Colorsinspo*](https://colorsinspo.com/),
 [colors.lol*](https://colors.lol/),
+[ColorsWall*](https://colorswall.com/),
 [Coolors.co*](https://coolors.co/),
 [Culrs*](https://www.culrs.com),
 [Curated Material Design Color Palettes*](https://material.colorion.co/)
@@ -51,15 +53,24 @@ Brand colors:
 
 Pickers:  
 [ColorSpace*](https://mycolor.space/),
+[Cron Color's Color Manipulation Tool](https://croncolor.com/color-tool),
+[Huey*](https://huey.design/),
 [Material Design Color Palette Generator☁](https://www.materialpalette.com/),
 [Palettable☁](https://www.palettable.io),
-[Palette List☁](https://www.palettelist.com/)
+[Palette List☁](https://www.palettelist.com/),
 [WebBrowserTools' Color Picker☁](https://webbrowsertools.com/color-picker/)
+
+Picker from a color:  
+[Paletter☁](https://www.paletter.app/),
+[Tint and Shade Generator☁](https://maketintsandshades.com/#f54545)
 
 Color wheels:  
 [Adobe Color Wheel☁](https://color.adobe.com/create/color-wheel),
 [Color Calculator☁](https://www.sessions.edu/color-calculator/),
 [Paletton☁](https://paletton.com/)
+
+Auto-adjusted palettes:  
+[Palettte App☁](https://palettte.app/)
 
 ## Gradients
 

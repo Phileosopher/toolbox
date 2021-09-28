@@ -50,7 +50,7 @@ I've broken everything into malleable groupings, since there are *many* things t
 - Visual: to visually design or adapt things which contain some intended aesthetic
 - Audio: to work with sound for some intended aesthetic
 - Text: to work with language for some intended aesthetic
-- Dev: to broadly make or manage computer code, which is such a catch-all that most of the above may apply here
+- Dev: to broadly make or manage computer code, which is only referring to back-end because front-end is merely code-based visual design
 - Productivity: to broadly streamline doing any of the above
 
 ## What it needs

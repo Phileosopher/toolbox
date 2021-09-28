@@ -1,12 +1,4 @@
-# Software Development - Front-End Design: Specific Visual Styles
-
-## Inspiration
-
-[Fantasy UIs*](https://www.pushing-pixels.org/fui/),
-[Game UI Database☁](https://www.gameuidatabase.com/),
-[HUDS+GUIS☁](https://www.hudsandguis.com/),
-[Interface In Game☁](https://interfaceingame.com/),
-[Kit FUI☁](https://www.saji8k.com/kit-fui/)
+# Visual Front-End Design: Specific Visual Styles
 
 ## Code Foraging
 
@@ -33,6 +25,9 @@ Commodore 64:
 Amiga:  
 [REnkbench](https://github.com/renkman/Renkbench)
 
+Sony Playstation:  
+[PSone.css](https://micah5.github.io/PSone.css/)
+
 Windows 95:  
 [React95](https://react95.io/),
 [Windows 95 UI Kit](https://demo.themesberg.com/windows-95-ui-kit/)
@@ -56,7 +51,7 @@ Windows 7:
 Windows 10:  
 [csswin10](https://github.com/jianzhongli/csswin10)
 
-## Other Overall styles/themes
+## Other styles/themes
 
 Futuristic sci-fi:  
 [Arwes](https://arwes.dev/),

@@ -14,6 +14,10 @@ Spatial dimensions:
 Mechanical programming:  
 [MockMechanics⊞🐧](https://mockmechanics.com/)
 
+## Physical Design
+
+[Sugru](https://sugru.com/)
+
 ## Simulations
 
 Mechanical experimentation:  

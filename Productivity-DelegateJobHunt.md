@@ -38,20 +38,9 @@ Entire teams at once:
 [Etsy☁](https://www.etsy.com/),
 [Flexiple☁](https://flexiple.com/)
 
-Content generation:  
-[ContentFly☁](https://contentfly.com/)
-
 Graphic designers:  
 [Design Pickle☁](https://designpickle.com/),
 [Manypixels☁](https://www.manypixels.co/)
-
-Journalism-related:  
-[Cision's Help A Reporter☁](https://www.helpareporter.com/)
-
-Book reviews:  
-[IndieView's Indie Book Reviewers List☁](https://www.theindieview.com/indie-reviewers/),
-[Midwest Book Review☁](https://www.midwestbookreview.com/get_rev.htm),
-[Self-Publishing Review☁](https://www.selfpublishingreview.com/)
 
 Speakers for audio books:  
 [ACX☁](https://www.acx.com/),
@@ -63,6 +52,25 @@ Book publishing:
 [Kobo Writing Life☁](https://www.kobo.com/us/en/p/writinglife),
 [Lulu☁](https://www.lulu.com/),
 [Smashwords☁](https://www.smashwords.com/)
+
+## Creative Work: Writing
+
+Copywriting:  
+[Copify UK☁](https://uk.copify.com/)
+
+Localization:  
+[Crowdin☁](https://crowdin.com/)
+
+Content generation:  
+[ContentFly☁](https://contentfly.com/)
+
+Journalism:  
+[Cision's Help A Reporter☁](https://www.helpareporter.com/)
+
+Book reviews:  
+[IndieView's Indie Book Reviewers List☁](https://www.theindieview.com/indie-reviewers/),
+[Midwest Book Review☁](https://www.midwestbookreview.com/get_rev.htm),
+[Self-Publishing Review☁](https://www.selfpublishingreview.com/)
 
 Handwritten messages:  
 [Handwriting.io☁](https://handwriting.io/)

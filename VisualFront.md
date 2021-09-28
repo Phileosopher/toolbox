@@ -1,4 +1,4 @@
-# Software Development - Front-End
+# Visual Front-End Design
 
 ## Planning
 
@@ -7,6 +7,3 @@ Checklist:
 
 User flow tracking:  
 [Wireflow](https://wireflow.co/)
-
-Pixel dimensions:  
-[DPI love☁](https://dpi.lv/)

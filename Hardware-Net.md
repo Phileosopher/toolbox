@@ -15,6 +15,10 @@
 
 ## L1 Physical - Mobile
 
+Mobile bandwidth reference:  
+[FCC Online Table of Frequency Allocations*](https://transition.fcc.gov/oet/spectrum/table/fcctable.pdf),
+[United States Frequency Allocation Chart*](https://www.ntia.doc.gov/page/2011/united-states-frequency-allocation-chart)
+
 Mobile Networks:  
 [OpenSignal🍎🤖](https://www.opensignal.com/apps),
 [SCADACore's Cell Tower Map - Canada](https://www.scadacore.com/tools/rf-path/cell-tower-map-canada/),

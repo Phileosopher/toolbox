@@ -1,5 +1,14 @@
 # Software Development: Game-Specific
 
+## Source Code
+
+Full games:  
+[Amnesia: The Dark Descent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent),
+[Amnesia: A Machine For Pigs](https://github.com/FrictionalGames/AmnesiaAMachineForPigs),
+[Command & Conquer/Red Alert](https://github.com/electronicarts/CnC_Remastered_Collection),
+[Elite (for the BBC Micro)](https://www.bbcelite.com/),
+[VVVVVV](https://github.com/TerryCavanagh/vvvvvv)
+
 ## Specific Game Engines
 
 Visual novels:  

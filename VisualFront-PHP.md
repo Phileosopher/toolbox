@@ -1,4 +1,4 @@
-# Software Development: Front-End Design - PHP
+# Visual Front-End Design: PHP
 
 ## Frameworks/Engines
 

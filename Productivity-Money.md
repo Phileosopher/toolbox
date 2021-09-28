@@ -51,6 +51,9 @@ Grocery shopping lists:
 
 [Product Chart☁](https://www.productchart.com/)
 
+Amazon price tracking:  
+[camelcamelcamel.com](https://camelcamelcamel.com/)
+
 Durable products:  
 [Buy For Life☁](https://www.buyforlife.com/)
 

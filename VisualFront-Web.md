@@ -1,10 +1,11 @@
-# Software Development - Web-Specific
+# Visual Front-End Design: Web-Specific
 
 ## UI Inspiration/Learning
 
 [Collect UI*](https://collectui.com/),
 [GoodUI*](https://goodui.org/),
 [Landingfolio*](https://www.landingfolio.com/),
+[One Page Love](https://onepagelove.com/),
 [Page Flows*](https://pageflows.com/),
 [Pttrns*](https://pttrns.com/),
 [Screenlane*](https://screenlane.com/),
@@ -24,6 +25,9 @@ Practice:
 [CodeSandbox☁](https://codesandbox.io/)
 [JSFiddle☁](https://jsfiddle.net/)
 [repl.it☁](https://repl.it/)
+
+Browser:  
+[Responsively⊞⌘🐧](https://responsively.app/)
 
 ## Frameworks/Engines
 
@@ -74,6 +78,9 @@ QR codes:
 [QR picture☁](https://www.qrpicture.com/)
 
 ## Social Media
+
+Avatars:  
+[Gravatar☁](https://en.gravatar.com/)
 
 Twitter:  
 [Twitter's Card Validator☁](https://cards-dev.twitter.com/validator)

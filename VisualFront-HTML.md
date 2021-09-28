@@ -1,6 +1,13 @@
-# Software Development: Front-End Design - HTML
+# Visual Front-End Design: HTML
+
+## Formatting
+
+[new.css](https://newcss.net/)
 
 ## SVGs
+
+Avatars:  
+[Boring Avatars☁](https://boringavatars.com/)
 
 Blobs:  
 [z creative labs' Blobmaker☁](https://www.blobmaker.app/),

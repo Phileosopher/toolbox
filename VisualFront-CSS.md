@@ -1,4 +1,4 @@
-# Software Development: Front-End Design - CSS
+# Visual Front-End Design: CSS
 
 ## Foraging/Inspiration
 

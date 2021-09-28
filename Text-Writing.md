@@ -2,8 +2,9 @@
 
 ## Inspiration - Ideas
 
-Generated:  
+AI-Generated:  
 [Masterpiece Generator☁](https://www.plot-generator.org.uk/),
+[This Word Does Not Exist☁](https://www.thisworddoesnotexist.com/),
 [WordCounter.net's Random Word Generator☁](https://wordcounter.net/random-word-generator)
 
 Illustrations:  
@@ -67,7 +68,21 @@ Random words:
 [Serendipity☁](https://nine.frenchboys.net/),
 [Seventh Sanctum☁](https://www.seventhsanctum.com/)
 
+String generator:  
+[Random String Generator☁](https://commentpicker.com/string-generator.php)
+
+## Foraging
+
+Historic American newspapers:  
+[Chronicling America☁](https://chroniclingamerica.loc.gov/)
+
+Publications generally excluded from American mainstream media:  
+[The Unz Review☁](https://www.unz.com/print/All/)
+
 ## Word Processing
+
+Lorem ipsum placeholders:  
+[Ultimate List of Lorem Ipsum Generators☁](https://loremipsum.io/ultimate-list-of-lorem-ipsum-generators/)
 
 Text editor:  
 [Notepad++⊞■](https://notepad-plus-plus.org/),
@@ -119,22 +134,16 @@ Grammar/Spelling/Style check:
 [Hemingway App☁](http://www.hemingwayapp.com/),
 [Readable☁](https://app.readable.com/text/?demo)
 
-Counting words:  
+Word count:  
 [Comment Picker's Online Word & Characters Count Tool☁](https://commentpicker.com/word-counter.php)
 [WordCounter.net's Editor Counter☁](https://wordcounter.net/edit-counter)
 [WordCounter.net's Character Counter☁](https://wordcounter.net/character-count)
 
-Counting words - websites:  
+Word count - websites:  
 [WordCounter.net's Website Page Word Counter☁](https://wordcounter.net/website-word-count)
 
-Counting pages:  
+Page count:  
 [WordCounter.net's Words Per Page☁](https://wordcounter.net/words-per-page)
-
-Copywriting freelancers:  
-[Copify UK☁](https://uk.copify.com/)
-
-Localization freelancers:  
-[Crowdin☁](https://crowdin.com/)
 
 ## Editing - Formatting
 
