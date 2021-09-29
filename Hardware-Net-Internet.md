@@ -5,11 +5,17 @@
 ## Probes
 
 IP probe:  
-[Angry IP Scanner⊞⌘🐧](https://angryip.org/)
+[Angry IP Scanner⊞⌘🐧](https://angryip.org/),
+[IPAddress.com☁](https://www.ipaddress.com/),
+[WhatIsMyIPAddress.com's IP Lookup☁](https://whatismyipaddress.com/ip-lookup)
+
+IP lookup:  
+[Reverse IP Lookup](https://www.yougetsignal.com/tools/web-sites-on-web-server/)
 
 DNS probe:  
-[Dnsutils🐧](https://packages.debian.org/jessie/dnsutils)
-[Google's Dig☁](https://toolbox.googleapps.com/apps/dig/)
+[DNSdumpster.com☁](https://dnsdumpster.com/),
+[Dnsutils🐧](https://packages.debian.org/jessie/dnsutils),
+[Google's Dig☁](https://toolbox.googleapps.com/apps/dig/),
 [whatsmydns.net☁](https://www.whatsmydns.net/),
 [Google's Check MX☁](https://toolbox.googleapps.com/apps/checkmx/),
 [WhoDat⊞■](https://portableapps.com/apps/utilities/whodat-portable)
@@ -25,17 +31,17 @@ USB NIC
 ## Testing
 
 Speed test:  
+[Cloudflare Internet Speed Test☁](https://speed.cloudflare.com/),
 [DSLReports' Speed test☁](https://www.dslreports.com/speedtest),
 [SpeedTest☁](https://www.speedtest.net/)
-[DSLReports' Streams test☁](http://www.dslreports.com/tools/streamtest)
+[DSLReports' Streams test☁](http://www.dslreports.com/tools/streamtest),
+[LibreSpeed☁](https://librespeed.org/)
+[TestMy.net☁](https://testmy.net/)
 
 Bandwidth analysis:  
 [bandwhich⊞⌘🐧□](https://github.com/imsnif/bandwhich),
 [DSLReports' bandwidth calculator☁](http://www.dslreports.com/calculator),
 [DSLReports' Jitter/Ping test☁](https://www.dslreports.com/tools/pingtest)
-
-## Identity
-
 
 ## Blocking
 
@@ -52,6 +58,7 @@ Site status:
 
 Site probe:  
 [builtWith☁⇉](https://builtwith.com/),
+[DNSimple WHOIS Search☁](https://dnsimple.com/whois),
 [WhatRuns⇉](https://www.whatruns.com/),
 [WhoIsHostingThis☁](https://www.whoishostingthis.com/),
 [Whois Lookup☁](https://whois.domaintools.com/)

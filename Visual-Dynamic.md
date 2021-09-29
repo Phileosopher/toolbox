@@ -16,7 +16,9 @@ Desktop publishing:
 [Animockup☁](https://animockup.com/),
 [Cleanmock☁](https://cleanmock.com/),
 [Device Shots☁](https://deviceshots.com/),
+[Deviceful.js](https://deviceful.app/)
 [Devices from Facebook Design](https://design.facebook.com/toolsandresources/devices),
+[Free Mockups](https://www.ls.graphics/free-mockups),
 [morflax things☁](https://things.morflax.com/),
 [Screely☁](https://www.screely.com/),
 [Threed.io☁](https://threed.io/),

@@ -5,6 +5,9 @@
 Checklist:  
 [Toptal's Web Developer Checklist*](https://www.toptal.com/developers/webdevchecklist)
 
+JS tester:  
+[Java Tester Website's JavaScript Tester☁](https://javatester.org/javascript.html)
+
 ## Site Engine/CMS
 
 Static sites:  

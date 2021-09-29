@@ -63,6 +63,19 @@ Optimize images - lossy:
 [PngOptimizer⊞■🐧](https://psydk.org/pngoptimizer),
 [TinyPNG☁](https://tinypng.com/)
 
+## Image Conversion
+
+To SVG:  
+[Free SVG Converter](https://picsvg.com/),
+[Svgurt](https://svgurt.com/#/)
+
+BMP to SVG:  
+[Potrace](http://potrace.sourceforge.net/)
+
+SVG to JSX:  
+[SVG to JSX](https://omatsuri.app/svg-to-jsx),
+[svg2jsx](https://svg2jsx.com/)
+
 ## Validation
 
 Image comparison:  

@@ -80,8 +80,15 @@ Packet Analysis:
 [TCPDUMP/LIBPCAP🐧](https://www.tcpdump.org/),
 [Wireshark⊞■⌘](https://www.wireshark.org/)
 
-MAC Lookup:  
-[MAC_Find☁](http://coffer.com/mac_find/)
+OUI/MAC search:  
+[Wireshark's OUI Lookup Tool☁](https://www.wireshark.org/tools/oui-lookup.html),
+[IEEE's OUI Standards List*](http://standards-oui.ieee.org/oui/oui.txt)
+
+MAC address vendor search:  
+[MAC Address Lookup☁](https://www.macvendorlookup.com/),
+[MAC_Find☁](http://coffer.com/mac_find/),
+[MA:CV:en:do:rs☁](https://macvendors.com/),
+[WhatsMyIP.org's MAC Address Lookup☁](https://www.whatsmyip.org/mac-address-lookup/)
 
 WiFi:  
 [dot11Expert⊞](https://kcsoftwares.com/?dot11expert)
@@ -92,6 +99,9 @@ WiFi network QR code:
 ## L3 Network
 
 [See Hardware-Net-Internet.md for internet-based tools](https://github.com/Phileosopher/toolbox/blob/master/Hardware-Net-Internet.md)
+
+Outgoing port test:  
+[Outgoing Port Tester☁](http://52.47.209.216/)
 
 Router traffic analysis:  
 [MRTG (Multi Router Traffic Grapher)⊞⌘🐧](https://oss.oetiker.ch/mrtg/)

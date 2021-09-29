@@ -74,6 +74,9 @@ Favicons:
 App icons:  
 [App Icon Generator☁](https://appicon.co/)
 
+Icon management:  
+[Iconset⊞⌘](https://iconset.io/)
+
 QR codes:  
 [QR picture☁](https://www.qrpicture.com/)
 

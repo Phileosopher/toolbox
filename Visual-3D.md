@@ -25,6 +25,9 @@ Isometric models:
 [Isometric](https://isometric.online/),
 [Isometriclove](https://www.isometriclove.com/)
 
+Hands:  
+[Handz](https://www.handz.design/)
+
 ## Very Specific Needs
 
 Human models:  

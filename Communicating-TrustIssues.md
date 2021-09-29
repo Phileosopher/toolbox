@@ -63,9 +63,11 @@ Google email inspection:
 [GHunt](https://github.com/mxrch/GHunt)
 
 Short link scan:  
-[CheckShortURL☁](https://checkshorturl.com/)
+[CheckShortURL☁](https://checkshorturl.com/),
+[URL X-ray☁](https://urlxray.com/)
 
 Website verification:  
+[Domain Dossier☁](https://centralops.net/co/DomainDossier.aspx)
 [Norton Safe Web☁](https://safeweb.norton.com/),
 [URLVoid☁](https://www.urlvoid.com/),
 [Web of Trust](https://mywot.com/)

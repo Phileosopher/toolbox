@@ -41,6 +41,7 @@ Email/calendar/contacts:
 [Mozilla Thunderbird⊞🐧⌘■](https://www.thunderbird.net/)
 
 Quick files (WebRTC):  
+[Send☁](https://send.vis.ee/)
 [WEBWORMHOLE☁](https://webwormhole.io/)
 
 Large files:  

@@ -38,7 +38,8 @@ Automatic theme generation:
 ## General Visual Effects
 
 Animations:  
-[Animate.css*](https://animate.style/)
+[Animate.css*](https://animate.style/),
+[Bounce.js*](https://bouncejs.com/)
 
 Color filters:  
 [filters.css](https://bansal.io/filters-css)
@@ -85,7 +86,10 @@ Gradients:
 Gradients with hover effects:  
 [Colorion's Gradient Buttons*](https://gradientbuttons.colorion.co/)
 
-CSS grid generator:  
+Responsive grids:  
+[ungrid](https://chrisnager.github.io/ungrid/)
+
+Responsive grid generator:  
 [CSS Grid Generator☁](https://cssgrid-generator.netlify.app/),
 [Interactive CSS Grid Generator☁](https://grid.layoutit.com/)
 
@@ -102,6 +106,9 @@ Shadows:
 [brumm.af's SmoothShadows☁](https://brumm.af/shadows),
 [Keyframes.app's Animate☁](https://keyframes.app/shadows/),
 [Trendy CSS Text Shadows by Mixfont☁](https://www.mixfont.com/shadows)
+
+SVG animations:  
+[Vivus Instant☁](https://maxwellito.github.io/vivus-instant/)
 
 ## Testing/Debugging
 

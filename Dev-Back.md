@@ -22,6 +22,12 @@ Public-access APIs:
 Unofficial APIs:  
 [Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis)
 
+IP addresses:  
+[ipapi](https://ipapi.com/)
+
+Internet speed test:  
+[SpeedOf.Me](https://speedof.me/api.html)
+
 Weather:  
 [OpenWeatherMap API guide](https://openweathermap.org/guide)
 

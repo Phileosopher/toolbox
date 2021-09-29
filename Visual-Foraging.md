@@ -47,6 +47,9 @@
 [Unsplash](https://unsplash.com/),
 [Vector.me](https://vector.me/), [Visual Hunt](https://visualhunt.com/), [Visuals of Earth](https://visualsofearth.com/)
 
+PNGs:  
+[SeekPNG](https://www.seekpng.com/)
+
 Old photos:  
 [Artvee](https://artvee.com/),
 [Barnes Collection Online](https://collection.barnesfoundation.org/),
@@ -117,7 +120,8 @@ Emojis:
 
 Avatars:  
 [Avataaars (Sketch Library)](https://avataaars.com/),
-[Joe Schmoe](https://joeschmoe.io/)
+[Joe Schmoe](https://joeschmoe.io/),
+[PowerPeoplePlatform](https://powerpeopleplatform.com/)
 
 ## Logos
 
@@ -145,7 +149,7 @@ Avatars:
 
 [Absurd Design](https://absurd.design/), [Amigos Illustrations](https://amigos.blush.design/), [Avataaars](https://avataaars.com/),
 [Black Illustrations](https://www.blackillustrations.com/), [Bulbman](https://bulbman.art/),
-[Charco](https://www.karthiksrinivas.in/charco), [Control](https://control.rocks/),
+[Charco](https://www.karthiksrinivas.in/charco), [Control](https://control.rocks/), [Creative Veila](https://www.veila.me/freebies/scandinavian-houses-free-vector-images),
 [DrawKit](https://www.drawkit.io/), [Dash Illustrations](https://www.karthiksrinivas.in/dash), [Delesign's Free Illustrations](https://www.delesign.com/free-designs/graphics),
 [Freellustrations](https://www.freellustrations.com/), [Fresh Folk](https://fresh-folk.com/),
 [Getillustrations.com's Ghost Builder](https://getillustrations.com/illustration-pack/ghost-illustrations-builder), [Glaze](https://www.glazestock.com/),

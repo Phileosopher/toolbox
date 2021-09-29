@@ -31,13 +31,7 @@ Blacklist specific websites from web search:
 
 ## Websites
 
-Block scripts/ads:  
-[AdNauseam⇉](https://adnauseam.io/),
-[NoScript⇉](https://noscript.net/),
-[uBlock Origin⇉](https://github.com/gorhill/uBlock/)
-
-Block chat widgets:  
-[Hello, Goodbye⇉](https://hellogoodbye.app/)
+For privacy concerns, check [CySec-Privacy.md](https://github.com/Phileosopher/toolbox/blob/master/CySec-Privacy.md)
 
 Automatic reader mode:  
 [Automatic Reader View⇉](https://addons.mozilla.org/en-US/firefox/addon/automatic-reader-view/)
@@ -98,6 +92,9 @@ Site status (for when any code on the site changes):
 [Follow That Page☁](https://www.followthatpage.com/)
 
 ## Learning
+
+Related concepts:  
+[Learn Anything☁](https://learn-anything.xyz/)
 
 College education:  
 [Coursera☁](https://www.coursera.org/),

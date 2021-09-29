@@ -28,6 +28,7 @@ Color code reference:
 
 Random colors:  
 [Random Color Generator☁](https://commentpicker.com/random-color-generator.php),
+[Random Color Picker☁](https://www.webfx.com/web-design/random-color-picker/),
 [Random Hex Color Code Generator☁](https://www.random.org/colors/hex)
 
 ## Palettes

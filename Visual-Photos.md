@@ -5,7 +5,8 @@
 Animations:  
 [Blush(Figma/Sketch)☁⇉](https://blush.design/),
 [OpenToonz⊞⌘](https://opentoonz.github.io/e/),
-[Pencil2D Animation⊞■⌘🐧](https://www.pencil2d.org/)
+[Pencil2D Animation⊞■⌘🐧](https://www.pencil2d.org/),
+[SVGator](https://www.svgator.com/)
 
 Blob generator:  
 [MagicPattern's Doodle Backgrounds☁](https://www.magicpattern.design/tools/doodle-backgrounds)
@@ -58,3 +59,6 @@ Pixel art:
 
 XKCD-style Comics:  
 [Comix I/O☁](http://cmx.io/)
+
+Placeholder photos:  
+[BlurHash](https://blurha.sh/)
