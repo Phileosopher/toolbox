@@ -1,13 +1,31 @@
-# Software Development - Back-End: Database Management
+# Software Development - Back-End: Data Management
 
-SQL database engine:  
+## Planning
+
+Diagrams-as-code:  
+[Structurizr☁](https://structurizr.com/)
+
+## SQL databases
+
 [SQLite](https://sqlite.org/index.html)
+
+## Foraging
+
+Datasets:  
+[Dedolist](https://dedolist.com/),
+[Google Dataset Search](https://toolbox.google.com/datasetsearch)
+
+Food facts:  
+[Open Food Facts](https://openfoodfacts.org)
+
+Protein sequencing (e.g., DNA):  
+[UNCALLED(Python)](https://github.com/skovaka/UNCALLED)
 
 ## Prepping
 
 Cleaning:  
 [The Ultimate Guide to Data Cleaning*](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4),
-[Zotero⊞■⌘🐧⇉](https://www.zotero.org/)
+[Zotero⊞Inspiration■⌘🐧⇉](https://www.zotero.org/)
 
 ## 2D Data
 

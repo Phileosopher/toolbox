@@ -39,3 +39,7 @@ Phone:
 
 Repair clay/glue:  
 [Sugru](https://sugru.com/)
+
+## Purchasing
+
+[Geizhals Preisvergleich☁](https://geizhals.eu/)

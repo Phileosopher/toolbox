@@ -1,39 +1,43 @@
-# Software Development - Front-End
+# Visual Front-End Design: Web-Specific
 
-Checklist:  
-[Front-End Checklist☁](https://frontendchecklist.io/),
+## UI Inspiration/Learning
+
+[Collect UI*](https://collectui.com/),
+[GoodUI*](https://goodui.org/),
+[Landingfolio*](https://www.landingfolio.com/),
+[One Page Love](https://onepagelove.com/),
+[Page Flows*](https://pageflows.com/),
+[Pttrns*](https://pttrns.com/),
+[Screenlane*](https://screenlane.com/),
+[Siteinspire*](https://www.siteinspire.com/),
+[The Animated Web*](https://theanimatedweb.com/),
+[UI-Patterns*](http://ui-patterns.com/),
+[UI Design Daily*](https://uidesigndaily.com/),
+[UI Garage*](https://uigarage.net/),
+[UI Sources*](https://www.uisources.com/)
+
+Practice:  
+[Frontend Practice☁](https://www.frontendpractice.com/)
+
+## IDEs
+
+[CodePen☁](https://codepen.io/),
+[CodeSandbox☁](https://codesandbox.io/)
+[JSFiddle☁](https://jsfiddle.net/)
+[repl.it☁](https://repl.it/)
+
+Browser:  
+[Responsively⊞⌘🐧](https://responsively.app/)
 
 ## Frameworks/Engines
-
-2D Physics:  
-[PhysicsEditor](https://www.codeandweb.com/physicseditor)
 
 Cross-platform webapps:  
 [Electron](https://www.electronjs.org/),
 [NW.js](https://nwjs.io/)
 
-CSS:  
-[Bulma](https://bulma.io/),
-[Tailwind CSS](https://tailwindcss.com/)
-
-PHP:  
-[Laravel](https://laravel.com/)
-
-## CSS Themes
-
-[Bootstrap](https://getbootstrap.com/)
-
-CSS themes/templates:  
-[Bootswatch■](https://bootswatch.com/),
-[Creative Tim's Free Templates■](https://www.creative-tim.com/templates/free),
-[Bootstrap 4 Cheat Sheet*](https://hackerthemes.com/bootstrap-cheatsheet/)
-
-Automatic theme generation:  
-[Bootstrap Magic☁](https://pikock.github.io/bootstrap-magic/)
-
 ## Usability Testing
 
-NOTE: Check out Hardware-Net, L6-L7
+Also check out [Hardware-Net.md, Layers 6-7](https://github.com/Phileosopher/toolbox/blob/master/Hardware-Net.md)
 
 Color contrast test:  
 [Check My Colours☁](http://www.checkmycolours.com/),
@@ -70,10 +74,16 @@ Favicons:
 App icons:  
 [App Icon Generator☁](https://appicon.co/)
 
+Icon management:  
+[Iconset⊞⌘](https://iconset.io/)
+
 QR codes:  
 [QR picture☁](https://www.qrpicture.com/)
 
 ## Social Media
+
+Avatars:  
+[Gravatar☁](https://en.gravatar.com/)
 
 Twitter:  
 [Twitter's Card Validator☁](https://cards-dev.twitter.com/validator)
@@ -86,4 +96,3 @@ LinkedIn:
 
 SERP (search engine results page) preview:  
 [Portent's SERP Snippet Preview☁](https://www.portent.com/serp-preview-tool/)
-

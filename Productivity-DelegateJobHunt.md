@@ -15,6 +15,9 @@ Web profile pages:
 Publishing profile:  
 [Books2Read.com☁](https://books2read.com/)
 
+Volunteers:  
+[Catchafire☁](https://www.catchafire.org)
+
 ## Freelancers
 
 [Andela☁](https://andela.com/),
@@ -30,8 +33,18 @@ Publishing profile:
 Entire teams at once:  
 [Huddle☁](https://www.huddle.works/)
 
-Home service contractors:  
-[Angi☁](https://www.angi.com/)
+## Creative Work
+
+[Etsy☁](https://www.etsy.com/),
+[Flexiple☁](https://flexiple.com/)
+
+Graphic designers:  
+[Design Pickle☁](https://designpickle.com/),
+[Manypixels☁](https://www.manypixels.co/)
+
+Speakers for audio books:  
+[ACX☁](https://www.acx.com/),
+[Findaway☁](https://findaway.com/authors/)
 
 Book publishing:  
 [Draft2Digital☁](https://draft2digital.com/),
@@ -40,21 +53,42 @@ Book publishing:
 [Lulu☁](https://www.lulu.com/),
 [Smashwords☁](https://www.smashwords.com/)
 
+## Creative Work: Writing
+
+Copywriting:  
+[Copify UK☁](https://uk.copify.com/)
+
+Localization:  
+[Crowdin☁](https://crowdin.com/)
+
+Content generation:  
+[ContentFly☁](https://contentfly.com/)
+
+Journalism:  
+[Cision's Help A Reporter☁](https://www.helpareporter.com/)
+
+Book reviews:  
+[IndieView's Indie Book Reviewers List☁](https://www.theindieview.com/indie-reviewers/),
+[Midwest Book Review☁](https://www.midwestbookreview.com/get_rev.htm),
+[Self-Publishing Review☁](https://www.selfpublishingreview.com/)
+
+Handwritten messages:  
+[Handwriting.io☁](https://handwriting.io/)
+
+## In-Person Work
+
 Caretakers:  
 [Care.com☁](https://www.care.com/)
-
-Creatives:  
-[Etsy☁](https://www.etsy.com/),
-[Flexiple☁](https://flexiple.com/)
-
-Educators:  
-[Learn 4 Good☁](https://www.learn4good.com/)
 
 Fast food deliveries:  
 [DoorDash☁](https://www.doordash.com/)
 
-Handwritten messages:  
-[Handwriting.io☁](https://handwriting.io/)
+Home service contractors:  
+[Angi☁](https://www.angi.com/)
+
+## Technology-specific
+
+[Dice☁](https://www.dice.com/)
 
 Software development:  
 [Pesto☁](https://pesto.tech/),
@@ -64,33 +98,22 @@ Software development:
 Software development - Shopify-specific:  
 [Storetasker](https://www.storetasker.com/)
 
-Speakers for audio books:  
-[ACX☁](https://www.acx.com/),
-[Findaway☁](https://findaway.com/authors/)
-
-Volunteers:  
-[Catchafire☁](https://www.catchaPublishing profile:  
-[Books2Read.com☁](https://books2read.com/)
+## Specific Expertise
 
 [Cision's ProfNet☁](https://profnet.prnewswire.com/profnethome/what-is-profnet.aspx),
 [Coursera's Expert Network☁](https://experts.coursera.org/),
 [Expertise Finder☁](https://expertisefinder.com/)
 
-Book reviews:  
-[IndieView's Indie Book Reviewers List☁](https://www.theindieview.com/indie-reviewers/),
-[Midwest Book Review☁](https://www.midwestbookreview.com/get_rev.htm),
-[Self-Publishing Review☁](https://www.selfpublishingreview.com/)
-
-Self-help advice:  
-[Self-Growth.com's Expert Search☁](https://www.selfgrowth.com/experts.html)
-
-Journalism-related:  
-[Cision's Help A Reporter☁](https://www.helpareporter.com/)
-
-Financial advice:  
-[NAPFA's Newsroom☁](https://www.napfa.org/newsroom)
-
 Expert witnesses:  
 [Expert Institute☁](https://www.expertinstitute.com/)
 [ForensisGroup☁](https://www.forensisgroup.com/)
 [JurisPro Expert Witness Directory☁](https://www.jurispro.com/)
+
+Self-help advice:  
+[Self-Growth.com's Expert Search☁](https://www.selfgrowth.com/experts.html)
+
+Educators:  
+[Learn 4 Good☁](https://www.learn4good.com/)
+
+Financial advice:  
+[NAPFA's Newsroom☁](https://www.napfa.org/newsroom)

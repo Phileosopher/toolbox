@@ -58,7 +58,8 @@ Remove old Java versions:
 ## Backup/Sync
 
 File synchronization:  
-[FreeFileSync⊞⌘🐧](https://freefilesync.org/)
+[FreeFileSync⊞⌘🐧](https://freefilesync.org/),
+[Syncthing⊞⌘🐧🤖](https://syncthing.net/)
 
 Folder synchronization:  
 [MEGA☁⊞■⌘🐧🍎🤖□](https://mega.nz/),

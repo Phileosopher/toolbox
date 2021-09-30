@@ -15,6 +15,10 @@
 
 ## L1 Physical - Mobile
 
+Mobile bandwidth reference:  
+[FCC Online Table of Frequency Allocations*](https://transition.fcc.gov/oet/spectrum/table/fcctable.pdf),
+[United States Frequency Allocation Chart*](https://www.ntia.doc.gov/page/2011/united-states-frequency-allocation-chart)
+
 Mobile Networks:  
 [OpenSignal🍎🤖](https://www.opensignal.com/apps),
 [SCADACore's Cell Tower Map - Canada](https://www.scadacore.com/tools/rf-path/cell-tower-map-canada/),
@@ -76,74 +80,34 @@ Packet Analysis:
 [TCPDUMP/LIBPCAP🐧](https://www.tcpdump.org/),
 [Wireshark⊞■⌘](https://www.wireshark.org/)
 
-MAC Lookup:  
-[MAC_Find☁](http://coffer.com/mac_find/)
+OUI/MAC search:  
+[Wireshark's OUI Lookup Tool☁](https://www.wireshark.org/tools/oui-lookup.html),
+[IEEE's OUI Standards List*](http://standards-oui.ieee.org/oui/oui.txt)
+
+MAC address vendor search:  
+[MAC Address Lookup☁](https://www.macvendorlookup.com/),
+[MAC_Find☁](http://coffer.com/mac_find/),
+[MA:CV:en:do:rs☁](https://macvendors.com/),
+[WhatsMyIP.org's MAC Address Lookup☁](https://www.whatsmyip.org/mac-address-lookup/)
 
 WiFi:  
 [dot11Expert⊞](https://kcsoftwares.com/?dot11expert)
 
+WiFi network QR code:  
+[WiFi Card☁](https://wificard.io/)
+
 ## L3 Network
 
-IP probe:  
-[Angry IP Scanner⊞⌘🐧](https://angryip.org/)
+[See Hardware-Net-Internet.md for internet-based tools](https://github.com/Phileosopher/toolbox/blob/master/Hardware-Net-Internet.md)
 
-tracert/ping GUI:
-[WinMTR⊞■🐧](https://www.bitwizard.nl/mtr/)
+Outgoing port test:  
+[Outgoing Port Tester☁](http://52.47.209.216/)
 
-Network discovery:  
-[Nmap/Zenmap⊞⌘🐧□](https://nmap.org/)
+Router traffic analysis:  
+[MRTG (Multi Router Traffic Grapher)⊞⌘🐧](https://oss.oetiker.ch/mrtg/)
 
 IoT server:  
 [Home Assistant⊞⌘🐧🍎🤖](https://www.home-assistant.io/)
-
-USB NIC
-
-## L3 Network: Internet - Connecting
-
-[Complete Internet Repair⊞](https://www.rizonesoft.com/downloads/complete-internet-repair/)
-
-DNS probe:  
-[Dnsutils🐧](https://packages.debian.org/jessie/dnsutils)
-[Google's Dig☁](https://toolbox.googleapps.com/apps/dig/)
-[whatsmydns.net☁](https://www.whatsmydns.net/),
-[Google's Check MX☁](https://toolbox.googleapps.com/apps/checkmx/),
-[WhoDat⊞■](https://portableapps.com/apps/utilities/whodat-portable)
-
-HOSTS file:  
-[MVPs HOSTS file*](https://winhelp2002.mvps.org/hosts.htm)
-
-Speed test:  
-[DSLReports' Speed test☁](https://www.dslreports.com/speedtest),
-[SpeedTest☁](https://www.speedtest.net/)
-[DSLReports' Streams test☁](http://www.dslreports.com/tools/streamtest)
-
-Bandwidth analysis:  
-[bandwhich⊞⌘🐧□](https://github.com/imsnif/bandwhich),
-[DSLReports' bandwidth calculator☁](http://www.dslreports.com/calculator),
-[DSLReports' Jitter/Ping test☁](https://www.dslreports.com/tools/pingtest)
-
-IP/location cross-reference:  
-[Where is my IP location?☁](https://www.iplocation.net/),
-[DSLReports' What is my IP address?☁](http://www.dslreports.com/whatismyip),
-[WhatIsMyIPAddress☁](https://whatismyipaddress.com/),
-[WhatIsMyIPAddress.com's IP Lookup☁](https://whatismyipaddress.com/ip-lookup)
-
-## L3 Network: Internet - Specific Sites
-
-Site status:  
-[Brot & Games' ciao](https://brotandgames.com/ciao/),
-[Down For Everyone Or Just Me☁](https://downforeveryoneorjustme.com/),
-[downdetector.com☁](https://downdetector.com/),
-[Website Down or Not?☁](https://www.websiteplanet.com/webtools/down-or-not/)
-
-Site probe:  
-[builtWith☁⇉](https://builtwith.com/),
-[WhatRuns⇉](https://www.whatruns.com/),
-[WhoIsHostingThis☁](https://www.whoishostingthis.com/),
-[Whois Lookup☁](https://whois.domaintools.com/)
-
-Traffic analysis:  
-[MRTG (Multi Router Traffic Grapher)⊞⌘🐧](https://oss.oetiker.ch/mrtg/)
 
 ## L4 Transport
 

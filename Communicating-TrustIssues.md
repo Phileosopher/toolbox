@@ -6,16 +6,13 @@ Deepfake detection:
 [Amber🍎](https://ambervideo.co/),
 [Sensity☁](https://platform.sensity.ai/deepfake-detection)
 
-Machine-learning-generated photos:  
-[This Person Does Not Exist☁](https://thispersondoesnotexist.com/)
-
-Machine-learning-generated resume:  
-[This resume does not exist☁](https://thisresumedoesnotexist.com)
-
 Private web hosting:  
 [Haven](https://havenweb.org/)
 
 ## Messaging
+
+Reverse phone lookup:  
+[NumLookup☁](https://www.numlookup.com/)
 
 General sensitive information:  
 [Bitwarden Send⊞⌘🐧🍎🤖](https://bitwarden.com/products/send/)
@@ -66,9 +63,11 @@ Google email inspection:
 [GHunt](https://github.com/mxrch/GHunt)
 
 Short link scan:  
-[CheckShortURL☁](https://checkshorturl.com/)
+[CheckShortURL☁](https://checkshorturl.com/),
+[URL X-ray☁](https://urlxray.com/)
 
 Website verification:  
+[Domain Dossier☁](https://centralops.net/co/DomainDossier.aspx)
 [Norton Safe Web☁](https://safeweb.norton.com/),
 [URLVoid☁](https://www.urlvoid.com/),
 [Web of Trust](https://mywot.com/)

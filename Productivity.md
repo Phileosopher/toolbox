@@ -1,13 +1,6 @@
 # Productivity
 
-## Idea-Gathering
-
-Flowcharts:  
-[diagrams.net☁⊞⌘🐧](https://www.diagrams.net/),
-[Lucidchart☁](https://www.lucidchart.com/)
-
-Hierarchical spreadsheets:  
-[TreeSheets⊞⌘🐧](http://strlen.com/treesheets/)
+For diagramming and charts, look at [Visual-Data.md](https://github.com/Phileosopher/toolbox/Visual-Data.md).
 
 Mind mapping/outlining:  
 [Bubbl.us☁](https://bubbl.us/)
@@ -15,6 +8,9 @@ Mind mapping/outlining:
 [FreeMind⊞⌘🐧](http://freemind.sourceforge.net/wiki/index.php/Main_Page),
 [Minder🐧](https://github.com/phase1geo/Minder),
 [Scapple⊞⌘](https://www.literatureandlatte.com/scapple/overview),
+
+Hierarchical spreadsheets:  
+[TreeSheets⊞⌘🐧](http://strlen.com/treesheets/)
 
 Reference images/visual boards:  
 [Eagle⊞⌘](https://en.eagle.cool/),

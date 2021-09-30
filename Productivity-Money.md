@@ -51,6 +51,9 @@ Grocery shopping lists:
 
 [Product Chart☁](https://www.productchart.com/)
 
+Amazon price tracking:  
+[camelcamelcamel.com](https://camelcamelcamel.com/)
+
 Durable products:  
 [Buy For Life☁](https://www.buyforlife.com/)
 
@@ -143,3 +146,9 @@ Charities/NPO:
 
 Financial institutions:  
 [FINRA☁](https://www.finra.org/)
+
+Whale movements:  
+[Unusual Whales☁](https://unusualwhales.com/)
+
+Blockchain movements:  
+[Blockchain Whispers](https://blockchainwhispers.com/)

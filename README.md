@@ -4,13 +4,13 @@ I've made this toolbox to accomplish several things.
 
 ## 1. Convenience
 
-This is to make a quick-reference, at least for myself.
+This is to make a quick-reference, a type of link-based [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book).
 
 Since we don't write essays in machine code, _everyone_ exploits an abstraction when using computers. An OS is the equivalent of a vastly complicated multitool, but with modular pieces with use cases that range from a rocket ship to a chainsaw.
 
 With the web, most people will download something, use it, then promptly forget about it. Then, months or years later, they'll rediscover it while researching a solution, then promptly forget it again. Repeat.
 
-So, this thing makes my life convenient.
+So, this makes my life convenient.
 
 ## 2. Awareness
 
@@ -47,10 +47,10 @@ I've broken everything into malleable groupings, since there are *many* things t
 - Communicating: to communicate with other people, directly or indirectly
 - CySec: to protect from bad things happening to computers or information
 - Hardware: to make or manage physical things, which includes computer hardware and OS-level things
-- Dev: to broadly make or manage computer code
 - Visual: to visually design or adapt things which contain some intended aesthetic
 - Audio: to work with sound for some intended aesthetic
 - Text: to work with language for some intended aesthetic
+- Dev: to broadly make or manage computer code, which is only referring to back-end because front-end is merely code-based visual design
 - Productivity: to broadly streamline doing any of the above
 
 ## What it needs

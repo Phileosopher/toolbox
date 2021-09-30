@@ -2,6 +2,7 @@
 
 Link shortener:  
 [bitly☁](https://bitly.com/),
+[Short URL☁](https://www.shorturl.at/),
 [TinyURL☁](https://tinyurl.com)
 
 Language translation:  
@@ -40,6 +41,7 @@ Email/calendar/contacts:
 [Mozilla Thunderbird⊞🐧⌘■](https://www.thunderbird.net/)
 
 Quick files (WebRTC):  
+[Send☁](https://send.vis.ee/)
 [WEBWORMHOLE☁](https://webwormhole.io/)
 
 Large files:  

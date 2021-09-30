@@ -31,13 +31,10 @@ Blacklist specific websites from web search:
 
 ## Websites
 
-Block scripts/ads:  
-[NoScript⇉](https://noscript.net/),
-[uBlock Origin⇉](https://github.com/gorhill/uBlock/),
-[AdNauseam⇉](https://adnauseam.io/)
+For privacy concerns, check [CySec-Privacy.md](https://github.com/Phileosopher/toolbox/blob/master/CySec-Privacy.md)
 
-Block chat widgets:  
-[Hello, Goodbye⇉](https://hellogoodbye.app/)
+Automatic reader mode:  
+[Automatic Reader View⇉](https://addons.mozilla.org/en-US/firefox/addon/automatic-reader-view/)
 
 ## Downloading
 
@@ -96,6 +93,9 @@ Site status (for when any code on the site changes):
 
 ## Learning
 
+Related concepts:  
+[Learn Anything☁](https://learn-anything.xyz/)
+
 College education:  
 [Coursera☁](https://www.coursera.org/),
 [Western Governors University☁](https://www.wgu.edu/)
@@ -114,6 +114,15 @@ Languages:
 
 Machine learning research papers:  
 [OpenReview☁](https://openreview.net/)
+
+Public domain audio books:  
+[LibriVox☁*](https://librivox.org/)
+
+Visual design:  
+[Canva's Design School☁](https://designschool.canva.com/),
+[Degreeless.design☁](https://www.degreeless.design/),
+[Hack Design☁](https://hackdesign.org/),
+[Learn UI Design☁](https://learnui.design/)
 
 ## Media Players
 

@@ -9,6 +9,9 @@ Windows Search alternative:
 Drive letter management:  
 [DriveLetterView⊞](https://www.nirsoft.net/utils/drive_letter_view.html)
 
+Event log consolidation:  
+[SolarWinds' Event Log Consolidator⊞](https://www.solarwinds.com/free-tools/event-log-consolidator)
+
 ## File/Folder Issues
 
 Special folder management:  
@@ -28,6 +31,10 @@ File type management:
 
 "Open With" dialog box management:  
 [OpenWithView⊞](https://www.nirsoft.net/utils/open_with_view.html)
+
+Active Directory permissions:  
+[SolarWinds' Access Rights Auditor⊞](https://www.solarwinds.com/free-tools/access-rights-auditor),
+[SolarWinds' Permissions Analyzer for Active Directory⊞](https://www.solarwinds.com/free-tools/permissions-analyzer-for-active-directory)
 
 ## Process Issues
 

@@ -1,17 +1,25 @@
-# Visual Design: Data Visualizations
+# Visual Design: Data
 
-## Chart/Graph Generators
+## Diagrams
 
-Diagrams/flowcharts:  
-[PlantUML□](https://plantuml.com/),
-[SimpleDiagrams☁](https://www.simplediagrams.com/),
+[diagrams.net/draw.io☁⊞⌘🐧](https://www.diagrams.net/) (or [its GitHub source](https://github.com/jgraph/drawio)),
+[Ilograph⊞⌘🐧](https://www.ilograph.com/),
+[Whimsical☁](https://whimsical.com/),
 [yEd Live⊞⌘🐧☁](https://www.yworks.com/products/yed)
 
-Flowcharts via indentation:  
-[flowchart.fun☁](https://flowchart.fun/)
+UML sequence diagrams:  
+[Diagram.codes☁⊞⌘](https://www.diagram.codes/),
+[flowchart.fun☁](https://flowchart.fun/),
+[js-sequence-diagrams☁](https://bramp.github.io/js-sequence-diagrams/),
+[PlantUML□](https://plantuml.com/),
+[SequenceDiagram.org☁](https://sequencediagram.org/),
+[swimlanes.io☁](https://swimlanes.io/),
+[WebSequenceDiagrams☁](https://www.websequencediagrams.com/)
 
-Graphs:  
-[Graphviz⊞⌘🐧](https://graphviz.org/)
+Entity-relationship diagrams:  
+[dbdiagram.io☁](https://dbdiagram.io/home)
+
+## Chart/Graph Generators
 
 Infographics:  
 [Infogram☁](https://infogram.com/),
@@ -23,11 +31,6 @@ Timelines and time series:
 
 Word clouds:  
 [WordClouds.com☁](https://www.wordclouds.com/)
-
-## Chart/Graph Styles
-
-XKCD style:  
-[Chart.xkcd](https://github.com/timqian/chart.xkcd)
 
 ## Large-Scale Data Visualizations
 

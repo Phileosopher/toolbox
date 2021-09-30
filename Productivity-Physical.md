@@ -35,6 +35,9 @@ Travel guides:
 Light pollution:  
 [Light pollution map☁](https://www.lightpollutionmap.info/)
 
+Bird detection (by sound):  
+[BirdNET☁🍎🤖](https://birdnet.cornell.edu/)
+
 ## Wellness
 
 Memory:  
