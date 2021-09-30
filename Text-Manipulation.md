@@ -11,6 +11,9 @@ Editor:
 EPUB editor:  
 [Sigil⊞■⌘🐧](https://sigil-ebook.com/)
 
+PDF differences:  
+[PDF Compare☁](https://copyleaks.com/text-compare/compare-pdf-files)
+
 ## OCR (Optical Character Recognition)
 
 [Online OCR☁](https://www.onlineocr.net/),

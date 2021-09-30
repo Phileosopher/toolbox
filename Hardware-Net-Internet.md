@@ -1,6 +1,6 @@
 # Hardware: Networks - Internet-Specific
 
-[Complete Internet Repair⊞](https://www.rizonesoft.com/downloads/complete-internet-repair/)
+[Complete Internet Repair⊞■](https://www.rizonesoft.com/downloads/complete-internet-repair/)
 
 ## Probes
 

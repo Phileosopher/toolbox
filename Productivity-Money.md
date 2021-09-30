@@ -11,6 +11,7 @@ Banking for teens:
 ## Accounting/ERP/CRM
 
 Accounting all-in-one:  
+[GNU Accounting Utilities🐧](https://www.gnu.org/software/acct/),
 [Wave Financial☁](https://www.waveapps.com)
 
 ERP/CRM:  

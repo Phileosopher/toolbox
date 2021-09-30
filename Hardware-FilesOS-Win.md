@@ -74,10 +74,13 @@ Installation media:
 
 Software update:  
 [Ninite⊞](https://ninite.com/),
-[SUMo⊞](https://kcsoftwares.com/?sumo)
+[SUMo⊞■](https://kcsoftwares.com/?sumo)
 
 Driver update:  
-[DUMo⊞](https://kcsoftwares.com/?dumo)
+[DUMo⊞■](https://kcsoftwares.com/?dumo)
+
+.NET framework status:  
+[dotNETInspector⊞■](https://firedancer-software.com/software/dotnetinspector/)
 
 Update history:  
 [WinUpdatesView⊞](https://www.nirsoft.net/utils/windows_updates_history_viewer.html)

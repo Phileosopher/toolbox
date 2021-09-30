@@ -28,7 +28,8 @@ File conversion:
 [Convertio☁](https://convertio.co/)
 [Online-Convert.com☁](https://www.online-convert.com/)
 
-ISO Mounting:  
+Disk image (e.g., ISO) mounting:  
+[Brasero🐧](https://wiki.gnome.org/Apps/Brasero),
 [WinCDEmu⊞■](http://wincdemu.sysprogs.org/)
 
 Batch renaming:  
@@ -58,6 +59,9 @@ Specific file information:
 Metadata analysis:  
 [MediaInfo⊞■⌘🐧🍎🤖](https://mediaarea.net/en/MediaInfo),
 [Get-Metadata.com☁](https://www.get-metadata.com/)
+
+CHM(winhelp) viewer:  
+[kchmviewer⊞■🐧](https://github.com/gyunaev/kchmviewer)
 
 ## File Analysis - Multiple
 
@@ -144,10 +148,6 @@ Split peripheral use on same device:
 
 BIN to ISO converter:  
 [WinBin2Iso⊞](https://www.softwareok.com/?seite=Freeware/WinBin2Iso)
-
-Mount disk images:  
-[Brasero🐧](https://wiki.gnome.org/Apps/Brasero),
-[WinCDEmu⊞](https://wincdemu.sysprogs.org/)
 
 Portable apps:  
 [PortableApps.com⊞■](https://portableapps.com/)

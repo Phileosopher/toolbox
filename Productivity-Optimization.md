@@ -65,7 +65,8 @@ Automated actions:
 
 Clipboard management:  
 [Clipboard PRO🍎](https://clipboardpro.app/),
-[Clipboardic⊞](https://www.nirsoft.net/utils/clipboardic.html)
+[Clipboardic⊞](https://www.nirsoft.net/utils/clipboardic.html),
+[Ditto⊞■](https://ditto-cp.sourceforge.io/)
 
 Context menu - New files:  
 [ShellMenuNew⊞](https://www.nirsoft.net/utils/shell_menu_new.html)
