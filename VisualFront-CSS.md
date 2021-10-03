@@ -11,8 +11,8 @@ CSS/HTML Themes/Templates:
 [HTML5 UP!](https://html5up.net/),
 
 Bootstrap Themes/templates:  
-[Bootswatch■](https://bootswatch.com/),
-[Creative Tim's Free Templates■](https://www.creative-tim.com/templates/free),
+[Bootswatch](https://bootswatch.com/),
+[Creative Tim's Free Templates](https://www.creative-tim.com/templates/free),
 [Material Design for Bootstrap 5 & 4](https://mdbootstrap.com/)
 
 Tailwind components:  

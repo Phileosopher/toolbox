@@ -32,6 +32,14 @@ Simulations:
 Flight simulation:  
 [FlightGear⊞⌘🐧](https://www.flightgear.org/)
 
+Electrical design:  
+[Electric🐧](https://www.gnu.org/software/electric/)
+
+Electronic design:  
+[Coriolis VLSI CAD Tools](http://coriolis.lip6.fr/),
+[GNU Archimedes](https://www.gnu.org/software/archimedes/),
+[Luna](https://www.asicsforthemasses.com/)
+
 Circuit simulator:  
 [Circuitjs.html☁](https://www.falstad.com/circuit/circuitjs.html),
 [CircuitLab☁](https://www.circuitlab.com/)

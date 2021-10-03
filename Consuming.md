@@ -163,6 +163,9 @@ Internet bookmarks:
 Decentralized music server:  
 [Funkwhale](https://funkwhale.audio/)
 
+Podcast management:  
+[gpodder.net⊞■⌘🐧🍎🤖⇉☁](https://gpodder.net/)
+
 ## Media Issues
 
 Media codecs:  

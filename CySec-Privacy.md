@@ -140,3 +140,8 @@ Photo IDs:
 
 Automated legal services:  
 [DoNotPay](https://donotpay.com/)
+
+## In-Person
+
+Hide windows:  
+[Clicky Gone⊞■](http://clickygone.sourceforge.net/)
