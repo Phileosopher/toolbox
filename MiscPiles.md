@@ -2,6 +2,10 @@
 
 Because hoarding is a mental illness...
 
+Dev things:  
+[awesome](https://github.com/sindresorhus/awesome),
+[LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+
 Mostly based on design:  
 [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools),
 [Nodesign.dev](https://nodesign.dev/),
