@@ -91,6 +91,8 @@ Scam reporting:
 
 ## With Apple
 
+[Apple Censorship☁](https://applecensorship.com/)
+
 Bootloader:  
 [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
 
@@ -103,6 +105,9 @@ App store:
 [degoogle☁](https://degoogle.jmoore.dev/),
 [No More Google☁](https://nomoregoogle.com/),
 [Bloom☁](https://bloom.sh/)
+
+FLoC test:  
+[Am I FLoCed?☁](https://amifloced.org/)
 
 APK files:  
 [APK-DL☁](https://apk-dl.com/),

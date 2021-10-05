@@ -90,15 +90,30 @@ Whale movements:
 Blockchain movements:  
 [Blockchain Whispers](https://blockchainwhispers.com/)
 
-## Consumer Goods - Comparison/Shopping
+## Consumer Goods - Comparison/Tracking
 
 [Product Chart☁](https://www.productchart.com/)
 
-Amazon price tracking:  
-[camelcamelcamel.com](https://camelcamelcamel.com/)
+Price tracking:  
+[Slice☁](https://www.slice.com/)
+
+Price tracking - Amazon:  
+[camelcamelcamel.com☁](https://camelcamelcamel.com/)
+
+Healthcare comparison:  
+[Clear Health Costs☁](https://clearhealthcosts.com/),
+[Healthcare Bluebook☁](https://www.healthcarebluebook.com/explore-home/)
+
+## Consumer Goods - Shopping
+
+Higher-quality products:  
+[Buy For Life☁](https://www.buyforlife.com/)
 
 Durable products:  
 [Buy For Life☁](https://www.buyforlife.com/)
+
+Online auctions - government liquidations:  
+[Government Surplus Auctions*](https://www.govdeals.com/)
 
 Telecom:  
 [Allconnect.com☁](https://www.allconnect.com/)
@@ -106,6 +121,9 @@ Telecom:
 Autos:  
 [CARFAX☁](https://www.carfax.com/),
 [Kelley Blue Book☁](https://www.kbb.com/)
+
+Books:  
+[Bookshop☁](https://bookshop.org/)
 
 Computer games:  
 [Razer Game Deals⊞☁](https://deals.razer.com/)
@@ -120,22 +138,9 @@ Fuel:
 Houses:  
 [Zillow☁](https://www.zillow.com/)
 
-Price tracking - Amazon:  
-[camelcamelcamel.com☁](https://camelcamelcamel.com/)
-
-Price tracking - healthcare:  
-[Clear Health Costs☁](https://clearhealthcosts.com/),
-[Healthcare Bluebook☁](https://www.healthcarebluebook.com/explore-home/)
-
-Product tracking:  
-[Slice☁](https://www.slice.com/)
-
 Classified ads:  
 [craigslist☁](https://craigslist.org/),
 [OfferUp☁🍎🤖](https://offerup.com/)
-
-Online auctions - government liquidations:  
-[Government Surplus Auctions*](https://www.govdeals.com/)
 
 Church supplies:  
 [Churchsupplier☁](https://www.churchsupplier.com/)
@@ -159,3 +164,7 @@ Restaurants:
 Rebates:  
 [Mr. Rebates☁](https://mrrebates.com/),
 [Rakuten⇉](https://www.rakuten.com/)
+
+## Consumer Goods - Repairing
+
+[Fix-It Club☁](https://fixitclub.com/)
