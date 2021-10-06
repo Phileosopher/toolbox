@@ -1,24 +1,5 @@
 # Cybersecurity
 
-## Web Anonymity
-
-VPN:  
-[WireGuard⊞⌘🐧🍎🤖](https://www.wireguard.com/),
-[1.1.1.1(built on WireGuard⊞⌘🍎🤖)](https://cloudflarewarp.com/)
-
-Web browser:  
-[Tor Browser⊞⌘🐧🤖](https://www.torproject.org/)
-
-Browser fingerprint:  
-[AmIUnique☁](https://amiunique.org/),
-[Google's Browserinfo☁](https://toolbox.googleapps.com/apps/browserinfo/),
-
-Email breach search:  
-[have i been pwned?☁](https://haveibeenpwned.com/)
-
-SMS breach notifications:  
-[Okey Monitor☁](https://okeymonitor.com/)
-
 ## Virus Scans
 
 Malware scan:  
