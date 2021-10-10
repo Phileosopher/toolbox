@@ -81,7 +81,10 @@ Publications generally excluded from American mainstream media:
 
 Journalistic investigation:  
 [OCCRP Aleph☁](https://aleph.occrp.org/),
+[Poliscoops☁](https://poliscoops.eu/),
+[ProCon.org](https://www.procon.org/),
 [WikiLeaks☁](https://wikileaks.org/)
+
 
 ## Word Processing
 

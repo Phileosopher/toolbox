@@ -157,10 +157,13 @@ Music:
 Ebooks:  
 [calibre⊞■⌘🐧🍎🤖](https://calibre-ebook.com/)
 
+Books:  
+[Inventaire☁](https://inventaire.io/)
+
 Internet bookmarks:  
 [Every bookmark manager ever made*](https://bookmarkos.com/every-bookmark-manager-ever-made)
 
-Decentralized music server:  
+Music server:  
 [Funkwhale](https://funkwhale.audio/)
 
 Podcast management:  

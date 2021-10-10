@@ -11,6 +11,9 @@ Hashtags:
 Website share links:  
 [Free Share Link Generator☁](https://www.websiteplanet.com/webtools/sharelink/)
 
+Multiple link sharing:  
+[Capsulelink☁](https://capsulelink.com/)
+
 Auto-posts:  
 [Buffer☁](https://buffer.com/),
 [Hootsuite☁](https://hootsuite.com/)

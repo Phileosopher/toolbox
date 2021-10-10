@@ -16,6 +16,7 @@ CPU/motherboard:
 
 RAM:  
 [MemTest86⊞■🐧](https://www.memtest86.com/),
+[QuickMemoryTestOK⊞](https://softwareok.com/?seite=Microsoft%2FQuickMemoryTestOK),
 [RAMMap⊞■](https://docs.microsoft.com/en-us/sysinternals/downloads/rammap)
 
 Memory latency:  

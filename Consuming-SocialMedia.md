@@ -8,9 +8,9 @@ Articles behind paywalls:
 [Web Archives⇉](https://github.com/dessant/web-archives)
 
 Videos:  
-[YouTube☁](https://youtube.com),
-[Vimeo☁](https://vimeo.com/watch),
-[NewPipe (for YouTube)🤖](https://newpipe.schabi.org/)
+[Odysee☁](https://odysee.com/),
+[Rumble☁](https://rumble.com/),
+[Vimeo☁](https://vimeo.com/watch)
 
 Videos - watch together remotely:  
 [Binge Together☁](https://bingetogether.com/)

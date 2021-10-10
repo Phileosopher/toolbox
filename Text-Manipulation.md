@@ -12,6 +12,9 @@ EPUB editor:
 [Sigil⊞■⌘🐧](https://sigil-ebook.com/)
 
 PDF differences:  
+[Aspose's Compare PDF☁](https://products.aspose.app/pdf/comparison),
+[Draftable's Compare PDF & Word Documents Online☁](https://draftable.com/compare),
+[PDF24 Compare PDF files☁](https://tools.pdf24.org/en/compare-pdf),
 [PDF Compare☁](https://copyleaks.com/text-compare/compare-pdf-files)
 
 ## OCR (Optical Character Recognition)

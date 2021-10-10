@@ -10,6 +10,9 @@ Banking for teens:
 
 ## Accounting/ERP/CRM
 
+Barebones income/expense tracking:  
+[GNU Pem🐧](https://www.gnu.org/software/pem/pem-nano.html)
+
 Accounting all-in-one:  
 [GNU Accounting Utilities🐧](https://www.gnu.org/software/acct/),
 [Wave Financial☁](https://www.waveapps.com)
@@ -47,73 +50,6 @@ Research:
 Grocery shopping lists:  
 [grocy☁⊞🍎🤖](https://grocy.info/),
 [ListEase☁🍎🤖](https://www.shoppinglistapp.com/)
-
-## Consumer Goods - Comparison/Shopping
-
-[Product Chart☁](https://www.productchart.com/)
-
-Amazon price tracking:  
-[camelcamelcamel.com](https://camelcamelcamel.com/)
-
-Durable products:  
-[Buy For Life☁](https://www.buyforlife.com/)
-
-Telecom:  
-[Allconnect.com☁](https://www.allconnect.com/)
-
-Autos:  
-[CARFAX☁](https://www.carfax.com/),
-[Kelley Blue Book☁](https://www.kbb.com/)
-
-Computer games:  
-[Razer Game Deals⊞☁](https://deals.razer.com/)
-
-Eyewear:  
-[Warby Parker☁](https://www.warbyparker.com/),
-[Zenni Optical☁](https://www.zennioptical.com/)
-
-Fuel:  
-[GasBuddy☁🍎🤖](https://www.gasbuddy.com/)
-
-Houses:  
-[Zillow☁](https://www.zillow.com/)
-
-Price tracking - Amazon:  
-[camelcamelcamel.com☁](https://camelcamelcamel.com/)
-
-Price tracking - healthcare:  
-[Clear Health Costs☁](https://clearhealthcosts.com/),
-[Healthcare Bluebook☁](https://www.healthcarebluebook.com/explore-home/)
-
-Product tracking:  
-[Slice☁](https://www.slice.com/)
-
-Classified ads:  
-[craigslist☁](https://craigslist.org/),
-[OfferUp☁🍎🤖](https://offerup.com/)
-
-Online auctions - government liquidations:  
-[Government Surplus Auctions*](https://www.govdeals.com/)
-
-## Consumer Goods - Discounts
-
-[Coupon Sherpa☁🍎🤖](https://www.couponsherpa.com/),
-[Entertainment Coupon Book☁](https://www.entertainment.com/),
-[Groupon☁](https://www.groupon.com/),
-[LivingSocial☁](https://www.livingsocial.com/),
-[LOZO☁](https://lozo.com/),
-[RetailMeNot☁](https://www.retailmenot.com/),
-[SnipSnap🍎🤖](https://www.snipsnap.it/)
-
-Coupon codes:  
-[Honey⇉](https://www.joinhoney.com/)
-
-Restaurants:  
-[Restaurant.com☁](https://www.restaurant.com/)
-
-Rebates:  
-[Mr. Rebates☁](https://mrrebates.com/),
-[Rakuten⇉](https://www.rakuten.com/)
 
 ## Investing - Platforms
 
@@ -153,3 +89,82 @@ Whale movements:
 
 Blockchain movements:  
 [Blockchain Whispers](https://blockchainwhispers.com/)
+
+## Consumer Goods - Comparison/Tracking
+
+[Product Chart☁](https://www.productchart.com/)
+
+Price tracking:  
+[Slice☁](https://www.slice.com/)
+
+Price tracking - Amazon:  
+[camelcamelcamel.com☁](https://camelcamelcamel.com/)
+
+Healthcare comparison:  
+[Clear Health Costs☁](https://clearhealthcosts.com/),
+[Healthcare Bluebook☁](https://www.healthcarebluebook.com/explore-home/)
+
+## Consumer Goods - Shopping
+
+Higher-quality products:  
+[Buy For Life☁](https://www.buyforlife.com/)
+
+Durable products:  
+[Buy For Life☁](https://www.buyforlife.com/)
+
+Online auctions - government liquidations:  
+[Government Surplus Auctions*](https://www.govdeals.com/)
+
+Telecom:  
+[Allconnect.com☁](https://www.allconnect.com/)
+
+Autos:  
+[CARFAX☁](https://www.carfax.com/),
+[Kelley Blue Book☁](https://www.kbb.com/)
+
+Books:  
+[Bookshop☁](https://bookshop.org/)
+
+Computer games:  
+[Razer Game Deals⊞☁](https://deals.razer.com/)
+
+Eyewear:  
+[Warby Parker☁](https://www.warbyparker.com/),
+[Zenni Optical☁](https://www.zennioptical.com/)
+
+Fuel:  
+[GasBuddy☁🍎🤖](https://www.gasbuddy.com/)
+
+Houses:  
+[Zillow☁](https://www.zillow.com/)
+
+Classified ads:  
+[craigslist☁](https://craigslist.org/),
+[OfferUp☁🍎🤖](https://offerup.com/)
+
+Church supplies:  
+[Churchsupplier☁](https://www.churchsupplier.com/)
+
+## Consumer Goods - Discounts
+
+[Coupon Sherpa☁🍎🤖](https://www.couponsherpa.com/),
+[Entertainment Coupon Book☁](https://www.entertainment.com/),
+[Groupon☁](https://www.groupon.com/),
+[LivingSocial☁](https://www.livingsocial.com/),
+[LOZO☁](https://lozo.com/),
+[RetailMeNot☁](https://www.retailmenot.com/),
+[SnipSnap🍎🤖](https://www.snipsnap.it/)
+
+Coupon codes:  
+[Honey⇉](https://www.joinhoney.com/)
+
+Restaurants:  
+[Restaurant.com☁](https://www.restaurant.com/)
+
+Rebates:  
+[Mr. Rebates☁](https://mrrebates.com/),
+[Rakuten⇉](https://www.rakuten.com/)
+
+## Consumer Goods - Repairing
+
+[Fix-It Club☁](https://fixitclub.com/)

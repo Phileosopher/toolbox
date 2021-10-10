@@ -9,7 +9,11 @@ Windows Search alternative:
 Drive letter management:  
 [DriveLetterView⊞](https://www.nirsoft.net/utils/drive_letter_view.html)
 
-Event log consolidation:  
+Event logs:  
+[EventLogChannelsView⊞](https://www.nirsoft.net/utils/event_log_channels_view.html),
+[FullEventLogView⊞](https://www.nirsoft.net/utils/full_event_log_view.html)
+
+Event logs - consolidation:  
 [SolarWinds' Event Log Consolidator⊞](https://www.solarwinds.com/free-tools/event-log-consolidator)
 
 ## File/Folder Issues

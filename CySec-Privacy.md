@@ -15,7 +15,7 @@ Drive encryption:
 Shut down when unplugging USB device:  
 [usbkill🐧](https://github.com/hephaest0s/usbkill)
 
-## Identity Obfuscation
+## Anonymity - Network
 
 IP address tools:  
 [IPVoid☁](https://www.ipvoid.com/)
@@ -31,6 +31,10 @@ Self-detect IPv4/IPv6:
 [Test your IPv6.☁](https://test-ipv6.com/),
 [What is my IP Address?☁](https://whatismyv6.com/),
 [Wireshark IPv4/IPv6 Connectivity Test☁](https://www.wireshark.org/tools/v46status.html)
+
+VPN:  
+[WireGuard⊞⌘🐧🍎🤖](https://www.wireguard.com/),
+[1.1.1.1(built on WireGuard⊞⌘🍎🤖)](https://cloudflarewarp.com/)
 
 Location detection (via browser):  
 [LocateJS☁](https://iknowwhatyoudownload.com/)
@@ -48,8 +52,28 @@ WebRTC testing:
 [Perfect Privacy's WebRTC Leak Test☁](https://www.perfect-privacy.com/en/tests/webrtc-leaktest),
 [VoidSec's IP Info☁](https://ip.voidsec.com/)
 
+## Anonymity - Browser
+
+Web browser:  
+[Tor Browser⊞⌘🐧🤖](https://www.torproject.org/)
+
+Browser fingerprint:  
+[AmIUnique☁](https://amiunique.org/),
+[Google's Browserinfo☁](https://toolbox.googleapps.com/apps/browserinfo/),
+[What every Browser knows about you☁](https://webkay.robinlinus.com/)
+
+Email breach search:  
+[have i been pwned?☁](https://haveibeenpwned.com/)
+
+SMS breach notifications:  
+[Okey Monitor☁](https://okeymonitor.com/)
+
 SSL/TLS browser testing:  
 [SSL Client Test☁](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
+
+Social media fingerprint:  
+[Social Network Login Status Detector Demo☁](https://www.tomanthony.co.uk/tools/detect-social-network-logins/),
+[Your Social Media Fingerprint☁](https://robinlinus.github.io/socialmedia-leak/)
 
 ## Tracker Blocking
 
@@ -67,8 +91,8 @@ Block chat widgets:
 
 ## With Private Organizations Like FAANG
 
-Social network login test:  
-[Social Network Login Status Detector Demo☁](https://www.tomanthony.co.uk/tools/detect-social-network-logins/)
+Private data tracking:  
+[Rita🍎🤖](https://ritapersonaldata.com/)
 
 Tracker/permissions search:  
 [εxodus☁(for🤖)](https://reports.exodus-privacy.eu.org/en/)
@@ -78,7 +102,10 @@ Account deleter:
 
 Information-gathering opt-out:  
 [Digital Advertising Alliance Opt Out☁](http://www.aboutads.info/choices/),
-[Simple Opt Out](https://simpleoptout.com/)
+[Simple Opt Out☁](https://simpleoptout.com/)
+
+Information-gathering opt-out - VISA:  
+[Visa Advertising Solutions (VAS) Opt Out☁](https://marketingreportoptout.visa.com/OPTOUT/request.do)
 
 Scam reporting:  
 [ACCC Where to get help☁ (Australia)](https://www.scamwatch.gov.au/get-help/where-to-get-help#report-scams-to-the-authorities),
@@ -91,6 +118,8 @@ Scam reporting:
 
 ## With Apple
 
+[Apple Censorship☁](https://applecensorship.com/)
+
 Bootloader:  
 [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
 
@@ -102,7 +131,13 @@ App store:
 
 [degoogle☁](https://degoogle.jmoore.dev/),
 [No More Google☁](https://nomoregoogle.com/),
+[The Open GApps Project☁](https://opengapps.org/),
+
+Google Docs alternative:  
 [Bloom☁](https://bloom.sh/)
+
+FLoC test:  
+[Am I FLoCed?☁](https://amifloced.org/)
 
 APK files:  
 [APK-DL☁](https://apk-dl.com/),
@@ -116,6 +151,14 @@ Alternative Google Play Store:
 
 Google Play Services:  
 [MicroG Project🤖](https://microg.org/)
+
+## With Microsoft
+
+Microsoft Teams alternative:  
+[TWAKE☁](https://twake.app/)
+
+Microsoft-friendly Linux:  
+[Zorin](https://zorin.com/)
 
 ## With Other Private Organizations
 
