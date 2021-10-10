@@ -2,6 +2,9 @@
 
 [Complete Internet Repair⊞■](https://www.rizonesoft.com/downloads/complete-internet-repair/)
 
+Tech support basic information:  
+[About My Browser☁](https://aboutmybrowser.com/)
+
 ## Probes
 
 IP probe:  

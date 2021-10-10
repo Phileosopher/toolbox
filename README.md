@@ -65,7 +65,7 @@ I've broken everything into malleable groupings, since there are *many* things t
 
 These are volatile out-of-the-box OS estimations for several reasons:
 
-- If the specs are high enough (and they usually are), you can make any software run on any popular OS. Quick-and-dirty still does the job, even if it's running on an MS-DOS emulator inside a Windows XP VM.
+- If the specs on a computer are high enough (and they often are if the software is >5 years old), you can make almost any software run on any popular OS. Quick-and-dirty still does the job, even if it's running on an MS-DOS emulator inside a Windows 98 VM.
 - Developers keep making new things for new technologies, so this is constantly becoming obsolete (PR if you want to fix that).
 - In ten years everyone might have BlahBlahOS where everything runs on it and these won't matter.
 

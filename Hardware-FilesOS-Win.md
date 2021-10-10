@@ -42,6 +42,8 @@ Active Directory permissions:
 
 ## Process Issues
 
+[Process Monitor⊞■](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
+
 Locked files/folders:  
 [ThisIsMyFile⊞](https://www.softwareok.com/?seite=Freeware/ThisIsMyFile)
 
@@ -54,6 +56,9 @@ Delete on reboot:
 Opened window analysis:  
 [GUIPropView⊞■](https://www.nirsoft.net/utils/gui_prop_view.html), 
 [WinInfo⊞■](http://www.pazera-software.com/products/wininfo/)
+
+Memory use:  
+[VMMap⊞■](https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap)
 
 ## Registry Issues
 
@@ -96,6 +101,10 @@ Update automation:
 [WinNTSetup⊞](https://www.softpedia.com/get/System/OS-Enhancements/WinNTSetup.shtml),
 
 ## Cleanup
+
+Disk usage:  
+[WinDirStat⊞■](https://windirstat.net/),
+[WizTree⊞■](https://wiztreefree.com/)
 
 Batch cleanup/repair:  
 [Tron⊞](https://www.reddit.com/r/TronScript/comments/oqe6qg/tron_v1200_20210723_completely_remove_support_for/)

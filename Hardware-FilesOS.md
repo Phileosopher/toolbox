@@ -1,8 +1,5 @@
 # Hardware: Files/OS
 
-Tech support basic information:  
-[About My Browser☁](https://aboutmybrowser.com/)
-
 ## File Search
 
 Text in files:  
@@ -66,83 +63,12 @@ CHM(winhelp) viewer:
 ## File Analysis - Multiple
 
 Comparisons:  
-[Meld⊞■🐧🤖](https://meldmerge.org/),
-
-Disk usage:  
-[Baobab🐧](http://www.marzocca.net/linux/baobab/)
-[NCurses🐧□](https://dev.yorhel.nl/ncdu),
-[WinDirStat⊞■](https://windirstat.net/),
-[WizTree⊞■](https://wiztreefree.com/)
-
-## Process Monitoring/Tracking
-
-Resource use:  
-[bpytop🐧](https://github.com/aristocratos/bpytop),
-[Process Monitor⊞■](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
-
-Memory use:  
-[VMMap⊞■](https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap)
+[Meld⊞■🐧🤖](https://meldmerge.org/)
 
 ## Cleanup
 
 SQLite databases (Firefox, Chrome, et al):  
 [SpeedyFox⊞■](https://www.crystalidea.com/speedyfox)
-
-## Cross-Platform - Virtualization
-
-General-purpose VMs:  
-[VirtualBox⊞⌘🐧](https://www.virtualbox.org/),
-[VMware Workstation Player⊞🐧](https://www.vmware.com/products/workstation-player.html)
-
-VM manager:  
-[Virtual Machine Manager🐧□](https://virt-manager.org/)
-
-Macs:  
-[Docker-OSX(Docker)](https://github.com/sickcodes/Docker-OSX)
-
-Disk/RAM drive:  
-[ImDisk⊞](https://sourceforge.net/projects/imdisk-toolkit/)
-
-## Cross-Platform - PC-to-Mobile
-
-[Wormhole⊞⌘🐧🍎🤖](https://er.run/)
-
-iOS - file management and jailbreak:  
-[3uTools⊞](https://www.3u.com/)
-
-Android - file management and root:  
-[Odin3⊞](https://odin3download.com/)
-
-Android - PC drivers:  
-[Samsung USB Drivers⊞](https://androidmtk.com/download-samsung-usb-drivers)
-
-## Cross-Platform - Specific Platforms
-
-Linux:  
-[Cygwin⊞](https://www.cygwin.com/)
-
-Windows:  
-[Wine🐧](https://www.winehq.org/)
-
-Mac:  
-[Darling🐧](https://www.darlinghq.org/),
-[OSX-KVM🐧](https://github.com/kholia/OSX-KVM)
-
-Android:  
-[Anbox🐧⌘](https://anbox.io/)
-
-MS-DOS:  
-[DOSBox⊞■🐧](https://www.dosbox.com/)
-
-Video game consoles:  
-[OpenEmu⌘](https://openemu.org/)
-[RetroArch⊞🐧🤖](https://www.retroarch.com/)
-
-Video arcade games:  
-[MAME⊞⌘🐧](https://www.mamedev.org/)
-
-Split peripheral use on same device:  
-[Universal Split Screen⊞](https://universalsplitscreen.github.io/)
 
 ## Portable Computing
 
