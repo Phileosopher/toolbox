@@ -33,6 +33,9 @@ BSOD:
 File type management:  
 [FileTypesMan⊞](https://www.nirsoft.net/utils/file_types_manager.html)
 
+File properties:  
+[PropertySystemView⊞■](https://www.nirsoft.net/utils/windows_property_system_view.html)
+
 "Open With" dialog box management:  
 [OpenWithView⊞](https://www.nirsoft.net/utils/open_with_view.html)
 
@@ -42,7 +45,11 @@ Active Directory permissions:
 
 ## Process Issues
 
+[ProcessThreadsView⊞■](https://www.nirsoft.net/utils/process_threads_view.html),
 [Process Monitor⊞■](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
+
+Scheduled tasks:  
+[TaskSchedulerView⊞■](https://www.nirsoft.net/utils/task_scheduler_view.html),
 
 Locked files/folders:  
 [ThisIsMyFile⊞](https://www.softwareok.com/?seite=Freeware/ThisIsMyFile)
@@ -63,10 +70,41 @@ Memory use:
 ## Registry Issues
 
 Registry browser:  
+[OfflineRegistryView⊞■](https://www.nirsoft.net/utils/offline_registry_view.html),
 [RegAlyzer⊞■](https://www.safer-networking.org/products/regalyzer/)
 
+Registry search:  
+[RegScanner⊞](https://www.nirsoft.net/utils/regscanner.html),
+[OfflineRegistryFinder⊞■](https://www.nirsoft.net/utils/offline_registry_finder.html)
+
 Registry comparison:  
+[RegistryChangesView⊞](https://www.nirsoft.net/utils/registry_changes_view.html),
 [WhatChanged⊞■](https://portableapps.com/apps/utilities/whatchanged-portable)
+
+Registry monitoring:  
+[RegFromApp⊞■](https://www.nirsoft.net/utils/reg_file_from_application.html)
+
+COM registrations (DLL/OCX/EXE):  
+[RegDllView⊞■](https://www.nirsoft.net/utils/registered_dll_view.html)
+
+## Program issues
+
+Specific run conditions:  
+[AdvancedRun⊞■](https://www.nirsoft.net/utils/advanced_run.html)
+
+Runtime app tracking:  
+[AppReadWriteCounter⊞■](https://www.nirsoft.net/utils/app_read_write_counter.html),
+[LoadedDllsView⊞■](https://www.nirsoft.net/utils/loaded_dll_view.html),
+[AllThreadsView⊞■](https://www.nirsoft.net/utils/all_threads_view.html)
+
+Installed programs:  
+[UninstallView⊞■](https://www.nirsoft.net/utils/uninstall_view.html)
+
+Installed Win10 apps:  
+[InstalledAppView⊞■](https://www.nirsoft.net/utils/installed_app_view.html)
+
+Package dependencies:  
+[InstalledPackagesView⊞■](https://www.nirsoft.net/utils/installed_packages_view.html)
 
 ## GUI Issues
 

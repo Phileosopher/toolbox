@@ -1,5 +1,8 @@
 # Software Development - Back-End: Python
 
+Package manager:  
+[pip🐍](https://pypi.org/project/pip/)
+
 ## Planning
 
 Diagrams-as-code:  

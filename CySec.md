@@ -12,6 +12,9 @@ Antivirus software:
 APK scan:  
 [APKLeaks□](https://github.com/dwisiswant0/apkleaks)
 
+Windows Defender threats:  
+[WinDefThreatsView⊞■](https://www.nirsoft.net/utils/windows_defender_threats_view.html)
+
 ## Authentication
 
 Password management:  
