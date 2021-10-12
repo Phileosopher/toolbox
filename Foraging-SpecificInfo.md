@@ -27,7 +27,8 @@ Device's location tag:
 [Where Am I☁](https://ctrlq.org/maps/where/)
 
 International time:  
-[Every Time Zone☁](https://everytimezone.com/)
+[Every Time Zone☁](https://everytimezone.com/),
+[TimeZonesView⊞■](https://www.nirsoft.net/utils/time_zones_view.html)
 
 Cost of living:  
 [NUMBEO☁](https://www.numbeo.com/)

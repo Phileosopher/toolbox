@@ -60,6 +60,9 @@ Money:
 [Slash☁](https://www.joinslash.com/),
 [Braid☁](https://braid.co/)
 
+SMS messaging:  
+[DesktopSMS⊞🤖](https://www.desktopsms.net/)
+
 ## IRL
 
 [Meetup☁🍎🤖](https://www.meetup.com/)

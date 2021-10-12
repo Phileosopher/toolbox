@@ -16,7 +16,18 @@ Event logs:
 Event logs - consolidation:  
 [SolarWinds' Event Log Consolidator⊞](https://www.solarwinds.com/free-tools/event-log-consolidator)
 
+## Hardware
+
+Firmware tables:  
+[FirmwareTablesView⊞■](https://www.nirsoft.net/utils/firmware_tables_view.html)
+
+USB devices:  
+[USBDeview⊞■](https://www.nirsoft.net/utils/usb_devices_view.html)
+
 ## File/Folder Issues
+
+Opened/locked files:  
+[OpenedFilesView⊞■](https://www.nirsoft.net/utils/opened_files_view.html)
 
 Special folder management:  
 [SpecialFoldersView⊞](https://www.nirsoft.net/utils/special_folders_view.html)
@@ -47,6 +58,9 @@ Active Directory permissions:
 
 [ProcessThreadsView⊞■](https://www.nirsoft.net/utils/process_threads_view.html),
 [Process Monitor⊞■](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
+
+Previous programs:  
+[ExecutedProgramsList⊞■](https://www.nirsoft.net/utils/executed_programs_list.html)
 
 Scheduled tasks:  
 [TaskSchedulerView⊞■](https://www.nirsoft.net/utils/task_scheduler_view.html),
@@ -90,7 +104,8 @@ COM registrations (DLL/OCX/EXE):
 ## Program issues
 
 Specific run conditions:  
-[AdvancedRun⊞■](https://www.nirsoft.net/utils/advanced_run.html)
+[AdvancedRun⊞■](https://www.nirsoft.net/utils/advanced_run.html),
+[RunAsDate⊞■](https://www.nirsoft.net/utils/run_as_date.html)
 
 Runtime app tracking:  
 [AppReadWriteCounter⊞■](https://www.nirsoft.net/utils/app_read_write_counter.html),
@@ -106,13 +121,34 @@ Installed Win10 apps:
 Package dependencies:  
 [InstalledPackagesView⊞■](https://www.nirsoft.net/utils/installed_packages_view.html)
 
+Recover Microsoft product keys:  
+[ProduKey⊞■](https://www.nirsoft.net/utils/product_cd_key_viewer.html),
+[WinProdKeyFinder⊞](https://github.com/mrpeardotnet/WinProdKeyFinder)
+
+## Logs
+
+[FullEventLogView⊞■](https://www.nirsoft.net/utils/full_event_log_view.html)
+
+Specific event types:  
+[MyEventViewer⊞■](https://www.nirsoft.net/utils/my_event_viewer.html)
+
+Application crashes:  
+[AppCrashView⊞■](https://www.nirsoft.net/utils/app_crash_view.html),
+[WhatIsHang⊞■](https://www.nirsoft.net/utils/what_is_hang.html)
+
+Last events before crashing:  
+[LastActivityView⊞■](https://www.nirsoft.net/utils/computer_activity_view.html)
+
 ## GUI Issues
 
 Font viewer:  
-[WinFontsView⊞](https://www.nirsoft.net/utils/windows_fonts_viewer.html)
+[WinFontsView⊞■](https://www.nirsoft.net/utils/windows_fonts_viewer.html)
 
 Display drivers:  
 [Display Driver Uninstaller⊞](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)
+
+Shell extensions:  
+[ShellExView⊞■](https://www.nirsoft.net/utils/shexview.html)
 
 ## System Updates
 
@@ -156,3 +192,7 @@ PC junk:
 
 Empty file directories:  
 [RmEDir⊞■□](http://www.pazera-software.com/products/rmedir/)
+
+## Boot Management
+
+[EasyUEFI⊞](https://www.easyuefi.com/index-us.html)
