@@ -1,5 +1,8 @@
 # Software Development - JavaScript-Specific
 
+Node package manager:  
+[npm](https://www.npmjs.com/)
+
 ## Optimization - Syntactic Sugar
 
 JS:  

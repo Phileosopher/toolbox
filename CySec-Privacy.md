@@ -65,6 +65,9 @@ Browser fingerprint:
 Email breach search:  
 [have i been pwned?☁](https://haveibeenpwned.com/)
 
+JavaScript details:  
+[JavaScript Inspector☁](https://webbrowsertools.com/javascript/)
+
 SMS breach notifications:  
 [Okey Monitor☁](https://okeymonitor.com/)
 
@@ -74,6 +77,42 @@ SSL/TLS browser testing:
 Social media fingerprint:  
 [Social Network Login Status Detector Demo☁](https://www.tomanthony.co.uk/tools/detect-social-network-logins/),
 [Your Social Media Fingerprint☁](https://robinlinus.github.io/socialmedia-leak/)
+
+Browser plugins:  
+[BrowserAddonsView⊞](https://www.nirsoft.net/utils/web_browser_addons_view.html)
+
+## Browser History
+
+Internet history:  
+[BrowsingHistoryView⊞](https://www.nirsoft.net/utils/browsing_history_view.html),
+[ChromeHistoryView⊞](https://www.nirsoft.net/utils/chrome_history_view.html),
+[MZHistoryView⊞](https://www.nirsoft.net/utils/mozilla_history_view.html),
+[SafariHistoryView⊞](https://www.nirsoft.net/utils/safari_history_view.html)
+
+Cookies:  
+[WebCookiesSniffer⊞](https://www.nirsoft.net/utils/web_cookies_sniffer.html),
+[ChromeCookiesView⊞](https://www.nirsoft.net/utils/chrome_cookies_view.html),
+[EdgeCookiesView⊞](https://www.nirsoft.net/utils/edge_cookies_view.html),
+[MZCookiesView⊞](https://www.nirsoft.net/utils/mzcv.html)
+
+Cached files/images:  
+[ImageCacheViewer⊞](https://www.nirsoft.net/utils/image_cache_viewer.html),
+[WebCacheImageInfo⊞](https://www.nirsoft.net/utils/web_cache_image_info.html),
+[ChromeCacheView⊞](https://www.nirsoft.net/utils/chrome_cache_view.html),
+[FBCacheView⊞](https://www.nirsoft.net/utils/facebook_cache_viewer.html),
+[MZCacheView⊞](https://www.nirsoft.net/utils/mozilla_cache_viewer.html),
+[OperaCacheView⊞](https://www.nirsoft.net/utils/opera_cache_view.html),
+[SafariCacheView⊞](https://www.nirsoft.net/utils/safari_cache_view.html)
+
+Favorites/bookmarks:  
+[FavoritesView⊞](https://www.nirsoft.net/utils/faview.html)
+
+Download history - Chrome/Firefox:  
+[BrowserDownloadsView⊞](https://www.nirsoft.net/utils/web_browser_downloads_view.html),
+[FirefoxDownloadsView⊞](https://www.nirsoft.net/utils/firefox_downloads_view.html)
+
+Search history:  
+[MyLastSearch⊞](https://www.nirsoft.net/utils/my_last_search.html)
 
 ## Tracker Blocking
 
@@ -158,7 +197,10 @@ Microsoft Teams alternative:
 [TWAKE☁](https://twake.app/)
 
 Microsoft-friendly Linux:  
-[Zorin](https://zorin.com/)
+[Zorin🐧](https://zorin.com/)
+
+UserAssist registry entries:  
+[UserAssistView⊞■](https://www.nirsoft.net/utils/userassist_view.html)
 
 ## With Other Private Organizations
 

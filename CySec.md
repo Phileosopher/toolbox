@@ -12,6 +12,9 @@ Antivirus software:
 APK scan:  
 [APKLeaks□](https://github.com/dwisiswant0/apkleaks)
 
+Windows Defender threats:  
+[WinDefThreatsView⊞■](https://www.nirsoft.net/utils/windows_defender_threats_view.html)
+
 ## Authentication
 
 Password management:  
@@ -82,3 +85,11 @@ DVDs:
 
 Reconstruction of events - UNIX-like system:  
 [The Coroner's Toolkit](http://www.porcupine.org/forensics/tct.html)
+
+## Security Events
+
+User profiles:  
+[UserProfilesView⊞■](https://www.nirsoft.net/utils/user_profiles_view.html)
+
+Security events log:  
+[WinLogOnView⊞■](https://www.nirsoft.net/utils/windows_log_on_times_view.html)

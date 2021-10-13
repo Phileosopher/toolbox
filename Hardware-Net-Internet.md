@@ -2,6 +2,9 @@
 
 [Complete Internet Repair⊞■](https://www.rizonesoft.com/downloads/complete-internet-repair/)
 
+Tech support basic information:  
+[About My Browser☁](https://aboutmybrowser.com/)
+
 ## Probes
 
 IP probe:  
@@ -43,12 +46,7 @@ Bandwidth analysis:
 [DSLReports' bandwidth calculator☁](http://www.dslreports.com/calculator),
 [DSLReports' Jitter/Ping test☁](https://www.dslreports.com/tools/pingtest)
 
-## Blocking
-
-HOSTS file:  
-[MVPs HOSTS file*](https://winhelp2002.mvps.org/hosts.htm)
-
-## Specific Sites
+## Testing - Specific Sites
 
 Site status:  
 [Brot & Games' ciao](https://brotandgames.com/ciao/),
@@ -62,3 +60,8 @@ Site probe:
 [WhatRuns⇉](https://www.whatruns.com/),
 [WhoIsHostingThis☁](https://www.whoishostingthis.com/),
 [Whois Lookup☁](https://whois.domaintools.com/)
+
+## Blocking
+
+HOSTS file:  
+[MVPs HOSTS file*](https://winhelp2002.mvps.org/hosts.htm)

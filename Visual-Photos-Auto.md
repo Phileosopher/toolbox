@@ -52,6 +52,9 @@ Recover text from pixelized images:
 Add grain:  
 [MagicPattern's Add Grain To Images☁](https://www.magicpattern.design/tools/add-grain-to-images)
 
+8-bit downscaling:  
+[NFT Maker☁](https://img8bit.com/)
+
 ## Image Optimization
 
 Optimize images:  

@@ -9,10 +9,25 @@ Windows Search alternative:
 Drive letter management:  
 [DriveLetterView⊞](https://www.nirsoft.net/utils/drive_letter_view.html)
 
-Event log consolidation:  
+Event logs:  
+[EventLogChannelsView⊞](https://www.nirsoft.net/utils/event_log_channels_view.html),
+[FullEventLogView⊞](https://www.nirsoft.net/utils/full_event_log_view.html)
+
+Event logs - consolidation:  
 [SolarWinds' Event Log Consolidator⊞](https://www.solarwinds.com/free-tools/event-log-consolidator)
 
+## Hardware
+
+Firmware tables:  
+[FirmwareTablesView⊞■](https://www.nirsoft.net/utils/firmware_tables_view.html)
+
+USB devices:  
+[USBDeview⊞■](https://www.nirsoft.net/utils/usb_devices_view.html)
+
 ## File/Folder Issues
+
+Opened/locked files:  
+[OpenedFilesView⊞■](https://www.nirsoft.net/utils/opened_files_view.html)
 
 Special folder management:  
 [SpecialFoldersView⊞](https://www.nirsoft.net/utils/special_folders_view.html)
@@ -29,6 +44,9 @@ BSOD:
 File type management:  
 [FileTypesMan⊞](https://www.nirsoft.net/utils/file_types_manager.html)
 
+File properties:  
+[PropertySystemView⊞■](https://www.nirsoft.net/utils/windows_property_system_view.html)
+
 "Open With" dialog box management:  
 [OpenWithView⊞](https://www.nirsoft.net/utils/open_with_view.html)
 
@@ -37,6 +55,15 @@ Active Directory permissions:
 [SolarWinds' Permissions Analyzer for Active Directory⊞](https://www.solarwinds.com/free-tools/permissions-analyzer-for-active-directory)
 
 ## Process Issues
+
+[ProcessThreadsView⊞■](https://www.nirsoft.net/utils/process_threads_view.html),
+[Process Monitor⊞■](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
+
+Previous programs:  
+[ExecutedProgramsList⊞■](https://www.nirsoft.net/utils/executed_programs_list.html)
+
+Scheduled tasks:  
+[TaskSchedulerView⊞■](https://www.nirsoft.net/utils/task_scheduler_view.html),
 
 Locked files/folders:  
 [ThisIsMyFile⊞](https://www.softwareok.com/?seite=Freeware/ThisIsMyFile)
@@ -51,21 +78,77 @@ Opened window analysis:
 [GUIPropView⊞■](https://www.nirsoft.net/utils/gui_prop_view.html), 
 [WinInfo⊞■](http://www.pazera-software.com/products/wininfo/)
 
+Memory use:  
+[VMMap⊞■](https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap)
+
 ## Registry Issues
 
 Registry browser:  
+[OfflineRegistryView⊞■](https://www.nirsoft.net/utils/offline_registry_view.html),
 [RegAlyzer⊞■](https://www.safer-networking.org/products/regalyzer/)
 
+Registry search:  
+[RegScanner⊞](https://www.nirsoft.net/utils/regscanner.html),
+[OfflineRegistryFinder⊞■](https://www.nirsoft.net/utils/offline_registry_finder.html)
+
 Registry comparison:  
+[RegistryChangesView⊞](https://www.nirsoft.net/utils/registry_changes_view.html),
 [WhatChanged⊞■](https://portableapps.com/apps/utilities/whatchanged-portable)
+
+Registry monitoring:  
+[RegFromApp⊞■](https://www.nirsoft.net/utils/reg_file_from_application.html)
+
+COM registrations (DLL/OCX/EXE):  
+[RegDllView⊞■](https://www.nirsoft.net/utils/registered_dll_view.html)
+
+## Program issues
+
+Specific run conditions:  
+[AdvancedRun⊞■](https://www.nirsoft.net/utils/advanced_run.html),
+[RunAsDate⊞■](https://www.nirsoft.net/utils/run_as_date.html)
+
+Runtime app tracking:  
+[AppReadWriteCounter⊞■](https://www.nirsoft.net/utils/app_read_write_counter.html),
+[LoadedDllsView⊞■](https://www.nirsoft.net/utils/loaded_dll_view.html),
+[AllThreadsView⊞■](https://www.nirsoft.net/utils/all_threads_view.html)
+
+Installed programs:  
+[UninstallView⊞■](https://www.nirsoft.net/utils/uninstall_view.html)
+
+Installed Win10 apps:  
+[InstalledAppView⊞■](https://www.nirsoft.net/utils/installed_app_view.html)
+
+Package dependencies:  
+[InstalledPackagesView⊞■](https://www.nirsoft.net/utils/installed_packages_view.html)
+
+Recover Microsoft product keys:  
+[ProduKey⊞■](https://www.nirsoft.net/utils/product_cd_key_viewer.html),
+[WinProdKeyFinder⊞](https://github.com/mrpeardotnet/WinProdKeyFinder)
+
+## Logs
+
+[FullEventLogView⊞■](https://www.nirsoft.net/utils/full_event_log_view.html)
+
+Specific event types:  
+[MyEventViewer⊞■](https://www.nirsoft.net/utils/my_event_viewer.html)
+
+Application crashes:  
+[AppCrashView⊞■](https://www.nirsoft.net/utils/app_crash_view.html),
+[WhatIsHang⊞■](https://www.nirsoft.net/utils/what_is_hang.html)
+
+Last events before crashing:  
+[LastActivityView⊞■](https://www.nirsoft.net/utils/computer_activity_view.html)
 
 ## GUI Issues
 
 Font viewer:  
-[WinFontsView⊞](https://www.nirsoft.net/utils/windows_fonts_viewer.html)
+[WinFontsView⊞■](https://www.nirsoft.net/utils/windows_fonts_viewer.html)
 
 Display drivers:  
 [Display Driver Uninstaller⊞](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)
+
+Shell extensions:  
+[ShellExView⊞■](https://www.nirsoft.net/utils/shexview.html)
 
 ## System Updates
 
@@ -93,6 +176,10 @@ Update automation:
 
 ## Cleanup
 
+Disk usage:  
+[WinDirStat⊞■](https://windirstat.net/),
+[WizTree⊞■](https://wiztreefree.com/)
+
 Batch cleanup/repair:  
 [Tron⊞](https://www.reddit.com/r/TronScript/comments/oqe6qg/tron_v1200_20210723_completely_remove_support_for/)
 
@@ -105,3 +192,7 @@ PC junk:
 
 Empty file directories:  
 [RmEDir⊞■□](http://www.pazera-software.com/products/rmedir/)
+
+## Boot Management
+
+[EasyUEFI⊞](https://www.easyuefi.com/index-us.html)
