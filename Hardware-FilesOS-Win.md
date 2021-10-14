@@ -3,9 +3,6 @@
 Power tools:  
 [Windows Sysinternals⊞■](https://docs.microsoft.com/en-us/sysinternals/)
 
-Windows Search alternative:  
-[SearchMyFiles⊞](https://www.nirsoft.net/utils/search_my_files.html)
-
 Drive letter management:  
 [DriveLetterView⊞](https://www.nirsoft.net/utils/drive_letter_view.html)
 
@@ -15,6 +12,14 @@ Event logs:
 
 Event logs - consolidation:  
 [SolarWinds' Event Log Consolidator⊞](https://www.solarwinds.com/free-tools/event-log-consolidator)
+
+## Windows Search
+
+Windows Search alternative:  
+[SearchMyFiles⊞■](https://www.nirsoft.net/utils/search_my_files.html)
+
+IFilter plugins:  
+[SearchFilterView⊞■](https://www.nirsoft.net/utils/search_filter_view.html)
 
 ## Hardware
 
@@ -54,6 +59,10 @@ Active Directory permissions:
 [SolarWinds' Access Rights Auditor⊞](https://www.solarwinds.com/free-tools/access-rights-auditor),
 [SolarWinds' Permissions Analyzer for Active Directory⊞](https://www.solarwinds.com/free-tools/permissions-analyzer-for-active-directory)
 
+MIME types:  
+[MIMEView⊞■](https://www.nirsoft.net/utils/mimeview.html),
+[MIME Types Complete List*](https://www.sitepoint.com/mime-types-complete-list/)
+
 ## Process Issues
 
 [ProcessThreadsView⊞■](https://www.nirsoft.net/utils/process_threads_view.html),
@@ -78,6 +87,9 @@ Opened window analysis:
 [GUIPropView⊞■](https://www.nirsoft.net/utils/gui_prop_view.html), 
 [WinInfo⊞■](http://www.pazera-software.com/products/wininfo/)
 
+Count process handles:  
+[HandleCountersView⊞■](https://www.nirsoft.net/utils/handle_counters_view.html)
+
 Memory use:  
 [VMMap⊞■](https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap)
 
@@ -101,6 +113,9 @@ Registry monitoring:
 COM registrations (DLL/OCX/EXE):  
 [RegDllView⊞■](https://www.nirsoft.net/utils/registered_dll_view.html)
 
+MMC snap-ins:  
+[MMCSnapInsView⊞■](https://www.nirsoft.net/utils/mmc_snapins_view.html)
+
 ## Program issues
 
 Specific run conditions:  
@@ -119,11 +134,16 @@ Installed Win10 apps:
 [InstalledAppView⊞■](https://www.nirsoft.net/utils/installed_app_view.html)
 
 Package dependencies:  
+[Dependency Walker⊞](https://dependencywalker.com/),
 [InstalledPackagesView⊞■](https://www.nirsoft.net/utils/installed_packages_view.html)
 
 Recover Microsoft product keys:  
+[LicenseCrawler⊞■](http://www.klinzmann.name/licensecrawler.htm),
 [ProduKey⊞■](https://www.nirsoft.net/utils/product_cd_key_viewer.html),
 [WinProdKeyFinder⊞](https://github.com/mrpeardotnet/WinProdKeyFinder)
+
+Compatibility settings:  
+[AppCompatibilityView⊞■](https://www.nirsoft.net/utils/app_compatibility_view.html)
 
 ## Logs
 
@@ -157,6 +177,7 @@ Installation media:
 
 Software update:  
 [Ninite⊞](https://ninite.com/),
+[Patch My PC⊞](https://patchmypc.com/home-updater),
 [SUMo⊞■](https://kcsoftwares.com/?sumo)
 
 Driver update:  

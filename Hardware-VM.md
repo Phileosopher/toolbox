@@ -75,7 +75,7 @@ Multi-platform - arcade games:
 [MAME⊞⌘🐧](https://www.mamedev.org/)
 
 Atari 2600:  
-[Stella⊞⌘🐧](https://stella-emu.github.io/)
+[Stella⊞■⌘🐧](https://stella-emu.github.io/)
 
 Atari ST/STE/TT/Falcon:  
 [Hatari⊞⌘🐧](https://hatari.tuxfamily.org/)
