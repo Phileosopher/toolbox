@@ -85,7 +85,6 @@ Journalistic investigation:
 [ProCon.org](https://www.procon.org/),
 [WikiLeaks☁](https://wikileaks.org/)
 
-
 ## Word Processing
 
 Lorem ipsum placeholders:  
@@ -142,8 +141,9 @@ Grammar/Spelling/Style check:
 [Readable☁](https://app.readable.com/text/?demo)
 
 Word count:  
-[Comment Picker's Online Word & Characters Count Tool☁](https://commentpicker.com/word-counter.php)
-[WordCounter.net's Editor Counter☁](https://wordcounter.net/edit-counter)
+[Comment Picker's Online Word & Characters Count Tool☁](https://commentpicker.com/word-counter.php),
+[Online Character Count Tool☁](https://www.charactercountonline.com/)
+[WordCounter.net's Editor Counter☁](https://wordcounter.net/edit-counter),
 [WordCounter.net's Character Counter☁](https://wordcounter.net/character-count)
 
 Word count - websites:  
@@ -156,3 +156,8 @@ Page count:
 
 Spreasheet to HTML table:  
 [TABLEIZER!☁](https://www.tableizer.journalistopia.com/)
+
+## Editing - Licensing
+
+Creative Commons:  
+[Choose a License☁](https://chooser-beta.creativecommons.org/)

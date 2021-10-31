@@ -71,7 +71,10 @@ Torrents - streaming:
 Podcast search engine:  
 [Listen Notes☁](https://www.listennotes.com/)
 
-RSS:  
+Webpage-to-RSS:  
+[FetchRSS☁](https://fetchrss.com/)
+
+RSS feed manager:  
 [NetNewsWire⌘🍎](https://netnewswire.com/),
 [QuiteRSS⊞■⌘🐧](https://quiterss.org/),
 [RSSOwl⊞⌘🐧](https://www.rssowl.org/)

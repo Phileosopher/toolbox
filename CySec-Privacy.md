@@ -191,6 +191,10 @@ Alternative Google Play Store:
 Google Play Services:  
 [MicroG Project🤖](https://microg.org/)
 
+YouTube:  
+[FreeTube⊞⌘🐧](https://freetubeapp.io/),
+[YouTube™ Vanced🤖](https://vancedapp.com/)
+
 ## With Microsoft
 
 Microsoft Teams alternative:  
