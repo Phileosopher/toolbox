@@ -53,7 +53,7 @@ I've broken everything into malleable groupings, since there are *many* things t
 - Dev: to broadly make or manage computer code, which is only referring to back-end because front-end is merely code-based visual design
 - Productivity: to broadly streamline doing any of the above
 
-## What it needs
+## Earmarks
 
 - _*_ if it's something to copy-paste or a reference sheet.
 - ☁ for browser-based apps, ⇉ for a browser/software plugin or extension
@@ -69,6 +69,8 @@ These are volatile out-of-the-box OS estimations for several reasons:
 - Developers keep making new things for new technologies, so this is constantly becoming obsolete (PR if you want to fix that).
 - In ten years everyone might have BlahBlahOS where everything runs on it and these won't matter.
 
+I also update a [pile of gists](https://gist.github.com/Phileosopher) for all the code-based and procedure-based things.
+
 ## What I'm looking for
 
 Please PR if you see anything I've missed. Or, if tech's not your thing, contact me via "dave at stucky dot tech":
@@ -76,5 +78,5 @@ Please PR if you see anything I've missed. Or, if tech's not your thing, contact
 1. Things that are obsolete and their superior replacement.
 2. Any relevant platforms/languages the tool needs (e.g., ⊞■⌘🐧🍎🤖⇉).
 3. Any classes or sub-classes of tool I may have missed.
-  
+
 If you like what you see, feel free to fork, or visit [my website](https://stucky.tech) for other useful things.
