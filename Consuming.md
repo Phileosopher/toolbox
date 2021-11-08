@@ -179,8 +179,5 @@ Media codecs:
 
 ## Games
 
-Web browsing:  
-[Opera GX⊞](https://www.opera.com/gx)
-
 Pausing any game:  
 [Universal Pause Button⊞](https://github.com/ryanries/UniversalPauseButton)
