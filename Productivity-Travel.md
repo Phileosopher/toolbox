@@ -7,6 +7,10 @@ Cabs:
 [Lyft☁](https://www.lyft.com/),
 [Uber☁](https://www.uber.com/)
 
+## Remote Workers
+
+[Nomad List☁](https://nomadlist.com/)
+
 ## Saving Money
 
 Discounts:  

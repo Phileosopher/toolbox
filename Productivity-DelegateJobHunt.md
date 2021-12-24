@@ -1,6 +1,9 @@
 # Productivity: Delegate/Job-Hunting
 
-Revolves around job boards:  
+Long-Term Planning:  
+[Wil Robots Take My Job?☁](https://www.replacedbyrobot.info/)
+
+Job boards:  
 [Hired☁](https://hired.com/),
 [Indeed☁](https://www.indeed.com/)
 
