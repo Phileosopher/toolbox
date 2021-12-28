@@ -36,14 +36,17 @@ For privacy concerns, check [CySec-Privacy.md](https://github.com/Phileosopher/t
 Automatic reader mode:  
 [Automatic Reader View⇉](https://addons.mozilla.org/en-US/firefox/addon/automatic-reader-view/)
 
+Wikipedia UI update:  
+[Modern for Wikipedia⇉](https://www.modernwiki.app/)
+
 ## Downloading
 
 Download manager:  
 [Free Download Manager⊞⌘🐧](https://www.freedownloadmanager.org/)
 
 Download manager - YouTube:  
-[youtube-dl⊞🐧](https://youtube-dl.org/),
-[dl-plus(drop-in extension of youtube-dl)](https://github.com/un-def/dl-plus)
+[youtube-dlp⊞□🐧](https://github.com/yt-dlp/yt-dlp),
+[youtube-dl-gui⊞⌘🐧(GUI)](https://github.com/jely2002/youtube-dl-gui)
 
 Download manager - image galleries:  
 [gallery-dl](https://github.com/mikf/gallery-dl)
@@ -114,9 +117,6 @@ Languages:
 [Duolingo☁🍎🤖](https://www.duolingo.com/),
 [Mate⌘🍎⇉](https://gikken.co/mate-translate/),
 [Memrise☁](https://www.memrise.com/)
-
-Machine learning research papers:  
-[OpenReview☁](https://openreview.net/)
 
 Public domain audio books:  
 [LibriVox☁*](https://librivox.org/)

@@ -74,6 +74,9 @@ Data from existing content:
 [YouTube Tag Extractor☁](https://commentpicker.com/youtube-tag-extractor.php),
 [YouTube video ID & YouTube video thumbnails☁](https://commentpicker.com/youtube-video-id.php)
 
+Email capture:  
+[Sumo](https://sumo.com/)
+
 Market surveys:  
 [OpinionX](https://www.opinionx.co/),
 [Survey Maker☁](https://www.survey-maker.com/),
@@ -89,3 +92,8 @@ Paper printing:
 
 Church supplies:  
 [Churchsupplier☁](https://www.churchsupplier.com/)
+
+## Computer Networking
+
+IP address info:  
+[IPinfo.io☁](https://ipinfo.io/)

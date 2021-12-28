@@ -59,7 +59,7 @@ I've broken everything into malleable groupings, since there are *many* things t
 - ☁ for browser-based apps, ⇉ for a browser/software plugin or extension
 - Desktop: ⊞ for Windows, ⌘ for Mac OS X, 🐧 for Linux and Friends.
 - Mobile: 🤖 for Android, 🍎 for iOS.
-- □ for non-UI CLI-based tools.
+- □ for non-UI CLI-based tools, often requires [programming experience](https://techsplained.xyz/prog-basics).
 - ■ for standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/)).
 - 🐍 if it runs in Python
 

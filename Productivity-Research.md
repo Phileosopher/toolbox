@@ -1,4 +1,4 @@
-# Foraging: Specific Information
+# Productivity: Research
 
 ## General
 
@@ -56,9 +56,10 @@ Rewards points:
 
 ## STEM
 
-Papers/data:  
+Research papers/data:  
 [Sci-Hub☁](https://sci-hub.se/),
-[Library Genesis☁](https://libgen.is/)
+[Library Genesis☁](https://libgen.is/),
+[The General Index☁](https://archive.org/details/GeneralIndex)
 
 Astronomy:  
 [Stellarium Web☁](https://stellarium-web.org/)
@@ -68,6 +69,9 @@ Math reference:
 
 Nutrition/supplements:  
 [Examine.com☁](https://examine.com/)
+
+Machine learning research papers:  
+[OpenReview☁](https://openreview.net/)
 
 ## Software
 
@@ -82,3 +86,10 @@ Alternative software:
 
 Textbook answers:  
 [Slader☁](https://www.slader.com/)
+
+Recipes:  
+[Stovetop☁](https://stovetop.app/),
+[Munchy☁](https://joinmunchy.com/)
+
+Job roles that tend to marry:  
+[Jobs that Marry Together the Most☁](https://flowingdata.com/2021/05/26/jobs-that-marry-together/)

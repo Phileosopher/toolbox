@@ -34,6 +34,9 @@ Timer:
 Pomodoro timer:  
 [YAPA 2⊞■](https://github.com/YetAnotherPomodoroApp/YAPA-2)
 
+Website timer:  
+[Intention⇉](https://addons.mozilla.org/en-US/firefox/addon/intention/)
+
 Repetitive strain timer:  
 [Workrave⊞■⌘🐧](http://www.workrave.org/)
 

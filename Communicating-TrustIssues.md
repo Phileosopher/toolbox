@@ -20,6 +20,9 @@ General sensitive information:
 Short-term notes:  
 [privnote☁](https://privnote.com/)
 
+Shady links:  
+[ShadyURL☁](http://shadyurl.com/)
+
 Secure text messaging:  
 [matrix⊞⌘🐧🍎🤖](https://matrix.org/)
 [Signal⊞⌘🐧🍎🤖](https://signal.org/),

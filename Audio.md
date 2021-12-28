@@ -6,6 +6,7 @@ File conversion/recording:
 ## Practicing
 
 Sheet music notation:  
+[LilyPond⊞⌘🐧](https://lilypond.org/),
 [Noteflight☁](https://www.noteflight.com/),
 [MuseScore⊞⌘🐧](https://musescore.org/)
 

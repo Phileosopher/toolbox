@@ -6,6 +6,7 @@ Mind mapping/outlining:
 [Bubbl.us☁](https://bubbl.us/)
 [coggle☁](https://coggle.it/),
 [FreeMind⊞⌘🐧](http://freemind.sourceforge.net/wiki/index.php/Main_Page),
+[Heimer⊞🐧](https://github.com/juzzlin/Heimer),
 [Minder🐧](https://github.com/phase1geo/Minder),
 [Scapple⊞⌘](https://www.literatureandlatte.com/scapple/overview),
 

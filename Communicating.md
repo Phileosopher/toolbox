@@ -5,6 +5,9 @@ Link shortener:
 [Short URL☁](https://www.shorturl.at/),
 [TinyURL☁](https://tinyurl.com)
 
+Link lengthener:  
+[A(x56)☁](https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/)
+
 Language translation:  
 [DeepL☁](https://www.deepl.com/translator)
 
@@ -32,6 +35,9 @@ Chat services - all-in-one:
 [Beeper⊞🐧⌘](https://www.beeper.com/)
 [Pidgin⊞🐧⌘](https://www.pidgin.im/)
 
+Type when someone else is typing:  
+[slacktyping□](https://github.com/will/slacktyping)
+
 ## Sending/Receiving
 
 Video messaging:  
@@ -40,7 +46,10 @@ Video messaging:
 Email/calendar/contacts:  
 [Mozilla Thunderbird⊞🐧⌘■](https://www.thunderbird.net/)
 
-Quick files (WebRTC):  
+Quick files:  
+[FILE.re - Temporary file sharing](https://file.re/)
+
+Quick files - WebRTC:  
 [Send☁](https://send.vis.ee/)
 [WEBWORMHOLE☁](https://webwormhole.io/)
 
