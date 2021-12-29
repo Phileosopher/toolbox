@@ -136,9 +136,8 @@ Checksums:
 Conversion:  
 [SCADACore's Online Hex Converter](https://www.scadacore.com/tools/programming-calculators/online-hex-converter/)
 
-Support tables:  
-[Can I email...☁](https://www.caniemail.com/),
-[Can I use...☁](https://www.caniuse.com/)
+Email content test:  
+[Can I email...☁](https://www.caniemail.com/)
 
 JavaScript browser test:  
 [Java Tester's JavaScript Tester☁](https://javatester.org/javascript.html)

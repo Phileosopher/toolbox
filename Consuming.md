@@ -57,8 +57,11 @@ HTTP media downloads:
 FTP client:  
 [FileZilla⊞■⌘🐧](https://filezilla-project.org/)
 
+## Downloading - Torrents
+
 BitTorrent client:  
-[qBittorrent⊞■⌘🐧](https://www.qbittorrent.org/)
+[qBittorrent⊞■⌘🐧](https://www.qbittorrent.org/),
+[Transmission⊞⌘🐧](https://transmissionbt.com/)
 
 BitTorrent - hash to magnet link:  
 [Hash to Magnet link☁](https://www.hashtomagnet.com/)
@@ -117,9 +120,6 @@ Languages:
 [Duolingo☁🍎🤖](https://www.duolingo.com/),
 [Mate⌘🍎⇉](https://gikken.co/mate-translate/),
 [Memrise☁](https://www.memrise.com/)
-
-Public domain audio books:  
-[LibriVox☁*](https://librivox.org/)
 
 Visual design:  
 [Canva's Design School☁](https://designschool.canva.com/),

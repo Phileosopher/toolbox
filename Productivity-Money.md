@@ -88,7 +88,7 @@ Whale movements:
 [Unusual Whales☁](https://unusualwhales.com/)
 
 Blockchain movements:  
-[Blockchain Whispers](https://blockchainwhispers.com/)
+[Blockchain Whispers☁](https://blockchainwhispers.com/)
 
 ## Consumer Goods - Comparison/Tracking
 
@@ -100,14 +100,14 @@ Price tracking:
 Price tracking - Amazon:  
 [camelcamelcamel.com☁](https://camelcamelcamel.com/)
 
-Healthcare comparison:  
+Healthcare costs:  
 [Clear Health Costs☁](https://clearhealthcosts.com/),
 [Healthcare Bluebook☁](https://www.healthcarebluebook.com/explore-home/)
 
-## Consumer Goods - Shopping
+Healthcare costs - drugs:  
+[Mark Cuban Cost Plus Drug Company☁](https://costplusdrugs.com/)
 
-Higher-quality products:  
-[Buy For Life☁](https://www.buyforlife.com/)
+## Consumer Goods - Shopping
 
 Durable products:  
 [Buy For Life☁](https://www.buyforlife.com/)

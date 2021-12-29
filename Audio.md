@@ -43,6 +43,9 @@ Stock music:
 [Pixabay's Royalty Free Music](https://pixabay.com/music/),
 [Videvo's Royalty Free Music](https://www.videvo.net/royalty-free-music/)
 
+Live music:  
+[Live Music Archive](https://archive.org/details/etree)
+
 ## Performing
 
 Recording/mixing audio:  
