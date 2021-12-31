@@ -58,7 +58,7 @@ DNS cache purge:
 [Google's Flush Cache☁](https://developers.google.com/speed/public-dns/cache)
 
 Image compression:  
-[Kraken's Free Online Image Optimizer☁](https://kraken.io/web-interface), 
+[Kraken's Free Online Image Optimizer☁](https://kraken.io/web-interface),
 [PunyPNG☁](http://punypng.com/),
 [PNGGauntlet⊞⌘🐧](https://pnggauntlet.com/)
 
@@ -108,7 +108,7 @@ Meta tag generator:
 [Meta Tags☁](https://metatags.io/)
 
 Social media - Facebook:  
-[Facebook's Batch Invalidator☁](https://developers.facebook.com/tools/debug/sharing/batch/), 
+[Facebook's Batch Invalidator☁](https://developers.facebook.com/tools/debug/sharing/batch/),
 [Facebook's Sharing Debugger☁](https://developers.facebook.com/tools/debug)
 
 Social media - Twitter:  

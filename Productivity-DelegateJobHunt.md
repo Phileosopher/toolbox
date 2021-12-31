@@ -3,9 +3,7 @@
 Long-Term Planning:  
 [Wil Robots Take My Job?☁](https://www.replacedbyrobot.info/)
 
-Job boards:  
-[Hired☁](https://hired.com/),
-[Indeed☁](https://www.indeed.com/)
+## Profile Management
 
 Social networks:  
 [LinkedIn☁](https://linkedin.com)
@@ -18,10 +16,23 @@ Web profile pages:
 Publishing profile:  
 [Books2Read.com☁](https://books2read.com/)
 
-Volunteers:  
+## Resume Enhancement
+
+Volunteering:  
 [Catchafire☁](https://www.catchafire.org)
 
-## Freelancers
+## Business Research
+
+[Better Business Bureau☁](https://www.bbb.org/),
+[Glassdoor☁](https://www.glassdoor.com/member/home/index.htm)
+
+## Job Boards
+
+[Hired☁](https://hired.com/),
+[Indeed☁](https://www.indeed.com/),
+[ZipRecruiter☁](https://www.ziprecruiter.com/)
+
+## Freelancing Job Boards
 
 [Andela☁](https://andela.com/),
 [Fiverr☁](https://www.fiverr.com/),
@@ -36,7 +47,7 @@ Volunteers:
 Entire teams at once:  
 [Huddle☁](https://www.huddle.works/)
 
-## Creative Work
+## Freelancing Job Boards - Creative Work
 
 [Etsy☁](https://www.etsy.com/),
 [Flexiple☁](https://flexiple.com/)
@@ -56,7 +67,7 @@ Book publishing:
 [Lulu☁](https://www.lulu.com/),
 [Smashwords☁](https://www.smashwords.com/)
 
-## Creative Work: Writing
+## Freelancing Job Boards - Writing
 
 Copywriting:  
 [Copify UK☁](https://uk.copify.com/)
@@ -78,7 +89,7 @@ Book reviews:
 Handwritten messages:  
 [Handwriting.io☁](https://handwriting.io/)
 
-## In-Person Work
+## Freelancing Job Boards - In-Person Work
 
 Caretakers:  
 [Care.com☁](https://www.care.com/)
@@ -89,19 +100,7 @@ Fast food deliveries:
 Home service contractors:  
 [Angi☁](https://www.angi.com/)
 
-## Technology-specific
-
-[Dice☁](https://www.dice.com/)
-
-Software development:  
-[Pesto☁](https://pesto.tech/),
-[Turing☁](https://turing.com/),
-[YouTeam☁](https://youteam.io/)
-
-Software development - Shopify-specific:  
-[Storetasker](https://www.storetasker.com/)
-
-## Specific Expertise
+## Freelancing job boards -  Other
 
 [Cision's ProfNet☁](https://profnet.prnewswire.com/profnethome/what-is-profnet.aspx),
 [Coursera's Expert Network☁](https://experts.coursera.org/),
@@ -120,3 +119,22 @@ Educators:
 
 Financial advice:  
 [NAPFA's Newsroom☁](https://www.napfa.org/newsroom)
+
+## Technology-specific
+
+Job boards:  
+[Dice☁](https://www.dice.com/)
+
+Job boards - geographically-based:  
+[whoishiring.io☁](https://whoishiring.io/)
+
+Job boards - software development:  
+[Pesto☁](https://pesto.tech/),
+[Turing☁](https://turing.com/),
+[YouTeam☁](https://youteam.io/)
+[Storetasker (for Shopify)](https://www.storetasker.com/)
+
+Coding tests/certifications:  
+[CodeSignal☁](https://codesignal.com/),
+[freeCodeCamp☁](https://www.freecodecamp.org/)
+[HackerRank☁](https://www.hackerrank.com/)

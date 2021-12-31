@@ -5,49 +5,63 @@
 Linting:  
 [GitHub's Super Linter](https://github.com/github/super-linter)
 
-Linting - JS:  
+JS Linting:  
 [JSHint☁](https://jshint.com/)
 
 ## Runtime Errors
 
+Unix-likes:  
+[GDB](https://www.sourceware.org/gdb/),
+[drgn](https://github.com/osandov/drgn)
+
 Unix-like terminal:  
 [fastmac (via Github Actions)](https://github.com/fastai/fastmac/)
 
-## Input Errors/Fuzzing
+Test harness:  
+[DejaGnu](https://www.gnu.org/software/dejagnu/)
 
-MAC:  
-[MAC address generator☁](https://commentpicker.com/mac-address-generator.php)
+## Fuzzing/Input Errors - Sample Data
 
-UUID/GUID:  
-[PortableApps.com's UUID-GUID Generator⊞■](https://portableapps.com/apps/utilities/uuid-guid_generator_portable)
-
-IP addresses:  
-[IP address generator☁](https://commentpicker.com/ip-address-generator.php)
+[RANDOM.ORG's Pregenerated File Archive](https://archive.random.org/)
 
 Text:  
 [Big List of Naughty Strings🐍](https://github.com/minimaxir/big-list-of-naughty-strings),
-[Microsoft's OneFuzz](https://github.com/microsoft/onefuzz)
+[Microsoft's OneFuzz🔌](https://github.com/microsoft/onefuzz)
+
+Node.js/Web:  
+[faker.js🔌](https://github.com/Marak/faker.js)
+
+JSON:  
+[JSONPlaceholder🔌](https://jsonplaceholder.typicode.com/)
+
+Users:  
+[Random User Generator🔌](https://randomuser.me/)
 
 Images:  
 [Random Bitmap Generator☁](https://www.random.org/bitmaps/)
 
-Raw data:  
-[RANDOM.ORG's Pregenerated File Archive](https://archive.random.org/)
+## Language-Specific Debuggers
 
-Audio:  
-[Audio Noise Generator☁](https://www.random.org/audio-noise/)
+async Rust:  
+[tokio-console](https://github.com/tokio-rs/console)
 
-## Manual Debugging
+C/C++:
+[Cppcheck](https://cppcheck.sourceforge.io/)
 
-Bug tracking:  
+Go:  
+[Golang security checker](https://github.com/securego/gosec),
+[gotestfmt](https://github.com/haveyoudebuggedit/gotestfmt)
+
+## Bug Tracking
+
 [Bugzilla🐧](https://www.bugzilla.org/),
+[GNU GNATS🐧](https://www.gnu.org/software/gnats/)
 [Mantis Bug Tracker🐧](https://www.mantisbt.org/),
 [Redmine⊞🐧](https://www.redmine.org/),
 [The Trac Project⊞🐧](https://trac.edgewall.org/)
 
-## Versioning
+## Version Control
 
-Version Control:  
 [Bitbucket⊞🐧](https://bitbucket.org/),
 [Git⊞■⌘🐧](https://git-scm.com/),
 [Github☁](https://github.com/)

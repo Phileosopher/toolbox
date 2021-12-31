@@ -20,6 +20,10 @@ Books:
 [Open Library](https://openlibrary.org/),
 [UPenn's The Online Books Page](https://onlinebooks.library.upenn.edu/)
 
+## Search Engines - Specific
+
+[TheSportsDB.com🔌](https://thesportsdb.com/)
+
 ## Location-Based
 
 Businesses in an area:  
@@ -30,6 +34,7 @@ Maps/geolocation:
 
 Weather:  
 [Weather Underground](https://www.wunderground.com/)
+[OpenWeatherMap API guide🔌](https://openweathermap.org/guide)
 
 Device's location tag:  
 [Where Am I](https://ctrlq.org/maps/where/)

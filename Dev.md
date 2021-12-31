@@ -30,7 +30,7 @@ Tutorials:
 [thefreecountry.com☁](https://www.thefreecountry.com/sourcecode/index.shtml)
 
 Tutorials:  
-[W3Schools☁](https://www.w3schools.com/), 
+[W3Schools☁](https://www.w3schools.com/),
 [Select Star SQL☁ - SQL](https://selectstarsql.com/)
 
 Dev advice:  

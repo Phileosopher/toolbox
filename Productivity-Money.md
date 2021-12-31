@@ -74,10 +74,6 @@ Intellectual properties - web domains:
 
 [Standard & Poor's*](https://www.standardandpoors.com/)
 
-Businesses:  
-[Better Business Bureau☁](https://www.bbb.org/),
-[Glassdoor☁](https://www.glassdoor.com/member/home/index.htm)
-
 Charities/NPO:  
 [Charity Navigator☁](https://www.charitynavigator.org/)
 

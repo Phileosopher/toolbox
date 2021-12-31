@@ -62,6 +62,7 @@ I've broken everything into malleable groupings, since there are *many* things t
 - □ for non-UI CLI-based tools, often requires [programming experience](https://techsplained.xyz/prog-basics).
 - ■ for standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/)).
 - 🐍 if it runs in Python
+- 🔌 if it's an API or has API documentation
 
 These are volatile out-of-the-box OS estimations for several reasons:
 

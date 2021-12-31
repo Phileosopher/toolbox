@@ -161,3 +161,22 @@ Remote boot management:
 Remote computer access:  
 [AnyDesk⊞⌘🐧🍎🤖](https://anydesk.com/),
 [Remote Utilities⊞⌘🐧🍎🤖](https://www.remoteutilities.com/)
+
+## Testing: Random Network Data
+
+MAC:  
+[MAC address generator☁](https://commentpicker.com/mac-address-generator.php)
+
+UUID/GUID:  
+[PortableApps.com's UUID-GUID Generator⊞■](https://portableapps.com/apps/utilities/uuid-guid_generator_portable)
+
+IP addresses:  
+[IP address generator☁](https://commentpicker.com/ip-address-generator.php)
+
+## APIs
+
+IP addresses:  
+[ipapi🔌](https://ipapi.com/)
+
+Internet speed test:  
+[SpeedOf.Me🔌](https://speedof.me/api.html)

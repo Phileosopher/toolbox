@@ -21,6 +21,9 @@ Singing training:
 Tone generation:  
 [Online Tone Generator☁](https://www.szynalski.com/tone-generator/)
 
+Audio Noise:  
+[Audio Noise Generator☁](https://www.random.org/audio-noise/)
+
 ## Foraging
 
 Sound effects:  
@@ -94,15 +97,15 @@ Gain adjustment:
 [MP3Gain⊞](http://mp3gain.sourceforge.net/)
 
 Metadata:  
-[Discogs*](https://www.discogs.com/)
+[Discogs*](https://www.discogs.com/),
 [Mp3tag⊞■⌘](https://www.mp3tag.de/en/),
 [MusicBrainz Picard⊞■⌘🐧](https://picard.musicbrainz.org/)
 
 Metadata - audiobooks:  
 [Chapter and Verse⊞](http://lodensoftware.com/chapter-and-verse/)
 
-## Code Libraries/Frameworks/Engines
+## APIs
 
 TTS:  
-[eSpeak NG□](https://github.com/espeak-ng/espeak-ng/),
-[Festival](http://www.cstr.ed.ac.uk/projects/festival/)
+[eSpeak NG□🔌](https://github.com/espeak-ng/espeak-ng/),
+[Festival🔌](http://www.cstr.ed.ac.uk/projects/festival/)

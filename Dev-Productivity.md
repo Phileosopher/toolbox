@@ -24,7 +24,7 @@ Themes:
 [blackbird](https://blackbird.mattglei.ch/)
 
 Fonts:  
-[Cozette](https://github.com/slavfox/Cozette), 
+[Cozette](https://github.com/slavfox/Cozette),
 [creep2](https://github.com/raymond-w-ko/creep2),
 [Dev Fonts](https://devfonts.gafi.dev/),
 [PICO-8.ttf + variants](https://www.lexaloffle.com/bbs/?tid=3760)

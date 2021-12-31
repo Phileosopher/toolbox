@@ -84,7 +84,7 @@ Delete on reboot:
 [Delete.On.Reboot⊞](https://www.softwareok.com/?seite=Freeware/Delete.On.Reboot)
 
 Opened window analysis:  
-[GUIPropView⊞■](https://www.nirsoft.net/utils/gui_prop_view.html), 
+[GUIPropView⊞■](https://www.nirsoft.net/utils/gui_prop_view.html),
 [WinInfo⊞■](http://www.pazera-software.com/products/wininfo/)
 
 Count process handles:  
