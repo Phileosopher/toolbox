@@ -9,6 +9,9 @@ Possible projects:
 New languages:  
 [pl-catalog☁](https://github.com/prathyvsh/pl-catalog)
 
+Unused GitHub usernames:  
+[terror/usernames: rare inactive github usernames!](https://github.com/terror/usernames)
+
 ## Planning
 
 Open-source licenses:  

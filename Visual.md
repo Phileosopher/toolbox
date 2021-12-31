@@ -1,5 +1,8 @@
 # Visual Design
 
+Design principles:  
+[Design Principles*](https://principles.design/)
+
 ## Inspiration
 
 [Sharpen☁](https://sharpen.design/)
@@ -27,3 +30,8 @@ Device metrics:
 
 Quick drawing:  
 [tldraw☁](https://www.tldraw.com/)
+
+## Sculpting
+
+Modeling/form material:  
+[Sugru](https://sugru.com/)

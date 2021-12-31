@@ -23,6 +23,9 @@ Headlamp
 Computer monitors:  
 [How To Convert Your Old Laptop Screen Into An External Monitor*](https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/)
 
+Raspberry Pi:  
+[fm_transmitter](https://github.com/markondej/fm_transmitter)
+
 ## Trust Issues
 
 Laptop/tablet:  

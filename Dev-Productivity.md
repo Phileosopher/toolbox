@@ -29,6 +29,11 @@ Fonts:
 [Dev Fonts](https://devfonts.gafi.dev/),
 [PICO-8.ttf + variants](https://www.lexaloffle.com/bbs/?tid=3760)
 
+## Text Modification
+
+Covert lines of text into a tree structure:  
+[frangipanni](https://github.com/birchb1024/frangipanni)
+
 ## Automatic Debugging
 
 Dynamic checking - C:  

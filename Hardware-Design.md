@@ -1,8 +1,5 @@
 # Hardware: Design
 
-Design principles:  
-[Design Principles*](https://principles.design/)
-
 ## Inspiration
 
 General design:  
@@ -14,11 +11,9 @@ Spatial dimensions:
 Mechanical programming:  
 [MockMechanics⊞🐧](https://mockmechanics.com/)
 
-## Physical Design
-
-[Sugru](https://sugru.com/)
-
 ## Simulations
+
+[SimPy🐍⇉🐧](https://pypi.org/project/simpy/)
 
 Mechanical experimentation:  
 [MockMechanics⊞■](https://mockmechanics.com/)
@@ -26,19 +21,23 @@ Mechanical experimentation:
 Physics models:  
 [Algodoo⊞⌘🍎](http://www.algodoo.com/)
 
-Simulations:  
-[SimPy(Python)⇉🐧](https://pypi.org/project/simpy/)
-
 Flight simulation:  
 [FlightGear⊞⌘🐧](https://www.flightgear.org/)
 
-Electrical design:  
-[Electric🐧](https://www.gnu.org/software/electric/)
+## CAD
 
-Electronic design:  
-[Coriolis VLSI CAD Tools](http://coriolis.lip6.fr/),
+[FreeCAD⊞■⌘🐧](https://www.freecadweb.org/)
+
+Home design:  
+[Easyhome Homestyler☁](https://www.homestyler.com),
+[Sweet Home 3D⊞⌘🐧](http://www.sweethome3d.com/)
+
+## TCAD
+
+[Electric🐧](https://www.gnu.org/software/electric/),
+[Fritzing⊞⌘🐧](https://fritzing.org/)
 [GNU Archimedes](https://www.gnu.org/software/archimedes/),
-[Luna](https://www.asicsforthemasses.com/)
+[KiCad⊞⌘🐧](https://www.kicad.org/)
 
 Circuit simulator:  
 [Circuitjs.html☁](https://www.falstad.com/circuit/circuitjs.html),
@@ -47,24 +46,27 @@ Circuit simulator:
 Circuit simulator - analog circuits:  
 [LTspice⊞⌘](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 
-Electronics design:  
-[Fritzing⊞⌘🐧](https://fritzing.org/)
-[KiCad⊞⌘🐧](https://www.kicad.org/)
+VLSI design:  
+[Coriolis VLSI CAD Tools](http://coriolis.lip6.fr/)
 
-## Design Software
+>100nm IC processes:  
+[Luna](https://www.asicsforthemasses.com/),
+[SkyWater SKY130 PDK](https://skywater-pdk.readthedocs.io/en/main/)
 
-CAD:  
-[FreeCAD⊞■⌘🐧](https://www.freecadweb.org/)
+## Robotics
 
-Home design:  
-[Easyhome Homestyler☁](https://www.homestyler.com),
-[Sweet Home 3D⊞⌘🐧](http://www.sweethome3d.com/)
+OS:  
+[ROS⊞⌘🐧](https://www.ros.org/)
 
-Industrial/tech parts:  
-[Octopart☁](https://octopart.com/)
+Middleware:  
+[YARP⊞⌘🐧](https://www.yarp.it/)
 
-CPUs:  
-[SkyWater PDK](https://skywater-pdk.readthedocs.io/en/latest/)
+Debugging/testing:  
+[Foxglove⊞⌘🐧⇉](https://foxglove.dev/)
 
 Smartphone robots:  
 [OpenBot🍎🤖](https://www.openbot.org/)
+
+## Parts Shopping
+
+[Octopart☁](https://octopart.com/)

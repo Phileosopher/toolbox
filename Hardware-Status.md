@@ -34,6 +34,7 @@ HD:
 
 Laptop Battery:  
 [BATExpert⊞](https://kcsoftwares.com/?batexpert)
+[BatteryInfoView⊞■](https://www.nirsoft.net/utils/battery_information_view.html)
 
 ## Aesthetics
 

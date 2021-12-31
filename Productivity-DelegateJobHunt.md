@@ -10,6 +10,7 @@ Social networks:
 
 Web profile pages:  
 [about.me☁](https://about.me),
+[Read.cv☁](https://read.cv/),
 [The Creative Passport☁](https://www.creativepassport.net/),
 [urspace☁](https://urspace.io/)
 
@@ -100,7 +101,11 @@ Fast food deliveries:
 Home service contractors:  
 [Angi☁](https://www.angi.com/)
 
-## Freelancing job boards -  Other
+## Freelancing Job Boards - Remote Work
+
+[RemoteOK](https://remoteok.com/)
+
+## Freelancing Job boards -  Other
 
 [Cision's ProfNet☁](https://profnet.prnewswire.com/profnethome/what-is-profnet.aspx),
 [Coursera's Expert Network☁](https://experts.coursera.org/),
@@ -123,7 +128,8 @@ Financial advice:
 ## Technology-specific
 
 Job boards:  
-[Dice☁](https://www.dice.com/)
+[Dice☁](https://www.dice.com/),
+[Stack Overflow Jobs☁](https://stackoverflow.com/jobs)
 
 Job boards - geographically-based:  
 [whoishiring.io☁](https://whoishiring.io/)
