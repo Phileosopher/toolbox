@@ -36,6 +36,9 @@ Laptop Battery:
 [BATExpert⊞](https://kcsoftwares.com/?batexpert)
 [BatteryInfoView⊞■](https://www.nirsoft.net/utils/battery_information_view.html)
 
+Printer:  
+[Print Test Page OK⊞■](https://softwareok.com/?seite=Microsoft%2FPrint.Test.Page.OK)
+
 ## Aesthetics
 
 RGB control:  
