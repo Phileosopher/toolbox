@@ -214,6 +214,10 @@ YouTube:
 [FreeTube⊞⌘🐧](https://freetubeapp.io/),
 [YouTube™ Vanced🤖](https://vancedapp.com/)
 
+YouTube alternative:  
+[BitChute☁](https://www.bitchute.com/),
+[Odysee☁](https://odysee.com/)
+
 ## With Facebook
 
 Oculus VR headset:  
