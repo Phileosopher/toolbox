@@ -18,6 +18,13 @@ Protective gloves
 
 Headlamp
 
+## Shopping
+
+[Geizhals Preisvergleich☁](https://geizhals.eu/)
+
+Parts shopping:  
+[Octopart☁](https://octopart.com/)
+
 ## Repurposing Hardware
 
 Computer monitors:  
@@ -26,16 +33,6 @@ Computer monitors:
 Raspberry Pi:  
 [fm_transmitter](https://github.com/markondej/fm_transmitter)
 
-## Trust Issues
-
-Laptop/tablet:  
-[PINEBOOK Pro](https://www.pine64.org/pinebook-pro/),
-[PINETAB](https://www.pine64.org/pinetab/)
-
-Phone:  
-[PINEPHONE](https://www.pine64.org/pinephone/),
-[Purism's Librem](https://puri.sm/products/librem-5/)
-
 ## Repairs
 
 [Fix-It Club*](https://fixitclub.com/)
@@ -43,6 +40,5 @@ Phone:
 Repair clay/glue:  
 [Sugru](https://sugru.com/)
 
-## Purchasing
-
-[Geizhals Preisvergleich☁](https://geizhals.eu/)
+Testing/measurement:  
+[EEZ](https://www.envox.eu/)

@@ -36,6 +36,9 @@ Convert image numbers to CSV:
 Reversing text:  
 [Reverse Text☁](https://commentpicker.com/reverse-text.php)
 
+Chinese characters:  
+[rrpl](https://github.com/LingDong-/rrpl)
+
 ## Text Conversion
 
 [Convertio's Ebook Converter☁](https://convertio.co/ebook-converter/),

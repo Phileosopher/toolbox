@@ -15,6 +15,24 @@ Drive encryption:
 Shut down when unplugging USB device:  
 [usbkill🐧](https://github.com/hephaest0s/usbkill)
 
+## Privacy-Focused Hardware Vendors
+
+Multiple:  
+[PINE64 (e.g., PinePhone)](https://www.pine64.org/pinephone/),
+[Purism (e.g., Librem phone)](https://puri.sm/),
+
+Phones:  
+[Fairphone](https://www.fairphone.com/),
+[F(x)tec](https://www.fxtec.com/)
+
+Laptops/PCs:  
+[Framework](https://frame.work/),
+[Insurgo Technologies Libres](https://insurgo.ca/),
+[SLIMBOOK](https://slimbook.es/),
+[One Education](https://www.one-education.org/),
+[MNT Research GmbH](https://mntre.com/),
+[System76](https://system76.com/)
+
 ## Anonymity - Network
 
 IP address tools:  
@@ -55,6 +73,7 @@ WebRTC testing:
 ## Anonymity - Browser
 
 Web browser:  
+[Firefox Browser⊞■⌘🐧🍎🤖](https://www.mozilla.org/en-US/firefox/new/),
 [Tor Browser⊞⌘🐧🤖](https://www.torproject.org/)
 
 Browser fingerprint:  
@@ -194,6 +213,11 @@ Google Play Services:
 YouTube:  
 [FreeTube⊞⌘🐧](https://freetubeapp.io/),
 [YouTube™ Vanced🤖](https://vancedapp.com/)
+
+## With Facebook
+
+Oculus VR headset:  
+[Oculess](https://github.com/basti564/Oculess)
 
 ## With Microsoft
 

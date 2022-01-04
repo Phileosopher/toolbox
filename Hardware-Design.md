@@ -11,6 +11,9 @@ Spatial dimensions:
 Mechanical programming:  
 [MockMechanics⊞🐧](https://mockmechanics.com/)
 
+Schematics/model search engine:  
+[Component Search Engine☁](https://componentsearchengine.com/)
+
 ## Simulations
 
 [SimPy🐍⇉🐧](https://pypi.org/project/simpy/)
@@ -39,6 +42,9 @@ Home design:
 [GNU Archimedes](https://www.gnu.org/software/archimedes/),
 [KiCad⊞⌘🐧](https://www.kicad.org/)
 
+HDL:  
+[SpinalHDL](https://github.com/SpinalHDL)
+
 Circuit simulator:  
 [Circuitjs.html☁](https://www.falstad.com/circuit/circuitjs.html),
 [CircuitLab☁](https://www.circuitlab.com/)
@@ -51,7 +57,22 @@ VLSI design:
 
 >100nm IC processes:  
 [Luna](https://www.asicsforthemasses.com/),
+[Mosaic](https://nyancad.github.io/Mosaic/),
 [SkyWater SKY130 PDK](https://skywater-pdk.readthedocs.io/en/main/)
+
+PCB editor:  
+[pcb-rnd](http://repo.hu/projects/pcb-rnd/)
+
+EDA tools:  
+[edalize🐍](https://github.com/olofk/edalize),
+[Libre Silicon](https://libresilicon.com/),
+[LibreSilicon's Standard Cell Library](https://github.com/chipforge/StdCellLib)
+
+## Housing
+
+[DAN Cases](https://www.dan-cases.com/),
+[LOUQE](https://www.louqe.com/),
+[teenage engineering](https://teenage.engineering/)
 
 ## Robotics
 
@@ -66,7 +87,3 @@ Debugging/testing:
 
 Smartphone robots:  
 [OpenBot🍎🤖](https://www.openbot.org/)
-
-## Parts Shopping
-
-[Octopart☁](https://octopart.com/)
