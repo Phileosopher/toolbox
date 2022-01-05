@@ -33,6 +33,11 @@ Fonts:
 Font Tournament:  
 [Coding Font by Typogram☁](https://www.codingfont.com/)
 
+## IDE Enhancement - Git Improvement
+
+Auto-save a separate branch for ALL work:  
+[dura](https://github.com/tkellogg/dura)
+
 ## Text Modification
 
 Covert lines of text into a tree structure:  

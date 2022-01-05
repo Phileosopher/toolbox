@@ -95,6 +95,9 @@ CS books - recommendations:
 [Hacker News Books](https://hackernewsbooks.com/),
 [HackerNews Readings](https://hacker-recommended-books.vercel.app/)
 
+Free CS classes:  
+[open-source-cs](https://github.com/ForrestKnight/open-source-cs)
+
 Machine learning research papers:  
 [OpenReview](https://openreview.net/)
 

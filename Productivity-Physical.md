@@ -11,6 +11,9 @@ Produce in season:
 Recipes:  
 [Allrecipes*](https://www.allrecipes.com/)
 
+Recipes - simplified information:  
+[Only Recipe🍎🤖](https://showcase.onlyrecipe.app/)
+
 Recipes - base components:  
 [Based Cooking*](https://based.cooking/)
 
