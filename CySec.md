@@ -2,12 +2,24 @@
 
 ## Virus Scans
 
+[VirusTotal☁](https://www.virustotal.com/)
+
 Malware scan:  
 [Jotti's malware scan☁](https://virusscan.jotti.org/)
 
 Antivirus software:  
 [ClamAV⊞⌘🐧□](https://www.clamav.net/)
 [ClamWin⊞■](http://www.clamwin.com/)
+
+Website scan:  
+[Unmask Parasites☁](https://unmask.sucuri.net/),
+[Zscaler☁](https://zulu.zscaler.com/)
+
+Website scan - trackers:  
+[The Markup's Blacklight☁](https://themarkup.org/blacklight)
+
+Browser/plugins scan:  
+[Qualys BrowserCheck☁](https://browsercheck.qualys.com/)
 
 APK scan:  
 [APKLeaks□](https://github.com/dwisiswant0/apkleaks)
@@ -85,6 +97,10 @@ DVDs:
 
 Reconstruction of events - UNIX-like system:  
 [The Coroner's Toolkit](http://www.porcupine.org/forensics/tct.html)
+
+## Surveillance
+
+[SmartPSS⊞⌘](https://us.dahuasecurity.com/?product=smartpss)
 
 ## Security Events
 

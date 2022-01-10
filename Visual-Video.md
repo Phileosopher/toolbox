@@ -43,7 +43,9 @@ Math animations:
 
 Convert video:  
 [HandBrake⊞⌘🐧](https://handbrake.fr/),
-[TEncoder Video Converter⊞■](https://www.fosshub.com/TAudioConverter.html)
+[TEncoder Video Converter⊞■](https://www.fosshub.com/TAudioConverter.html),
+[Any Video Converter⊞⌘](https://www.anvsoft.com/any-video-converter-free.html),
+[WebBrowserTools' Video Converter☁](https://webbrowsertools.com/video-converter/)
 
 Convert video to GIF:  
 [EZGif.com's video to GIF converter☁](https://ezgif.com/video-to-gif),

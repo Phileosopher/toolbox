@@ -49,6 +49,9 @@ Stock music:
 Live music:  
 [Live Music Archive](https://archive.org/details/etree)
 
+Auto-generation - convert spoken languages:  
+[Coqui☁](https://coqui.ai/)
+
 ## Performing
 
 Recording/mixing audio:  
@@ -108,4 +111,5 @@ Metadata - audiobooks:
 
 TTS:  
 [eSpeak NG□🔌](https://github.com/espeak-ng/espeak-ng/),
-[Festival🔌](http://www.cstr.ed.ac.uk/projects/festival/)
+[Festival🔌](http://www.cstr.ed.ac.uk/projects/festival/),
+[Coqui's YourTTS](https://coqui.ai/blog/tts/yourtts-zero-shot-text-synthesis-low-resource-languages)

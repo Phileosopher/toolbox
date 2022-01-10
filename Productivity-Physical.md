@@ -59,3 +59,11 @@ Weightlifting comparison:
 
 Muscle focus:  
 [MuscleWiki☁](https://musclewiki.com/)
+
+## Other
+
+Hay:  
+[Internet Hay Exchange☁](http://www.hayexchange.com/)
+
+Church supplies:  
+[Churchsupplier☁](https://www.churchsupplier.com/)

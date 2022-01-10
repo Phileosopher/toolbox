@@ -1,18 +1,5 @@
 # Hardware: Networks
 
-## L1 Physical - Network Documentation
-
-- Physical cable map (with a floor plan if possible)
-- Switch port mapping
-- Service provider connection and contact information
-- IP address allocation
-- Network diagram
-- Encrypted credential vault
-- Rack layout (useful)
-- WAP layout (useful)
-- Asset tracking (useful)
-- STP Snapshot (useful)
-
 ## L1 Physical - Mobile
 
 Mobile bandwidth reference:  
@@ -96,6 +83,13 @@ WiFi:
 WiFi network QR code:  
 [WiFi Card☁](https://wificard.io/)
 
+UUID/GUID generator:  
+[Comment Picker's UUID Generator☁](https://commentpicker.com/uuid-generator.php),
+[UUIDTools.com's List of UUID Generators☁](https://www.uuidtools.com/generate)
+
+UUID decoding:  
+[UUIDTools.com's UUID Decoder☁](https://www.uuidtools.com/decode)
+
 ## L3 Network
 
 [See Hardware-Net-Internet.md for internet-based tools](https://github.com/Phileosopher/toolbox/blob/master/Hardware-Net-Internet.md)
@@ -103,11 +97,21 @@ WiFi network QR code:
 Outgoing port test:  
 [Outgoing Port Tester☁](http://52.47.209.216/)
 
+IP management:  
+[NIPAP🐧](https://spritelink.github.io/NIPAP/),
+[SolarWinds' ipMonitor Free Edition⊞](https://www.solarwinds.com/free-tools/ipmonitor-free)
+
+IP management - subnet calculator:  
+[SolarWinds' Advanced Subnet Calculator☁](https://www.solarwinds.com/free-tools/advanced-subnet-calculator)
+
 Router traffic analysis:  
 [MRTG (Multi Router Traffic Grapher)⊞⌘🐧](https://oss.oetiker.ch/mrtg/)
 
 IoT server:  
 [Home Assistant⊞⌘🐧🍎🤖](https://www.home-assistant.io/)
+
+IPMI:  
+[FreeIPMI🐧](https://www.gnu.org/software/freeipmi/)
 
 ## L4 Transport
 

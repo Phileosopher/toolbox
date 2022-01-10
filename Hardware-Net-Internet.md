@@ -7,23 +7,44 @@ Tech support basic information:
 
 ## Probes
 
-IP probe:  
+IP scan:  
 [Angry IP Scanner⊞⌘🐧](https://angryip.org/),
-[IPAddress.com☁](https://www.ipaddress.com/),
-[WhatIsMyIPAddress.com's IP Lookup☁](https://whatismyipaddress.com/ip-lookup)
+[FastResolver⊞■](https://www.nirsoft.net/utils/fastresolver.html),
 
-IP lookup:  
-[Reverse IP Lookup](https://www.yougetsignal.com/tools/web-sites-on-web-server/)
+IP scan - NetBIOS:  
+[NetBScanner⊞■](https://www.nirsoft.net/utils/netbios_scanner.html)
+
+IP lookup/info:  
+[Get Hostname from IP Address☁](https://ismyportopen.com/hostname-from-ip-address/),
+[IPAddress.com☁](https://www.ipaddress.com/),
+[IPNetInfo⊞■](https://www.nirsoft.net/utils/ipnetinfo.html),
+[Reverse IP Lookup☁](https://www.yougetsignal.com/tools/web-sites-on-web-server/),
+[Reverse IP Lookup☁](https://www.ipaddress.com/reverse-ip-lookup),
+[WhatIsMyIPAddress.com's IP Lookup☁](https://whatismyipaddress.com/ip-lookup),
+[WhoisCL⊞■□](https://www.nirsoft.net/utils/whoiscl.html),
+[WhosIP⊞■□](https://www.nirsoft.net/utils/whosip.html)
+
+IP lookup/info - offline:  
+[IPInfoOffline⊞■](https://www.nirsoft.net/utils/ip_country_info_offline.html)
 
 DNS probe:  
 [DNSdumpster.com☁](https://dnsdumpster.com/),
-[Dnsutils🐧](https://packages.debian.org/jessie/dnsutils),
+[Dnsutils🐧](https://pkgs.org/download/dnsutils),
 [Google's Dig☁](https://toolbox.googleapps.com/apps/dig/),
 [whatsmydns.net☁](https://www.whatsmydns.net/),
 [Google's Check MX☁](https://toolbox.googleapps.com/apps/checkmx/),
-[WhoDat⊞■](https://portableapps.com/apps/utilities/whodat-portable)
 
-tracert/ping GUI:
+WHOIS data:  
+[WhoDat⊞■](https://portableapps.com/apps/utilities/whodat-portable),
+[WhoisCL⊞■□](https://www.nirsoft.net/utils/whoiscl.html),
+[WhoisThisDomain⊞■](https://www.nirsoft.net/utils/whois_this_domain.html)
+
+nslookup GUI:  
+[DNSDataView⊞■](https://www.nirsoft.net/utils/dns_records_viewer.html)
+
+tracert/ping GUI:  
+[CountryTraceroute⊞■](https://www.nirsoft.net/utils/country_traceroute.html),
+[PingPlotter⊞⌘🍎](https://www.pingplotter.com/),
 [WinMTR⊞■🐧](https://www.bitwizard.nl/mtr/)
 
 Network discovery:  

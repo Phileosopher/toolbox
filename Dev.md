@@ -49,3 +49,8 @@ Entire apps:
 [FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev),
 [Free for developers](https://free-for.dev/),
 [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)
+
+## Terminal Design
+
+Style definitions:  
+[lipgloss](https://github.com/charmbracelet/lipgloss)

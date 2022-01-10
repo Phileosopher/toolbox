@@ -9,6 +9,9 @@ Screenshots:
 From Office files:  
 [Office.Files.Images⊞](https://www.softwareok.com/?seite=Freeware/Office.Files.Images)
 
+Text output to image:  
+[WebBrowserTools' Text to Image☁](https://webbrowsertools.com/text-to-image/)
+
 ## Image Analysis
 
 [Image Processing Lab⊞](http://www.aforgenet.com/projects/iplab/)

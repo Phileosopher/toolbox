@@ -74,6 +74,9 @@ Data from existing content:
 [YouTube Tag Extractor☁](https://commentpicker.com/youtube-tag-extractor.php),
 [YouTube video ID & YouTube video thumbnails☁](https://commentpicker.com/youtube-video-id.php)
 
+User research:  
+[Sprig](https://sprig.com/)
+
 Email capture:  
 [Sumo](https://sumo.com/)
 
@@ -90,10 +93,12 @@ Niche branding:
 Paper printing:  
 [Vistaprint☁](https://www.vistaprint.com/?dr=1&GP=10%2f03%2f2021+16%3a46%3a00&GPS=6072624117&GNF=0)
 
-Church supplies:  
-[Churchsupplier☁](https://www.churchsupplier.com/)
-
 ## Computer Networking
 
 IP address info:  
 [IPinfo.io☁](https://ipinfo.io/)
+
+## Supply Chains
+
+Supplier RFQs/quotes:  
+[Jiga☁](https://jiga.io/)

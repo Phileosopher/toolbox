@@ -33,6 +33,9 @@ Laptops/PCs:
 [MNT Research GmbH](https://mntre.com/),
 [System76](https://system76.com/)
 
+GPS devices:  
+[Meshtastic](https://meshtastic.org/)
+
 ## Anonymity - Network
 
 IP address tools:  

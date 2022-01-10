@@ -30,6 +30,9 @@ Fonts:
 [Input](https://input.djr.com/),
 [PICO-8.ttf + variants](https://www.lexaloffle.com/bbs/?tid=3760)
 
+Dark theme:  
+[Dracula](https://draculatheme.com/)
+
 Font Tournament:  
 [Coding Font by Typogram☁](https://www.codingfont.com/)
 
@@ -37,6 +40,11 @@ Font Tournament:
 
 Auto-save a separate branch for ALL work:  
 [dura](https://github.com/tkellogg/dura)
+
+## Quick-Reference
+
+Time standards:  
+[RFC 3339 vs ISO 8601*](https://ijmacd.github.io/rfc3339-iso8601/)
 
 ## Text Modification
 

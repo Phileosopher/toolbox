@@ -39,6 +39,9 @@ Windows 98:
 Mac OS 8.1:  
 [classic.css](https://github.com/npjg/classic.css)
 
+Mac OS 9
+[Mac OS 9 Figma UI Kit](https://www.figma.com/community/file/966779730364082883)
+
 GeoCities:  
 [Geo for Bootstrap](https://code.divshot.com/geo-bootstrap/)
 
