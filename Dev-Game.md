@@ -3,11 +3,20 @@
 ## Source Code
 
 Full games:  
+[0 A.D.](https://play0ad.com/game-info/project-overview/),
 [Amnesia: The Dark Descent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent),
 [Amnesia: A Machine For Pigs](https://github.com/FrictionalGames/AmnesiaAMachineForPigs),
-[Command & Conquer/Red Alert](https://github.com/electronicarts/CnC_Remastered_Collection),
+[Command & Conquer/Red Alert](https://github.com/electronicarts/CnC_Remastered_Collection) (and [OpenRA, an open-source remake](https://www.openra.net/)),
+[Citybound](https://aeplay.org/citybound),
 [Elite (for the BBC Micro)](https://www.bbcelite.com/),
-[VVVVVV](https://github.com/TerryCavanagh/vvvvvv)
+[Orbiter Space Flight Simulator](https://github.com/orbitersim/orbiter),
+[Redirection](https://github.com/dan200/Redirection),
+[shapez.io](https://github.com/tobspr/shapez.io),
+[Space Nerds In Space](https://smcameron.github.io/space-nerds-in-space/),
+[The Battle for Wesnoth](https://www.wesnoth.org/),
+[Veloren](https://veloren.net/),
+[VVVVVV](https://github.com/TerryCavanagh/vvvvvv),
+[Widelands](https://www.widelands.org/)
 
 ## Specific Game Engines
 
@@ -22,6 +31,9 @@ Web games:
 [Godot Engine](https://godotengine.org/),
 [Unreal Engine](https://www.unrealengine.com/),
 [Source SDK](https://developer.valvesoftware.com/wiki/SDK_Installation)
+
+RTS:  
+[permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine)
 
 ## Front-End Engines
 

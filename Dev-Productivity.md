@@ -11,9 +11,12 @@ IDEs:
 [Microsoft Visual Studio⊞⌘🐧](https://visualstudio.microsoft.com/),
 [VSCodium⊞⌘🐧](https://vscodium.com/)
 
-IDEs - Specific:  
+IDE - specific needs:  
 [Android SDK⊞⌘🐧](https://developer.android.com/studio/),
 [Xcode⌘🍎](https://developer.apple.com/xcode/)
+
+IDE - browser-based:  
+[Visual Studio Code☁](https://vscode.dev/)
 
 Distraction-free coding videos:  
 [CodeOnVideo☁](https://codeonvideo.com/)
@@ -60,3 +63,12 @@ Dynamic checking - C:
 
 [Kite](https://www.kite.com/),
 [Tabnine](https://www.tabnine.com/)
+
+## Documentation
+
+View line-by-line changes:  
+[git-blame](https://www.git-scm.com/docs/git-blame),
+[GitLens(VS Code)](https://gitlens.amod.io/)
+
+Changelog parser:  
+[changelog-parser(NodeJS)](https://github.com/hypermodules/changelog-parser)
