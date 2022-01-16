@@ -40,6 +40,9 @@ Samples/loops:
 [Facebook Design's Sound Kit for Prototypes](https://facebook.design/soundkit)
 
 Stock music:  
+[Magnatune](http://magnatune.com/)
+
+Free stock music:  
 [cchound.com](https://cchound.com/),
 [Free Music Archive](https://freemusicarchive.org/),
 [Icons8 Fugue](https://icons8.com/music),

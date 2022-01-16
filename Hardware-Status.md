@@ -14,6 +14,9 @@ CPU/motherboard:
 [CPU-Z⊞■](https://www.cpuid.com/softwares/cpu-z.html),
 [Prime95⊞](https://prime95.en.lo4d.com/windows)
 
+CPU - microcode:  
+[MCExtractor](https://github.com/platomav/MCExtractor)
+
 RAM:  
 [MemTest86⊞■🐧](https://www.memtest86.com/),
 [QuickMemoryTestOK⊞](https://softwareok.com/?seite=Microsoft%2FQuickMemoryTestOK),

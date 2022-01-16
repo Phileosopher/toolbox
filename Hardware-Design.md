@@ -37,10 +37,12 @@ Home design:
 
 ## TCAD
 
+[Chips4Makers](https://chips4makers.io/)
 [Electric🐧](https://www.gnu.org/software/electric/),
-[Fritzing⊞⌘🐧](https://fritzing.org/)
+[Fritzing⊞⌘🐧](https://fritzing.org/),
 [GNU Archimedes](https://www.gnu.org/software/archimedes/),
-[KiCad⊞⌘🐧](https://www.kicad.org/)
+[KiCad⊞⌘🐧](https://www.kicad.org/),
+[LibrEDA](https://libreda.org/)
 
 HDL:  
 [SpinalHDL](https://github.com/SpinalHDL)
@@ -68,7 +70,7 @@ EDA tools:
 [Libre Silicon](https://libresilicon.com/),
 [LibreSilicon's Standard Cell Library](https://github.com/chipforge/StdCellLib)
 
-## Housing
+## Computer Housing
 
 [DAN Cases](https://www.dan-cases.com/),
 [LOUQE](https://www.louqe.com/),

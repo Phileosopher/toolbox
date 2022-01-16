@@ -90,3 +90,8 @@ Mouse jiggler (keep screensaver/sleep from activating):
 [Don't Sleep⊞](https://www.softwareok.com/?seite=Microsoft/DontSleep),
 [Mouse Jiggler⊞](https://mousejiggler.org/),
 [ScreenSaver Mouse Jiggler (needs an Arduino)](https://github.com/nshadov/screensaver-mouse-jiggler)
+
+## BIOS
+
+Flashing:  
+[Zerocat CHIPFLASHER](http://www.zerocat.org/chipflasher.html)
