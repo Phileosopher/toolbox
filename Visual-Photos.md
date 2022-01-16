@@ -18,7 +18,8 @@ Drawing/painting:
 [Photopea☁](https://www.photopea.com/)
 
 Drawing/painting - AI-assisted:  
-[Google's AutoDraw☁](https://www.autodraw.com/)
+[Google's AutoDraw☁](https://www.autodraw.com/),
+[NVIDIA Canvas⊞](https://www.nvidia.com/en-gb/studio/canvas/)
 
 Icons/cursors:  
 [GFIE Pro⊞■🐧](http://greenfishsoftware.org/)

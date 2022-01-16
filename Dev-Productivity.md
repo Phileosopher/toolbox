@@ -4,22 +4,28 @@ Cheat sheets:
 [Code House☁](https://codehouse.vercel.app/),
 [OverAPI.com*](http://overapi.com/)
 
-IDEs:  
+Distraction-free coding videos:  
+[CodeOnVideo☁](https://codeonvideo.com/)
+
+## IDEs
+
 [Apache NetBeans⊞⌘🐧](https://netbeans.org/),
 [GNU Emacs⊞⌘🐧](https://www.gnu.org/software/emacs/),
 [vim⊞■⌘🐧](https://www.vim.org/),
 [Microsoft Visual Studio⊞⌘🐧](https://visualstudio.microsoft.com/),
 [VSCodium⊞⌘🐧](https://vscodium.com/)
 
-IDE - specific needs:  
-[Android SDK⊞⌘🐧](https://developer.android.com/studio/),
-[Xcode⌘🍎](https://developer.apple.com/xcode/)
-
-IDE - browser-based:  
+Browser-based IDE:  
 [Visual Studio Code☁](https://vscode.dev/)
 
-Distraction-free coding videos:  
-[CodeOnVideo☁](https://codeonvideo.com/)
+Android-tailored:  
+[Android SDK⊞⌘🐧](https://developer.android.com/studio/),
+
+Apple-tailored:  
+[Xcode⌘🍎](https://developer.apple.com/xcode/)
+
+Linux-tailored:  
+[The GTK Project⊞⌘🐧](https://gtk.org/)
 
 ## IDE Enhancement
 

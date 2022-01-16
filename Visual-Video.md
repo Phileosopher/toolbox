@@ -25,7 +25,7 @@ Team editing:
 File conversion/recording:  
 [FFmpeg⊞⌘🐧□](https://www.ffmpeg.org/)
 
-## Auto-Rendering - Video
+## Auto-Rendering
 
 3D:  
 [Source Filmmaker⊞](https://store.steampowered.com/app/1840/Source_Filmmaker/)

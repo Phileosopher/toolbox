@@ -6,6 +6,12 @@ Themes/templates:
 [Cruip*](https://cruip.com/),
 [Wicked Templates*](https://www.wickedtemplates.com/demos)
 
+## UI Libraries
+
+Material design:
+[Material Design Lite(no framework dependencies)](https://getmdl.io/index.html),
+[MUI(React)](https://mui.com/)
+
 ## Element-Specific Libraries: General Animations
 
 Step-by-step walkthrough for users:  
@@ -13,6 +19,7 @@ Step-by-step walkthrough for users:
 
 Animations/SVGs:  
 [anime.js](https://animejs.com/),
+[LottieFiles](https://lottiefiles.com/),
 [tween.js](https://github.com/sole/tween.js)
 
 SVGs:  

@@ -17,7 +17,8 @@ Nintendo Entertainment System:
 [NES.css](https://nostalgic-css.github.io/NES.css/)
 
 MS-DOS:  
-[BOOTSTRA.386](https://kristopolous.github.io/BOOTSTRA.386/)
+[BOOTSTRA.386](https://kristopolous.github.io/BOOTSTRA.386/),
+[dos-like](https://github.com/mattiasgustavsson/dos-like)
 
 Commodore 64:  
 [CSS3 C64](https://pixelambacht.nl/2013/css3-c64/)
@@ -56,11 +57,16 @@ Windows 10:
 
 ## Other styles/themes
 
+Minimalism:  
+[GDCSS](https://gdcss.netlify.app/),
+[Material Design](https://material.io/design),
+
 Futuristic sci-fi:  
 [Arwes](https://arwes.dev/),
 [augmented-ui](https://augmented-ui.com/)
 
 Hand-drawn sketch feel:  
+[DoodleCSS](https://chr15m.github.io/DoodleCSS/),
 [PaperCSS](https://www.getpapercss.com/),
 [Rough.js](https://github.com/rough-stuff/rough),
 [Wired Elements](https://wiredjs.com/)
@@ -77,6 +83,9 @@ Brutalism:
 Print-friendly:  
 [Gutenberg](https://github.com/BafS/Gutenberg)
 
+Checkbox rendering:  
+[Checkboxland](https://www.bryanbraun.com/checkboxland/)
+
 ## Text-Specific Styling
 
 3D typography:  
@@ -87,6 +96,9 @@ Annotation styling:
 
 Text-to-handwriting:  
 [Calligrapher.ai☁](https://www.calligrapher.ai/)
+
+Sparkline typeface (without code):  
+[sparks](https://github.com/aftertheflood/sparks)
 
 ## Specific Visual Features
 

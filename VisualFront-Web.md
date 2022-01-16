@@ -32,12 +32,6 @@ Support tables:
 Browser:  
 [Responsively⊞⌘🐧](https://responsively.app/)
 
-## Frameworks/Engines
-
-Cross-platform webapps:  
-[Electron](https://www.electronjs.org/),
-[NW.js](https://nwjs.io/)
-
 ## Usability Testing
 
 Also check out [Hardware-Net.md, Layers 6-7](https://github.com/Phileosopher/toolbox/blob/master/Hardware-Net.md)

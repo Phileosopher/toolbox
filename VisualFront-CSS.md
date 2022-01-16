@@ -48,10 +48,25 @@ Minimalism:
 [chota](https://jenil.github.io/chota/),
 [Water.css](https://watercss.kognise.dev/)
 
+## Framework-free Non-CSS-Reset UI Libraries
+
+[Blaze UI](https://www.blazeui.com/),
+[modern-normalize](https://github.com/sindresorhus/modern-normalize),
+[Normalize.css](https://necolas.github.io/normalize.css/),
+[Reseter.css](https://github.com/resetercss/reseter.css),
+[Shoelace](https://shoelace.style/)
+
+## Classless CSS Frameworks
+
+[Simple.css](https://simplecss.org/)
+
 ## Specific Visual Effects/Code Snips
 
 [Bootstrap 4 Cheat Sheet*](https://hackerthemes.com/bootstrap-cheatsheet/),
 [codrops' CSS Reference*](https://tympanus.net/codrops/css_reference/)
+
+CSS reset:  
+[CSS Bed](https://www.cssbed.com/)
 
 Backgrounds - live backgrounds:  
 [makebackground.io☁](https://makebackground.io/)

@@ -3,7 +3,7 @@
 Split peripheral use on same device:  
 [Universal Split Screen⊞](https://universalsplitscreen.github.io/)
 
-## PC/Mobile Integration
+## PC/Device Integration
 
 [Wormhole⊞⌘🐧🍎🤖](https://er.run/)
 
@@ -12,6 +12,9 @@ iOS - file management and jailbreak:
 
 Android - file management and root:  
 [Odin3⊞](https://odin3download.com/)
+
+TV - root:  
+[RootMyTV](https://rootmy.tv/)
 
 ## Virtualization
 
