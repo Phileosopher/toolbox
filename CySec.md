@@ -61,6 +61,9 @@ Folder synchronization:
 [MEGA☁⊞■⌘🐧🍎🤖□](https://mega.nz/),
 [Nextcloud⊞■⌘🐧🍎🤖⇉](https://nextcloud.com/)
 
+Drive backup:  
+[TeraCopy⊞⌘🤖](https://www.codesector.com/teracopy)
+
 CD/DVD:
 [Clonezilla⊞⌘🐧🍎🤖](https://clonezilla.org/)
 

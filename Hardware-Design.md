@@ -62,6 +62,9 @@ VLSI design:
 [Mosaic](https://nyancad.github.io/Mosaic/),
 [SkyWater SKY130 PDK](https://skywater-pdk.readthedocs.io/en/main/)
 
+Nanotechnology:  
+[Nano-Archimedes](https://www.gnu.org/software/nano-archimedes/)
+
 PCB editor:  
 [pcb-rnd](http://repo.hu/projects/pcb-rnd/)
 
@@ -89,3 +92,7 @@ Debugging/testing:
 
 Smartphone robots:  
 [OpenBot🍎🤖](https://www.openbot.org/)
+
+## Quantum Computing
+
+[Quantiki's List of QC simulators](https://quantiki.org/wiki/list-qc-simulators)

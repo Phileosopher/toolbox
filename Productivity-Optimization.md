@@ -58,7 +58,8 @@ App/site blocking:
 [Intention⇉](https://www.getintention.com/)
 
 Interface config:  
-[FreeCommander⊞■](https://freecommander.com/en/summary/)
+[FreeCommander⊞■](https://freecommander.com/en/summary/),
+[FileVoyager⊞■](https://www.filevoyager.com/)
 
 Desktop icon positions:  
 [DesktopOK⊞](https://www.softwareok.com/?seite=Freeware/DesktopOK)

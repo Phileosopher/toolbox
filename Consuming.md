@@ -42,7 +42,9 @@ Wikipedia UI update:
 ## Downloading
 
 Download manager:  
-[Free Download Manager⊞⌘🐧](https://www.freedownloadmanager.org/)
+[Free Download Manager⊞⌘🐧](https://www.freedownloadmanager.org/),
+[uGet⊞■⌘🐧](https://ugetdm.com/),
+[WinWGet+ Portable⊞■](https://portableapps.com/apps/internet/winwget_portable)
 
 Download manager - YouTube:  
 [youtube-dlp⊞□🐧](https://github.com/yt-dlp/yt-dlp),

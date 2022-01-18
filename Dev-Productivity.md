@@ -70,6 +70,10 @@ Dynamic checking - C:
 [Kite](https://www.kite.com/),
 [Tabnine](https://www.tabnine.com/)
 
+## Translation
+
+[Poedit Translation Editor](https://poedit.net/)
+
 ## Documentation
 
 View line-by-line changes:  
