@@ -20,6 +20,11 @@ Wireless network surveys:
 Wireless network search:  
 [WiGLE☁](https://wigle.net/)
 
+Bluetooth:  
+[LightBlue🍎🤖](https://punchthrough.com/lightblue/),
+[Bluetility⌘](https://github.com/jnross/Bluetility),
+[bluetoothctl🐧](https://openbase.com/js/bluetoothctl/documentation)
+
 Line-of-sight:  
 [SCADACore's RF Line of Sight](https://www.scadacore.com/tools/rf-path/rf-line-of-sight/)
 
@@ -85,6 +90,7 @@ WiFi network QR code:
 
 UUID/GUID generator:  
 [Comment Picker's UUID Generator☁](https://commentpicker.com/uuid-generator.php),
+[UUID online generator☁](https://xorbin.com/tools/uuid-online-generator),
 [UUIDTools.com's List of UUID Generators☁](https://www.uuidtools.com/generate)
 
 UUID decoding:  

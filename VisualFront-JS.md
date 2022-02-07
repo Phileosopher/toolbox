@@ -6,6 +6,9 @@ Themes/templates:
 [Cruip*](https://cruip.com/),
 [Wicked Templates*](https://www.wickedtemplates.com/demos)
 
+Cheatsheets:  
+[modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+
 ## UI Libraries
 
 Material design:

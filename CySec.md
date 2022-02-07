@@ -34,11 +34,25 @@ Password management:
 [KeePass' HIBP Offline Check⇉](https://github.com/mihaifm/HIBPOfflineCheck),
 [PasswordSafe⊞⌘🐧🍎🤖](https://www.pwsafe.org/)
 
+Password generator:  
+[Password generator☁](https://xorbin.com/tools/password-generator)
+
 Two-factor authentication:  
 [Authy🍎🤖](https://authy.com/)
 
 Distributed file encryption (requires several copies to decrypt):  
 [horcrux□](https://github.com/jesseduffield/horcrux)
+
+## Encryption
+
+Caesar cipher:  
+[rot13.com](https://rot13.com/)
+
+Hash calculators - SHA-1:  
+[SHA-1 hash calculator☁](https://xorbin.com/tools/sha1-hash-calculator)
+
+Hash calculators - SHA-256:  
+[SHA-256 hash calculator☁](https://xorbin.com/tools/sha256-hash-calculator)
 
 ## Hardening/Auditing
 

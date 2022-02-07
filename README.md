@@ -16,14 +16,14 @@ So, this makes my life convenient.
 
 I'm fairly certain many people remake existing software because they don't realize someone already made it.
 
-Obviously, that's not *always* true:
+Obviously, that's not _always_ true:
 
-- Refactoring is complicated, and it's often hard to find *precisely* what you want.
+- Refactoring is complicated, and it's often hard to find _precisely_ what you want.
 - Some software developers want to test to themselves/others whether they're smart.
-- Sometimes it's very educational or downright *fun* to reinvent the wheel.
+- Sometimes it's very educational or downright _fun_ to reinvent the wheel.
 - If someone has severe trust issues, they'll make a de-(thing) version of that thing.
 
-However, if I need something to stretch audio or batch-compare files, my largest mental hurdle is knowing it even *exists*. Even when a tool is obsolete, placed behind a paywall, merged into some other software suite, or just plain forgotten, that idea lives on and someone else will usually pick up the torch.
+However, if I need something to stretch audio or batch-compare files, my largest mental hurdle is knowing it even _exists_. Even when a tool is obsolete, placed behind a paywall, merged into some other software suite, or just plain forgotten, that idea lives on and someone else will usually pick up the torch.
 
 ## 3. Future Convenience
 
@@ -37,15 +37,16 @@ For brevity's sake, I'm mostly glossing over a few groups:
 
 - The built-in tools. If I need them, they're in the computer already.
 - Paid tools, when they cost enough that it makes me pause to consider my budget.
-- Most courses and courseware, since I'm convinced most of that is part of a *constantly* revolving cycle of technology fashions (Remember when Java and Netscape was going to run the world forever? By contrast, how about web browsers and corporation-endorsed programming languages?)
+- Most courses and courseware, since I'm convinced most of that is part of a _constantly_ revolving cycle of technology fashions (Remember when Java and Netscape was going to run the world forever? By contrast, how about web browsers and corporation-endorsed programming languages?)
 
-I've broken everything into malleable groupings, since there are *many* things that someone could use a computer for, and people are constantly adding new things. These groupings have a philosophical basis in their designed *final* purpose:
+I've broken everything into malleable groupings, since there are _many_ things that someone could use a computer for, and people are constantly adding new things. These groupings have a philosophical basis in their designed _final_ purpose:
 
 - Consuming: to experience others' created works without any creative goals in mind
 - Foraging: to acquire others' creative works
 - Calculators: to calculate a simple, usually numerical solution
 - Communicating: to communicate with other people, directly or indirectly
 - CySec: to protect from bad things happening to computers or information
+- FilesOS: to manage computer files or operating systems
 - Hardware: to make or manage physical things, which includes computer hardware and OS-level things
 - Visual: to visually design or adapt things which contain some intended aesthetic
 - Audio: to work with sound for some intended aesthetic

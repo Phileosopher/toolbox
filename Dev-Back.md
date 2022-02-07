@@ -21,3 +21,7 @@ Public-access APIs:
 
 Unofficial APIs:  
 [Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis)
+
+## Assembly Code Generator
+
+[GNU lightning](https://www.gnu.org/software/lightning/)

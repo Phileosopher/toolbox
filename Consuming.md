@@ -96,6 +96,9 @@ Email rollup:
 News aggregation:  
 [[INSIDE]☁](https://inside.com/)
 
+News aggregation - Google News:  
+[68k.news](http://68k.news/)
+
 Bookmarks emailed to inbox:  
 [Link Drop☁](https://www.linkdrop.co/)
 
@@ -180,6 +183,9 @@ Media codecs:
 [K-Lite Codec Pack⊞](https://codecguide.com/about_kl.htm)
 
 ## Games
+
+Games without dark patterns:  
+[DarkPattern.games](https://www.darkpattern.games/)
 
 Pausing any game:  
 [Universal Pause Button⊞](https://github.com/ryanries/UniversalPauseButton)

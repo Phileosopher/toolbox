@@ -123,6 +123,9 @@ Avatars:
 [Joe Schmoe](https://joeschmoe.io/),
 [PowerPeoplePlatform](https://powerpeopleplatform.com/)
 
+3D icons:  
+[Vertex.im](https://vertex.im/)
+
 ## Logos
 
 [Open Logos](https://openlogos.org/)
