@@ -46,6 +46,7 @@ Self-detect IP:
 [IP/DNS Detect☁](https://ipleak.net/),
 [IP Chicken☁](https://ipchicken.com/),
 [DSLReports' What is my IP address?☁](http://www.dslreports.com/whatismyip),
+[WebBrowserTools' What is my IP Address☁](https://webbrowsertools.com/ip-address/)
 
 Self-detect IPv4/IPv6:  
 [Perfect Privacy Check IP☁](https://www.perfect-privacy.com/en/tests/check-ip),
@@ -177,16 +178,10 @@ Scam reporting:
 [FBI's Submit a Tip☁ (USA)](https://www.fbi.gov/tips),
 [ReportFraud.ftc.gov☁ (USA)](https://reportfraud.ftc.gov/#/)
 
-## With Apple
+## With Amazon
 
-[Apple Censorship☁](https://applecensorship.com/)
-
-Bootloader:  
-[OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
-
-App store:  
-[AltStore🍎](https://github.com/rileytestut/AltStore),
-[AppPure🍎](https://iphone.apkpure.com/)
+AWS IP ranges:  
+[aws-ip-ranges](https://github.com/seligman/aws-ip-ranges)
 
 ## With Google
 
@@ -221,11 +216,6 @@ YouTube alternative:
 [BitChute☁](https://www.bitchute.com/),
 [Odysee☁](https://odysee.com/)
 
-## With Facebook
-
-Oculus VR headset:  
-[Oculess](https://github.com/basti564/Oculess)
-
 ## With Microsoft
 
 Microsoft Teams alternative:  
@@ -236,6 +226,22 @@ Microsoft-friendly Linux:
 
 UserAssist registry entries:  
 [UserAssistView⊞■](https://www.nirsoft.net/utils/userassist_view.html)
+
+## With Apple
+
+[Apple Censorship☁](https://applecensorship.com/)
+
+Bootloader:  
+[OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
+
+App store:  
+[AltStore🍎](https://github.com/rileytestut/AltStore),
+[AppPure🍎](https://iphone.apkpure.com/)
+
+## With Facebook
+
+Oculus VR headset:  
+[Oculess](https://github.com/basti564/Oculess)
 
 ## With Other Private Organizations
 

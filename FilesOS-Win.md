@@ -33,6 +33,9 @@ USB events:
 [ChipGenius](https://chipgenius.en.lo4d.com/windows),
 [USBLogView■](https://www.nirsoft.net/utils/usb_log_view.html)
 
+Multiple NICs:  
+[NetConnectChoose■](https://www.nirsoft.net/utils/net_connect_choose.html)
+
 ## Hardware - Hard Drive Issues
 
 Drive activity logs:  
