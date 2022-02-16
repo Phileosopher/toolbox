@@ -86,3 +86,14 @@ Site probe:
 
 HOSTS file:  
 [MVPs HOSTS file*](https://winhelp2002.mvps.org/hosts.htm)
+
+## Tor Network
+
+Tor test:  
+[Tor Check☁](https://check.torproject.org/)
+
+From a web browser:  
+[Tor2web*](https://www.tor2web.org/)
+
+Tor links:  
+[The complete list of tor onion links*](https://hiddenwikitor.net/)

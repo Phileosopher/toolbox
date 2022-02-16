@@ -27,6 +27,9 @@ File conversion/recording:
 
 ## Auto-Rendering
 
+Auto-stabilization:  
+[Gyroflow⊞⌘🐧](https://gyroflow.xyz/)
+
 3D:  
 [Source Filmmaker⊞](https://store.steampowered.com/app/1840/Source_Filmmaker/)
 

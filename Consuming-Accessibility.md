@@ -1,6 +1,6 @@
 # Consuming: Accessibility
 
-## Interfacing-Impaired
+## Interface-Impaired
 
 Keyboard-less interfacing:  
 [Dasher⊞⌘](http://www.inference.org.uk/dasher/),
@@ -11,15 +11,12 @@ Keyboard-less interfacing:
 Magnifying glass:  
 [Virtual Magnifying Glass⊞■🐧](http://magnifier.sourceforge.net/)
 
-Audio aides:  
+Screen reader/TTS:  
+[Balabolka⊞■](http://balabolka.site/balabolka.htm),
 [Emacspeak🐧](http://emacspeak.sourceforge.net/),
-[NV Access⊞■](https://www.nvaccess.org/)
+[NV Access⊞■](https://www.nvaccess.org/),
+[Orca🐧](https://help.gnome.org/users/orca/stable/introduction.html.en),
+[Screen Reader⊞■](http://jacquelin.potier.free.fr/screenreader/)
 
 Human guides:  
 [Be My Eyes🍎🤖](https://www.bemyeyes.com/)
-
-## Hearing-Impaired
-
-TTS:  
-[Balabolka⊞■](http://cross-plus-a.com/balabolka.htm),
-[Screen Reader⊞■](http://jacquelin.potier.free.fr/screenreader/)

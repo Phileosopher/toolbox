@@ -208,6 +208,9 @@ Alternative Google Play Store:
 Google Play Services:  
 [MicroG Project🤖](https://microg.org/)
 
+Google Analytics:  
+[Is Google Analytics illegal?](https://isgoogleanalyticsillegal.com/)
+
 YouTube:  
 [FreeTube⊞⌘🐧](https://freetubeapp.io/),
 [YouTube™ Vanced🤖](https://vancedapp.com/)

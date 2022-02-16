@@ -255,6 +255,9 @@ Display drivers:
 Shell extensions:  
 [ShellExView■](https://www.nirsoft.net/utils/shexview.html)
 
+Windows 11 issues:  
+[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
+
 ## Network issues
 
 Bad network drivers:  

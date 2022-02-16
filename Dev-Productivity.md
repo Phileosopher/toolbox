@@ -37,7 +37,9 @@ Fonts:
 [creep2](https://github.com/raymond-w-ko/creep2),
 [Dev Fonts](https://devfonts.gafi.dev/),
 [Input](https://input.djr.com/),
-[PICO-8.ttf + variants](https://www.lexaloffle.com/bbs/?tid=3760)
+[MonoLisa](https://www.monolisa.dev/),
+[PICO-8.ttf + variants](https://www.lexaloffle.com/bbs/?tid=3760),
+[Victor Mono](https://rubjo.github.io/victor-mono/)
 
 Dark theme:  
 [Dracula](https://draculatheme.com/)
