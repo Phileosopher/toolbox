@@ -36,7 +36,7 @@ Laptops/PCs:
 GPS devices:  
 [Meshtastic](https://meshtastic.org/)
 
-## Anonymity - Network
+## Network Anonymity: IP Address
 
 IP address tools:  
 [IPVoid☁](https://www.ipvoid.com/)
@@ -74,7 +74,12 @@ WebRTC testing:
 [Perfect Privacy's WebRTC Leak Test☁](https://www.perfect-privacy.com/en/tests/webrtc-leaktest),
 [VoidSec's IP Info☁](https://ip.voidsec.com/)
 
-## Anonymity - Browser
+## Network Anonymity: Misc
+
+Email privacy:  
+[Email Privacy Tester☁](https://www.emailprivacytester.com/)
+
+## Browser Anonymity
 
 Web browser:  
 [Firefox Browser⊞■⌘🐧🍎🤖](https://www.mozilla.org/en-US/firefox/new/),

@@ -44,6 +44,9 @@ Temporary email:
 [Firefox Relay⇉](https://relay.firefox.com/accounts/profile/),
 [guerrillamail.com☁](https://www.guerrillamail.com/)
 
+Sending straight to recipient's spam folder:  
+[Straight to Spam☁](https://straight2spam.xyz/)
+
 Sending corrupted files:  
 [Corrupt-a-File.net☁](https://corrupt-a-file.net/)
 

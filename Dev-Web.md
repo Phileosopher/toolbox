@@ -31,6 +31,9 @@ Free domains:
 Domain expiration checker:  
 [Domain Expiry Date Checker☁](https://www.websiteplanet.com/webtools/check-domain/)
 
+DMARC test/setup:  
+[DMARC Inspector](https://dmarcian.com/dmarc-inspector/)
+
 ## Code Generation
 
 JSON markup:  

@@ -17,6 +17,9 @@ PDF differences:
 [PDF24 Compare PDF files☁](https://tools.pdf24.org/en/compare-pdf),
 [PDF Compare☁](https://copyleaks.com/text-compare/compare-pdf-files)
 
+PDF optimization:  
+[PDF Tools' Online PDF Optimizer☁](https://pdfresizer.com/optimize)
+
 ## OCR (Optical Character Recognition)
 
 [Online OCR☁](https://www.onlineocr.net/),
