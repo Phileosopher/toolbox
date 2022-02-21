@@ -1,4 +1,4 @@
-# Hardware: Files/OS - Windows-Specific ⊞
+# Files/OS: Windows-Specific ⊞
 
 Power tools:  
 [Windows Sysinternals■](https://docs.microsoft.com/en-us/sysinternals/)
@@ -304,6 +304,9 @@ PC junk:
 
 Empty file directories:  
 [RmEDir■□](http://www.pazera-software.com/products/rmedir/)
+
+SQLite databases (Firefox, Chrome, et al):  
+[SpeedyFox⊞■](https://www.crystalidea.com/speedyfox)
 
 ## Boot Management
 

@@ -1,4 +1,4 @@
-# Visual Design: 3D Elements
+# Visual: 3D Elements
 
 [Blender⊞■⌘🐧](https://www.blender.org/),
 [K-3D⊞■⌘](http://www.k-3d.org/),
@@ -18,6 +18,9 @@ Block patterns (by manipulating shadows):
 VR environments:  
 [LÖVR⊞⌘🐧🍎](https://lovr.org/)
 
+Modeling/form material:  
+[Sugru](https://sugru.com/)
+
 ## Foraging
 
 [Shapefest](https://www.shapefest.com/)
@@ -32,6 +35,11 @@ Isometric models:
 
 Hands:  
 [Handz](https://www.handz.design/)
+
+## Validation
+
+3D asset validation (.glb files):  
+[Facebook's 3D Model Validation Tool☁](https://developers.facebook.com/tools/3d/validation/)
 
 ## Very Specific Needs
 

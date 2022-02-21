@@ -1,4 +1,4 @@
-# Visual Design: Typography
+# Visual: Typography
 
 ## Font Inspiration
 

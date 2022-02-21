@@ -39,20 +39,29 @@ For brevity's sake, I'm mostly glossing over a few groups:
 - Paid tools, when they cost enough that it makes me pause to consider my budget.
 - Most courses and courseware, since I'm convinced most of that is part of a _constantly_ revolving cycle of technology fashions (Remember when Java and Netscape was going to run the world forever? By contrast, how about web browsers and corporation-endorsed programming languages?)
 
-I've broken everything into malleable groupings, since there are _many_ things that someone could use a computer for, and people are constantly adding new things. These groupings have a philosophical basis in their designed _final_ purpose:
+I've broken everything into malleable groupings, since there are _many_ things that someone could use a computer for, and people are constantly adding new things. These groupings are somewhat arbitrary:
 
-- Consuming: to experience others' created works without any creative goals in mind
-- Foraging: to acquire others' creative works
-- Calculators: to calculate a simple, usually numerical solution
-- Communicating: to communicate with other people, directly or indirectly
-- CySec: to protect from bad things happening to computers or information
-- FilesOS: to manage computer files or operating systems
-- Hardware: to make or manage physical things, which includes computer hardware and OS-level things
-- Visual: to visually design or adapt things which contain some intended aesthetic
 - Audio: to work with sound for some intended aesthetic
+- Communicating: to communicate with other people, directly or indirectly
+- Files/OS: to manage computer files or operating systems
+- Games: to work with games
+- Hardware: to make or manage physical things, which includes computer hardware
+- Internet: a sub-division of computer networking that has its own subdomains
+- Math: for calculation-specific needs
 - Text: to work with language for some intended aesthetic
-- Dev: to broadly make or manage computer code, which is only referring to back-end because front-end is merely code-based visual design
+- Visual: to visually design or adapt things which contain some intended aesthetic
+
 - Productivity: to broadly streamline doing any of the above
+
+Further, there are some patterns that keep cropping up in each domain:
+
+- Consuming: human consumption only, without modification to it
+- CySec: protecting bad things from happening
+- Foraging: to acquire others' creative works
+
+Also further, some things are all-pervasive sporks:
+
+- Dev: to broadly make or manage computer code, which may refer to front-end or back-end, be language-specific, and may simply be a more nuanced version of any of the above
 
 ## Earmarks
 
@@ -64,6 +73,7 @@ I've broken everything into malleable groupings, since there are _many_ things t
 - ■ for standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/)).
 - 🐍 if it runs in Python
 - 🔌 if it's an API or has API documentation
+- ⦿ for a data-heavy tool that may interest devs
 
 These are volatile out-of-the-box OS estimations for several reasons:
 

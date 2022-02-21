@@ -60,4 +60,4 @@ PDF to JPG:
 
 ## Documentation Generation
 
-[pdoc (Python)](https://pdoc.dev/)
+[pdoc🐍](https://pdoc.dev/)

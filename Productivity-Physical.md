@@ -8,16 +8,27 @@ Diet management:
 Produce in season:  
 [HarvestSignal☁](https://harvestsignal.com/)
 
-Recipes:  
+Food facts:  
+[Open Food Facts](https://openfoodfacts.org)
+
+Nutrition/supplements:  
+[Examine.com](https://examine.com/)
+
+## Food - Recipes
+
 [Allrecipes*](https://www.allrecipes.com/)
 
-Recipes - simplified information:  
+Simplified information:  
 [Only Recipe🍎🤖](https://showcase.onlyrecipe.app/)
 
-Recipes - base components:  
+Base components:  
 [Based Cooking*](https://based.cooking/)
 
-Recipes - from available food:  
+Recipe search engine:  
+[Stovetop](https://stovetop.app/),
+[Munchy](https://joinmunchy.com/)
+
+Recipe search engine - from available food:  
 [MyFridgeFood☁🤖](https://myfridgefood.com/),
 [Supercook☁](https://www.supercook.com/#/recipes)
 
@@ -67,3 +78,7 @@ Hay:
 
 Church supplies:  
 [Churchsupplier☁](https://www.churchsupplier.com/)
+
+Package tracking:  
+[Boxoh](http://www.boxoh.com/),
+[Package Place□](https://package.place/)

@@ -1,4 +1,4 @@
-# Hardware: Files/OS - Mobile OS
+# Files/OS: Mobile OS
 
 ## Kindle
 

@@ -1,4 +1,4 @@
-# Software Development - JavaScript-Specific
+# Software Development - JavaScript
 
 Node package manager:  
 [npm](https://www.npmjs.com/)

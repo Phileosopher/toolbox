@@ -1,4 +1,4 @@
-# Visual Design: Video
+# Visual: Video Production
 
 ## Live Recording
 
@@ -15,6 +15,9 @@ Church events:
 [Story Creator☁](https://storycreatorapp.com/),
 [Kdenlive⊞■⌘🐧](https://kdenlive.org/),
 [DaVinci Resolve⊞⌘🐧](https://www.blackmagicdesign.com/products/davinciresolve/)
+
+Lossless editing:  
+[lossless-cut](https://github.com/mifi/lossless-cut)
 
 Machine-learning-enhanced editing:  
 [Runway☁](https://runwayml.com/)

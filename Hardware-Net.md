@@ -82,14 +82,18 @@ MAC address vendor search:
 [MA:CV:en:do:rs☁](https://macvendors.com/),
 [WhatsMyIP.org's MAC Address Lookup☁](https://www.whatsmyip.org/mac-address-lookup/)
 
+MAC address random generator:  
+[MAC address generator☁](https://commentpicker.com/mac-address-generator.php)
+
 WiFi:  
 [dot11Expert⊞](https://kcsoftwares.com/?dot11expert)
 
 WiFi network QR code:  
 [WiFi Card☁](https://wificard.io/)
 
-UUID/GUID generator:  
+UUID/GUID random generator:  
 [Comment Picker's UUID Generator☁](https://commentpicker.com/uuid-generator.php),
+[PortableApps.com's UUID-GUID Generator⊞■](https://portableapps.com/apps/utilities/uuid-guid_generator_portable),
 [UUID online generator☁](https://xorbin.com/tools/uuid-online-generator),
 [UUIDTools.com's List of UUID Generators☁](https://www.uuidtools.com/generate)
 
@@ -109,6 +113,12 @@ IP management:
 
 IP management - subnet calculator:  
 [SolarWinds' Advanced Subnet Calculator☁](https://www.solarwinds.com/free-tools/advanced-subnet-calculator)
+
+IP address API:  
+[ipapi🔌⦿](https://ipapi.com/)
+
+IP address random generator:  
+[IP address generator☁](https://commentpicker.com/ip-address-generator.php)
 
 Router traffic analysis:  
 [MRTG (Multi Router Traffic Grapher)⊞⌘🐧](https://oss.oetiker.ch/mrtg/)
@@ -162,31 +172,3 @@ Telnet/SSH client:
 
 Web browser:  
 [Mozilla Firefox⊞■⌘🐧🍎🤖⇉](https://www.mozilla.org/en-US/firefox/)
-
-## Remote Access
-
-Remote boot management:  
-[DShutdown⊞](http://dimio.altervista.org/eng/#DShutdown)
-
-Remote computer access:  
-[AnyDesk⊞⌘🐧🍎🤖](https://anydesk.com/),
-[Remote Utilities⊞⌘🐧🍎🤖](https://www.remoteutilities.com/)
-
-## Testing: Random Network Data
-
-MAC:  
-[MAC address generator☁](https://commentpicker.com/mac-address-generator.php)
-
-UUID/GUID:  
-[PortableApps.com's UUID-GUID Generator⊞■](https://portableapps.com/apps/utilities/uuid-guid_generator_portable)
-
-IP addresses:  
-[IP address generator☁](https://commentpicker.com/ip-address-generator.php)
-
-## APIs
-
-IP addresses:  
-[ipapi🔌](https://ipapi.com/)
-
-Internet speed test:  
-[SpeedOf.Me🔌](https://speedof.me/api.html)

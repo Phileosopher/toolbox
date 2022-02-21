@@ -1,4 +1,11 @@
-# Visual Design: Foraging
+# Visual: Foraging
+
+## Learning
+
+[Canva's Design School☁](https://designschool.canva.com/),
+[Degreeless.design☁](https://www.degreeless.design/),
+[Hack Design☁](https://hackdesign.org/),
+[Learn UI Design☁](https://learnui.design/)
 
 ## Multi-Element
 

@@ -1,4 +1,4 @@
-# Hardware: Files/OS - Unix-likes
+# Files/OS: Unix-likes
 
 Process monitor:  
 [bpytop🐧](https://github.com/aristocratos/bpytop)

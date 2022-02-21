@@ -1,6 +1,4 @@
-# Visual Design: Photos
-
-[Components AI](https://components.ai/)
+# Visual: Photos
 
 Animations:  
 [Blush(Figma/Sketch)☁⇉](https://blush.design/),
@@ -45,10 +43,8 @@ Vector graphics/illustrations:
 [Canva☁](https://www.canva.com/),
 [Gravit Designer⊞⌘🐧](https://www.designer.io/en/),
 [Icons8's Vector Creator☁](https://icons8.com/vector-creator),
-[Inkscape⊞■⌘🐧](https://inkscape.org/)
-
-Web content:  
-[Mega Creator](https://icons8.com/mega-creator/)
+[Inkscape⊞■⌘🐧](https://inkscape.org/),
+[Icons8's Mega Creator☁](https://icons8.com/mega-creator/)
 
 ## Very Specific Needs
 

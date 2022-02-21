@@ -1,5 +1,8 @@
 # Productivity: Money
 
+Cost of living comparison:  
+[NUMBEO](https://www.numbeo.com/)
+
 ## Banking
 
 Online banking:  
@@ -96,12 +99,8 @@ Price tracking:
 Price tracking - Amazon:  
 [camelcamelcamel.com☁](https://camelcamelcamel.com/)
 
-Healthcare costs:  
-[Clear Health Costs☁](https://clearhealthcosts.com/),
-[Healthcare Bluebook☁](https://www.healthcarebluebook.com/explore-home/)
-
-Healthcare costs - drugs:  
-[Mark Cuban Cost Plus Drug Company☁](https://costplusdrugs.com/)
+Rewards points:  
+[Award Wallet](https://awardwallet.com/)
 
 ## Consumer Goods - Shopping
 
@@ -164,3 +163,14 @@ Rebates:
 ## Consumer Goods - Repairing
 
 [Fix-It Club☁](https://fixitclub.com/)
+
+## Healthcare
+
+[Healthcare Compare☁](https://healthcarecomps.com/)
+
+Costs:  
+[Clear Health Costs☁](https://clearhealthcosts.com/),
+[Healthcare Bluebook☁](https://www.healthcarebluebook.com/explore-home/)
+
+Drug costs:  
+[Mark Cuban Cost Plus Drug Company☁](https://costplusdrugs.com/)
