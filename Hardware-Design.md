@@ -38,6 +38,7 @@ Home design:
 ## TCAD
 
 [Chips4Makers](https://chips4makers.io/)
+[Cirkit Designer⊞⌘🐧](https://www.cirkitdesigner.com/index.html),
 [Electric🐧](https://www.gnu.org/software/electric/),
 [Fritzing⊞⌘🐧](https://fritzing.org/),
 [GNU Archimedes](https://www.gnu.org/software/archimedes/),
@@ -73,8 +74,19 @@ EDA tools:
 [Libre Silicon](https://libresilicon.com/),
 [LibreSilicon's Standard Cell Library](https://github.com/chipforge/StdCellLib)
 
-## Computer Housing
+## Computer Assembly
 
+Components:  
+[Dangerous Things](https://dangerousthings.com/),
+[Mbed](https://os.mbed.com/)
+
+Raspberry Pi:  
+[RPi Hub*](https://elinux.org/RPi_Hub)
+
+Raspberry Pi - verified peripherals:  
+[RPi Verified Peripherals*](https://elinux.org/RPi_VerifiedPeripherals)
+
+Housing:  
 [DAN Cases](https://www.dan-cases.com/),
 [LOUQE](https://www.louqe.com/),
 [teenage engineering](https://teenage.engineering/)

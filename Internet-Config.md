@@ -30,6 +30,7 @@ IP lookup/info - offline:
 DNS probe:  
 [DNSdumpster.com☁](https://dnsdumpster.com/),
 [Dnsutils🐧](https://pkgs.org/download/dnsutils),
+[getdns🔌](https://getdnsapi.net/)
 [Google's Dig☁](https://toolbox.googleapps.com/apps/dig/),
 [whatsmydns.net☁](https://www.whatsmydns.net/),
 [Google's Check MX☁](https://toolbox.googleapps.com/apps/checkmx/),

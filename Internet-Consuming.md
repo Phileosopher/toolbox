@@ -59,6 +59,7 @@ Site status (for when any code on the site changes):
 ## Streaming Services
 
 Search engine:  
+[JustWatch☁](https://www.justwatch.com/),
 [Movie of the Night☁](https://www.movieofthenight.com/)
 
 Media availability by country:  

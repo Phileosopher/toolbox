@@ -2,7 +2,8 @@
 
 ## Frameworks/Engines
 
-[Laravel](https://laravel.com/)
+[Laravel](https://laravel.com/),
+[Leaf PHP](https://leafphp.dev/)
 
 ## Code Snips/Generators
 

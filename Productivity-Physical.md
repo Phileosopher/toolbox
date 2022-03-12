@@ -41,17 +41,6 @@ Renting vs. Buying calculator:
 
 [WinScan2PDF⊞](https://www.softwareok.com/?seite=Microsoft/WinScan2PDF)
 
-## Traveling
-
-Travel guides:  
-[Frommer's Travel Guides*](https://www.frommers.com/)
-
-Light pollution:  
-[Light pollution map☁](https://www.lightpollutionmap.info/)
-
-Bird detection (by sound):  
-[BirdNET☁🍎🤖](https://birdnet.cornell.edu/)
-
 ## Wellness
 
 Memory:  
@@ -79,6 +68,5 @@ Hay:
 Church supplies:  
 [Churchsupplier☁](https://www.churchsupplier.com/)
 
-Package tracking:  
-[Boxoh](http://www.boxoh.com/),
-[Package Place□](https://package.place/)
+Alternative energy (e.g., EVs):
+[EERE Alternative Fuels Data Center*](https://afdc.energy.gov/)

@@ -10,6 +10,9 @@ Cheat sheets:
 Distraction-free coding videos:  
 [CodeOnVideo☁](https://codeonvideo.com/)
 
+RSS to Notion:  
+[notion-feeder](https://github.com/ravgeetdhillon/notion-feeder)
+
 ## IDEs
 
 [Apache NetBeans⊞⌘🐧](https://netbeans.org/),

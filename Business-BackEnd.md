@@ -97,7 +97,7 @@ Niche branding:
 [ExpertFile](https://expertfile.com/)
 
 Paper printing:  
-[Vistaprint☁](https://www.vistaprint.com/?dr=1&GP=10%2f03%2f2021+16%3a46%3a00&GPS=6072624117&GNF=0)
+[Vistaprint☁](https://www.vistaprint.com/)
 
 ## Computer Networking
 

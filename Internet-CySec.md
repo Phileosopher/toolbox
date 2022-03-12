@@ -214,7 +214,8 @@ Google Analytics:
 
 YouTube:  
 [FreeTube⊞⌘🐧](https://freetubeapp.io/),
-[YouTube™ Vanced🤖](https://vancedapp.com/)
+[NewPipe🤖](https://newpipe.net/),
+[YouTube™ Vanced🤖](https://vancedapp.com/),
 
 YouTube alternative:  
 [BitChute☁](https://www.bitchute.com/),
