@@ -89,6 +89,9 @@ Whale movements:
 Blockchain movements:  
 [Blockchain Whispers☁](https://blockchainwhispers.com/)
 
+Individual stocks:  
+[tstock□](https://github.com/Gbox4/tstock)
+
 ## Consumer Goods - Comparison/Tracking
 
 [Product Chart☁](https://www.productchart.com/)
