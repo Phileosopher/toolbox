@@ -79,3 +79,6 @@ Soldering iron with solder wire
 Antistatic mat or wrist strap
 
 Head-mounted magnifier or magnifying glass
+
+Raspberry Pi network monitor:  
+[internet-pi](https://github.com/geerlingguy/internet-pi)
