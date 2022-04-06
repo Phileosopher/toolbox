@@ -31,6 +31,9 @@ Programming books:
 [DevFreeBooks](https://devfreebooks.github.io/),
 [free-programming-books](https://ebookfoundation.github.io/free-programming-books/)
 
+Kid-friendly programming language:  
+[Scratch - Imagine, Program, Share](https://scratch.mit.edu/)
+
 Tech talks:  
 [TechYaks](https://techyaks.com/)
 
@@ -43,3 +46,6 @@ Research papers/data:
 
 Astronomy:  
 [Stellarium Web](https://stellarium-web.org/)
+
+Insert SciHub links:  
+[sci-hub-injector](https://github.com/justjosias/sci-hub-injector)

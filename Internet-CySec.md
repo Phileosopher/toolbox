@@ -221,6 +221,9 @@ YouTube alternative:
 [BitChute☁](https://www.bitchute.com/),
 [Odysee☁](https://odysee.com/)
 
+YouTube ad blocking:  
+[SponsorBlock🔌](https://sponsor.ajay.app/)
+
 ## With Google - Phone
 
 APK files:  
