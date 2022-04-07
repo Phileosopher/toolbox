@@ -12,6 +12,7 @@ Church events:
 
 ## Editing
 
+[Motionbox☁](https://motionbox.io/),
 [Story Creator☁](https://storycreatorapp.com/),
 [Kdenlive⊞■⌘🐧](https://kdenlive.org/),
 [DaVinci Resolve⊞⌘🐧](https://www.blackmagicdesign.com/products/davinciresolve/)

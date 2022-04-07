@@ -80,7 +80,7 @@ QR codes:
 ## Social Media
 
 Avatars:  
-[Gravatar☁](https://en.gravatar.com/)
+[Gravatar☁](https://en.gravatar.com/),
 
 Twitter:  
 [Twitter's Card Validator☁](https://cards-dev.twitter.com/validator)

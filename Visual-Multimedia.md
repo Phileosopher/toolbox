@@ -9,6 +9,9 @@ Desktop publishing:
 [Microsoft Sway☁](https://sway.office.com),
 [Scribus⊞■⌘🐧](https://www.scribus.net/)
 
+Desktop publishing - hand-drawn style:  
+[Excalidraw](https://excalidraw.com/)
+
 ## Mockups
 
 [Animockup☁](https://animockup.com/),
@@ -47,3 +50,12 @@ ASCII prototyping:
 [Archetype](https://fatiherikli.github.io/archetype/),
 [ASCIIFlow](https://asciiflow.com/#/),
 [Textik](https://textik.com/#a4ec12a68785f25f=)
+
+## Piles of visual design tools
+
+[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools),
+[Nodesign.dev](https://nodesign.dev/),
+[Stark's Public Library](https://www.getstark.co/library/),
+[Undesign](https://undesign.learn.uno/),
+[UpLabs](https://www.uplabs.com/),
+[user-interface.io](https://user-interface.io/how-to-design-almost-any-ui-element/)

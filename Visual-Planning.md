@@ -5,7 +5,15 @@ Quick drawing:
 
 ## Inspiration
 
-[Sharpen☁](https://sharpen.design/)
+[Sharpen☁](https://sharpen.design/),
+[Evernote.Design](https://www.evernote.design/)
+
+## Learning
+
+[Canva's Design School☁](https://designschool.canva.com/),
+[Degreeless.design☁](https://www.degreeless.design/),
+[Hack Design☁](https://hackdesign.org/),
+[Learn UI Design☁](https://learnui.design/)
 
 ## Constraints
 

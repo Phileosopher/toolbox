@@ -2,10 +2,14 @@
 
 ## Diagrams
 
+[ASCIIFlow](https://asciiflow.com/),
 [diagrams.net/draw.io☁⊞⌘🐧](https://www.diagrams.net/) (or [its GitHub source](https://github.com/jgraph/drawio)),
 [Ilograph⊞⌘🐧](https://www.ilograph.com/),
 [Whimsical☁](https://whimsical.com/),
 [yEd Live⊞⌘🐧☁](https://www.yworks.com/products/yed)
+
+Text-to-diagram:
+[XOSH.ORG's text to diagram tools](https://xosh.org/text-to-diagram/)
 
 UML sequence diagrams:  
 [Diagram.codes☁⊞⌘](https://www.diagram.codes/),

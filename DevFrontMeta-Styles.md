@@ -67,6 +67,7 @@ Futuristic sci-fi:
 
 Hand-drawn sketch feel:  
 [DoodleCSS](https://chr15m.github.io/DoodleCSS/),
+[handwritten.js](https://alias-rahil.github.io/handwritten.js/),
 [PaperCSS](https://www.getpapercss.com/),
 [Rough.js](https://github.com/rough-stuff/rough),
 [Wired Elements](https://wiredjs.com/)

@@ -44,3 +44,10 @@ Entire apps:
 [FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev),
 [Free for developers](https://free-for.dev/),
 [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)
+
+## Piles of Dev Tools
+
+[awesome](https://github.com/sindresorhus/awesome)
+
+Cheatsheets:  
+[LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)

@@ -3,6 +3,7 @@
 [Blender⊞■⌘🐧](https://www.blender.org/),
 [K-3D⊞■⌘](http://www.k-3d.org/),
 [LibreCAD⊞■⌘🐧](https://librecad.org/),
+[Spline☁](https://spline.design/),
 [VTK🐧](https://vtk.org/)
 
 Parametric modeling:  

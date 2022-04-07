@@ -1,12 +1,5 @@
 # Visual: Foraging
 
-## Learning
-
-[Canva's Design School☁](https://designschool.canva.com/),
-[Degreeless.design☁](https://www.degreeless.design/),
-[Hack Design☁](https://hackdesign.org/),
-[Learn UI Design☁](https://learnui.design/)
-
 ## Multi-Element
 
 [365psd](https://365psd.com/),
@@ -80,11 +73,15 @@ Animation:
 [STUDIO GHIBLI](https://www.ghibli.jp/info/013251/)
 
 AI-generated:  
+[AutoDraw](https://www.autodraw.com/),
 [Generated Photos](https://generated.photos/)
 
 AI-generated faces:  
 [Face Generator](https://generated.photos/face-generator),
 [This Person Does Not Exist](https://thispersondoesnotexist.com/)
+
+Patterns:  
+[CodeinWP](https://www.codeinwp.com/pattern-collection/)
 
 ## Stock Photos: Web-Based
 
@@ -109,6 +106,7 @@ Landing pages:
 [Linearicons](https://linearicons.com/free), [Line Awesome](https://icons8.com/line-awesome), [Lordicon](https://lordicon.com/free-icons),
 [Material Design Icons](https://materialdesignicons.com/), [Material Design Icons](https://www.materialpalette.com/icons), [Material Design Icons](https://material.io/resources/icons/?style=baseline), [Mono Icons](https://icons.mono.company/), [Myiconfinder](http://www.myiconfinder.com/),
 [Noun Project](https://thenounproject.com/),
+[Phosphor Icons](https://phosphoricons.com/),
 [Remix Icon](https://remixicon.com/), [Rough Font Awesome](https://djamshed.github.io/rough-awesome-font/dist/),
 [Simple Icons](https://simpleicons.org/), [Streamline Icons](https://www.streamlineicons.com), [Studyum 3D icons](https://studyum.store/), [SVG Icons](http://svgicons.sparkk.fr/), [System UIcons](https://systemuicons.com/),
 [Tabler Icons](https://tablericons.com/), [Typicons](https://www.s-ings.com/typicons/),
@@ -127,6 +125,7 @@ Emojis:
 
 Avatars:  
 [Avataaars (Sketch Library)](https://avataaars.com/),
+[Boring Avatars](https://boringavatars.com/),
 [Joe Schmoe](https://joeschmoe.io/),
 [PowerPeoplePlatform](https://powerpeopleplatform.com/)
 
@@ -164,7 +163,7 @@ Avatars:
 [Freellustrations](https://www.freellustrations.com/), [Fresh Folk](https://fresh-folk.com/),
 [Getillustrations.com's Ghost Builder](https://getillustrations.com/illustration-pack/ghost-illustrations-builder), [Glaze](https://www.glazestock.com/),
 [Hero Patterns](https://www.heropatterns.com/), [Humaaans](https://www.humaaans.com/),
-[Icons8 Illustrations](https://icons8.com/illustrations), [iconscout's Indian Doodle](https://iconscout.com/illustration-pack/indian-doodle), [iconscout's Paper Illustrations](https://iconscout.com/paper-illustrations), [illlustrations](https://illlustrations.co/), [IRA Design](https://iradesign.io/gallery/illustrations),
+[Icons8 Illustrations](https://icons8.com/illustrations), [iconscout's Indian Doodle](https://iconscout.com/illustration-pack/indian-doodle), [iconscout's Paper Illustrations](https://iconscout.com/paper-illustrations), [illlustrations](https://illlustrations.co/), [Illustration Kit](https://illustrationkit.com/), [IRA Design](https://iradesign.io/gallery/illustrations),
 [Karthic Srinivas' Illustrations](https://www.karthiksrinivas.in/illustrations),
 [Lukasz Adam's Free Illustrations](https://lukaszadam.com/illustrations),
 [Manuela Langella's Retroooo Folks!](https://www.manuelalangella.com/retroooo-folks/), [ManyPixels' Illustration Gallery](https://www.manypixels.co/gallery/),
@@ -172,11 +171,22 @@ Avatars:
 [Open Doodles](https://www.opendoodles.com/), [Open Peeps](https://www.openpeeps.com/),
 [Paaatterns!](https://products.ls.graphics/paaatterns/), [PIMPMYDRAWING](https://pimpmydrawing.com/), [pixeltrue's Free Vector Illustrations](https://www.pixeltrue.com/free-illustrations),
 [Reddit's Resources for Free Illustrations](https://www.reddit.com/r/FreeIllustrations/),
-[Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations), [sketchvalley](https://sketchvalley.com/), [stories by Freepik](https://stories.freepik.com/), [Streamline Labs](https://lab.streamlineicons.com/), [Official Streamline Illustrations](https://app.streamlinehq.com/illustrations), [SVG Repo](https://www.svgrepo.com),
+[Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations), [sketchvalley](https://sketchvalley.com/), [Smash Illustrations](https://usesmash.com/), [Storyset](https://storyset.com/), [SVGDevs.com](https://svgdevs.com/), [stories by Freepik](https://stories.freepik.com/), [Streamline Labs](https://lab.streamlineicons.com/), [Official Streamline Illustrations](https://app.streamlinehq.com/illustrations), [SVG Repo](https://www.svgrepo.com),
 [unDraw](https://undraw.co/illustrations), [useAnimations](https://useanimations.com/),
 [WOOBRO.design](https://woobro.design/)
+
+3D illustrations:  
+[3D Hands gestures](https://www.handz.design/),
+[IsoFlat](https://isoflat.com/), [Isometric](https://isometric.online/), [Isometriclove](https://www.isometriclove.com/),
+[Shapefest](https://www.shapefest.com/)
 
 ## Figma Templates
 
 [100 Daily UI Challenge Library](https://100dailyui.webflow.io/),
 [UI Kits for Figma](https://www.uikitsnow.com/)
+
+## Piles of stock resources
+
+[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources),
+[Design Inspiration](https://github.com/emmabostian/design-inspiration),
+[The Mega List Of Free Image Sites For Blogging](https://www.mattcrampton.com/blog/mega_list_of_free_image_sites_for_blogging/)

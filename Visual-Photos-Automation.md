@@ -3,6 +3,9 @@
 AI CAD:  
 [Components AI](https://components.ai/)
 
+AI photo editing:  
+[Hotpot.ai](https://hotpot.ai/tools)
+
 ## Capture
 
 Screenshots:  

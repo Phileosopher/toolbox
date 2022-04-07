@@ -26,6 +26,7 @@ Avatars:
 [Avataaars Generator](https://getavataaars.com/),
 [Big Heads](https://bigheads.io/),
 [Draftbit's Personas](https://personas.draftbit.com/),
+[hashicon](https://github.com/emeraldpay/hashicon),
 [Multiavatar](https://multiavatar.com/),
 [RoboHash](https://robohash.org/)
 
@@ -47,6 +48,9 @@ Vector graphics/illustrations:
 [Icons8's Mega Creator☁](https://icons8.com/mega-creator/)
 
 ## Very Specific Needs
+
+ASCII art:  
+[Textik](https://textik.com/)
 
 PDF elements:  
 [Ipe⊞⌘🐧](http://ipe.otfried.org/)

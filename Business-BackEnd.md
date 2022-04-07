@@ -99,6 +99,9 @@ Niche branding:
 Paper printing:  
 [Vistaprint☁](https://www.vistaprint.com/)
 
+YouTube video spam comments:  
+[YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge)
+
 ## Computer Networking
 
 IP address info:  

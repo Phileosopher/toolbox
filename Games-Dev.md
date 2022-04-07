@@ -62,3 +62,6 @@ Photorealistic humans (Unreal Engine only):
 Sprite downscaling:  
 [TexturePacker⊞⌘🐧](https://www.codeandweb.com/texturepacker),
 [TexturePacker3D⊞⌘🐧](https://www.codeandweb.com/texturepacker3d)
+
+Foraging:  
+[OpenGameArt.org](https://opengameart.org/)

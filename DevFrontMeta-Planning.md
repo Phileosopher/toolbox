@@ -41,3 +41,10 @@ Cross-platform webapps:
 
 Style definitions:  
 [lipgloss](https://github.com/charmbracelet/lipgloss)
+
+## Other front-end piles
+
+[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers),
+[link-list](https://github.com/Vincenius/link-list),
+[Tiny helpers](https://tiny-helpers.dev/),
+[UI Goodies](https://www.uigoodies.com/)
