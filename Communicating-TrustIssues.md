@@ -37,6 +37,9 @@ Secure email:
 
 ## Sending
 
+Sending money:  
+[Privacy☁](https://privacy.com/)
+
 Temporary email:  
 [Maildrop☁](https://maildrop.cc/),
 [10 minute mail☁](https://10minutemail.com/),
@@ -81,6 +84,9 @@ Website verification:
 Phone number (via site crawling):  
 [Ampare Phone Number Crawler🐧](https://snapcraft.io/amparephonenumbercrawler)
 
+European surnames:  
+[Surname Map](https://www.surnamemap.eu/)
+
 ## Reporting
 
 Child exploitation:  
@@ -88,6 +94,9 @@ Child exploitation:
 [Childline](https://www.childline.org.uk/)
 
 ## Traveling
+
+Emergency response quick-connect:  
+[Noonlight](https://www.noonlight.com/)
 
 Friend followup service:  
 [Kitestring☁](https://www.kitestring.io/)

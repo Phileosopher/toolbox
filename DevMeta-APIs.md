@@ -12,3 +12,6 @@ Unofficial APIs:
 
 Vehicle listings:  
 [Auto.dev's Vehicle Listings API](https://www.auto.dev/listings)
+
+Airline in-flight WiFi:  
+[United-In-Flight-Api](https://github.com/greatjack1/United-In-Flight-Api)

@@ -72,6 +72,9 @@ Money:
 SMS messaging:  
 [DesktopSMS⊞🤖](https://www.desktopsms.net/)
 
+P2P - sharing:  
+[watchIT](https://github.com/ZorrillosDev/watchit-app)
+
 ## IRL
 
 [Meetup☁🍎🤖](https://www.meetup.com/)
