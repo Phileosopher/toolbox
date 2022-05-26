@@ -31,6 +31,9 @@ Free domains:
 Domain expiration checker:  
 [Domain Expiry Date Checker☁](https://www.websiteplanet.com/webtools/check-domain/)
 
+TLS Test:  
+[TLS Test Tool☁](https://geekflare.com/tools/tls-test)
+
 DMARC test/setup:  
 [DMARC Inspector](https://dmarcian.com/dmarc-inspector/)
 
@@ -148,3 +151,7 @@ Analytics - Heavy Lifting:
 
 Email - verify if an email is real:  
 [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)
+
+## Plugin Design
+
+[Test Link Revealer☁](https://webbrowsertools.com/test-link-revealer/)

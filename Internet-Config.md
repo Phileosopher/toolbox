@@ -80,6 +80,9 @@ Bandwidth analysis:
 [DSLReports' bandwidth calculator☁](http://www.dslreports.com/calculator),
 [DSLReports' Jitter/Ping test☁](https://www.dslreports.com/tools/pingtest)
 
+Download test:  
+[Test Download With☁](https://webbrowsertools.com/test-download-with/)
+
 ## Testing - Specific Sites
 
 Site status:  

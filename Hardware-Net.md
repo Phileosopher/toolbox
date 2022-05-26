@@ -159,9 +159,6 @@ Conversion:
 Email content test:  
 [Can I email...☁](https://www.caniemail.com/)
 
-JavaScript browser test:  
-[Java Tester's JavaScript Tester☁](https://javatester.org/javascript.html)
-
 Encryption test:  
 [Google's Encode/Decode☁](https://toolbox.googleapps.com/apps/encode_decode/)
 

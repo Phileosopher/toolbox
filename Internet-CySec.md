@@ -84,7 +84,18 @@ WebRTC testing:
 Email privacy:  
 [Email Privacy Tester☁](https://www.emailprivacytester.com/)
 
-## Browser Anonymity
+## Browser
+
+Browser self-scan:  
+[Browser Capabilities Test Page☁](https://www.cyscape.com/showbrow.asp)
+
+Java test:  
+[Java Test Page☁](https://www.math.uh.edu/mathonline/JavaTest/JavaTestPage.htm)
+
+JavaScript test:  
+[Java Tester's JavaScript Tester☁](https://javatester.org/javascript.html)
+
+## Browser: Anonymity
 
 Web browser:  
 [Firefox Browser⊞■⌘🐧🍎🤖](https://www.mozilla.org/en-US/firefox/new/),
@@ -93,6 +104,7 @@ Web browser:
 Browser fingerprint:  
 [AmIUnique☁](https://amiunique.org/),
 [Google's Browserinfo☁](https://toolbox.googleapps.com/apps/browserinfo/),
+[Detect WebGL Fingerprint☁](https://webbrowsertools.com/webgl-fingerprint/),
 [What every Browser knows about you☁](https://webkay.robinlinus.com/)
 
 Email breach search:  
@@ -100,6 +112,12 @@ Email breach search:
 
 JavaScript details:  
 [JavaScript Inspector☁](https://webbrowsertools.com/javascript/)
+
+JS eval() test:  
+[Test Eval☁](https://webbrowsertools.com/test-eval/)
+
+JS eval() plugin:  
+[NoEval](https://mybrowseraddon.com/noeval.html)
 
 SMS breach notifications:  
 [Okey Monitor☁](https://okeymonitor.com/)
@@ -114,7 +132,10 @@ Social media fingerprint:
 Browser plugins:  
 [BrowserAddonsView⊞](https://www.nirsoft.net/utils/web_browser_addons_view.html)
 
-## Browser History
+Timezone:  
+[What is my Timezone☁](https://webbrowsertools.com/timezone/)
+
+## Browser: History
 
 Internet history:  
 [BrowsingHistoryView⊞](https://www.nirsoft.net/utils/browsing_history_view.html),
@@ -147,7 +168,7 @@ Download history - Chrome/Firefox:
 Search history:  
 [MyLastSearch⊞](https://www.nirsoft.net/utils/my_last_search.html)
 
-## Tracker Blocking
+## Browser: Tracker Blocking
 
 Block scripts/ads:  
 [AdNauseam⇉](https://adnauseam.io/),
