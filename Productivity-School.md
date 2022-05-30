@@ -26,6 +26,11 @@ CS books - recommendations:
 [Hacker News Books](https://hackernewsbooks.com/),
 [HackerNews Readings](https://hacker-recommended-books.vercel.app/)
 
+Coding tests/certifications:  
+[CodeSignal☁](https://codesignal.com/),
+[freeCodeCamp☁](https://www.freecodecamp.org/)
+[HackerRank☁](https://www.hackerrank.com/)
+
 Free CS classes:  
 [open-source-cs](https://github.com/ForrestKnight/open-source-cs)
 

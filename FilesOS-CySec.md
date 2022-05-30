@@ -30,9 +30,12 @@ Windows Defender threats:
 ## Authentication
 
 Password management:  
-[KeePass(and variants)⊞■⌘🐧🍎🤖⇉](https://keepass.info/),
+[KeePass(and variants like KeepassXC)⊞■⌘🐧🍎🤖⇉](https://keepass.info/),
 [KeePass' HIBP Offline Check⇉](https://github.com/mihaifm/HIBPOfflineCheck),
 [PasswordSafe⊞⌘🐧🍎🤖](https://www.pwsafe.org/)
+
+Password management - Windows:  
+[Password Security Scanner⊞■](https://www.nirsoft.net/utils/password_security_scanner.html)
 
 Password generator:  
 [Password generator☁](https://xorbin.com/tools/password-generator)

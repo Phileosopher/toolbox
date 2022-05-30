@@ -49,6 +49,9 @@ Memory:
 Vision Test:  
 [WebBrowserTools' Vision Test☁](https://webbrowsertools.com/vision-test/)
 
+Binaural beats:  
+[Gnaural⊞🐧](https://sourceforge.net/projects/gnaural/)
+
 ## Wellness - Workouts
 
 Running comparison:  
@@ -65,6 +68,9 @@ Muscle focus:
 [Kinesis Advantage](https://kinesis-ergo.com/keyboards/advantage360/)
 
 ## Other
+
+VR headset:  
+[SimulaVR](https://simulavr.com/)
 
 Hay:  
 [Internet Hay Exchange☁](http://www.hayexchange.com/)

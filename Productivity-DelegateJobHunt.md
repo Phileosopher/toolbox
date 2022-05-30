@@ -33,7 +33,7 @@ Volunteering:
 [Indeed☁](https://www.indeed.com/),
 [ZipRecruiter☁](https://www.ziprecruiter.com/)
 
-## Freelancing Job Boards
+## Job Boards - Freelancing
 
 [Andela☁](https://andela.com/),
 [Fiverr☁](https://www.fiverr.com/),
@@ -48,7 +48,7 @@ Volunteering:
 Entire teams at once:  
 [Huddle☁](https://www.huddle.works/)
 
-## Freelancing Job Boards - Creative Work
+## Job Boards - Creative Work
 
 [Etsy☁](https://www.etsy.com/),
 [Flexiple☁](https://flexiple.com/)
@@ -68,7 +68,7 @@ Book publishing:
 [Lulu☁](https://www.lulu.com/),
 [Smashwords☁](https://www.smashwords.com/)
 
-## Freelancing Job Boards - Writing
+## Job Boards - Writing
 
 Copywriting:  
 [Copify UK☁](https://uk.copify.com/)
@@ -90,7 +90,7 @@ Book reviews:
 Handwritten messages:  
 [Handwriting.io☁](https://handwriting.io/)
 
-## Freelancing Job Boards - In-Person Work
+## Job Boards - In-Person Work
 
 Caretakers:  
 [Care.com☁](https://www.care.com/)
@@ -101,11 +101,11 @@ Fast food deliveries:
 Home service contractors:  
 [Angi☁](https://www.angi.com/)
 
-## Freelancing Job Boards - Remote Work
+## Job Boards - Remote Work
 
 [RemoteOK](https://remoteok.com/)
 
-## Freelancing Job boards -  Other
+## Job Boards -  Other
 
 [Cision's ProfNet☁](https://profnet.prnewswire.com/profnethome/what-is-profnet.aspx),
 [Coursera's Expert Network☁](https://experts.coursera.org/),
@@ -125,22 +125,19 @@ Educators:
 Financial advice:  
 [NAPFA's Newsroom☁](https://www.napfa.org/newsroom)
 
-## Technology-specific
+## Job Boards - Technology-Specific
 
-Job boards:  
 [Dice☁](https://www.dice.com/),
 [Stack Overflow Jobs☁](https://stackoverflow.com/jobs)
 
-Job boards - geographically-based:  
+Engineering:  
+[Triplebyte☁](https://triplebyte.com/)
+
+Geographically-based:  
 [whoishiring.io☁](https://whoishiring.io/)
 
-Job boards - software development:  
+Software development:  
 [Pesto☁](https://pesto.tech/),
 [Turing☁](https://turing.com/),
 [YouTeam☁](https://youteam.io/)
 [Storetasker (for Shopify)](https://www.storetasker.com/)
-
-Coding tests/certifications:  
-[CodeSignal☁](https://codesignal.com/),
-[freeCodeCamp☁](https://www.freecodecamp.org/)
-[HackerRank☁](https://www.hackerrank.com/)

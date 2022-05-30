@@ -5,13 +5,20 @@
 Sheet music notation:  
 [LilyPond⊞⌘🐧](https://lilypond.org/),
 [Noteflight☁](https://www.noteflight.com/),
-[MuseScore⊞⌘🐧](https://musescore.org/)
+[MuseScore⊞⌘🐧](https://musescore.org/),
+[Soundslice☁](https://www.soundslice.com/)
+
+Sheet music notation - jazz:  
+[Impro-Visor⊞⌘🐧](https://www.cs.hmc.edu/~keller/jazz/improvisor/)
 
 Sheet music search:  
 [IMSLP☁](https://imslp.org/wiki/Main_Page)
 
 Singing training:  
 [Solfege⊞■](https://portableapps.com/apps/education/solfege-portable)
+
+Guitar chord finder:  
+[Guitar Dashboard☁](https://guitardashboard.com/)
 
 ## Performing
 
@@ -27,6 +34,9 @@ Drum accompaniment:
 DJing:  
 [Serato DJ Lite⊞■](https://serato.com/dj/lite),
 [Mixxx⊞■⌘🐧](https://www.mixxx.org/)
+
+DJing - turntables:  
+[xwax🐧](https://xwax.org/)
 
 Synthesizer:  
 [Synth1⊞](https://daichilab.sakura.ne.jp/softsynth/index.html#down)
