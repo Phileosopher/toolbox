@@ -31,6 +31,9 @@ Screenshots:
 Machine learning OCR:  
 [EasyOCR□](https://github.com/JaidedAI/EasyOCR)
 
+Machine learning OCR - math equations:  
+[Mathpix](https://mathpix.com/)
+
 Convert image numbers to CSV:  
 [image2csv🐍](https://github.com/artperrin/image2csv)
 
@@ -57,6 +60,12 @@ PDF to JPG:
 [Adobe's PDF to JPG Conversion Tool☁](https://www.adobe.com/acrobat/online/pdf-to-jpg.html)
 
 [DOC to MD Converter☁](https://word2md.com/),
+
+RTF to multiple:  
+[UnRTF🐧□](https://www.gnu.org/software/unrtf/)
+
+Markdown:  
+[remarkjs□](https://github.com/remarkjs/remark)
 
 ## Documentation Generation
 

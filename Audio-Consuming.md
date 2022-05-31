@@ -1,7 +1,8 @@
 # Audio: Consuming
 
 Podcast management:  
-[gpodder.net⊞■⌘🐧🍎🤖⇉☁](https://gpodder.net/)
+[gpodder.net⊞■⌘🐧🍎🤖⇉☁](https://gpodder.net/),
+[Juice⊞■⌘🐧](http://juicereceiver.sourceforge.net/)
 
 ## Music Library
 

@@ -36,6 +36,7 @@ Webpage-to-RSS:
 RSS feed manager:  
 [NetNewsWire⌘🍎](https://netnewswire.com/),
 [QuiteRSS⊞■⌘🐧](https://quiterss.org/),
+[RSS Guard⊞■⌘🐧](https://github.com/martinrotter/rssguard),
 [RSSOwl⊞⌘🐧](https://www.rssowl.org/)
 
 RSS-to-email:  

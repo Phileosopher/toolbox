@@ -3,6 +3,9 @@
 Job roles that tend to marry:  
 [Jobs that Marry Together the Most](https://flowingdata.com/2021/05/26/jobs-that-marry-together/)
 
+Business research:  
+[Crunchbase☁](https://www.crunchbase.com/)
+
 ## Idea-Gathering
 
 Expiring patents:  

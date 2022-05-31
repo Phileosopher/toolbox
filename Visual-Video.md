@@ -44,7 +44,7 @@ Remove backgrounds:
 [Unscreen☁](https://www.unscreen.com/)
 
 Math animations:  
-[Manim⊞🐧](https://3b1b.github.io/manim/index.html)
+[Manim⊞🐧](https://www.manim.community/)
 
 ## File Conversions
 

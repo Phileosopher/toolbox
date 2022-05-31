@@ -65,3 +65,7 @@ Sprite downscaling:
 
 Foraging:  
 [OpenGameArt.org](https://opengameart.org/)
+
+## Publishing
+
+[itch.io☁](https://itch.io/)

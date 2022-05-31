@@ -5,9 +5,6 @@
 Checklist:  
 [Toptal's Web Developer Checklist*](https://www.toptal.com/developers/webdevchecklist)
 
-JS tester:  
-[Java Tester Website's JavaScript Tester☁](https://javatester.org/javascript.html)
-
 ## Site Engine/CMS
 
 Static sites:  
@@ -37,10 +34,20 @@ TLS Test:
 DMARC test/setup:  
 [DMARC Inspector](https://dmarcian.com/dmarc-inspector/)
 
+## Site-Specific Design
+
+Favicons:  
+[favico.js - Make use of your favicon](http://lab.ejci.net/favico.js/)
+
 ## Code Generation
 
 JSON markup:  
 [Schema Markup Generator (JSON-LD☁)](https://technicalseo.com/tools/schema-markup-generator/)
+
+## Code Testing
+
+JS tester:  
+[Java Tester Website's JavaScript Tester☁](https://javatester.org/javascript.html)
 
 ## SEO
 

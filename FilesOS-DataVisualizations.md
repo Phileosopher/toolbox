@@ -11,18 +11,6 @@
 Text-to-diagram:
 [XOSH.ORG's text to diagram tools](https://xosh.org/text-to-diagram/)
 
-UML sequence diagrams:  
-[Diagram.codes☁⊞⌘](https://www.diagram.codes/),
-[flowchart.fun☁](https://flowchart.fun/),
-[js-sequence-diagrams☁](https://bramp.github.io/js-sequence-diagrams/),
-[PlantUML□](https://plantuml.com/),
-[SequenceDiagram.org☁](https://sequencediagram.org/),
-[swimlanes.io☁](https://swimlanes.io/),
-[WebSequenceDiagrams☁](https://www.websequencediagrams.com/)
-
-Entity-relationship diagrams:  
-[dbdiagram.io☁](https://dbdiagram.io/home)
-
 ## Chart/Graph Generators
 
 Infographics:  

@@ -36,9 +36,13 @@ DNS probe:
 [Google's Check MX☁](https://toolbox.googleapps.com/apps/checkmx/),
 
 WHOIS data:  
+[jwhois□](https://github.com/jonasob/jwhois),
 [WhoDat⊞■](https://portableapps.com/apps/utilities/whodat-portable),
 [WhoisCL⊞■□](https://www.nirsoft.net/utils/whoiscl.html),
 [WhoisThisDomain⊞■](https://www.nirsoft.net/utils/whois_this_domain.html)
+
+DNS/WHOIS data:  
+[DomainHostingView⊞■](https://www.nirsoft.net/utils/domain_hosting_view.html)
 
 nslookup GUI:  
 [DNSDataView⊞■](https://www.nirsoft.net/utils/dns_records_viewer.html)
@@ -46,6 +50,7 @@ nslookup GUI:
 tracert/ping GUI:  
 [CountryTraceroute⊞■](https://www.nirsoft.net/utils/country_traceroute.html),
 [PingPlotter⊞⌘🍎](https://www.pingplotter.com/),
+[smokeping☁](https://www.dslreports.com/smokeping),
 [WinMTR⊞■🐧](https://www.bitwizard.nl/mtr/)
 
 Network discovery:  

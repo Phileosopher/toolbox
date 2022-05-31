@@ -11,3 +11,6 @@ Package manager:
 [Apt🐧](https://wiki.debian.org/Apt),
 [DNF🐧](https://rpm-software-management.github.io/),
 [Homebrew⌘🐧](https://brew.sh/)
+
+Desktop shortcuts:  
+[DeskCut🐧](https://github.com/NayamAmarshe/DeskCut)

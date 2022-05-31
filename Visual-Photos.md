@@ -23,12 +23,15 @@ Icons/cursors:
 [GFIE Pro⊞■🐧](http://greenfishsoftware.org/)
 
 Avatars:  
-[Avataaars Generator](https://getavataaars.com/),
-[Big Heads](https://bigheads.io/),
-[Draftbit's Personas](https://personas.draftbit.com/),
-[hashicon](https://github.com/emeraldpay/hashicon),
-[Multiavatar](https://multiavatar.com/),
-[RoboHash](https://robohash.org/)
+[Avataaars Generator☁](https://getavataaars.com/),
+[Big Heads☁](https://bigheads.io/),
+[Draftbit's Personas☁](https://personas.draftbit.com/),
+[hashicon☁](https://github.com/emeraldpay/hashicon),
+[Multiavatar☁](https://multiavatar.com/),
+[RoboHash☁](https://robohash.org/)
+
+Avatar extraction:  
+[unavatar.io☁](https://unavatar.io/)
 
 Logos:  
 [Fiverr's Logo Maker☁](https://www.fiverr.com/logo-maker),
@@ -47,7 +50,7 @@ Vector graphics/illustrations:
 [Inkscape⊞■⌘🐧](https://inkscape.org/),
 [Icons8's Mega Creator☁](https://icons8.com/mega-creator/)
 
-## Very Specific Needs
+## Very Specific Needs/Effects
 
 ASCII art:  
 [Textik](https://textik.com/)
@@ -63,3 +66,6 @@ XKCD-style Comics:
 
 Placeholder photos:  
 [BlurHash](https://blurha.sh/)
+
+Stippling:  
+[stippled-image□](https://github.com/pshihn/stippled-image)

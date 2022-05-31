@@ -107,6 +107,12 @@ UUID decoding:
 Outgoing port test:  
 [Outgoing Port Tester☁](http://52.47.209.216/)
 
+Ping - multiple hostnames/IPs:  
+[PingInfoView⊞■](https://www.nirsoft.net/utils/multiple_ping_tool.html)
+
+Ping - periodic repetition:  
+[Alive🐧](https://www.gnu.org/software/alive/)
+
 IP management:  
 [NIPAP🐧](https://spritelink.github.io/NIPAP/),
 [SolarWinds' ipMonitor Free Edition⊞](https://www.solarwinds.com/free-tools/ipmonitor-free)

@@ -93,3 +93,6 @@ View line-by-line changes:
 
 Changelog parser:  
 [changelog-parser(NodeJS)](https://github.com/hypermodules/changelog-parser)
+
+Terminal-to-SVG animations:  
+[termtosvg](https://nbedos.github.io/termtosvg/)

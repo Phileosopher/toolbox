@@ -93,7 +93,10 @@ Lorem ipsum placeholders:
 Text editor:  
 [Notepad++⊞■](https://notepad-plus-plus.org/),
 [Vim⊞■⌘🐧🤖](https://www.vim.org/)
-  
+
+Markdown editor:  
+[Milkdown☁](https://milkdown.dev/)
+
 Word processor:  
 [Bear App⌘🍎](https://bear.app)
 [LibreOffice Writer⊞■⌘🐧](https://www.libreoffice.org/)
