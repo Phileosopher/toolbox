@@ -1,10 +1,10 @@
-# Internet: Search Engines
+# Internet: Search Engines ☁
 
 ## Current Information
 
 Search engine:  
-[Qwant☁](https://www.qwant.com/),
-[searx☁](https://searx.space/)
+[Qwant](https://www.qwant.com/),
+[searx](https://searx.space/)
 
 Google's advanced search operators:  
 [ahrefs' List*](https://supple.com.au/tools/google-advanced-search-operators/),
@@ -22,12 +22,16 @@ Search by image:
 Blacklist specific websites from web search:  
 [Wiper⇉](https://github.com/davidahmed/wiper)
 
+Military activities:  
+[liveuamap.com](https://liveuamap.com/)
+
 ## Online Archives
 
 [Wayback Machine](https://web.archive.org/)
 
 Books:  
 [Open Library](https://openlibrary.org/),
+[zlibrary](https://b-ok.cc/),
 [UPenn's The Online Books Page](https://onlinebooks.library.upenn.edu/)
 
 Court records:  

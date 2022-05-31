@@ -53,6 +53,9 @@ PC builds:
 [Pangoly's PC configurator☁](https://pangoly.com/en/pc-configurator)
 [PCPartPicker's System Builder☁](https://pcpartpicker.com/list/)
 
+PC builds - 3DMark score:
+[PC Building Simulator HTML Calculator](https://jacobwklein.github.io/PC-Building-Simulator/HTML-Calculator/Current-Version/PC-Building-Simulator-HTML-Calculator.html)
+
 Hardware upgrade:  
 [Crucial by Micron☁](https://www.crucial.com/)
 

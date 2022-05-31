@@ -1,5 +1,8 @@
 # Business: Enterprise Systems
 
+Researching software:  
+[Business Software Reviews from Software Advice®](https://www.softwareadvice.com/)
+
 ## Cheap/Free Hosting
 
 Managed hosting - free:  
