@@ -30,8 +30,14 @@ Languages:
 DjVu:  
 [WinDjView/MacDjView⊞■⌘](https://windjview.sourceforge.io/)
 
-PDF/ebooks:  
+PDF/ePub/MOBI:  
 [Sumatra⊞■](https://www.sumatrapdfreader.org/free-pdf-reader.html)
+
+ePub reader:  
+[WebBrowserTools ePub reader☁](https://webbrowsertools.com/epub-reader/)
+
+MOBI reader:  
+[WebBrowserTools MOBI reader☁](https://webbrowsertools.com/mobi-reader/)
 
 ## Media Managers
 

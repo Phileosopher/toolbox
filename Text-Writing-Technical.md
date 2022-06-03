@@ -7,8 +7,10 @@ Email copy:
 
 ## Writing Software
 
+LaTeX:  
 [LaTeX☁⊞⌘🐧](https://www.latex-project.org/),
-[SwiftLaTeX☁](https://www.swiftlatex.com)
+[SwiftLaTeX☁](https://www.swiftlatex.com),
+[WebBrowserTools' LaTeX Editor☁](https://webbrowsertools.com/latex-editor/)
 
 Mathematical calculations:  
 [LibreOffice Math⊞■⌘🐧](https://www.libreoffice.org/discover/math/)

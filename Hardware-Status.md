@@ -35,6 +35,10 @@ HD:
 [SSD-Z⊞■](http://aezay.dk/aezay/ssdz/),
 [CrystalDiskMark⊞■](https://crystalmark.info/en/software/crystaldiskmark/)
 
+Keyboard:  
+RGB control:  
+[KeyboardStateView⊞■](https://www.nirsoft.net/utils/keyboard_state_view.html)
+
 Laptop Battery:  
 [BATExpert⊞](https://kcsoftwares.com/?batexpert)
 [BatteryInfoView⊞■](https://www.nirsoft.net/utils/battery_information_view.html)
