@@ -8,7 +8,7 @@
 [Whimsical☁](https://whimsical.com/),
 [yEd Live⊞⌘🐧☁](https://www.yworks.com/products/yed)
 
-Text-to-diagram:
+Text-to-diagram:  
 [XOSH.ORG's text to diagram tools](https://xosh.org/text-to-diagram/)
 
 ## Chart/Graph Generators
