@@ -73,6 +73,10 @@ Intellectual properties:
 Intellectual properties - web domains:  
 [Sedo☁](https://sedo.com/us/)
 
+Blockchain:  
+[hybrix⌘🐧](https://hybrix.io/en),
+[Peersm wallet☁](https://peersm.com/wallet)
+
 ## Investing - Research
 
 [Standard & Poor's*](https://www.standardandpoors.com/)
