@@ -96,8 +96,8 @@ Text editor:
 [WebBrowserTools' Text Editor☁](https://webbrowsertools.com/text-editor/)
 
 Markdown editor:  
-[Milkdown☁](https://milkdown.dev/),
-[WebBrowserTools' Markdown Editor☁](https://webbrowsertools.com/markdown-editor/)
+[Dillinger☁](https://dillinger.io/),
+[Milkdown☁](https://milkdown.dev/)
 
 Word processor:  
 [Bear App⌘🍎](https://bear.app)
