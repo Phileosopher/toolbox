@@ -128,7 +128,9 @@ Books:
 [Bookshop☁](https://bookshop.org/)
 
 Computer games:  
-[Razer Game Deals⊞☁](https://deals.razer.com/)
+[IsThereAnyDeal☁](https://isthereanydeal.com/),
+[Razer Game Deals⊞☁](https://deals.razer.com/),
+[SteamDB☁](https://steamdb.info/)
 
 Eyewear:  
 [Warby Parker☁](https://www.warbyparker.com/),
