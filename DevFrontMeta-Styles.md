@@ -11,7 +11,9 @@ Text-based user interface:
 [TuiCss](https://github.com/vinibiavatti1/TuiCss)
 
 Interactive terminal:  
-[AnderShell 3000](https://github.com/andersevenrud/retro-css-shell-demo)
+[AnderShell 3000](https://github.com/andersevenrud/retro-css-shell-demo),
+[cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
+
 
 Nintendo Entertainment System:  
 [NES.css](https://nostalgic-css.github.io/NES.css/)
