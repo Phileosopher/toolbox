@@ -8,7 +8,9 @@ App/site blocking:
 
 Interface config:  
 [FreeCommander⊞■](https://freecommander.com/en/summary/),
-[FileVoyager⊞■](https://www.filevoyager.com/)
+[FileVoyager⊞■](https://www.filevoyager.com/),
+[Microsoft PowerToys⊞](https://docs.microsoft.com/en-us/windows/powertoys/)
+
 
 Desktop icon positions:  
 [DesktopOK⊞](https://www.softwareok.com/?seite=Freeware/DesktopOK)
