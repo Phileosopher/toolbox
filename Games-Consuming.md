@@ -12,6 +12,10 @@ Split peripheral use on same device:
 Save file tweaking:  
 [Cheat Engine](https://cheatengine.org/)
 
+Game playtime tracking:  
+[Steam Gauge☁](https://www.mysteamgauge.com/),
+[Wasted hours on Steam☁](https://steamtime.info/)
+
 ## Virtual gaming platforms
 
 Multi-platform:  
