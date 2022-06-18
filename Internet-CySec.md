@@ -191,7 +191,8 @@ Tracker/permissions search:
 [εxodus☁(for🤖)](https://reports.exodus-privacy.eu.org/en/)
 
 Account deleter:  
-[Account Killer☁](https://www.accountkiller.com/en/popular)
+[Account Killer☁](https://www.accountkiller.com/en/popular),
+[Own Your Data☁](https://yourdigitalrights.org/)
 
 Information-gathering opt-out:  
 [Digital Advertising Alliance Opt Out☁](http://www.aboutads.info/choices/),
