@@ -3,8 +3,13 @@
 AI CAD:  
 [Components AI](https://components.ai/)
 
+AI-assisted drawing/painting:  
+[Google's AutoDraw☁](https://www.autodraw.com/),
+[NVIDIA Canvas⊞](https://www.nvidia.com/en-gb/studio/canvas/)
+
 AI photo editing:  
-[Hotpot.ai](https://hotpot.ai/tools)
+[Hotpot.ai](https://hotpot.ai/tools),
+[Lunacy⊞⌘🐧](https://icons8.com/lunacy)
 
 ## Capture
 
@@ -31,14 +36,15 @@ Text output to image:
 ## Auto-Tweaking/Filters
 
 Image resizing:  
-[Online Image Resizer☁](https://resizeimage.net/)
+[Online Image Resizer☁](https://resizeimage.net/),
+[Make Your Photo 16x9☁](https://photo16x9.com/)
 
-Image upscaling:  
+AI-assisted image upscaling:  
 [Icons8's AI Image Upscaler☁](https://icons8.com/upscaler/),
 [Ojoy☁](https://ojoy.netlify.app/)
 
 Filter effects:  
-[PhotoMosh](https://photomosh.com/)
+[PhotoMosh☁](https://photomosh.com/)
 
 Histograms of chaotic functions:  
 [Fyre🐧](http://fyre.navi.cx/)

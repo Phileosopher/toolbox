@@ -52,6 +52,17 @@ Vision Test:
 Binaural beats:  
 [Gnaural⊞🐧](https://sourceforge.net/projects/gnaural/)
 
+## Wellness - Computer Tasks
+
+Circadian rhythm-based lighting:  
+[f.lux⊞⌘🐧](https://justgetflux.com/)
+
+Keyboard ergonomics:  
+[Kinesis Advantage](https://kinesis-ergo.com/keyboards/advantage360/)
+
+Repetitive strain timer:  
+[Workrave⊞■⌘🐧](http://www.workrave.org/)
+
 ## Wellness - Workouts
 
 Running comparison:  
@@ -62,10 +73,6 @@ Weightlifting comparison:
 
 Muscle focus:  
 [MuscleWiki☁](https://musclewiki.com/)
-
-## Wellness - Computers
-
-[Kinesis Advantage](https://kinesis-ergo.com/keyboards/advantage360/)
 
 ## Other
 

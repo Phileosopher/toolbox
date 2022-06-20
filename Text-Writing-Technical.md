@@ -3,7 +3,7 @@
 ## Inspiration
 
 Email copy:  
-[Good Copy](https://www.goodemailcopy.com/)
+[Good Copy☁](https://www.goodemailcopy.com/)
 
 ## Writing Software
 

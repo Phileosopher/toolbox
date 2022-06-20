@@ -56,15 +56,13 @@ Pomodoro timer:
 Website timer:  
 [Intention⇉](https://addons.mozilla.org/en-US/firefox/addon/intention/)
 
-Repetitive strain timer:  
-[Workrave⊞■⌘🐧](http://www.workrave.org/)
-
 Ambient noise:  
 [Noisli☁🍎🤖⇉](https://www.noisli.com/),
 [freeCodeCamp.org Code Radio](https://coderadio.freecodecamp.org/),
 [generative.fm☁](https://generative.fm/),
 [lofi.cafe☁](https://lofi.cafe/),
-[musicForProgramming☁);](https://www.musicforprogramming.net/)
+[musicForProgramming☁);](https://www.musicforprogramming.net/),
+[SomaFM☁](https://somafm.com/)
 
 Binaural beats:  
 [Gnaural⬇️](https://sourceforge.net/projects/gnaural/)

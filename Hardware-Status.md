@@ -4,7 +4,9 @@
 
 All-in-One:  
 [HWiNFO⊞■](https://www.hwinfo.com/),
-[Open Hardware Monitor⊞](https://openhardwaremonitor.org/)
+[Open Hardware Monitor⊞](https://openhardwaremonitor.org/),
+[StressMyPC⊞■](https://www.softwareok.com/?seite=Microsoft/StressMyPC)
+
 
 Temperature:  
 [lm-sensors□](https://github.com/lm-sensors/lm-sensors)
@@ -12,6 +14,7 @@ Temperature:
 CPU/motherboard:  
 [CPU-X🐧](https://x0rg.github.io/CPU-X/),
 [CPU-Z⊞■](https://www.cpuid.com/softwares/cpu-z.html),
+[OCCT⊞](https://www.ocbase.com/)
 [Prime95⊞](https://prime95.en.lo4d.com/windows)
 
 CPU - microcode:  
@@ -28,7 +31,8 @@ Memory latency:
 PCI resources:  
 [PCI-Z⊞■](https://www.pci-z.com/)
 
-Graphics Card:  
+GPU/Graphics Card:  
+[FurMark⊞](https://www.geeks3d.com/furmark/),
 [GPU-Z⊞■](https://www.techpowerup.com/gpuz/)
 
 HD:  

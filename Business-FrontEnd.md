@@ -61,6 +61,9 @@ Twitter - the first tweet of something:
 Twitter - multi-user management:  
 [TweetDeck☁](https://tweetdeck.twitter.com/)
 
+YouTube - search spoken words in videos:  
+[VideoMentions](https://videomentions.com/search)
+
 ## LMS (learning management system)
 
 [ATutor⊞🐧](https://atutor.github.io/atutor/index.html),

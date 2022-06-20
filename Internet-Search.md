@@ -2,9 +2,12 @@
 
 ## Current Information
 
-Search engine:  
+Search engine - non-FAANG:  
 [Qwant](https://www.qwant.com/),
 [searx](https://searx.space/)
+
+Search engine - reddit:  
+[Redditle](https://redditle.com/)
 
 Google's advanced search operators:  
 [ahrefs' List*](https://supple.com.au/tools/google-advanced-search-operators/),
@@ -34,9 +37,18 @@ Books:
 [zlibrary](https://b-ok.cc/),
 [UPenn's The Online Books Page](https://onlinebooks.library.upenn.edu/)
 
+University articles:  
+[OA.mg](https://oa.mg/),
+[Unpaywall](https://unpaywall.org/)
+
+
 Court records:  
 [judyrecords](https://www.judyrecords.com/)
 
 ## Specific Miscellaneous Search Engines
 
+Sports information:  
 [TheSportsDB.com🔌](https://thesportsdb.com/)
+
+European surnames:  
+[Surname Map](https://www.surnamemap.eu/)

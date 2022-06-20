@@ -19,9 +19,6 @@ Path visualization:
 
 ## SVG Elements
 
-Avatars:  
-[Boring Avatars☁](https://boringavatars.com/)
-
 Blobs:  
 [z creative labs' Blobmaker☁](https://www.blobmaker.app/),
 [Blobs☁](https://blobs.app/)

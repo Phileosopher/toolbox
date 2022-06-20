@@ -180,9 +180,9 @@ Avatars:
 [IsoFlat](https://isoflat.com/), [Isometric](https://isometric.online/), [Isometriclove](https://www.isometriclove.com/),
 [Shapefest](https://www.shapefest.com/)
 
-## Figma Templates
+## Figma UI Kits/Templates
 
-[100 Daily UI Challenge Library](https://100dailyui.webflow.io/),
+[100 Daily UI Library](https://100dailyui.webflow.io/),
 [UI Kits for Figma](https://www.uikitsnow.com/)
 
 ## Piles of stock resources

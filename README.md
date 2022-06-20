@@ -21,7 +21,7 @@ Obviously, that's not _always_ true:
 - Refactoring is complicated, and it's often hard to find _precisely_ what you want.
 - Some software developers want to test to themselves/others whether they're smart.
 - Sometimes it's very educational or downright _fun_ to reinvent the wheel.
-- If someone has severe trust issues, they'll make a de-(thing) version of that thing.
+- If someone has severe trust issues, they'll make an open-source or de-(thing) version of that thing.
 
 However, if I need something to stretch audio or batch-compare files, my largest mental hurdle is knowing it even _exists_. Even when a tool is obsolete, placed behind a paywall, merged into some other software suite, or just plain forgotten, that idea lives on and someone else will usually pick up the torch.
 

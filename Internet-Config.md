@@ -29,6 +29,7 @@ IP lookup/info - offline:
 
 DNS probe:  
 [DNSdumpster.com☁](https://dnsdumpster.com/),
+[DNS-Lookup☁](https://dns-lookup.com/),
 [Dnsutils🐧](https://pkgs.org/download/dnsutils),
 [getdns🔌](https://getdnsapi.net/)
 [Google's Dig☁](https://toolbox.googleapps.com/apps/dig/),

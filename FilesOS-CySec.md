@@ -81,6 +81,9 @@ Folder synchronization:
 Drive backup:  
 [TeraCopy⊞⌘🤖](https://www.codesector.com/teracopy)
 
+File/folder backup:  
+[Restic](https://restic.readthedocs.io/)
+
 CD/DVD:
 [Clonezilla⊞⌘🐧🍎🤖](https://clonezilla.org/)
 

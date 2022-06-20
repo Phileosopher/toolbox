@@ -1,7 +1,24 @@
 # Visual: Photos
 
-Animations:  
+Photo manager - extraction:  
+[digiKam⊞⌘🐧](https://www.digikam.org/)
+
+Photo manager - sifting:  
+[Geeqie](https://www.geeqie.org/)
+
+## Post-Production
+
+SVGs/illustrations:  
+[Adobe Illustrator CS Scripts⇉](http://shspage.com/aijs/en/)
 [Blush(Figma/Sketch)☁⇉](https://blush.design/),
+[Canva☁](https://www.canva.com/),
+[Gravit Designer⊞⌘🐧](https://www.designer.io/en/),
+[Icons8's Vector Creator☁](https://icons8.com/vector-creator),
+[Inkscape⊞■⌘🐧](https://inkscape.org/),
+[Icons8's Mega Creator☁](https://icons8.com/mega-creator/),
+[SvgPathEditor☁](https://yqnn.github.io/svg-path-editor/)
+
+Animations:  
 [OpenToonz⊞⌘](https://opentoonz.github.io/e/),
 [Pencil2D Animation⊞■⌘🐧](https://www.pencil2d.org/),
 [SVGator](https://www.svgator.com/)
@@ -14,10 +31,6 @@ Drawing/painting:
 [Autodesk SketchBook⊞⌘🍎🤖](https://www.autodesk.com/products/sketchbook/overview),
 [Paintstorm Studio⊞⌘🐧](https://www.paintstormstudio.com/buy.html),
 [Photopea☁](https://www.photopea.com/)
-
-Drawing/painting - AI-assisted:  
-[Google's AutoDraw☁](https://www.autodraw.com/),
-[NVIDIA Canvas⊞](https://www.nvidia.com/en-gb/studio/canvas/)
 
 Icons/cursors:  
 [GFIE Pro⊞■🐧](http://greenfishsoftware.org/)
@@ -41,14 +54,6 @@ Logos:
 [Namecheap's Free Logo Maker☁](https://www.namecheap.com/logo-maker/app/new),
 [Shopify's Hatchful☁](https://hatchful.shopify.com/),
 [Squarespace's Free Logo Maker☁](https://www.squarespace.com/logo)
-
-Vector graphics/illustrations:  
-[Adobe Illustrator CS Scripts⇉](http://shspage.com/aijs/en/)
-[Canva☁](https://www.canva.com/),
-[Gravit Designer⊞⌘🐧](https://www.designer.io/en/),
-[Icons8's Vector Creator☁](https://icons8.com/vector-creator),
-[Inkscape⊞■⌘🐧](https://inkscape.org/),
-[Icons8's Mega Creator☁](https://icons8.com/mega-creator/)
 
 ## Very Specific Needs/Effects
 

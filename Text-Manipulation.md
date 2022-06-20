@@ -11,14 +11,18 @@ Editor:
 EPUB editor:  
 [Sigil⊞■⌘🐧](https://sigil-ebook.com/)
 
-PDF differences:  
+PDF - detect differences:  
 [Aspose's Compare PDF☁](https://products.aspose.app/pdf/comparison),
 [Draftable's Compare PDF & Word Documents Online☁](https://draftable.com/compare),
 [PDF24 Compare PDF files☁](https://tools.pdf24.org/en/compare-pdf),
 [PDF Compare☁](https://copyleaks.com/text-compare/compare-pdf-files)
 
-PDF optimization:  
+PDF - optimization:  
 [PDF Tools' Online PDF Optimizer☁](https://pdfresizer.com/optimize)
+
+PDF - looking scanned:  
+[Look Scanned](https://lookscanned.io/)
+
 
 ## OCR (Optical Character Recognition)
 

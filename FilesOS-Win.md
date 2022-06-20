@@ -37,7 +37,7 @@ Multiple NICs:
 [NetConnectChoose■](https://www.nirsoft.net/utils/net_connect_choose.html)
 
 Scanners/TWAIN devices:  
-[TWACKER■](https://www.dynamsoft.com/web-twain/docs/faq/How-to-use-TWACKER-to-check-if-your-device-is-TWAIN-Compliant.html)
+[TWACKER■](https://www.dynamsoft.com/web-twain/docs/faq/How-to-use-TWACKER-to-check-if-your-device-is-TWAIN-Compliant.html),
 
 ## Hardware - Hard Drive Issues
 

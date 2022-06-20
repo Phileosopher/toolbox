@@ -30,6 +30,9 @@ Wikipedia UI update:
 Podcast search engine:  
 [Listen Notes☁](https://www.listennotes.com/)
 
+Blog search engine:  
+[Blog Surf☁](https://blogsurf.io/)
+
 Webpage-to-RSS:  
 [FetchRSS☁](https://fetchrss.com/)
 

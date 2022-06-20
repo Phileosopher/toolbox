@@ -12,7 +12,10 @@ Split peripheral use on same device:
 Save file tweaking:  
 [Cheat Engine](https://cheatengine.org/)
 
-Game playtime tracking:  
+Playtime - planning:  
+[HowLongToBeat.com☁](https://howlongtobeat.com/)
+
+Playtime - tracking:  
 [Steam Gauge☁](https://www.mysteamgauge.com/),
 [Wasted hours on Steam☁](https://steamtime.info/)
 

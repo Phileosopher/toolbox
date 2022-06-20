@@ -59,3 +59,8 @@ Astronomy:
 
 Insert SciHub links:  
 [sci-hub-injector](https://github.com/justjosias/sci-hub-injector)
+
+## Teaching
+
+Quizzes:  
+[Quickz](https://quickz.org/)

@@ -27,6 +27,7 @@ Webpage markups:
 
 ## Real-Time - Chat
 
+[Pidgin⊞🐧⌘](https://pidgin.im/),
 [Rocket.Chat⊞🐧⌘🍎🤖](https://rocket.chat/),
 [tinychat☁](https://tinychat.com)
 
