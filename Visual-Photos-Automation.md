@@ -44,6 +44,7 @@ AI-assisted image upscaling:
 [Ojoy☁](https://ojoy.netlify.app/)
 
 Filter effects:  
+[Image Filters☁](https://10015.io/tools/image-filters),
 [PhotoMosh☁](https://photomosh.com/)
 
 Histograms of chaotic functions:  
@@ -69,6 +70,9 @@ Add grain:
 
 8-bit downscaling:  
 [NFT Maker☁](https://img8bit.com/)
+
+Photo censoring:  
+[Photo Censor☁](https://10015.io/tools/photo-censor)
 
 ## Image Optimization
 

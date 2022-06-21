@@ -5,6 +5,9 @@ Presentations:
 [Microsoft PowerPoint Online☁](https://office.live.com/start/PowerPoint.aspx),
 [LibreOffice Impress⊞■⌘🐧](https://www.libreoffice.org/)
 
+Presentations - display keyboard shortcuts:  
+[Carnac⊞](http://carnackeys.com/)
+
 Desktop publishing:  
 [Microsoft Sway☁](https://sway.office.com),
 [Scribus⊞■⌘🐧](https://www.scribus.net/)

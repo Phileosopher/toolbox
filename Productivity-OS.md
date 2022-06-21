@@ -17,6 +17,9 @@ Desktop icon positions:
 Automated actions:  
 [Macro Recorder - No more repetitive tasks - Mouse and Keyboard Capture](https://www.macrorecorder.com/)
 
+File preview:  
+[QuickLook⊞](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S)
+
 Clipboard management:  
 [Clipboard PRO🍎](https://clipboardpro.app/),
 [Clipboardic⊞](https://www.nirsoft.net/utils/clipboardic.html),

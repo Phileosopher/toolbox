@@ -9,6 +9,9 @@ Font search:
 Font search (from a file):  
 [FontDrop!☁](https://fontdrop.info/)
 
+Font pairing:  
+[Google Fonts Pair Finder☁](https://10015.io/tools/google-fonts-pair-finder)
+
 Formatting:  
 [Archetype☁](https://archetypeapp.com)
 

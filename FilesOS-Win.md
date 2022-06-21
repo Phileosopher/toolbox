@@ -6,6 +6,12 @@ Power tools:
 CMD alternative:  
 [NirCmd■□](https://www.nirsoft.net/utils/nircmd.html)
 
+Package manager:  
+[winget](https://docs.microsoft.com/en-us/windows/package-manager/winget/)
+
+Linux integration:  
+[WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
+
 ## Windows Search
 
 Windows Search alternative:  

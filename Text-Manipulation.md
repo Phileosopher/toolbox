@@ -23,7 +23,6 @@ PDF - optimization:
 PDF - looking scanned:  
 [Look Scanned](https://lookscanned.io/)
 
-
 ## OCR (Optical Character Recognition)
 
 [Online OCR☁](https://www.onlineocr.net/),
@@ -43,13 +42,22 @@ Convert image numbers to CSV:
 
 ## Text Modification
 
+Removing extra whitespace:  
+[Multiple Whitespace Remover☁](https://10015.io/tools/multiple-whitespace-remover)
+
 Reversing text:  
 [Reverse Text☁](https://commentpicker.com/reverse-text.php)
 
 Chinese characters:  
 [rrpl](https://github.com/LingDong-/rrpl)
 
-## Text Conversion
+Converting case:  
+[10015 Tools' Case Converter☁](https://10015.io/tools/case-converter)
+
+Randomizing lists:  
+[10015 Tools' List Randomizer☁](https://10015.io/tools/list-randomizer)
+
+## Text File Conversion
 
 [Convertio's Ebook Converter☁](https://convertio.co/ebook-converter/),
 [Pandoc⊞⌘🐧□](https://pandoc.org/)
