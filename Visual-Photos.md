@@ -23,10 +23,6 @@ Animations:
 [Pencil2D Animation⊞■⌘🐧](https://www.pencil2d.org/),
 [SVGator](https://www.svgator.com/)
 
-Blob generator:  
-[SVG Blob Generator☁](https://10015.io/tools/svg-blob-generator),
-[MagicPattern's Doodle Backgrounds☁](https://www.magicpattern.design/tools/doodle-backgrounds)
-
 Drawing/painting:  
 [Krita⊞■⌘🐧](https://krita.org/en/)
 [Autodesk SketchBook⊞⌘🍎🤖](https://www.autodesk.com/products/sketchbook/overview),

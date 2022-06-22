@@ -11,6 +11,13 @@ AI photo editing:
 [Hotpot.ai](https://hotpot.ai/tools),
 [Lunacy⊞⌘🐧](https://icons8.com/lunacy)
 
+Blob generator:  
+[SVG Blob Generator☁](https://10015.io/tools/svg-blob-generator),
+[MagicPattern's Doodle Backgrounds☁](https://www.magicpattern.design/tools/doodle-backgrounds)
+
+Pattern generator:  
+[SVG Pattern Generator☁](https://10015.io/tools/svg-pattern-generator)
+
 ## Capture
 
 Screenshots:  

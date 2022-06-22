@@ -74,6 +74,10 @@ EDA tools:
 [Libre Silicon](https://libresilicon.com/),
 [LibreSilicon's Standard Cell Library](https://github.com/chipforge/StdCellLib)
 
+## Testing
+
+[Device Fundamentals Tests - Windows drivers | Microsoft Docs](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/device-fundamentals-tests)
+
 ## Computer Assembly
 
 Components:  

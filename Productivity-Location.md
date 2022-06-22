@@ -23,6 +23,9 @@ Weather:
 [OpenWeatherMap API guide🔌](https://openweathermap.org/guide),
 [Weather Underground☁](https://www.wunderground.com/)
 
+Year-round climate:  
+[Goldilocks Zone Finder☁](https://lukechampine.com/goldilocks/)
+
 Flight tracking:  
 [FlightStats by Cirium☁](https://www.flightstats.com)
 

@@ -17,6 +17,9 @@ By extraction from an image:
 [Colors Generator☁](https://colorgen.dev/),
 [Tineye's Color extraction☁](https://labs.tineye.com/color/)
 
+By extraction from an image - average color:
+[Image Average Color Finder☁](https://10015.io/tools/image-average-color-finder)
+
 Object search (by color):  
 [TinEye Labs' Multicolr Search Lab☁](https://labs.tineye.com/multicolr/)
 
@@ -25,6 +28,10 @@ Color name search:
 
 Color code reference:  
 [HTML Color Codes☁](https://htmlcolorcodes.com/)
+
+Color code conversion:  
+[HEX to RGBA Converter☁](https://10015.io/tools/hex-to-rgba-converter),
+[RGBA to HEX Converter☁](https://10015.io/tools/rgba-to-hex-converter)
 
 Random colors:  
 [Random Color Generator☁](https://commentpicker.com/random-color-generator.php),
@@ -75,6 +82,9 @@ Auto-adjusted palettes:
 [Palettte App☁](https://palettte.app/)
 
 ## Gradients
+
+Color mixer:  
+[Color Mixer☁](https://10015.io/tools/color-mixer)
 
 Tailored gradients:  
 [Grabient*](https://www.grabient.com/),

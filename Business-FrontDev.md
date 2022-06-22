@@ -33,6 +33,13 @@ Support tables:
 Browser:  
 [Responsively⊞⌘🐧](https://responsively.app/)
 
+## LMS (learning management system)
+
+[ATutor⊞🐧](https://atutor.github.io/atutor/index.html),
+[FlightPath⊞🐧](https://getflightpath.com/),
+[Moodle🐧](https://moodle.org/),
+[Omeka🐧](https://omeka.org/)
+
 ## Usability Testing
 
 Also check out [Hardware-Net.md, Layers 6-7](https://github.com/Phileosopher/toolbox/blob/master/Hardware-Net.md)
@@ -95,6 +102,9 @@ Twitter:
 
 Facebook:  
 [Facebook's Sharing Debugger☁](https://developers.facebook.com/tools/debug/)
+
+Instagram:  
+[Instagram Post Generator☁](https://10015.io/tools/instagram-post-generator)
 
 LinkedIn:  
 [LinkedIn's Post Inspector☁](https://www.linkedin.com/post-inspector/)

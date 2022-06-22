@@ -38,6 +38,16 @@ Comment pickers for giveaways:
 [Instagram Comment Picker☁](https://commentpicker.com/business-instagram.php),
 [YouTube Random Comment Picker☁](https://commentpicker.com/youtube.php)
 
+Twitter photos:  
+[Tweet Generator☁](https://10015.io/tools/tweet-generator),
+[Tweet to Image Converter☁](https://10015.io/tools/tweet-to-image-converter)
+
+YouTube thumbnails:  
+[YouTube Thumbnail Grabber☁](https://10015.io/tools/youtube-thumbnail-grabber)
+
+Vimeo thumbnails:  
+[Vimeo Thumbnail Grabber☁](https://10015.io/tools/vimeo-thumbnail-grabber)
+
 ## Marketing Front-End - Influencers
 
 Brand capture:  
@@ -63,13 +73,6 @@ Twitter - multi-user management:
 
 YouTube - search spoken words in videos:  
 [VideoMentions](https://videomentions.com/search)
-
-## LMS (learning management system)
-
-[ATutor⊞🐧](https://atutor.github.io/atutor/index.html),
-[FlightPath⊞🐧](https://getflightpath.com/),
-[Moodle🐧](https://moodle.org/),
-[Omeka🐧](https://omeka.org/)
 
 ## Tournaments
 
