@@ -7,7 +7,6 @@ All-in-One:
 [Open Hardware Monitor⊞](https://openhardwaremonitor.org/),
 [StressMyPC⊞■](https://www.softwareok.com/?seite=Microsoft/StressMyPC)
 
-
 Temperature:  
 [lm-sensors□](https://github.com/lm-sensors/lm-sensors)
 
@@ -39,8 +38,11 @@ HD:
 [SSD-Z⊞■](http://aezay.dk/aezay/ssdz/),
 [CrystalDiskMark⊞■](https://crystalmark.info/en/software/crystaldiskmark/)
 
+HD - S.M.A.R.T. errors:  
+[DiskSmartView⊞■](https://www.nirsoft.net/utils/disk_smart_view.html),
+[Smart errors list*](https://hetmanrecovery.com/recovery_news/smart-errors)
+
 Keyboard:  
-RGB control:  
 [KeyboardStateView⊞■](https://www.nirsoft.net/utils/keyboard_state_view.html)
 
 Laptop Battery:  

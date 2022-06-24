@@ -317,10 +317,6 @@ Empty file directories:
 SQLite databases (Firefox, Chrome, et al):  
 [SpeedyFox⊞■](https://www.crystalidea.com/speedyfox)
 
-## Boot Management
-
-[EasyUEFI](https://www.easyuefi.com/index-us.html)
-
 ## User Issues
 
 Run program under alternate user's process:  
