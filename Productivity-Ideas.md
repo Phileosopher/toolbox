@@ -17,6 +17,10 @@ Reference images/visual boards:
 [Eagle⊞⌘](https://en.eagle.cool/),
 [Milanote⊞⌘🍎🤖⇉](https://milanote.com/)
 
+Venn Diagrams:  
+[Good Calculators' Venn Diagram Maker☁](https://goodcalculators.com/venn-diagram-maker/),
+[Venngage☁](https://venngage.com/features/venn-diagram-maker)
+
 Project Management/All-in-one:  
 [Focalboard⊞⌘🐧](https://www.focalboard.com/),
 [Notion⊞⌘☁🍎🤖⇉](https://www.notion.so/),

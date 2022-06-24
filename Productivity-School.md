@@ -64,3 +64,6 @@ Insert SciHub links:
 
 Quizzes:  
 [Quickz](https://quickz.org/)
+
+Performance arts:  
+[Collabra](https://www.collabramusic.com/)

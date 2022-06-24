@@ -118,6 +118,9 @@ Durable products:
 Online auctions - government liquidations:  
 [Government Surplus Auctions*](https://www.govdeals.com/)
 
+Land:  
+[LandWatch☁](https://www.landwatch.com/)
+
 Telecom:  
 [Allconnect.com☁](https://www.allconnect.com/)
 
