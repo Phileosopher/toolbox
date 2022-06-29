@@ -8,6 +8,9 @@ Quick drawing:
 [Sharpen☁](https://sharpen.design/),
 [Evernote.Design](https://www.evernote.design/)
 
+Legal/technical writing:  
+[Typography for Lawyers](https://typographyforlawyers.com/)
+
 ## Learning
 
 [Canva's Design School☁](https://designschool.canva.com/),
