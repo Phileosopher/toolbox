@@ -6,7 +6,8 @@ Quick drawing:
 ## Inspiration
 
 [Sharpen☁](https://sharpen.design/),
-[Evernote.Design☁](https://www.evernote.design/)
+[Evernote.Design☁](https://www.evernote.design/),
+[Geof☁](https://www.geofcrowl.com/blog/articles/2020/2/17/collection-higs/)
 
 Legal/technical writing:  
 [Typography for Lawyers](https://typographyforlawyers.com/)
