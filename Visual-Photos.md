@@ -54,6 +54,9 @@ Logos:
 
 ## Very Specific Needs/Effects
 
+Quick drafts:  
+[JS Paint☁](https://jspaint.app/)
+
 ASCII art:  
 [Textik](https://textik.com/)
 
