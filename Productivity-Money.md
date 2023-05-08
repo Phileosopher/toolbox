@@ -32,6 +32,9 @@ Accounting/ERP software:
 [LedgerSMB🐧](https://ledgersmb.org/),
 [SQL-Ledger⊞⌘🐧](https://www.sql-ledger.com/)
 
+Tax estimation:  
+[taxsim.app☁](https://taxsim.app/)
+
 ## Positions/Budgeting
 
 [Betterment☁](https://www.betterment.com/),
