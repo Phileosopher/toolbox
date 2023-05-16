@@ -60,9 +60,14 @@ Grocery shopping lists:
 
 ## Investing - Platforms
 
-[Acorns☁](https://www.acorns.com/),
-[Fidelity☁](https://www.fidelity.com/)
+[E*TRADE☁](https://us.etrade.com/home),
+[Fidelity☁](https://www.fidelity.com/),
+[TD Ameritrade☁](https://www.tdameritrade.com/),
 [Vanguard☁](https://investor.vanguard.com/corporate-portal/)
+
+Automated managers:  
+[Acorns☁](https://www.acorns.com/),
+[Betterment☁](https://www.betterment.com/)
 
 VC firms/startups:  
 [Republic☁](https://republic.co/),
@@ -75,7 +80,11 @@ Intellectual properties:
 [Flippa☁](https://flippa.com/)
 
 Intellectual properties - web domains:  
+[Flippa☁](https://flippa.com/),
 [Sedo☁](https://sedo.com/us/)
+
+Microloans:  
+[Kiva☁](https://www.kiva.org/borrow)
 
 Blockchain:  
 [hybrix⌘🐧](https://hybrix.io/en),
@@ -83,6 +92,7 @@ Blockchain:
 
 ## Investing - Research
 
+[Moody's*](https://www.moodys.com/),
 [Standard & Poor's*](https://www.standardandpoors.com/)
 
 Charities/NPO:  
@@ -90,6 +100,9 @@ Charities/NPO:
 
 Financial institutions:  
 [FINRA☁](https://www.finra.org/)
+
+Insurance:  
+[AM Best☁](https://web.ambest.com/home)
 
 Whale movements:  
 [Unusual Whales☁](https://unusualwhales.com/)
@@ -99,6 +112,19 @@ Blockchain movements:
 
 Individual stocks:  
 [tstock□](https://github.com/Gbox4/tstock)
+
+## Borrowing
+
+[Homepage | Accion](https://www.accion.org/),
+[Justine Petersen☁](https://justinepetersen.org/),
+[LiftFund☁](https://www.liftfund.com/funding-options/),
+[SBA Lender Match☁](https://www.sba.gov/funding-programs/loans/lender-match)
+
+Farms:  
+[FSA Farm Loans☁](https://www.fsa.usda.gov/index)
+
+Women-only:  
+[Grameen America☁](https://www.grameenamerica.org/)
 
 ## Consumer Goods - Comparison/Tracking
 
