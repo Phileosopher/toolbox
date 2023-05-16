@@ -84,7 +84,8 @@ Intellectual properties - web domains:
 [Sedo☁](https://sedo.com/us/)
 
 Microloans:  
-[Kiva☁](https://www.kiva.org/borrow)
+[Kiva☁](https://www.kiva.org/borrow),
+[LendingClub☁](https://www.lendingclub.com/)
 
 Blockchain:  
 [hybrix⌘🐧](https://hybrix.io/en),
