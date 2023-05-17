@@ -96,6 +96,9 @@ Blockchain:
 [Moody's*](https://www.moodys.com/),
 [Standard & Poor's*](https://www.standardandpoors.com/)
 
+Financial advisor matching:  
+[SmartAdvisor Match☁](https://smartadvisormatch.com/)
+
 Charities/NPO:  
 [Charity Navigator☁](https://www.charitynavigator.org/)
 
