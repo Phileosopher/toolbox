@@ -8,6 +8,9 @@ Cost of living comparison:
 Online banking:  
 [Ally☁](https://www.ally.com/)
 
+Credit cards:  
+[U.S. Bank☁](https://www.usbank.com/index.html)
+
 Banking for teens:  
 [Step☁](https://step.com/)
 
@@ -99,7 +102,10 @@ Blockchain:
 Financial advisor matching:  
 [SmartAdvisor Match☁](https://smartadvisormatch.com/)
 
-Charities/NPO:  
+Corporations (10-K):  
+[Last10K☁](https://last10k.com/)
+
+Charities/NPO (Form 990):  
 [Charity Navigator☁](https://www.charitynavigator.org/)
 
 Financial institutions:  
