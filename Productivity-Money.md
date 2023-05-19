@@ -1,41 +1,44 @@
 # Productivity: Money
 
-Cost of living comparison:  
+Cost of living comparison:
 [NUMBEO](https://www.numbeo.com/)
 
 ## Banking
 
-Online banking:  
+Online checking account:
 [Ally☁](https://www.ally.com/)
 
-Credit cards:  
+Online savings account:
+[Bask Bank☁](https://www.baskbank.com/)
+
+Credit cards:
 [U.S. Bank☁](https://www.usbank.com/index.html)
 
-Banking for teens:  
+Banking for teens:
 [Step☁](https://step.com/)
 
 ## Accounting/ERP/CRM
 
-Barebones income/expense tracking:  
+Barebones income/expense tracking:
 [GNU Pem🐧](https://www.gnu.org/software/pem/pem-nano.html)
 
-Accounting all-in-one:  
+Accounting all-in-one:
 [GNU Accounting Utilities🐧](https://www.gnu.org/software/acct/),
 [Wave Financial☁](https://www.waveapps.com)
 
-ERP/CRM:  
+ERP/CRM:
 [Dolibarr⊞🐧](https://www.dolibarr.org/),
 [iDempiere⊞🐧](https://www.idempiere.org/),
 [inoERP⊞🐧](http://www.inoideas.org/),
 [metasfresh🐧](https://metasfresh.com/en)
 
-Accounting/ERP software:  
+Accounting/ERP software:
 [GnuCash⊞■⌘🐧](https://www.gnucash.org/),
 [KMyMoney⊞⌘🐧](https://kmymoney.org/),
 [LedgerSMB🐧](https://ledgersmb.org/),
 [SQL-Ledger⊞⌘🐧](https://www.sql-ledger.com/)
 
-Tax estimation:  
+Tax estimation:
 [taxsim.app☁](https://taxsim.app/)
 
 ## Positions/Budgeting
@@ -45,19 +48,19 @@ Tax estimation:
 [ProjectiFi☁](https://projectifi.io/),
 [ProjectionLab☁](https://projectionlab.com/)
 
-Reward programs:  
+Reward programs:
 [AwardWallet☁](https://awardwallet.com/)
 
-Debt management:  
+Debt management:
 [Debt-Dash☁](https://www.debt-dash.io/)
 
-Credit score:  
+Credit score:
 [Credit Karma☁](https://www.creditkarma.com/)
 
-Research:  
+Research:
 [investorjunkie☁](https://investorjunkie.com/)
 
-Grocery shopping lists:  
+Grocery shopping lists:
 [grocy☁⊞🍎🤖](https://grocy.info/),
 [ListEase☁🍎🤖](https://www.shoppinglistapp.com/)
 
@@ -65,63 +68,84 @@ Grocery shopping lists:
 
 [E*TRADE☁](https://us.etrade.com/home),
 [Fidelity☁](https://www.fidelity.com/),
+[Robinhood☁](https://robinhood.com/us/en/),
 [TD Ameritrade☁](https://www.tdameritrade.com/),
 [Vanguard☁](https://investor.vanguard.com/corporate-portal/)
 
-Automated managers:  
+International investing:
+[Interactive Brokers LLC☁](https://www.interactivebrokers.com/en/home.php)
+
+Automated managers:
 [Acorns☁](https://www.acorns.com/),
 [Betterment☁](https://www.betterment.com/)
 
-VC firms/startups:  
+VC firms/startups:
 [Republic☁](https://republic.co/),
 [Open VC☁](https://www.openvc.app/)
 
-Market terminal:  
-[GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal)
+Market terminal:
+[OpenBB Terminal□](https://openbb.co/)
 
-Intellectual properties:  
+Intellectual properties:
 [Flippa☁](https://flippa.com/)
 
-Intellectual properties - web domains:  
+Intellectual properties - web domains:
 [Flippa☁](https://flippa.com/),
 [Sedo☁](https://sedo.com/us/)
 
-Microloans:  
+Private equity:
+[Fundrise](https://fundrise.com/)
+
+Microloans:
 [Kiva☁](https://www.kiva.org/borrow),
 [LendingClub☁](https://www.lendingclub.com/)
 
-Blockchain:  
+Blockchain:
 [hybrix⌘🐧](https://hybrix.io/en),
 [Peersm wallet☁](https://peersm.com/wallet)
+
+Micro-investing:
+[M1☁](https://m1.com/)
 
 ## Investing - Research
 
 [Moody's*](https://www.moodys.com/),
 [Standard & Poor's*](https://www.standardandpoors.com/)
 
-Financial advisor matching:  
+Financial advisor matching:
 [SmartAdvisor Match☁](https://smartadvisormatch.com/)
 
-Corporations (10-K):  
+Corporations (10-K):
 [Last10K☁](https://last10k.com/)
 
-Charities/NPO (Form 990):  
+Charities/NPO (Form 990):
 [Charity Navigator☁](https://www.charitynavigator.org/)
 
-Financial institutions:  
+Financial institutions:
 [FINRA☁](https://www.finra.org/)
 
-Insurance:  
+Insurance:
 [AM Best☁](https://web.ambest.com/home)
 
-Whale movements:  
-[Unusual Whales☁](https://unusualwhales.com/)
+Whale movements:
+[Unusual Whales☁](https://unusualwhales.com/),
 
-Blockchain movements:  
+Government movements - USA:
+[Behind The Curtain☁](https://www.quiverquant.com/sources/behind-the-curtain/),
+[Congress Trading☁](https://www.quiverquant.com/congresstrading/),
+[DC Insider Score☁](https://www.quiverquant.com/scores/dcinsider)
+
+Government movements - EU:
+[LobbyFacts.eu☁](https://www.lobbyfacts.eu/)
+
+Blockchain movements:
 [Blockchain Whispers☁](https://blockchainwhispers.com/)
 
-Individual stocks:  
+Individual stocks:
 [tstock□](https://github.com/Gbox4/tstock)
+
+Individual stocks - inflation-adjusted:
+[Total Real Returns☁](https://totalrealreturns.com/)
 
 ## Borrowing
 
@@ -130,66 +154,71 @@ Individual stocks:
 [LiftFund☁](https://www.liftfund.com/funding-options/),
 [SBA Lender Match☁](https://www.sba.gov/funding-programs/loans/lender-match)
 
-Farms:  
+Farms:
 [FSA Farm Loans☁](https://www.fsa.usda.gov/index)
 
-Women-only:  
+Women-only:
 [Grameen America☁](https://www.grameenamerica.org/)
 
 ## Consumer Goods - Comparison/Tracking
 
 [Product Chart☁](https://www.productchart.com/)
 
-Price tracking:  
+Price tracking:
 [Slice☁](https://www.slice.com/)
 
-Price tracking - Amazon:  
+Price tracking - Amazon:
 [camelcamelcamel.com☁](https://camelcamelcamel.com/)
 
-Rewards points:  
-[Award Wallet](https://awardwallet.com/)
+Rewards points:
+[Award Wallet☁](https://awardwallet.com/)
 
 ## Consumer Goods - Shopping
 
-Durable products:  
+Durable products:
 [Buy For Life☁](https://www.buyforlife.com/)
 
-Online auctions - government liquidations:  
+Online auctions - government liquidations:
 [Government Surplus Auctions*](https://www.govdeals.com/)
 
-Land:  
+Land:
 [LandWatch☁](https://www.landwatch.com/)
 
-Telecom:  
+Telecom:
 [Allconnect.com☁](https://www.allconnect.com/)
 
-Autos:  
+Autos:
 [CARFAX☁](https://www.carfax.com/),
 [Kelley Blue Book☁](https://www.kbb.com/)
 
-Books:  
+Books:
 [Bookshop☁](https://bookshop.org/)
 
-Computer games:  
+Computer games:
 [IsThereAnyDeal☁](https://isthereanydeal.com/),
 [Razer Game Deals⊞☁](https://deals.razer.com/),
 [SteamDB☁](https://steamdb.info/)
 
-Eyewear:  
+Eyewear:
 [Warby Parker☁](https://www.warbyparker.com/),
 [Zenni Optical☁](https://www.zennioptical.com/)
 
-Fuel:  
+Fuel:
 [GasBuddy☁🍎🤖](https://www.gasbuddy.com/)
 
-Houses:  
+Houses:
 [Zillow☁](https://www.zillow.com/)
 
-Classified ads:  
+Insurance:
+[Insurify☁](https://insurify.com/),
+[Policygenius☁](https://www.policygenius.com/),
+[The Zebra☁](https://www.thezebra.com/)
+
+Classified ads:
 [craigslist☁](https://craigslist.org/),
 [OfferUp☁🍎🤖](https://offerup.com/)
 
-Church supplies:  
+Church supplies:
 [Churchsupplier☁](https://www.churchsupplier.com/)
 
 ## Consumer Goods - Discounts
@@ -202,16 +231,16 @@ Church supplies:
 [RetailMeNot☁](https://www.retailmenot.com/),
 [SnipSnap🍎🤖](https://www.snipsnap.it/)
 
-Coupon codes:  
+Coupon codes:
 [Honey⇉](https://www.joinhoney.com/)
 
-Computer parts:  
+Computer parts:
 [ByteBucket☁](https://www.bytebucket.co/?)
 
-Restaurants:  
+Restaurants:
 [Restaurant.com☁](https://www.restaurant.com/)
 
-Rebates:  
+Rebates:
 [Mr. Rebates☁](https://mrrebates.com/),
 [Rakuten⇉](https://www.rakuten.com/)
 
@@ -223,9 +252,9 @@ Rebates:
 
 [Healthcare Compare☁](https://healthcarecomps.com/)
 
-Costs:  
+Costs:
 [Clear Health Costs☁](https://clearhealthcosts.com/),
 [Healthcare Bluebook☁](https://www.healthcarebluebook.com/explore-home/)
 
-Drug costs:  
+Drug costs:
 [Mark Cuban Cost Plus Drug Company☁](https://costplusdrugs.com/)
