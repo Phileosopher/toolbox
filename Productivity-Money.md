@@ -96,6 +96,9 @@ Intellectual properties - web domains:
 Private equity:
 [Fundrise](https://fundrise.com/)
 
+US Treasury securities:  
+[TreasuryDirect☁](https://www.treasurydirect.gov/)
+
 Microloans:
 [Kiva☁](https://www.kiva.org/borrow),
 [LendingClub☁](https://www.lendingclub.com/)
