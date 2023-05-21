@@ -77,7 +77,8 @@ International investing:
 
 Automated managers:  
 [Acorns☁](https://www.acorns.com/),
-[Betterment☁](https://www.betterment.com/)
+[Fidelity Go☁](https://www.fidelity.com/managed-accounts/fidelity-go/)
+
 
 VC firms/startups:  
 [Republic☁](https://republic.co/),
@@ -85,6 +86,7 @@ VC firms/startups:
 
 Market terminal:  
 [OpenBB Terminal□](https://openbb.co/)
+[TD Ameritrade's thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/desktop.html)
 
 Intellectual properties:  
 [Flippa☁](https://flippa.com/)
@@ -112,11 +114,17 @@ Micro-investing:
 
 ## Investing - Research
 
+[Fitch Ratings](https://www.fitchratings.com/),
 [Moody's*](https://www.moodys.com/),
 [Standard & Poor's*](https://www.standardandpoors.com/)
 
 Financial advisor matching:  
 [SmartAdvisor Match☁](https://smartadvisormatch.com/)
+
+Financial advisor vetting:  
+[Investor.gov search☁](https://www.investor.gov/search),
+[FINRA BrokerCheck☁](https://brokercheck.finra.org/)
+
 
 Corporations (10-K):  
 [Last10K☁](https://last10k.com/)
@@ -261,3 +269,7 @@ Costs:
 
 Drug costs:  
 [Mark Cuban Cost Plus Drug Company☁](https://costplusdrugs.com/)
+
+## Unclaimed Property
+
+[NAUPA☁](https://unclaimed.org/)
