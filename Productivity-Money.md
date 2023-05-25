@@ -107,7 +107,9 @@ Microloans:
 
 Blockchain:  
 [hybrix⌘🐧](https://hybrix.io/en),
-[Peersm wallet☁](https://peersm.com/wallet)
+[Gemini☁](https://www.gemini.com/),
+[Peersm wallet☁](https://peersm.com/wallet),
+[Uphold☁](https://uphold.com/)
 
 Micro-investing:  
 [M1☁](https://m1.com/)
@@ -251,9 +253,13 @@ Computer parts:
 Restaurants:  
 [Restaurant.com☁](https://www.restaurant.com/)
 
-Rebates:  
+Rebates and cash back services:  
+[Fetch☁](https://fetch.com/),
+[Ibotta☁](https://home.ibotta.com/),
 [Mr. Rebates☁](https://mrrebates.com/),
-[Rakuten⇉](https://www.rakuten.com/)
+[Rakuten⇉](https://www.rakuten.com/),
+[Swagbucks☁](https://www.swagbucks.com/),
+[TopCashback☁](https://www.topcashback.com/)
 
 ## Consumer Goods - Repairing
 

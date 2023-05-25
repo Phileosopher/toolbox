@@ -27,7 +27,7 @@ Volunteering:
 [Better Business Bureau](https://www.bbb.org/),
 [Glassdoor](https://www.glassdoor.com/member/home/index.htm)
 
-## Job Boards
+## Job Boards (Employer/Employee)
 
 [Hired](https://hired.com/),
 [Indeed](https://www.indeed.com/),
@@ -36,7 +36,7 @@ Volunteering:
 Entrepreneurship-specific:  
 [AngelList Talent](https://angel.co/)
 
-## Job Boards - Freelancing
+## Job Boards (Freelancing)
 
 [Andela](https://andela.com/),
 [Fiverr](https://www.fiverr.com/),
@@ -50,7 +50,17 @@ Entrepreneurship-specific:
 Entire teams at once:  
 [Huddle](https://www.huddle.works/)
 
-## Job Boards - Creative Work
+## Job Boards (Freelancing) - Logistics
+
+Taxi service:  
+[Lyft](https://www.lyft.com/),
+[Uber](https://www.uber.com/)
+
+Food delivery:  
+[DoorDash](https://www.doordash.com/),
+[Uber Eats](https://www.ubereats.com/)
+
+## Job Boards (Freelancing) - Creative Work
 
 [Etsy](https://www.etsy.com/),
 [Flexiple](https://flexiple.com/)
@@ -70,7 +80,7 @@ Book publishing:
 [Lulu](https://www.lulu.com/),
 [Smashwords](https://www.smashwords.com/)
 
-## Job Boards - Writing
+## Job Boards (Freelancing) - Writing
 
 Copywriting:  
 [Contentfly](https://contentfly.com/),
@@ -93,26 +103,60 @@ Book reviews:
 Handwritten messages:  
 [Handwriting.io☁](https://handwriting.io/)
 
-## Job Boards - In-Person Work
+## Job Boards (Freelancing) - Labor
 
 Caretakers:  
 [Care.com](https://www.care.com/)
 
-Fast food deliveries:  
-[DoorDash](https://www.doordash.com/)
-
 Home service contractors:  
 [Angi](https://www.angi.com/)
 
-## Job Boards - Remote Work
+## Job Boards (Freelancing) - Remote Work
 
 [Himalayas](https://himalayas.app/),
 [Remote.co](https://remote.co/),
 [Remotive](https://remotive.com/),
 [RemoteOK](https://remoteok.com/)
 
+## Job Boards - Technology Industry
+
+[Dice](https://www.dice.com/),
+[Stack Overflow Jobs](https://stackoverflow.com/jobs)
+
+Engineering:  
+[Triplebyte](https://triplebyte.com/)
+
+Geographically-based:  
+[whoishiring.io](https://whoishiring.io/)
+
+Software development:  
+[Pesto](https://pesto.tech/),
+[Turing](https://turing.com/),
+[YouTeam](https://youteam.io/)
+[Storetasker (for Shopify)](https://www.storetasker.com/)
+
+## Job Boards -  Mindless Tasks
+
+[Chequity](https://chequity.io/),
+[Freeward](https://freeward.net/),
+[GAIN.GG](https://gain.gg/),
+[GamerMine](https://gamermine.com/),
+[GrindBux.com](https://grindbux.com/),
+[Amazon Mechanical Turk](https://www.mturk.com/),
+[PrizeRebel](https://www.prizerebel.com/)
+
+User testing (for marketing):  
+[UserTesting](https://www.usertesting.com/)
+
+Installing apps:  
+[Freecash](https://freecash.com/)
+
+Games:  
+[GG2U.org](https://www.gg2u.org/)
+
 ## Job Boards -  Misc
 
+Professional advice:  
 [Cision's ProfNet](https://profnet.prnewswire.com/profnethome/what-is-profnet.aspx),
 [Coursera's Expert Network](https://experts.coursera.org/),
 [Expertise Finder](https://expertisefinder.com/)
@@ -130,20 +174,3 @@ Educators:
 
 Financial advice:  
 [NAPFA's Newsroom](https://www.napfa.org/newsroom)
-
-## Job Boards - Technology-Specific
-
-[Dice](https://www.dice.com/),
-[Stack Overflow Jobs](https://stackoverflow.com/jobs)
-
-Engineering:  
-[Triplebyte](https://triplebyte.com/)
-
-Geographically-based:  
-[whoishiring.io](https://whoishiring.io/)
-
-Software development:  
-[Pesto](https://pesto.tech/),
-[Turing](https://turing.com/),
-[YouTeam](https://youteam.io/)
-[Storetasker (for Shopify)](https://www.storetasker.com/)

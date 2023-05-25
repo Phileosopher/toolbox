@@ -47,9 +47,10 @@ Travel discounts:
 [Priceline☁](https://www.priceline.com),
 [Skiplagged☁](https://skiplagged.com/)
 
-Discount travel alternatives:  
+Travel alternatives:  
 [Couchsurfing☁](https://www.couchsurfing.com/),
-[Uhotw☁](https://www.unusualhotelsoftheworld.com/home)
+[Uhotw☁](https://www.unusualhotelsoftheworld.com/home),
+[Vrbo☁](https://www.vrbo.com/)
 
 Cabs:  
 [Lyft☁](https://www.lyft.com/),
