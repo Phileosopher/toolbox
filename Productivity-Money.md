@@ -116,7 +116,7 @@ Micro-investing:
 
 ## Investing - Research
 
-[Fitch Ratings](https://www.fitchratings.com/),
+[Fitch Ratings*](https://www.fitchratings.com/),
 [Moody's*](https://www.moodys.com/),
 [Standard & Poor's*](https://www.standardandpoors.com/)
 
