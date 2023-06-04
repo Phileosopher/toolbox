@@ -15,14 +15,6 @@ Learning new languages:
 Unused GitHub usernames:  
 [terror/usernames: rare inactive github usernames!](https://github.com/terror/usernames)
 
-## Licensing
-
-Open-source licenses:  
-[Choose a License*](https://choosealicense.com/)
-
-Privacy policies:  
-[PrivacyPolicy.com☁](https://www.privacypolicies.com/)
-
 ## Existing Source Code
 
 [thefreecountry.com☁](https://www.thefreecountry.com/sourcecode/index.shtml)
