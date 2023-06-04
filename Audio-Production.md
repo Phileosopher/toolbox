@@ -81,3 +81,8 @@ Metadata:
 
 Metadata - audiobooks:  
 [Chapter and Verse⊞](http://lodensoftware.com/chapter-and-verse/)
+
+## Other Audio
+
+Combustion engine simulation:  
+[Engine-Simulator](https://github.com/Engine-Simulator/engine-sim-community-edition)

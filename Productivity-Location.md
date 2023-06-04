@@ -44,6 +44,7 @@ Airline research:
 
 Travel discounts:  
 [Hotwire☁](https://www.hotwire.com/),
+[momondo☁](https://www.momondo.com/),
 [Priceline☁](https://www.priceline.com),
 [Skiplagged☁](https://skiplagged.com/)
 
@@ -73,3 +74,6 @@ Traveling radius:
 
 Nuclear detonation estimation:  
 [NUKEMAP☁](https://nuclearsecrecy.com/nukemap/)
+
+Mandatory reporters:  
+[Resources for Mandated Reporters of Abuse](https://mandatedreporter.com/)

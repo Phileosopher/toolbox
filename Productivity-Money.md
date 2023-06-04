@@ -1,7 +1,19 @@
 # Productivity: Money
 
-Cost of living comparison:  
+Inflation calculator (USD):  
+[Inflation Calculator](https://www.usinflationcalculator.com/)
+
+Cost of living comparison - geographical:  
 [NUMBEO](https://www.numbeo.com/)
+
+Cost of living comparison - historical:  
+[Historical Currency Converter☁](https://www.historicalstatistics.org/Currencyconverter.html)
+
+Currency exchange - current:  
+[Xe Currency Converter☁](https://www.xe.com/currencyconverter/)
+
+Currency exchange - ancient societies:  
+[Trapezites☁](https://trapezites.com/)
 
 ## Banking
 
@@ -26,20 +38,27 @@ Accounting all-in-one:
 [GNU Accounting Utilities🐧](https://www.gnu.org/software/acct/),
 [Wave Financial☁](https://www.waveapps.com)
 
-ERP/CRM:  
+Personal finance software:  
+[GnuCash⊞■⌘🐧](https://www.gnucash.org/),
+[KMyMoney⊞⌘🐧](https://kmymoney.org/)
+
+Tax estimation:  
+[taxsim.app☁](https://taxsim.app/)
+
+Personal tax filing (USA):  
+[FreeTaxUSA☁](https://www.freetaxusa.com/),
+[TaxHawk☁](https://www.taxhawk.com/),
+[IRS Free File☁](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free)
+
+ERP:  
+[LedgerSMB🐧](https://ledgersmb.org/),
+[SQL-Ledger⊞⌘🐧](https://www.sql-ledger.com/)
+
+ERP + CRM:  
 [Dolibarr⊞🐧](https://www.dolibarr.org/),
 [iDempiere⊞🐧](https://www.idempiere.org/),
 [inoERP⊞🐧](http://www.inoideas.org/),
 [metasfresh🐧](https://metasfresh.com/en)
-
-Accounting/ERP software:  
-[GnuCash⊞■⌘🐧](https://www.gnucash.org/),
-[KMyMoney⊞⌘🐧](https://kmymoney.org/),
-[LedgerSMB🐧](https://ledgersmb.org/),
-[SQL-Ledger⊞⌘🐧](https://www.sql-ledger.com/)
-
-Tax estimation:  
-[taxsim.app☁](https://taxsim.app/)
 
 ## Positions/Budgeting
 
@@ -127,7 +146,6 @@ Financial advisor vetting:
 [Investor.gov search☁](https://www.investor.gov/search),
 [FINRA BrokerCheck☁](https://brokercheck.finra.org/)
 
-
 Corporations (10-K):  
 [Last10K☁](https://last10k.com/)
 
@@ -173,6 +191,33 @@ Farms:
 Women-only:  
 [Grameen America☁](https://www.grameenamerica.org/)
 
+## Commercial/Industrial Needs
+
+Auctions - products:  
+[Liquidation.com☁](https://www.liquidation.com)
+
+Auctions - equipment:  
+[Machinio☁](https://www.machinio.com/)
+
+Engineered parts:  
+[McMaster-Carr☁](https://www.mcmaster.com/)
+
+Church supplies:  
+[Churchsupplier☁](https://www.churchsupplier.com/)
+
+Goat rental:  
+[Hire Goats☁](https://hiregoats.com/)
+
+Hay:  
+[Internet Hay Exchange☁](http://www.hayexchange.com/)
+
+## Real Estate
+
+[LandWatch☁](https://www.landwatch.com/)
+
+Auctions:  
+[Bid4Assets.com*](https://www.bid4assets.com/)
+
 ## Consumer Goods - Comparison/Tracking
 
 [Product Chart☁](https://www.productchart.com/)
@@ -191,11 +236,11 @@ Rewards points:
 Durable products:  
 [Buy For Life☁](https://www.buyforlife.com/)
 
+Online auctions - liquidations:  
+[AllSurplus☁](https://www.allsurplus.com/)
+
 Online auctions - government liquidations:  
 [Government Surplus Auctions*](https://www.govdeals.com/)
-
-Land:  
-[LandWatch☁](https://www.landwatch.com/)
 
 Telecom:  
 [Allconnect.com☁](https://www.allconnect.com/)
@@ -205,7 +250,8 @@ Autos:
 [Kelley Blue Book☁](https://www.kbb.com/)
 
 Books:  
-[Bookshop☁](https://bookshop.org/)
+[Bookshop☁](https://bookshop.org/),
+[Pages on Pages☁](https://www.pagesonpages.com/)
 
 Computer games:  
 [IsThereAnyDeal☁](https://isthereanydeal.com/),
@@ -224,15 +270,17 @@ Houses:
 
 Insurance:  
 [Insurify☁](https://insurify.com/),
+[Jerry☁](https://getjerry.com/),
 [Policygenius☁](https://www.policygenius.com/),
 [The Zebra☁](https://www.thezebra.com/)
+
+Roadside assistance services:  
+[AAA☁](https://www.aaa.com/),
+[MCA☁](https://motorclubofamerica.com/)
 
 Classified ads:  
 [craigslist☁](https://craigslist.org/),
 [OfferUp☁🍎🤖](https://offerup.com/)
-
-Church supplies:  
-[Churchsupplier☁](https://www.churchsupplier.com/)
 
 ## Consumer Goods - Discounts
 
@@ -267,7 +315,12 @@ Rebates and cash back services:
 
 ## Healthcare
 
+Healthcare comparison:  
+[Health Sherpa☁](https://www.healthsherpa.com/),
 [Healthcare Compare☁](https://healthcarecomps.com/)
+
+Lab tests:  
+[Testing.com*](https://www.testing.com/)
 
 Costs:  
 [Clear Health Costs☁](https://clearhealthcosts.com/),

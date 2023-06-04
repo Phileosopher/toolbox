@@ -32,7 +32,14 @@ Recipe search engine - from available food:
 [MyFridgeFood☁🤖](https://myfridgefood.com/),
 [Supercook☁](https://www.supercook.com/#/recipes)
 
-## Home Ownership
+## Food - Alcohol
+
+[Daniel's Cocktails](https://www.cocktailsdrinkrecipes.com/cocktail-lists/a-z-cocktail-list.html)
+
+## Home Ownership/Renting
+
+Apartment ratings:  
+[Rate The Landlord](https://ratethelandlord.org/)
 
 Renting vs. Buying calculator:  
 [NYTimes' Is It Better to Rent or Buy?☁](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
@@ -43,6 +50,9 @@ Renting vs. Buying calculator:
 
 ## Wellness
 
+Breathing:  
+[Lungy🍎](https://www.lungy.app/)
+
 Memory:  
 [Lumosity Brain Training☁](https://www.lumosity.com/en/)
 
@@ -51,6 +61,9 @@ Vision Test:
 
 Binaural beats:  
 [Gnaural⊞🐧](https://sourceforge.net/projects/gnaural/)
+
+Personality Test:
+[Understand Myself](https://understandmyself.com/)
 
 ## Wellness - Computer Tasks
 
@@ -76,14 +89,8 @@ Muscle focus:
 
 ## Other
 
-VR headset:  
-[SimulaVR](https://simulavr.com/)
-
-Hay:  
-[Internet Hay Exchange☁](http://www.hayexchange.com/)
-
-Church supplies:  
-[Churchsupplier☁](https://www.churchsupplier.com/)
-
 Alternative energy (e.g., EVs):
 [EERE Alternative Fuels Data Center*](https://afdc.energy.gov/)
+
+Drill bits:  
+[Drill Hog](https://drillhog.com/)

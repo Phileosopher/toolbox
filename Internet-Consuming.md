@@ -25,6 +25,14 @@ Automatic reader mode:
 Wikipedia UI update:  
 [Modern for Wikipedia⇉](https://www.modernwiki.app/)
 
+## TL;DR
+
+News:  
+[News Minimalist☁](https://www.newsminimalist.com/)
+
+YouTube:  
+[you-tldr☁](https://www.you-tldr.com/)
+
 ## Feeds
 
 Podcast search engine:  

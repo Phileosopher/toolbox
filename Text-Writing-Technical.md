@@ -1,4 +1,4 @@
-# Text: Writing/Speeches - Technical
+# Text: Writing - Technical
 
 ## Inspiration
 

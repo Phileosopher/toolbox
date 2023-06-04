@@ -17,6 +17,13 @@ College education:
 Language games:  
 [Online ESL Games](https://www.gamestolearnenglish.com/)
 
+## College Search
+
+[US Department of Education College Scorecard](https://collegescorecard.ed.gov/)
+
+Teacher review:  
+[Rate My Professors](https://www.ratemyprofessors.com/)
+
 ## Tech Learning
 
 CS books:  

@@ -1,4 +1,4 @@
-# Text: Writing/Speeches
+# Text: Writing
 
 ## Inspiration - Ideas
 

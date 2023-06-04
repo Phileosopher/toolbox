@@ -41,7 +41,6 @@ University articles:
 [OA.mg](https://oa.mg/),
 [Unpaywall](https://unpaywall.org/)
 
-
 Court records:  
 [judyrecords](https://www.judyrecords.com/)
 

@@ -90,7 +90,8 @@ Localization:
 [Crowdin](https://crowdin.com/)
 
 Content generation:  
-[ContentFly](https://contentfly.com/)
+[ContentFly](https://contentfly.com/),
+[Who Pays Writers?](http://whopayswriters.com)
 
 Journalism:  
 [Cision's Help A Reporter](https://www.helpareporter.com/)
@@ -105,11 +106,19 @@ Handwritten messages:
 
 ## Job Boards (Freelancing) - Labor
 
+[Angi](https://www.angi.com/)
+
 Caretakers:  
 [Care.com](https://www.care.com/)
 
-Home service contractors:  
-[Angi](https://www.angi.com/)
+Lawn care:  
+[Lawn Love](https://lawnlove.com/)
+
+Moving:  
+[Lugg](https://lugg.com/)
+
+Roadside assistance:  
+[HONK](https://www.honkmobile.com/)
 
 ## Job Boards (Freelancing) - Remote Work
 

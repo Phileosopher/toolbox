@@ -11,7 +11,7 @@ Business research:
 Expiring patents:  
 [PatentsExpiringToday.com☁](https://patentsexpiringtoday.com/)
 
-Businesses in an area:  
+Regional businesses:  
 [Yelp](https://www.yelp.com/)
 
 ## Small-Scale All-In-One
