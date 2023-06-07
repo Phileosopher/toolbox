@@ -11,7 +11,10 @@ Spatial dimensions:
 Mechanical programming:  
 [MockMechanics⊞🐧](https://mockmechanics.com/)
 
-Schematics/model search engine:  
+Schematics/ models - open-source:  
+[Open Source Ecology](https://opensourceecology.dozuki.com/)
+
+Schematics/models - search engine:  
 [Component Search Engine☁](https://componentsearchengine.com/)
 
 ## Simulations

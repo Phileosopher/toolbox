@@ -1,5 +1,8 @@
 # Text: Writing - Legal
 
+Automated legal services:  
+[DoNotPay](https://donotpay.com/)
+
 ## Contracts
 
 [Common Paper☁](https://commonpaper.com/)
