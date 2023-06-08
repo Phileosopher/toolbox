@@ -34,6 +34,10 @@ SVGs - data visualization:
 Sprites - animations/panning:  
 [Motio](https://darsa.in/motio/)
 
+Interactive maps:  
+[Leaflet](https://leafletjs.com/) (with [Leaflet Provider Demo](https://leaflet-extras.github.io/leaflet-providers/preview/)
+ for existing locations)
+
 ## Element-Specific Libraries: Transitions
 
 Keep absolutely positioned elements stay near other elements:  

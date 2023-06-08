@@ -15,6 +15,9 @@ International time:
 [OpenStreetMap🔌](https://www.openstreetmap.org/about),
 [Where Am I☁](https://ctrlq.org/maps/where/)
 
+GPS visualization:  
+[GPS Visualizer☁](https://www.gpsvisualizer.com/)
+
 Ship location:  
 [VesselFinder☁](https://www.vesselfinder.com/)
 
@@ -32,6 +35,9 @@ Flight tracking:
 Package tracking:  
 [Boxoh](http://www.boxoh.com/),
 [Package Place□](https://package.place/)
+
+Hiking/backpacking:  
+[KT companion](https://github.com/jamealg/KT-companion)
 
 ## Remote Workers
 
