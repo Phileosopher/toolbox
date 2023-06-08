@@ -9,10 +9,14 @@ App/site blocking:
 Interface config:  
 [FreeCommander⊞■](https://freecommander.com/en/summary/),
 [FileVoyager⊞■](https://www.filevoyager.com/),
+[Magnet⌘](https://magnet.crowdcafe.com/),
 [Microsoft PowerToys⊞](https://docs.microsoft.com/en-us/windows/powertoys/)
 
 Desktop icon positions:  
-[DesktopOK⊞](https://www.softwareok.com/?seite=Freeware/DesktopOK)
+[DesktopOK⊞](https://www.softwareok.com/?seite=Freeware/DesktopOK),
+[Dozer⌘](https://github.com/Mortennn/Dozer),
+[SensibleSideButtons⌘](https://sensible-side-buttons.archagon.net/),
+[SwiftBar⌘](https://swiftbar.app/)
 
 Automated actions:  
 [Macro Recorder - No more repetitive tasks - Mouse and Keyboard Capture](https://www.macrorecorder.com/)

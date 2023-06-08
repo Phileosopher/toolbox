@@ -100,6 +100,9 @@ UUID/GUID random generator:
 UUID decoding:  
 [UUIDTools.com's UUID Decoder☁](https://www.uuidtools.com/decode)
 
+AM band transmission (on any device):  
+[system-bus-radio](https://github.com/fulldecent/system-bus-radio)
+
 ## L3 Network
 
 [See Hardware-Net-Internet.md for internet-based tools](https://github.com/Phileosopher/toolbox/blob/master/Hardware-Net-Internet.md)

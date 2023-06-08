@@ -90,6 +90,9 @@ Email breach search:
 
 ## Privacy: Other
 
+Terms of service concerns:  
+[Terms of Service; Didn't Read*⇉](https://tosdr.org/)
+
 SMS breach notifications:  
 [Okey Monitor☁](https://okeymonitor.com/)
 
@@ -131,6 +134,9 @@ Block chat widgets:
 [ArchiveTeam Warrior](http://warrior.archiveteam.org/)
 
 ## Anti-FAANG
+
+FAANG alternatives:  
+[LibRedirect⇉](https://libredirect.github.io/)
 
 Private data tracking:  
 [Rita🍎🤖](https://ritapersonaldata.com/)
@@ -182,9 +188,13 @@ Google Analytics:
 
 ## Anti-Google - YouTube
 
-YouTube:  
+YouTube front-end:  
+[CloudTube](https://tube.cadence.moe/),
 [FreeTube⊞⌘🐧](https://freetubeapp.io/),
+[Invidious](https://invidious.io/)
 [NewPipe🤖](https://newpipe.net/),
+[Piped](https://piped.video/),
+[yattee⌘🍎](https://github.com/yattee/yattee),
 [YouTube™ Vanced🤖](https://vancedapp.com/),
 
 YouTube alternative:  
@@ -193,6 +203,10 @@ YouTube alternative:
 
 YouTube ad blocking:  
 [SponsorBlock🔌](https://sponsor.ajay.app/)
+
+YouTube Music front-end:  
+[Beatbump](https://beatbump.io/),
+[Hyperpipe](https://hyperpipe.surge.sh/)
 
 ## Anti-Google - Phone
 
@@ -214,7 +228,6 @@ Alternative app store:
 
 Google Analytics:  
 [Is Google Analytics illegal?*](https://www.isgoogleanalyticsillegal.com/)
-
 
 ## Anti-Microsoft
 
@@ -245,9 +258,15 @@ App store:
 Oculus VR headset:  
 [Oculess](https://github.com/basti564/Oculess)
 
+## Anti-TikTok
+
+TikTok front-end:  
+[ProxiTok](https://proxitok.pussthecat.org/)
+
 ## Anti-FAANG - Other
 
 Anti-Reddit:  
+[libreddit☁](https://libreddit.hu/),
 [Teddit☁](https://teddit.net/)
 
 Anti-Dropbox:  
@@ -255,6 +274,25 @@ Anti-Dropbox:
 
 Anti-LG:  
 [Openlgtv](https://openlgtv.github.io/)
+
+Twitter front-end:  
+[nitter](https://nitter.net/)
+
+Imgur front-end:  
+[rimgo](https://codeberg.org/video-prize-ranch/rimgo)
+
+Medium front-end:  
+[libmedium](https://git.batsense.net/realaravinth/libmedium),
+[Scribe](https://scribe.rip/)
+
+Quora front-end:  
+[Quetre](https://quetre.iket.me/)
+
+iMDb front-end:  
+[libremdb](https://libremdb.iket.me/)
+
+Fandom front-end:  
+[BreezeWiki](https://breezewiki.com/)
 
 ## Anti-Governments & Public Organizations
 

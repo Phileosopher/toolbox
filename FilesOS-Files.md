@@ -6,6 +6,7 @@ Text in files:
 [rga(ripgrep-all)□](https://github.com/phiresky/ripgrep-all)
 
 Files/Programs:  
+[Alfred⌘](https://www.alfredapp.com/),
 [Listary⊞■](https://www.listary.com/),
 [voidtools' Everything⊞■](https://www.voidtools.com/)
 

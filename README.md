@@ -65,6 +65,8 @@ Also further, some things are all-pervasive sporks:
 
 ## Earmarks
 
+Sometimes, it makes sense to clarify for context how something is used.
+
 - _*_ if it's something to copy-paste or a reference sheet.
 - ☁ for browser-based apps, ⇉ for a browser/software plugin or extension
 - Desktop: ⊞ for Windows, ⌘ for Mac OS X, 🐧 for Linux and Friends.
@@ -77,11 +79,9 @@ Also further, some things are all-pervasive sporks:
 
 These are volatile out-of-the-box OS estimations for several reasons:
 
-- If the specs on a computer are high enough (and they often are if the software is >5 years old), you can make almost any software run on any popular OS. Quick-and-dirty still does the job, even if it's running on an MS-DOS emulator inside a Windows 98 VM.
-- Developers keep making new things for new technologies, so this is constantly becoming obsolete (PR if you want to fix that).
-- In ten years everyone might have BlahBlahOS where everything runs on it and these won't matter.
-
-I also update a [pile of gists](https://gist.github.com/Phileosopher) for all the code-based and procedure-based things.
+- If the specs on a computer are high enough (and they often are if the software is >5 years old), you can make almost any software run on any popular OS. Quick-and-dirty still does the job, even if it's running on an MS-DOS emulator inside a Windows 98 VM on a ROM side-loaded on the SD card of a smartphone.
+- Developers keep making new things for new technologies, so this is constantly becoming obsolete or adapting to new standards.
+- In ten years a standard OS might have everything I've saved pre-installed on it, meaning this won't really matter.
 
 ## What I'm looking for
 
