@@ -26,8 +26,6 @@ Headlamp
 
 ## Shopping
 
-[Geizhals Preisvergleich☁](https://geizhals.eu/)
-
 Factory parts:  
 [McMaster-Carr☁](https://www.mcmaster.com/),
 
@@ -36,6 +34,12 @@ Electronics parts:
 
 Auto parts:  
 [RockAuto☁](https://www.rockauto.com/)
+
+Noiseproofing:  
+[Green Glue](https://www.greengluecompany.com/)
+
+Fasteners:  
+[Bolt Depot - Nuts and Bolts, Screws and Fasteners online](https://www.boltdepot.com/)
 
 ## Repurposing Hardware
 

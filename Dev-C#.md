@@ -1,4 +1,4 @@
-# Software Development: C# #
+# Software Development: C#
 
 ## Decompilers ##
 

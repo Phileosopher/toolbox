@@ -86,8 +86,9 @@ Copywriting:
 [Contentfly](https://contentfly.com/),
 [Copify UK](https://uk.copify.com/)
 
-Localization:  
-[Crowdin](https://crowdin.com/)
+Localization/translation:  
+[Crowdin](https://crowdin.com/),
+[Simply Translate](https://www.simplytranslate.com/)
 
 Content generation:  
 [ContentFly](https://contentfly.com/),

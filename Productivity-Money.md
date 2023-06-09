@@ -233,6 +233,11 @@ Rewards points:
 
 ## Consumer Goods - Shopping
 
+[Reddit's Favorite Products*](https://www.looria.com/reddit)
+
+Industry comparison:  
+[Geizhals Preisvergleich☁](https://geizhals.eu/)
+
 Durable products:  
 [Buy For Life☁](https://www.buyforlife.com/)
 
@@ -331,4 +336,5 @@ Drug costs:
 
 ## Unclaimed Property
 
-[NAUPA☁](https://unclaimed.org/)
+[NAUPA☁](https://unclaimed.org/),
+[MissingMoney.com☁](https://www.missingmoney.com/)

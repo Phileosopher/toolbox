@@ -12,6 +12,7 @@ International time:
 
 ## Location Tracking
 
+[FacilMap☁](https://facilmap.org/),
 [OpenStreetMap🔌](https://www.openstreetmap.org/about),
 [Where Am I☁](https://ctrlq.org/maps/where/)
 

@@ -9,7 +9,9 @@ Link lengthener:
 [A(x56)☁](https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/)
 
 Language translation:  
-[DeepL☁](https://www.deepl.com/translator)
+[DeepL☁](https://www.deepl.com/translator),
+[LibreTranslate](https://libretranslate.com/),
+[Lingva Translate](https://lingva.ml/)
 
 ## Real-Time
 
@@ -53,9 +55,6 @@ Quick files:
 Quick files - WebRTC:  
 [Send☁](https://send.vis.ee/)
 [WEBWORMHOLE☁](https://webwormhole.io/)
-
-Large files:  
-[WeTransfer☁](https://wetransfer.com/)
 
 Faxes:  
 [faxZERO.com☁](https://faxzero.com/)

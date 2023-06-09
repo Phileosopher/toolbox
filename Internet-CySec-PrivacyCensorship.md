@@ -164,6 +164,65 @@ Scam reporting:
 [FBI's Submit a Tip☁ (USA)](https://www.fbi.gov/tips),
 [ReportFraud.ftc.gov☁ (USA)](https://reportfraud.ftc.gov/#/)
 
+## Anti-FAANG - Front-Ends☁
+
+Dropbox:  
+[Maestral🍎](https://maestral.app/)
+
+Fandom:  
+[BreezeWiki](https://breezewiki.com/)
+
+Goodreads:  
+[BiblioReads](https://biblioreads.eu.org/)
+
+Google search:  
+[Whoogle Search](https://www.whoogle.click/)
+
+iMDb:  
+[libremdb](https://libremdb.iket.me/)
+
+Imgur:  
+[rimgo](https://codeberg.org/video-prize-ranch/rimgo)
+
+Medium:  
+[libmedium](https://git.batsense.net/realaravinth/libmedium),
+[Scribe](https://scribe.rip/)
+
+Quora:  
+[Quetre](https://quetre.iket.me/)
+
+Reddit:  
+[libreddit☁](https://libreddit.hu/),
+[Teddit☁](https://teddit.net/)
+
+Stack Overflow:  
+[AnonymousOverflow](https://code.whatever.social/)
+
+TikTok:  
+[ProxiTok](https://proxitok.pussthecat.org/)
+
+Twitter:  
+[nitter](https://nitter.net/)
+
+Wikipedia:  
+[wikiless](https://github.com/Metastem/wikiless)
+
+Wolfram Alpha:  
+[Wolfree](https://gqq.gitlab.io/)
+
+YouTube:  
+[CloudTube](https://tube.cadence.moe/),
+[FreeTube⊞⌘🐧](https://freetubeapp.io/),
+[Invidious](https://invidious.io/)
+[NewPipe🤖](https://newpipe.net/),
+[Piped](https://piped.video/),
+[yattee⌘🍎](https://github.com/yattee/yattee),
+[YouTube™ Vanced🤖](https://vancedapp.com/),
+
+YouTube Music:  
+[Beatbump](https://beatbump.io/),
+[Hyperpipe](https://hyperpipe.surge.sh/)
+
 ## Anti-Amazon
 
 AWS IP ranges:  
@@ -178,6 +237,11 @@ AWS IP ranges:
 Google Docs alternative:  
 [Bloom☁](https://bloom.sh/)
 
+Search engine:  
+[DuckDuckGo](https://duckduckgo.com/),
+[Qwant](https://www.qwant.com/),
+[searx](https://searx.space/)
+
 ## Anti-Google - Browser
 
 FLoC test:  
@@ -188,25 +252,8 @@ Google Analytics:
 
 ## Anti-Google - YouTube
 
-YouTube front-end:  
-[CloudTube](https://tube.cadence.moe/),
-[FreeTube⊞⌘🐧](https://freetubeapp.io/),
-[Invidious](https://invidious.io/)
-[NewPipe🤖](https://newpipe.net/),
-[Piped](https://piped.video/),
-[yattee⌘🍎](https://github.com/yattee/yattee),
-[YouTube™ Vanced🤖](https://vancedapp.com/),
-
-YouTube alternative:  
-[BitChute☁](https://www.bitchute.com/),
-[Odysee☁](https://odysee.com/)
-
-YouTube ad blocking:  
+Ad blocking:  
 [SponsorBlock🔌](https://sponsor.ajay.app/)
-
-YouTube Music front-end:  
-[Beatbump](https://beatbump.io/),
-[Hyperpipe](https://hyperpipe.surge.sh/)
 
 ## Anti-Google - Phone
 
@@ -258,41 +305,10 @@ App store:
 Oculus VR headset:  
 [Oculess](https://github.com/basti564/Oculess)
 
-## Anti-TikTok
-
-TikTok front-end:  
-[ProxiTok](https://proxitok.pussthecat.org/)
-
 ## Anti-FAANG - Other
-
-Anti-Reddit:  
-[libreddit☁](https://libreddit.hu/),
-[Teddit☁](https://teddit.net/)
-
-Anti-Dropbox:  
-[Maestral🍎](https://maestral.app/)
 
 Anti-LG:  
 [Openlgtv](https://openlgtv.github.io/)
-
-Twitter front-end:  
-[nitter](https://nitter.net/)
-
-Imgur front-end:  
-[rimgo](https://codeberg.org/video-prize-ranch/rimgo)
-
-Medium front-end:  
-[libmedium](https://git.batsense.net/realaravinth/libmedium),
-[Scribe](https://scribe.rip/)
-
-Quora front-end:  
-[Quetre](https://quetre.iket.me/)
-
-iMDb front-end:  
-[libremdb](https://libremdb.iket.me/)
-
-Fandom front-end:  
-[BreezeWiki](https://breezewiki.com/)
 
 ## Anti-Governments & Public Organizations
 

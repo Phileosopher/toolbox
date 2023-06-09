@@ -107,6 +107,7 @@ BitTorrent - hash to magnet link:
 [Hash to Magnet link☁](https://www.hashtomagnet.com/)
 
 Torrents - search:  
+[LibreX☁](https://librex.devol.it/),
 [SkyTorrents☁](http://www.skytorrents.me/)
 
 Torrents - streaming:  
@@ -121,16 +122,16 @@ Articles behind paywalls:
 [Wayback Machine☁](https://archive.org/web/),
 [Web Archives⇉](https://github.com/dessant/web-archives)
 
-Videos:  
-[Odysee☁](https://odysee.com/),
-[Rumble☁](https://rumble.com/),
-[Vimeo☁](https://vimeo.com/watch)
-
-Videos - watch together remotely:  
+Watch videos together remotely:  
 [Binge Together☁](https://bingetogether.com/)
 
 Topical:  
 [Reddit☁🍎🤖](https://reddit.com)
+
+Videos:  
+[BitChute☁](https://www.bitchute.com/),
+[Odysee☁](https://odysee.com/),
+[Vimeo☁](https://vimeo.com/watch)
 
 Image-based:  
 [Pinterest☁🍎🤖](https://pinterest.com)

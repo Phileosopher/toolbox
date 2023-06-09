@@ -17,6 +17,9 @@ Schematics/ models - open-source:
 Schematics/models - search engine:  
 [Component Search Engine☁](https://componentsearchengine.com/)
 
+Air quality sensor:  
+[AirGradient DIY Air Quality Sensor](https://www.airgradient.com/open-airgradient/instructions/diy-pro-v37/)
+
 ## Simulations
 
 [SimPy🐍⇉🐧](https://pypi.org/project/simpy/)

@@ -2,11 +2,7 @@
 
 ## Current Information
 
-Search engine - non-FAANG:  
-[Qwant](https://www.qwant.com/),
-[searx](https://searx.space/)
-
-Search engine - reddit:  
+Reddit search engine:  
 [Redditle](https://redditle.com/)
 
 Google's advanced search operators:  

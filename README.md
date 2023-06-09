@@ -36,6 +36,7 @@ So, this is a bit like a hoarder's barn, but collects less dust and is proportio
 For brevity's sake, I'm mostly glossing over a few groups:
 
 - The built-in tools. If I need them, they're in the computer already.
+- [Mega-corp](https://gainedin.site/groups-large) tools. They already have plenty of [advertising they paid for](https://notageni.us/marketing/), so they're _literally_ the first thing that comes up when you type them into a search engine.
 - Paid tools, when they cost enough that it makes me pause to consider my budget.
 - Most courses and courseware, since I'm convinced most of that is part of a _constantly_ revolving cycle of technology fashions (Remember when Java and Netscape was going to run the world forever? By contrast, how about web browsers and corporation-endorsed programming languages?)
 

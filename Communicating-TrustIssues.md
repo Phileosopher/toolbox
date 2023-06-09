@@ -37,6 +37,15 @@ Secure email:
 
 ## Sending
 
+Text (pastebin):  
+[PrivateBin☁](https://privatebin.info/)
+
+Files:  
+[Send](https://send.vis.ee/)
+
+Large files:  
+[WeTransfer☁](https://wetransfer.com/)
+
 Sending money:  
 [Privacy☁](https://privacy.com/)
 
