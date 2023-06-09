@@ -28,6 +28,10 @@ Bluetooth:
 Line-of-sight:  
 [SCADACore's RF Line of Sight](https://www.scadacore.com/tools/rf-path/rf-line-of-sight/)
 
+VHF/UHF TV signals:  
+[DTV Reception Maps](https://www.fcc.gov/media/engineering/dtvmaps),
+[TV Reception Maps](http://www.receptionmaps.com/)
+
 ## L1 Physical - Cabled
 
 Cabled Providers:  

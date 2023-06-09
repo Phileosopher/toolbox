@@ -25,13 +25,29 @@ Automatic reader mode:
 Wikipedia UI update:  
 [Modern for Wikipedia⇉](https://www.modernwiki.app/)
 
-## TL;DR
+## TL;DR & TL;DW☁
 
 News:  
-[News Minimalist☁](https://www.newsminimalist.com/)
+[News Minimalist](https://www.newsminimalist.com/)
+[[INSIDE]](https://inside.com/)
+[68k.news](http://68k.news/)
+
+News - Hacker News:  
+[Hacker News Confidence](http://hn.elijames.org/),
+[Hacker News Daily](https://www.daemonology.net/hn-daily/),
+[Hacker News Rankings](https://hnrankings.info/)
 
 YouTube:  
-[you-tldr☁](https://www.you-tldr.com/)
+[you-tldr](https://www.you-tldr.com/)
+
+YouTube - Transcript:  
+[YouTube Transcript](https://youtubetranscript.com/)
+
+Emails:  
+[Unroll.Me](https://unroll.me/)
+
+PDFs:  
+[pdf2gpt](https://pdf2gpt.com/)
 
 ## Feeds
 
@@ -53,29 +69,23 @@ RSS feed manager:
 RSS-to-email:  
 [Blogtrottr☁](https://blogtrottr.com)
 
-Email rollup:  
-[Unroll.Me☁](https://unroll.me/)
-
-News aggregation:  
-[[INSIDE]☁](https://inside.com/)
-
-News aggregation - Google News:  
-[68k.news](http://68k.news/)
-
 Bookmarks emailed to inbox:  
 [Link Drop☁](https://www.linkdrop.co/)
 
 Site status (for when any code on the site changes):  
 [Follow That Page☁](https://www.followthatpage.com/)
 
-## Streaming Services
+## Streaming Video☁
 
 Search engine:  
-[JustWatch☁](https://www.justwatch.com/),
-[Movie of the Night☁](https://www.movieofthenight.com/)
+[JustWatch](https://www.justwatch.com/),
+[Movie of the Night](https://www.movieofthenight.com/)
 
 Media availability by country:  
-[Streaming Availability API☁🔌⦿](https://www.movieofthenight.com/about/api)
+[Streaming Availability API🔌⦿](https://www.movieofthenight.com/about/api)
+
+YouTube channel reviews:  
+[Favoree](https://www.favoree.io/)
 
 ## Downloading
 

@@ -31,7 +31,9 @@ DjVu:
 [WinDjView/MacDjView⊞■⌘](https://windjview.sourceforge.io/)
 
 PDF/ePub/MOBI:  
-[Sumatra⊞■](https://www.sumatrapdfreader.org/free-pdf-reader.html)
+[Foliate🐧](https://johnfactotum.github.io/foliate/),
+[Sumatra⊞■](https://www.sumatrapdfreader.org/free-pdf-reader.html),
+[TUI Ebook Reader□](https://github.com/wustho/baca)
 
 ePub reader:  
 [WebBrowserTools ePub reader☁](https://webbrowsertools.com/epub-reader/)

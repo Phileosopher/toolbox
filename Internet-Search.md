@@ -30,6 +30,7 @@ Military activities:
 
 Books:  
 [Open Library](https://openlibrary.org/),
+[Standard Ebooks](https://standardebooks.org/),
 [zlibrary](https://b-ok.cc/),
 [UPenn's The Online Books Page](https://onlinebooks.library.upenn.edu/)
 
@@ -44,6 +45,12 @@ Court records:
 
 Sports information:  
 [TheSportsDB.com🔌](https://thesportsdb.com/)
+
+Visual media:  
+[IMDb](https://www.imdb.com/)
+
+Electronic games:  
+[IGDB.com](https://www.igdb.com/)
 
 European surnames:  
 [Surname Map](https://www.surnamemap.eu/)

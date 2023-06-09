@@ -27,6 +27,9 @@ Video calls with custom effects:
 Webpage markups:  
 [Marker.to⇉](http://marker.to/)
 
+Software operation (e.g., games):  
+[Moonlight](https://moonlight-stream.org/)
+
 ## Real-Time - Chat
 
 [Pidgin⊞🐧⌘](https://pidgin.im/),
