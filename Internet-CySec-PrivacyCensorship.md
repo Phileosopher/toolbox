@@ -99,6 +99,9 @@ SMS breach notifications:
 Hide windows:  
 [Clicky Gone⊞■](http://clickygone.sourceforge.net/)
 
+Police tracking:  
+[Atlas of Surveillance☁](https://atlasofsurveillance.org/)
+
 ## Privacy: Fingerprinting
 
 Web browser:  
