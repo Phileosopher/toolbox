@@ -303,8 +303,6 @@ App store:
 
 ## Anti-Facebook
 
-[No More Facebook](https://nomorefacebook.xyz/)
-
 Oculus VR headset:  
 [Oculess](https://github.com/basti564/Oculess)
 
@@ -312,6 +310,10 @@ Oculus VR headset:
 
 Anti-LG:  
 [Openlgtv](https://openlgtv.github.io/)
+
+Anti-Reddit - remove comment history:  
+[Shreddit🐍□](https://github.com/x89/Shreddit)
+
 
 ## Anti-Governments & Public Organizations
 

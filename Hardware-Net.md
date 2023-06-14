@@ -1,5 +1,8 @@
 # Hardware: Networks
 
+Network standards:  
+[IETF Datatracker*](https://datatracker.ietf.org/)
+
 ## L1 Physical - Mobile
 
 Mobile bandwidth reference:  

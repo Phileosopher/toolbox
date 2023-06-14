@@ -132,3 +132,8 @@ User profiles:
 
 Security events log:  
 [WinLogOnView⊞■](https://www.nirsoft.net/utils/windows_log_on_times_view.html)
+
+## Malware Investigation
+
+GNU/Linux malware:  
+[linux-malware🐧](https://github.com/timb-machine/linux-malware)
