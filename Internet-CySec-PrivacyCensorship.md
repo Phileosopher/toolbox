@@ -216,7 +216,7 @@ Wolfram Alpha:
 YouTube:  
 [CloudTube](https://tube.cadence.moe/),
 [FreeTube⊞⌘🐧](https://freetubeapp.io/),
-[Invidious](https://invidious.io/)
+[Invidious](https://invidious.io/),
 [NewPipe🤖](https://newpipe.net/),
 [Piped](https://piped.video/),
 [yattee⌘🍎](https://github.com/yattee/yattee),
