@@ -136,8 +136,11 @@ Articles behind paywalls:
 Watch videos together remotely:  
 [Binge Together☁](https://bingetogether.com/)
 
+Text feed:  
+[Mastodon☁🍎🤖](https://joinmastodon.org/)
+
 Topical:  
-[Reddit☁🍎🤖](https://reddit.com)
+[Lemmy☁🍎🤖](https://join-lemmy.org/)
 
 Videos:  
 [BitChute☁](https://www.bitchute.com/),

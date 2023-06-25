@@ -25,15 +25,20 @@ IFilter plugins:
 Firmware tables:  
 [FirmwareTablesView■](https://www.nirsoft.net/utils/firmware_tables_view.html)
 
-USB devices:  
-[USBDeview■](https://www.nirsoft.net/utils/usb_devices_view.html),
-[USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html)
-
 CPU tuning:  
 [Intel Extreme Tuning Utility](https://www.intel.com/content/www/us/en/download/17881/intel-extreme-tuning-utility-intel-xtu.html)
 
 CPU tuning - throttling:  
 [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/)
+
+## Hardware - Peripherals
+
+USB devices:  
+[USBDeview■](https://www.nirsoft.net/utils/usb_devices_view.html),
+[USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html)
+
+Manage codec drivers and DirectShow filters:  
+[InstalledCodec](https://www.nirsoft.net/utils/installed_codec.html)
 
 USB events:  
 [ChipGenius](https://chipgenius.en.lo4d.com/windows),

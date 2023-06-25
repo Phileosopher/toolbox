@@ -17,6 +17,7 @@ Stock music:
 [Magnatune](http://magnatune.com/)
 
 Free stock music:  
+[bensound](https://www.bensound.com/),
 [cchound.com](https://cchound.com/),
 [Free Music Archive](https://freemusicarchive.org/),
 [Icons8 Fugue](https://icons8.com/music),
