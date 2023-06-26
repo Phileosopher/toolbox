@@ -17,6 +17,10 @@ Save open web browser tabs:
 Advanced tab management:  
 [FoxTab⇉](https://www.foxtab.com/)
 
+Bookmarks:  
+[OneKeep☁](https://onekeep.com/),
+[Raindrop.io☁⇉⊞⌘🐧🍎🤖](https://raindrop.io/)
+
 ## UI Improvements
 
 Automatic reader mode:  

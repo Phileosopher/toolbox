@@ -15,6 +15,9 @@ Currency exchange - current:
 Currency exchange - ancient societies:  
 [Trapezites☁](https://trapezites.com/)
 
+Corporate bias:  
+[Corporate Bias Ratings*](https://1792exchange.com/spotlightreports/)
+
 ## Banking
 
 Online checking account:  

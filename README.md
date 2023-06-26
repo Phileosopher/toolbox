@@ -23,7 +23,7 @@ Obviously, that's not _always_ true:
 - Sometimes it's very educational or downright _fun_ to reinvent the wheel.
 - If someone has severe trust issues, they'll make an open-source or de-(thing) version of that thing.
 
-However, if I need something to stretch audio or batch-compare files, my largest mental hurdle is knowing it even _exists_. Even when a tool is obsolete, placed behind a paywall, merged into some other software suite, or just plain forgotten, that idea lives on and someone else will usually pick up the torch.
+However, if I need something to stretch audio or batch-compare files, the largest mental hurdle is knowing it even _exists_. I'm perfectly aware a tool can become obsolete, forced behind a paywall, merged into some other software suite, no longer supported, or [was closed-source the entire time](https://trendless.tech/floss). The idea, however, almost always lives on, and someone else typically reinvents it.
 
 ## 3. Future Convenience
 
@@ -33,34 +33,35 @@ So, this is a bit like a hoarder's barn, but collects less dust and is proportio
 
 ## Rules
 
+The definition of "tool" is hairy. Every tool revolves around [human purpose](https://gainedin.site/purpose/), which is a concept created as a [relative human value](https://gainedin.site/values/), and [hackers](https://trendless.tech/hacking) can use _anything_ for a purpose it wasn't intended for.
+
 For brevity's sake, I'm mostly glossing over a few groups:
 
 - The built-in tools. If I need them, they're in the computer already.
 - [Mega-corp](https://gainedin.site/groups-large) tools. They already have plenty of [advertising they paid for](https://notageni.us/marketing/), so they're _literally_ the first thing that comes up when you type them into a search engine.
-- Paid tools, when they cost enough that it makes me pause to consider my budget.
-- Most courses and courseware, since I'm convinced most of that is part of a _constantly_ revolving cycle of technology fashions (Remember when Java and Netscape was going to run the world forever? By contrast, how about web browsers and corporation-endorsed programming languages?)
+- Paid tools, when they cost enough that it makes me pause to consider [my budget](https://adequate.life/money-3/).
+- Most courses and courseware, since most of that is part of a _constantly_ revolving cycle of technology fashions (Remember when Java and Netscape was going to run the world forever? By contrast, how about web browsers and corporation-endorsed programming languages?)
 
-I've broken everything into malleable groupings, since there are _many_ things that someone could use a computer for, and people are constantly adding new things. These groupings are somewhat arbitrary:
+I've broken everything into malleable and somewhat arbitrary groupings, since there are _many_ things that someone could use a computer for, and people are constantly adding new things:
 
 - Audio: to work with sound for some intended aesthetic
 - Communicating: to communicate with other people, directly or indirectly
 - Files/OS: to manage computer files or operating systems
-- Games: to work with games
+- Games: to work and play with games
 - Hardware: to make or manage physical things, which includes computer hardware
 - Internet: a sub-division of computer networking that has its own subdomains
 - Math: for calculation-specific needs
 - Text: to work with language for some intended aesthetic
 - Visual: to visually design or adapt things which contain some intended aesthetic
-
 - Productivity: to broadly streamline doing any of the above
 
 Further, there are some patterns that keep cropping up in each domain:
 
 - Consuming: human consumption only, without modification to it
 - CySec: protecting bad things from happening
-- Foraging: to acquire others' creative works
+- Foraging: to acquire others' created works
 
-Also further, some things are all-pervasive sporks:
+Further further, some things are all-pervasive sporks:
 
 - Dev: to broadly make or manage computer code, which may refer to front-end or back-end, be language-specific, and may simply be a more nuanced version of any of the above
 
@@ -72,7 +73,7 @@ Sometimes, it makes sense to clarify for context how something is used.
 - ☁ for browser-based apps, ⇉ for a browser/software plugin or extension
 - Desktop: ⊞ for Windows, ⌘ for Mac OS X, 🐧 for Linux and Friends.
 - Mobile: 🤖 for Android, 🍎 for iOS.
-- □ for non-UI CLI-based tools, often requires [programming experience](https://techsplained.xyz/prog-basics).
+- □ for non-UI CLI-based tools, often requires [programming experience](https://trendless.tech/prog-basics).
 - ■ for standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/)).
 - 🐍 if it runs in Python
 - 🔌 if it's an API or has API documentation

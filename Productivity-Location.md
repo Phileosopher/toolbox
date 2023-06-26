@@ -33,6 +33,9 @@ Year-round climate:
 Flight tracking:  
 [FlightStats by Cirium☁](https://www.flightstats.com)
 
+Flight tracking - notification:  
+[plane-notify🐍](https://github.com/Jxck-S/plane-notify)
+
 Package tracking:  
 [Boxoh](http://www.boxoh.com/),
 [Package Place□](https://package.place/)
@@ -70,11 +73,17 @@ Cabs:
 
 ## Other Regional Needs
 
+Airports:  
+[OpenAirportMap☁](https://openairportmap.org/)
+
 Bird detection (by sound):  
 [BirdNET☁🍎🤖](https://birdnet.cornell.edu/)
 
 Light pollution:  
 [Light pollution map☁](https://www.lightpollutionmap.info/)
+
+Power outages:  
+[United States Power Outage Map](https://poweroutage.us/)
 
 Traveling radius:  
 [OALLEY☁](https://www.oalley.net/)
@@ -84,3 +93,6 @@ Nuclear detonation estimation:
 
 Mandatory reporters:  
 [Resources for Mandated Reporters of Abuse](https://mandatedreporter.com/)
+
+Historical atlas:  
+[GeaCron](http://geacron.com/)

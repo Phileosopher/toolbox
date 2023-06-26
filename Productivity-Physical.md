@@ -89,6 +89,11 @@ Weightlifting comparison:
 Muscle focus:  
 [MuscleWiki☁](https://musclewiki.com/)
 
+## Wellness - Other
+
+Drug shortages:  
+[FDA Drug Shortages](https://www.accessdata.fda.gov/scripts/drugshortages/default.cfm)
+
 ## Other
 
 Alternative energy (e.g., EVs):
@@ -96,3 +101,9 @@ Alternative energy (e.g., EVs):
 
 Drill bits:  
 [Drill Hog](https://drillhog.com/)
+
+Auto lookup:  
+[VIN Decoder & Lookup](https://driving-tests.org/vin-decoder/)
+
+Auto accidents:  
+[CRASHDOCS.org*](https://www.crashdocs.org/)
