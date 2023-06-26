@@ -25,6 +25,7 @@ Time tracking:
 [ActivityWatch⊞⌘🐧🍎🤖⇉](https://activitywatch.net/),
 [Emergent Task Timer*](https://davidseah.com/node/the-emergent-task-timer/),
 [ProcrastiTracker⊞](http://strlen.com/procrastitracker/),
+[TMetric☁](https://tmetric.com/),
 [Toggl Track☁](https://toggl.com/)
 
 Gantt charts:  

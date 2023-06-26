@@ -16,7 +16,8 @@ SVGs/illustrations:
 [Icons8's Vector Creator☁](https://icons8.com/vector-creator),
 [Inkscape⊞■⌘🐧](https://inkscape.org/),
 [Icons8's Mega Creator☁](https://icons8.com/mega-creator/),
-[SvgPathEditor☁](https://yqnn.github.io/svg-path-editor/)
+[SvgPathEditor☁](https://yqnn.github.io/svg-path-editor/),
+[VistaCreate☁](https://create.vista.com/)
 
 Animations:  
 [OpenToonz⊞⌘](https://opentoonz.github.io/e/),

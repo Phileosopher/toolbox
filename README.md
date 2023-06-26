@@ -41,6 +41,7 @@ For brevity's sake, I'm mostly glossing over a few groups:
 - [Mega-corp](https://gainedin.site/groups-large) tools. They already have plenty of [advertising they paid for](https://notageni.us/marketing/), so they're _literally_ the first thing that comes up when you type them into a search engine.
 - Paid tools, when they cost enough that it makes me pause to consider [my budget](https://adequate.life/money-3/).
 - Most courses and courseware, since most of that is part of a _constantly_ revolving cycle of technology fashions (Remember when Java and Netscape was going to run the world forever? By contrast, how about web browsers and corporation-endorsed programming languages?)
+- Anything that had [a scandal attached to it](https://trendless.tech/faang) or [got hacked](https://trendless.tech/hacking).
 
 I've broken everything into malleable and somewhat arbitrary groupings, since there are _many_ things that someone could use a computer for, and people are constantly adding new things:
 

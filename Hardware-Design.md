@@ -37,7 +37,8 @@ Flight simulation:
 
 [FreeCAD⊞■⌘🐧](https://www.freecadweb.org/)
 
-2D/3D CAD:  
+2D/3D parametric CAD:  
+[Components AI](https://components.ai/),
 [SolveSpace](https://solvespace.com/index.pl)
 
 Home design:  

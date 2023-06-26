@@ -31,6 +31,9 @@ PDF - looking scanned:
 Screenshots:  
 [Screenshot Hero🍎](https://asadmemon.com/projects/screenshothero/)
 
+PDF OCR:  
+[pdfsandwich🐧□](http://www.tobias-elze.de/pdfsandwich/)
+
 Machine learning OCR:  
 [EasyOCR□](https://github.com/JaidedAI/EasyOCR)
 
@@ -71,10 +74,14 @@ PDF/PS:
 PDF to JPG:  
 [Adobe's PDF to JPG Conversion Tool☁](https://www.adobe.com/acrobat/online/pdf-to-jpg.html)
 
-[DOC to MD Converter☁](https://word2md.com/),
-
 RTF to multiple:  
 [UnRTF🐧□](https://www.gnu.org/software/unrtf/)
+
+EPUB to multiple:  
+[EPUB.to☁🔌](https://epub.to/)
+
+DOC to MD:
+[DOC to MD Converter☁](https://word2md.com/)
 
 Markdown:  
 [remarkjs□](https://github.com/remarkjs/remark)

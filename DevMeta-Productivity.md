@@ -33,6 +33,10 @@ Apple-tailored:
 Linux-tailored:  
 [The GTK Project⊞⌘🐧](https://gtk.org/)
 
+Hex editor:  
+[HxD⊞](https://mh-nexus.de/en/hxd/),
+[ImHex⊞⌘🐧](https://imhex.werwolv.net/)
+
 ## IDE Enhancement
 
 Themes:  

@@ -80,6 +80,9 @@ AI-generated faces:
 [Face Generator](https://generated.photos/face-generator),
 [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 
+AI-generated movie posters:  
+[This Movie Does Not Exist](https://thismoviedoesnotexist.org/movie/unique-presence-1)
+
 Patterns:  
 [CodeinWP](https://www.codeinwp.com/pattern-collection/)
 
@@ -131,6 +134,9 @@ Avatars:
 
 3D icons:  
 [Vertex.im](https://vertex.im/)
+
+Vintage/nostalgic:  
+[Windows 98 Icon Viewer](https://win98icons.alexmeub.com/)
 
 ## Logos
 

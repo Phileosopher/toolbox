@@ -118,7 +118,8 @@ Intellectual properties - web domains:
 [Sedo☁](https://sedo.com/us/)
 
 Private equity:  
-[Fundrise](https://fundrise.com/)
+[Fundrise](https://fundrise.com/),
+[Venture Capital Cross](https://vccross.com/)
 
 US Treasury securities:  
 [TreasuryDirect☁](https://www.treasurydirect.gov/)
