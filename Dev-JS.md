@@ -18,3 +18,9 @@ JSON:
 
 Linting:  
 [JSLint☁](https://jslint.com/)
+
+Optimizing:  
+[JSHint☁](https://jshint.com/)
+
+Size estimation:  
+[size-limit](https://github.com/ai/size-limit)

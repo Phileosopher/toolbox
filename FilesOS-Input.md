@@ -1,4 +1,4 @@
-# Files/OS: Input Peripherals
+# Files/OS: Input Peripheral Software
 
 Hand tracker:  
 [yoha](https://github.com/handtracking-io/yoha)

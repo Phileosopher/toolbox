@@ -61,3 +61,6 @@ Download history - Chrome/Firefox:
 
 Search history:  
 [MyLastSearch⊞](https://www.nirsoft.net/utils/my_last_search.html)
+
+All downloaded websites:  
+[WebSiteSniffer⊞](https://www.nirsoft.net/utils/web_site_sniffer.html)

@@ -37,6 +37,9 @@ Flight simulation:
 
 [FreeCAD⊞■⌘🐧](https://www.freecadweb.org/)
 
+2D/3D CAD:  
+[SolveSpace](https://solvespace.com/index.pl)
+
 Home design:  
 [Easyhome Homestyler☁](https://www.homestyler.com),
 [Sweet Home 3D⊞⌘🐧](http://www.sweethome3d.com/)

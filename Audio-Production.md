@@ -46,6 +46,10 @@ Synthesizer:
 [AudioMass☁](https://audiomass.co/),
 [WaveShop⊞■](http://waveshop.sourceforge.net/)
 
+Audio Visualization/Analysis:  
+[BRP-PACU](https://github.com/matthew-dews/brp-pacu),
+[Sonic Visualiser⊞⌘🐧](https://www.sonicvisualiser.org/)
+
 Audio file conversion/recording:  
 [FFmpeg⊞⌘🐧□](https://www.ffmpeg.org/)
 

@@ -37,7 +37,8 @@ Text output to image:
 ## Tweaking/Filters
 
 [FotoSketcher⊞■⌘](https://fotosketcher.com/),
-[GIMP⊞■⌘🐧](https://www.gimp.org/)
+[GIMP⊞■⌘🐧](https://www.gimp.org/),
+[Paint.NET⊞](https://www.getpaint.net/),
 [RawTherapee⊞■⌘🐧](http://www.rawtherapee.com/)
 
 ## Auto-Tweaking/Filters

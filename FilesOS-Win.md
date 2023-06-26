@@ -1,4 +1,4 @@
-# Files/OS: Windows-Specific ⊞
+# Files/OS: Windows-Specific Software ⊞
 
 Power tools:  
 [Windows Sysinternals■](https://docs.microsoft.com/en-us/sysinternals/)
@@ -19,63 +19,6 @@ Windows Search alternative:
 
 IFilter plugins:  
 [SearchFilterView■](https://www.nirsoft.net/utils/search_filter_view.html)
-
-## Hardware
-
-Firmware tables:  
-[FirmwareTablesView■](https://www.nirsoft.net/utils/firmware_tables_view.html)
-
-CPU tuning:  
-[Intel Extreme Tuning Utility](https://www.intel.com/content/www/us/en/download/17881/intel-extreme-tuning-utility-intel-xtu.html)
-
-CPU tuning - throttling:  
-[ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/)
-
-## Hardware - Peripherals
-
-USB devices:  
-[USBDeview■](https://www.nirsoft.net/utils/usb_devices_view.html),
-[USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html)
-
-Manage codec drivers and DirectShow filters:  
-[InstalledCodec](https://www.nirsoft.net/utils/installed_codec.html)
-
-USB events:  
-[ChipGenius](https://chipgenius.en.lo4d.com/windows),
-[USBLogView■](https://www.nirsoft.net/utils/usb_log_view.html)
-
-Multiple NICs:  
-[NetConnectChoose■](https://www.nirsoft.net/utils/net_connect_choose.html)
-
-Scanners/TWAIN devices:  
-[TWACKER■](https://www.dynamsoft.com/web-twain/docs/faq/How-to-use-TWACKER-to-check-if-your-device-is-TWAIN-Compliant.html),
-
-## Hardware - Hard Drive Issues
-
-Drive activity logs:  
-[DiskCountersView■](https://www.nirsoft.net/utils/disk_counters_view.html)
-
-S.M.A.R.T. information:  
-[DiskSmartView■](https://www.nirsoft.net/utils/disk_smart_view.html)
-
-Drive letter management:  
-[DriveLetterView■](https://www.nirsoft.net/utils/drive_letter_view.html)
-
-Partition management:  
-[IsMyHdOK](https://softwareok.com/?seite=Microsoft%2FIsMyHdOK)
-[ShadowCopyView■](https://www.nirsoft.net/utils/shadow_copy_view.html)
-
-Symbolic links:  
-[NTFSLinksView■](https://www.nirsoft.net/utils/ntfs_links_view.html)
-
-Alternate stream logs:  
-[AltStreamDump■](https://www.nirsoft.net/utils/alternate_stream_dump.html)
-
-Alternate stream management:  
-[AlternateStreamView■](https://www.nirsoft.net/utils/alternate_data_streams.html)
-
-Drive errors:  
-[Victoria](https://hdd.by/victoria/)
 
 ## File/Folder Issues
 

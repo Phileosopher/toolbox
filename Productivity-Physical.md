@@ -50,6 +50,8 @@ Renting vs. Buying calculator:
 
 ## Wellness
 
+[ExRx.net*](https://exrx.net/)
+
 Breathing:  
 [Lungy🍎](https://www.lungy.app/)
 

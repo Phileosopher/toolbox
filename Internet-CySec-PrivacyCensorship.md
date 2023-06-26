@@ -309,7 +309,8 @@ Oculus VR headset:
 ## Anti-FAANG - Other
 
 Anti-LG:  
-[Openlgtv](https://openlgtv.github.io/)
+[Openlgtv](https://openlgtv.github.io/),
+[RootMyTV](https://github.com/RootMyTV/RootMyTV.github.io)
 
 Anti-Reddit - remove comment history:  
 [Shreddit🐍□](https://github.com/x89/Shreddit)

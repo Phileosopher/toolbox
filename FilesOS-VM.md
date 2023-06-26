@@ -38,7 +38,8 @@ Linux (on Windows):
 [Cygwin⊞](https://www.cygwin.com/)
 
 Windows (on Linux):  
-[Wine🐧](https://www.winehq.org/)
+[Wine🐧](https://www.winehq.org/),
+[WinApps for Linux🐧](https://github.com/Fmstrat/winapps)
 
 Mac (on Linux):  
 [Darling🐧](https://www.darlinghq.org/),
