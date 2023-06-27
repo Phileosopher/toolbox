@@ -20,7 +20,16 @@ Publishing profile:
 GitHub business card:  
 [GitHub Business Card](https://scastiel.dev/github-card)
 
-## Resume Enhancement
+## Resumé Enhancement
+
+Resumé builder/parser:  
+[OpenResume☁](https://www.open-resume.com/),
+[Reactive Resume☁](https://rx-resume.web.app/),
+[Resumake☁](https://resumake.io/),
+[wtfresume☁](https://wtfresume.com/)
+
+Resumé builder - software engineers:  
+[gitconnected Software Engineer Resume Builder☁](https://gitconnected.com/resume-builder)
 
 Volunteering:  
 [Catchafire](https://www.catchafire.org)
@@ -38,6 +47,12 @@ Volunteering:
 
 Entrepreneurship-specific:  
 [AngelList Talent](https://angel.co/)
+
+Short work weeks:  
+[4 day week](https://4dayweek.io/)
+
+Criminal record:  
+[Felony Record Hub](https://www.felonyrecordhub.com/)
 
 ## Job Boards (Freelancing)
 

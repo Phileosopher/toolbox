@@ -1,7 +1,10 @@
 # Business: Enterprise Systems
 
 Researching software:  
-[Business Software Reviews from Software Advice®](https://www.softwareadvice.com/)
+[Business Software Reviews from Software Advice](https://www.softwareadvice.com/)
+
+App cost calculator:  
+[Estimate My App](https://estimatemyapp.com/)
 
 ## Cheap/Free Hosting
 

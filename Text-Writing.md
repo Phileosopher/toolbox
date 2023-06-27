@@ -124,14 +124,6 @@ Journaling:
 [Ponder⇉](https://getponder.app/)
 [RedNotebook⊞■⌘🐧](https://rednotebook.sourceforge.io/)
 
-Resumés:  
-[Reactive Resume☁](https://rx-resume.web.app/),
-[Resumake☁](https://resumake.io/),
-[wtfresume☁](https://wtfresume.com/)
-
-Resumés - software engineers:  
-[gitconnected Software Engineer Resume Builder☁](https://gitconnected.com/resume-builder)
-
 Wiki creation:  
 [Fandom☁](https://www.fandom.com/),
 [Wiki.js⊞⌘🐧🍎🤖](https://wiki.js.org/)

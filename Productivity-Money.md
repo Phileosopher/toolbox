@@ -86,7 +86,7 @@ Grocery shopping lists:
 [grocy☁⊞🍎🤖](https://grocy.info/),
 [ListEase☁🍎🤖](https://www.shoppinglistapp.com/)
 
-## Investing - Platforms
+## Investing - Market Platforms
 
 [E*TRADE☁](https://us.etrade.com/home),
 [Fidelity☁](https://www.fidelity.com/),
@@ -100,7 +100,6 @@ International investing:
 Automated managers:  
 [Acorns☁](https://www.acorns.com/),
 [Fidelity Go☁](https://www.fidelity.com/managed-accounts/fidelity-go/)
-
 
 VC firms/startups:  
 [Republic☁](https://republic.co/),
@@ -136,6 +135,9 @@ Blockchain:
 
 Micro-investing:  
 [M1☁](https://m1.com/)
+
+Software side projects:  
+[SideProjectors☁](https://www.sideprojectors.com/#/)
 
 ## Investing - Research
 

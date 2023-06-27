@@ -1,7 +1,12 @@
 # Text: Writing - Legal
 
-Automated legal services:  
-[DoNotPay](https://donotpay.com/)
+## Automated Legal Services
+
+Filings and auto-generated documents:  
+[LegalZoom☁](https://www.legalzoom.com/)
+
+Consumer protections:  
+[DoNotPay☁](https://donotpay.com/)
 
 ## Contracts
 

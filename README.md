@@ -38,10 +38,10 @@ The definition of "tool" is hairy. Every tool revolves around [human purpose](ht
 For brevity's sake, I'm mostly glossing over a few groups:
 
 - The built-in tools. If I need them, they're in the computer already.
-- [Mega-corp](https://gainedin.site/groups-large) tools. They already have plenty of [advertising they paid for](https://notageni.us/marketing/), so they're _literally_ the first thing that comes up when you type them into a search engine.
-- Paid tools, when they cost enough that it makes me pause to consider [my budget](https://adequate.life/money-3/).
-- Most courses and courseware, since most of that is part of a _constantly_ revolving cycle of technology fashions (Remember when Java and Netscape was going to run the world forever? By contrast, how about web browsers and corporation-endorsed programming languages?)
-- Anything that had [a scandal attached to it](https://trendless.tech/faang) or [got hacked](https://trendless.tech/hacking).
+- [Mega-corp](https://gainedin.site/groups-large) tools. They already have plenty of [advertising they paid for](https://notageni.us/marketing/), so they're _literally_ the first thing that comes up when you type the need into a search engine.
+- Paid tools when they cost enough that it makes me pause to consider [my budget](https://adequate.life/money-3/). I'm a big proponent of [free licenses](https://trendless.tech/floss/) whenever possible.
+- Most courses and courseware, since most of that is part of a _constantly_ revolving cycle of [technology fashions](https://trendless.tech/trends/) (Netscape and Java aren't running the planet anymore, but the concept of [web browsers](https://trendless.tech/web-dev/) and [programming languages endorsed by mega-corporations](https://trendless.tech/langs/) still are).
+- Anything where [a scandal was attached to it](https://trendless.tech/faang), it's [highly politicized](https://gainedin.site/conservative-liberal), or it [got hacked](https://trendless.tech/hacking). I've got enough drama in my life without looking for it.
 
 I've broken everything into malleable and somewhat arbitrary groupings, since there are _many_ things that someone could use a computer for, and people are constantly adding new things:
 
@@ -56,7 +56,7 @@ I've broken everything into malleable and somewhat arbitrary groupings, since th
 - Visual: to visually design or adapt things which contain some intended aesthetic
 - Productivity: to broadly streamline doing any of the above
 
-Further, there are some patterns that keep cropping up in each domain:
+Further, some patterns keep cropping up in each domain:
 
 - Consuming: human consumption only, without modification to it
 - CySec: protecting bad things from happening
@@ -66,7 +66,7 @@ Further further, some things are all-pervasive sporks:
 
 - Dev: to broadly make or manage computer code, which may refer to front-end or back-end, be language-specific, and may simply be a more nuanced version of any of the above
 
-## Earmarks
+## OS/Usage Earmarks
 
 Sometimes, it makes sense to clarify for context how something is used.
 
@@ -93,5 +93,6 @@ Please PR if you see anything I've missed. Or, if tech's not your thing, contact
 1. Things that are obsolete and their superior replacement.
 2. Any relevant platforms/languages the tool needs (e.g., ⊞■⌘🐧🍎🤖⇉).
 3. Any classes or sub-classes of tool I may have missed.
+4. Something that should be removed due to a scandal involved, politicization, or was hacked, preferably with a more open-source alternative.
 
 If you like what you see, feel free to fork, or visit [my website](https://stucky.tech) for other useful things.
