@@ -23,8 +23,10 @@ Guitar chord finder:
 ## Performing
 
 Recording/mixing audio:  
+[Ardour⊞⌘🐧](https://www.ardour.org/),
 [Audacity⊞■⌘🐧](https://www.audacityteam.org/) (with a [web-based port☁](https://wavacity.com/)
 ),
+[Audio Recorder☁](https://webbrowsertools.com/audio-recorder/),
 [Cakewalk by BandLab⊞](https://www.bandlab.com/products/cakewalk),
 [LMMS⊞■⌘🐧](https://lmms.io/),
 [Ardour⊞⌘🐧](https://ardour.org/)

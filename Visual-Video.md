@@ -5,6 +5,7 @@
 Recording/streaming video:  
 [OBS Studio⊞■⌘🐧](https://obsproject.com/),
 [Streamlabs OBS⊞■](https://streamlabs.com/streamlabs-obs),
+[Video Recorder☁](https://webbrowsertools.com/video-recorder/),
 [VirtualDub⊞■](https://sourceforge.net/projects/virtualdub/)
 
 Church events:  
