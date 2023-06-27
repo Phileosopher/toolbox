@@ -97,11 +97,7 @@ CalDAV/CardDAV (email's calendar/contacts):
 ## Recovery
 
 General analysis/recovery:  
-[The Sleuth Kit⊞⌘🐧](https://github.com/sleuthkit/sleuthkit)
-
-Hard drive - undelete files:
-[Foremost🐧](http://foremost.sourceforge.net/),
-[Recuva⊞■](https://www.ccleaner.com/recuva)
+[The Sleuth Kit⊞⌘🐧](https://www.sleuthkit.org/sleuthkit/) (with [Autopsy](https://www.sleuthkit.org/autopsy/) as the front-end)
 
 Photo recovery:  
 [PhotoRec⊞⌘🐧](https://www.cgsecurity.org/wiki/PhotoRec)
@@ -109,16 +105,26 @@ Photo recovery:
 Photo recovery - JPGs:  
 [saintmarina's undelete🐧□](https://github.com/saintmarina/undelete_jpg)
 
-Hard drive - rebuild after faulty software:  
+Photo recovery - forensics:  
+[Sherloq](https://github.com/GuidoBartoli/sherloq)
+
+Disk image recovery:  
+[Ddrescue🐧](https://www.gnu.org/software/ddrescue/)
+
+Hard drive recovery - undelete files:
+[Foremost🐧](http://foremost.sourceforge.net/),
+[Recuva⊞■](https://www.ccleaner.com/recuva)
+
+Hard drive recovery - rebuild after faulty software:  
 [TestDisk⊞⌘🐧](https://www.cgsecurity.org/wiki/TestDisk)
 
-Hard drive - MBR:  
+Hard drive recovery - MBR:  
 [HDHacker⊞■](http://dimio.altervista.org/eng/#HDHacker)
 
-DVDs:  
+DVD recovery:  
 [dvdisaster🐧](https://github.com/speed47/dvdisaster)
 
-Reconstruction of events - UNIX-like system:  
+Event reconstruction - UNIX-likes:  
 [The Coroner's Toolkit](http://www.porcupine.org/forensics/tct.html)
 
 ## Surveillance
