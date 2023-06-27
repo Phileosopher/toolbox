@@ -32,6 +32,7 @@ Temporary text messaging:
 [tmpsms](https://github.com/sdushantha/tmpsms)
 
 Secure email:  
+[Fastmail☁](https://www.fastmail.com/),
 [ProtonMail☁](https://protonmail.com/),
 [Tutanota☁](https://tutanota.com/)
 

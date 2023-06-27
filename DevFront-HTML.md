@@ -37,3 +37,11 @@ Warping:
 
 Waves:  
 [Get Waves☁](https://getwaves.io/)
+
+## Media Elements
+
+Media player - back-end:  
+[Proton Player](https://github.com/protonradio/player)
+
+Media player - front-end:  
+[Clappr](http://clappr.io/)

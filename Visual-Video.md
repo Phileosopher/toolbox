@@ -29,6 +29,9 @@ Team editing:
 File conversion/recording:  
 [FFmpeg⊞⌘🐧□](https://www.ffmpeg.org/)
 
+Synchronize subtitles with video:  
+[FFsubsync🐧□](https://github.com/smacke/ffsubsync)
+
 ## Auto-Rendering
 
 Auto-stabilization:  

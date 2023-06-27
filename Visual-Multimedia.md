@@ -8,6 +8,9 @@ Presentations:
 Presentations - display keyboard shortcuts:  
 [Carnac⊞](http://carnackeys.com/)
 
+Presentations - church worship events:  
+[OpenLP⊞⌘🐧](https://openlp.org/)
+
 Desktop publishing:  
 [Microsoft Sway☁](https://sway.office.com),
 [Scribus⊞■⌘🐧](https://www.scribus.net/)

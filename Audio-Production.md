@@ -23,7 +23,8 @@ Guitar chord finder:
 ## Performing
 
 Recording/mixing audio:  
-[Audacity⊞■⌘🐧](https://www.audacityteam.org/),
+[Audacity⊞■⌘🐧](https://www.audacityteam.org/) (with a [web-based port☁](https://wavacity.com/)
+),
 [Cakewalk by BandLab⊞](https://www.bandlab.com/products/cakewalk),
 [LMMS⊞■⌘🐧](https://lmms.io/),
 [Ardour⊞⌘🐧](https://ardour.org/)
@@ -64,7 +65,8 @@ Track splitting:
 [Mp3splt⊞■⌘🐧](http://mp3splt.sourceforge.net/mp3splt_page/home.php)
 
 Track element separation:  
-[Spleeter⊞⌘🐧□](https://github.com/deezer/spleeter)
+[Spleeter⊞⌘🐧□](https://github.com/deezer/spleeter),
+[StemRoller⊞⌘](https://www.stemroller.com/)
 
 Speech recognition:  
 [Dictation.io☁](https://dictation.io/)

@@ -5,6 +5,7 @@ Sound effects:
 [Freesound](https://freesound.org/),
 [Myinstants](https://www.myinstants.com/),
 [Pianobook](https://www.pianobook.co.uk/),
+[SoundBoardGuy](https://soundboardguy.com/),
 [Videvo's Royalty Free Sound Effects](https://www.videvo.net/royalty-free-sound-effects/),
 [ZapSplat](https://www.zapsplat.com/)
 
@@ -21,7 +22,10 @@ Free stock music:
 [cchound.com](https://cchound.com/),
 [Free Music Archive](https://freemusicarchive.org/),
 [Icons8 Fugue](https://icons8.com/music),
+[Loyalty Freak Music](https://loyaltyfreakmusic.com/),
 [Pixabay's Royalty Free Music](https://pixabay.com/music/),
+[StreamBeats](https://www.senpai.tv/streambeats/),
+[Transistor's free podcast intro theme music](https://transistor.fm/free-podcast-intro-music/),
 [Videvo's Royalty Free Music](https://www.videvo.net/royalty-free-music/)
 
 Live music:  
