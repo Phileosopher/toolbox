@@ -6,10 +6,16 @@ Music transcription:
 Music transcription - AI-assisted:  
 [Piano Scribe](https://piano-scribe.glitch.me/)
 
-TTS:  
+## TTS
+
 [eSpeak NG□🔌⦿](https://github.com/espeak-ng/espeak-ng/),
 [Festival🔌⦿](http://www.cstr.ed.ac.uk/projects/festival/),
 [Coqui's YourTTS🔌⦿](https://coqui.ai/blog/tts/yourtts-zero-shot-text-synthesis-low-resource-languages)
 
 TTS filters:  
 [Talkfilters](https://directory.fsf.org/wiki/Talkfilters)
+
+## Audio Generation
+
+Engine noise synthesizer:  
+[Engine Simulator](https://www.engine-sim.parts/)

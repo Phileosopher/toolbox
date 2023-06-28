@@ -13,6 +13,9 @@ Language translation:
 [LibreTranslate](https://libretranslate.com/),
 [Lingva Translate](https://lingva.ml/)
 
+Language translation - browser plugin:  
+[TWP🔌](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+
 ## Real-Time
 
 Videoconferencing/screensharing/phone:  

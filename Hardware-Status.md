@@ -39,6 +39,15 @@ GPU/Graphics Card:
 [FurMark⊞](https://www.geeks3d.com/furmark/),
 [GPU-Z⊞■](https://www.techpowerup.com/gpuz/)
 
+Screen - detect actual hertz:  
+[DisplayHz.com](https://www.displayhz.com/)
+
+Screen - backlight bleed test:  
+[Backlight Bleed Test](https://lightbleedtest.com/)
+
+Screen - VSYNC test:  
+[VSYNC synchronization tester](https://www.vsynctester.com/)
+
 ## Benchmarking/Testing - Hard Drive
   
 [SSD-Z⊞■](http://aezay.dk/aezay/ssdz/),

@@ -41,6 +41,9 @@ Work-life balance:
 Procrastination diagnosis:  
 [Why do I procrastinate?](https://whydoiprocrastinate.com/)
 
+Sleep calculator:  
+[Sleepytime](https://sleepopolis.com/calculators/sleep/)
+
 ## Time Management - Travel
 
 Generate geographical heatmap:  

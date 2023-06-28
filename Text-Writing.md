@@ -91,7 +91,7 @@ Lorem ipsum placeholders:
 [Ultimate List of Lorem Ipsum Generators☁](https://loremipsum.io/ultimate-list-of-lorem-ipsum-generators/)
 
 Text editor:  
-[Notepad++⊞■](https://notepad-plus-plus.org/),
+[Notepad++⊞■](https://notepad-plus-plus.org/) (cross-platform as [NotepadNext⊞⌘🐧](https://github.com/dail8859/NotepadNext)),
 [Vim⊞■⌘🐧🤖](https://www.vim.org/),
 [WebBrowserTools' Text Editor☁](https://webbrowsertools.com/text-editor/)
 

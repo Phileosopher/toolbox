@@ -15,16 +15,6 @@ Language translation:
 Torah/Bible:  
 [The SWORD Project☁⊞■⌘🐧🍎🤖⇉](https://crosswire.org/sword/index.jsp)
 
-## Learning
-
-English:  
-[Plain English Campaign*](https://www.plainenglish.co.uk/)
-
-Languages:  
-[Duolingo☁🍎🤖](https://www.duolingo.com/),
-[Mate⌘🍎⇉](https://gikken.co/mate-translate/),
-[Memrise☁](https://www.memrise.com/)
-
 ## Media Viewers
 
 DjVu:  

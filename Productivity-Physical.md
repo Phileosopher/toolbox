@@ -94,6 +94,16 @@ Muscle focus:
 Drug shortages:  
 [FDA Drug Shortages](https://www.accessdata.fda.gov/scripts/drugshortages/default.cfm)
 
+## Components Assembly
+
+Weldless pipes and connections:  
+[80/20](https://8020.net/),
+[Maker Pipe](https://makerpipe.com/),
+[Unistrut](https://www.atkore.com/About-Us/Brands/Unistrut)
+
+Gluing things together:  
+[This to That](https://www.thistothat.com/)
+
 ## Other
 
 Alternative energy (e.g., EVs):
@@ -107,3 +117,6 @@ Auto lookup:
 
 Auto accidents:  
 [CRASHDOCS.org*](https://www.crashdocs.org/)
+
+Digging holes:  
+[Call 811](https://call811.com/)

@@ -24,6 +24,22 @@ Language games:
 Teacher review:  
 [Rate My Professors](https://www.ratemyprofessors.com/)
 
+## Language Learning
+
+English standards:  
+[Plain English Campaign*](https://www.plainenglish.co.uk/)
+
+Foreign languages:  
+[Duolingo☁🍎🤖](https://www.duolingo.com/),
+[Mate⌘🍎⇉](https://gikken.co/mate-translate/),
+[Memrise☁](https://www.memrise.com/)
+
+On-demand foreign language recordings:  
+[RhinoSpike](https://rhinospike.com/)
+
+AI conversational chat:  
+[Quazel](https://www.quazel.com/)
+
 ## Tech Learning
 
 CS books:  
@@ -49,7 +65,7 @@ Programming books:
 [free-programming-books](https://ebookfoundation.github.io/free-programming-books/)
 
 Kid-friendly programming language:  
-[Scratch - Imagine, Program, Share](https://scratch.mit.edu/)
+[Scratch](https://scratch.mit.edu/)
 
 Tech talks:  
 [TechYaks](https://techyaks.com/)

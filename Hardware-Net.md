@@ -87,10 +87,14 @@ MAC address vendor search:
 [MAC Address Lookup☁](https://www.macvendorlookup.com/),
 [MAC_Find☁](http://coffer.com/mac_find/),
 [MA:CV:en:do:rs☁](https://macvendors.com/),
-[WhatsMyIP.org's MAC Address Lookup☁](https://www.whatsmyip.org/mac-address-lookup/)
+[WhatsMyIP.org's MAC Address Lookup☁](https://www.whatsmyip.org/mac-address-lookup/),
+[MAC Address Lookup/Find Tool⊞■](https://www.nirsoft.net/utils/mac_address_lookup_find.html)
 
 MAC address random generator:  
 [MAC address generator☁](https://commentpicker.com/mac-address-generator.php)
+
+MAC address changer:  
+[GNU MAC Changer](https://github.com/alobbs/macchanger)
 
 WiFi:  
 [dot11Expert⊞](https://kcsoftwares.com/?dot11expert)
