@@ -47,7 +47,8 @@ Chat services - all-in-one:
 Type when someone else is typing:  
 [slacktyping□](https://github.com/will/slacktyping)
 
-Send automated correspondence to elected officials:  
+Contact elected officials:  
+[5 Calls](https://5calls.org/),
 [Resistbot](https://resist.bot/)
 
 ## Sending/Receiving

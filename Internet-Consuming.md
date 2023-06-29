@@ -79,6 +79,9 @@ Bookmarks emailed to inbox:
 Site status (for when any code on the site changes):  
 [Follow That Page☁](https://www.followthatpage.com/)
 
+Less sensationalized news:  
+[Boring Report🍎](https://www.boringreport.org/)
+
 ## Streaming Video☁
 
 Search engine:  

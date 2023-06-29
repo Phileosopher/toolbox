@@ -87,16 +87,21 @@ Graphic designers:
 [Design Pickle](https://designpickle.com/),
 [Manypixels](https://www.manypixels.co/)
 
-Speakers for audio books:  
-[ACX](https://www.acx.com/),
-[Findaway](https://findaway.com/authors/)
-
 Book publishing:  
 [Draft2Digital](https://draft2digital.com/),
 [IngramSpark](https://www.ingramspark.com/),
 [Kobo Writing Life](https://www.kobo.com/us/en/p/writinglife),
 [Lulu](https://www.lulu.com/),
 [Smashwords](https://www.smashwords.com/)
+
+## Job Boards (Freelancing) - Speaking
+
+Audio book speakers:  
+[ACX](https://www.acx.com/),
+[Findaway](https://findaway.com/authors/)
+
+Foreign languages:  
+[italki - Best language learning app with certificated tutors](https://www.italki.com/)
 
 ## Job Boards (Freelancing) - Writing
 

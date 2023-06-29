@@ -28,6 +28,9 @@ Titling:
 Dictionary:  
 [Dictionary.com☁](https://www.dictionary.com/)
 
+Pronunciation:  
+[Forvo☁](https://forvo.com/)
+
 Definition search:  
 [Reverse Dictionary☁](https://reversedictionary.org/)
 

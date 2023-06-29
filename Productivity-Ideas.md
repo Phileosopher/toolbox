@@ -41,7 +41,7 @@ Audio-based:
 ## Idea-Gathering - Text Notes
 
 Quick notes/sporadic:  
-[notes.io☁](http://notes.io/)
+[notes.io☁](http://notes.io/),
 
 Notebooks:  
 [cherrytree⊞■⌘🐧](https://www.giuspen.com/cherrytree/),
@@ -50,4 +50,5 @@ Notebooks:
 [QOwnNotes⊞■⌘🐧](https://www.qownnotes.org/)
 
 Public notes:  
-[Collected Notes⌘🍎🤖☁](https://collectednotes.com/)
+[Collected Notes⌘🍎🤖☁](https://collectednotes.com/),
+[Listed☁](https://listed.to/) (pulls from [Standard Notes☁🐧🤖](https://standardnotes.com/))
