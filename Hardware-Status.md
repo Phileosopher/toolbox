@@ -107,7 +107,8 @@ CPU  - tuning:
 CPU - throttling:  
 [ThrottleStop⊞](https://www.techpowerup.com/download/techpowerup-throttlestop/)
 
-RAM:  
+## Benchmarking/Testing - RAM
+
 [MemTest86⊞■🐧](https://www.memtest86.com/),
 [QuickMemoryTestOK⊞](https://softwareok.com/?seite=Microsoft%2FQuickMemoryTestOK),
 [RAMMap⊞■](https://docs.microsoft.com/en-us/sysinternals/downloads/rammap)
