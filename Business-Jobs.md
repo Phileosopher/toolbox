@@ -12,12 +12,13 @@ Web profile pages:
 [about.me](https://about.me),
 [Read.cv](https://read.cv/),
 [The Creative Passport](https://www.creativepassport.net/),
-[urspace](https://urspace.io/)
+[urspace](https://urspace.io/),
+[YourChamp](https://www.yourchamp.io/)
 
 Publishing profile:  
 [Books2Read.com](https://books2read.com/)
 
-GitHub business card:  
+Business card - GitHub:  
 [GitHub Business Card](https://scastiel.dev/github-card)
 
 ## Resumé Enhancement
@@ -38,6 +39,11 @@ Volunteering:
 
 [Better Business Bureau](https://www.bbb.org/),
 [Glassdoor](https://www.glassdoor.com/member/home/index.htm)
+
+## Employee Search
+
+Developer search:  
+[GitHunt](https://githunt.dev/)
 
 ## Job Boards (Employer/Employee)
 

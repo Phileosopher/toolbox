@@ -3,6 +3,10 @@
 Network standards:  
 [IETF Datatracker*](https://datatracker.ietf.org/)
 
+Network emulation:  
+[Cisco's Packet Tracer](https://learningnetwork.cisco.com/s/packet-tracer-alternative-lab-solutions),
+[SolarWinds' GNS3 Network Emulator](https://www.solarwinds.com/free-tools/gns3-network-emulator)
+
 ## L1 Physical - Mobile
 
 Mobile bandwidth reference:  
