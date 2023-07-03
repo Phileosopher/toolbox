@@ -22,17 +22,9 @@ Guitar chord finder:
 
 ## Performing
 
-Recording/mixing audio:  
-[Ardour⊞⌘🐧](https://www.ardour.org/),
-[Audacity⊞■⌘🐧](https://www.audacityteam.org/) (with a [web-based port☁](https://wavacity.com/)
-),
-[Audio Recorder☁](https://webbrowsertools.com/audio-recorder/),
-[Cakewalk by BandLab⊞](https://www.bandlab.com/products/cakewalk),
-[LMMS⊞■⌘🐧](https://lmms.io/),
-[Ardour⊞⌘🐧](https://ardour.org/)
-
 Drum accompaniment:  
-[AutoDrum⊞■](https://openmidiproject.osdn.jp/AutoDrum_en.html)
+[AutoDrum⊞■](https://openmidiproject.osdn.jp/AutoDrum_en.html),
+[Hydrogen](http://hydrogen-music.org/)
 
 DJing:  
 [Serato DJ Lite⊞■](https://serato.com/dj/lite),
@@ -41,16 +33,41 @@ DJing:
 DJing - turntables:  
 [xwax🐧](https://xwax.org/)
 
+Audio effects:  
+[Easy Effects](https://github.com/wwmm/easyeffects)
+
+## Composition
+
+Digital audio workstation (DAW):  
+[Ardour⊞⌘🐧](https://www.ardour.org/),
+[Audacity⊞■⌘🐧](https://www.audacityteam.org/) (with a [web-based port☁](https://wavacity.com/)),
+[Audio Recorder☁](https://webbrowsertools.com/audio-recorder/),
+[Cakewalk by BandLab⊞](https://www.bandlab.com/products/cakewalk),
+[LMMS⊞■⌘🐧](https://lmms.io/),
+[WavePad](https://www.nch.com.au/wavepad/index.html)
+
 Synthesizer:  
-[Synth1⊞](https://daichilab.sakura.ne.jp/softsynth/index.html#down)
+[Bespoke Synth⊞⌘🐧](https://www.bespokesynth.com/),
+[Cursynth□](https://www.gnu.org/software/cursynth/),
+[Synth1⊞](https://daichilab.sakura.ne.jp/softsynth/index.html),
+[ZynAddSubFX](https://zynaddsubfx.sourceforge.io/) (and its fork [Yoshimi](https://yoshimi.sourceforge.io/))
 
 ## Editing
 
+Audio processing:  
 [AudioMass☁](https://audiomass.co/),
+[Integra Live](https://integra.io/portfolio-items/integralive/),
 [WaveShop⊞■](http://waveshop.sourceforge.net/)
+
+Audio processing - MIDI:  
+[TiMidity++](https://timidity.sourceforge.net/)
+
+Audio processing - system management:  
+[VisualAp](https://visualap.sourceforge.io/)
 
 Audio Visualization/Analysis:  
 [BRP-PACU](https://github.com/matthew-dews/brp-pacu),
+[Libvisual](http://libvisual.org/),
 [Sonic Visualiser⊞⌘🐧](https://www.sonicvisualiser.org/)
 
 Audio file conversion/recording:  
@@ -89,8 +106,3 @@ Metadata:
 
 Metadata - audiobooks:  
 [Chapter and Verse⊞](http://lodensoftware.com/chapter-and-verse/)
-
-## Other Audio
-
-Combustion engine simulation:  
-[Engine-Simulator](https://github.com/Engine-Simulator/engine-sim-community-edition)

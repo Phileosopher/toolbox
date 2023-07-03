@@ -6,6 +6,11 @@ Music transcription:
 Music transcription - AI-assisted:  
 [Piano Scribe](https://piano-scribe.glitch.me/)
 
+## Audio Processing
+
+API:  
+[DSSI](https://dssi.sourceforge.net/)
+
 ## TTS
 
 [eSpeak NG□🔌⦿](https://github.com/espeak-ng/espeak-ng/),
@@ -16,6 +21,10 @@ TTS filters:
 [Talkfilters](https://directory.fsf.org/wiki/Talkfilters)
 
 ## Audio Generation
+
+Synthesizer API:  
+[FluidSynth](https://www.fluidsynth.org/),
+[Psychosynth](https://psychosynth.com/)
 
 Engine noise synthesizer:  
 [Engine Simulator](https://www.engine-sim.parts/)
