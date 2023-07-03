@@ -186,6 +186,9 @@ Vintage/nostalgic:
 [IsoFlat](https://isoflat.com/), [Isometric](https://isometric.online/), [Isometriclove](https://www.isometriclove.com/),
 [Shapefest](https://www.shapefest.com/)
 
+React components:  
+[React Kawaii](https://react-kawaii.vercel.app/)
+
 ## Figma UI Kits/Templates
 
 [100 Daily UI Library](https://100dailyui.webflow.io/),

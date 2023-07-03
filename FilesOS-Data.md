@@ -46,3 +46,7 @@ Barcodes:
 [10015 Tools' Barcode Generator☁](https://10015.io/tools/barcode-generator),
 [GNU Barcode🐧](https://www.gnu.org/software/barcode/),
 [Zint Barcode Generator⊞■](https://sourceforge.net/projects/zint/)
+
+## Electronic Health Records (EHR)
+
+[DHIS2](https://dhis2.org/), [GNUmed](https://www.gnumed.de/documentation/), [GNU Health](https://www.gnuhealth.org/), [OpenEMR](https://www.open-emr.org/), [Open Hospital](https://www.open-hospital.org/), [OpenMRS](https://openmrs.org/)

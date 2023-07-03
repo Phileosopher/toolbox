@@ -134,6 +134,9 @@ Ping - multiple hostnames/IPs:
 Ping - periodic repetition:  
 [Alive🐧](https://www.gnu.org/software/alive/)
 
+Ping - visualization:  
+[gping](https://github.com/orf/gping)
+
 IP management:  
 [NIPAP🐧](https://spritelink.github.io/NIPAP/),
 [SolarWinds' ipMonitor Free Edition⊞](https://www.solarwinds.com/free-tools/ipmonitor-free)
@@ -185,6 +188,9 @@ Conversion:
 
 Email content test:  
 [Can I email...☁](https://www.caniemail.com/)
+
+Email/SMTP testing:  
+[mailpit](https://github.com/axllent/mailpit)
 
 Encryption test:  
 [Google's Encode/Decode☁](https://toolbox.googleapps.com/apps/encode_decode/)

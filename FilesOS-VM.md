@@ -63,3 +63,6 @@ Disk/RAM drive emulation:
 
 Disk image inspection:  
 [libguestfs🐧](https://libguestfs.org/)
+
+Container management:  
+[ManageIQ](https://www.manageiq.org/)
