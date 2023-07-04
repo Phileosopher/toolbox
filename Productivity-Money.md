@@ -89,6 +89,9 @@ Grocery shopping lists:
 [grocy☁⊞🍎🤖](https://grocy.info/),
 [ListEase☁🍎🤖](https://www.shoppinglistapp.com/)
 
+Historical appreciation calculator:  
+[If You Had Invested☁](https://ifyouhadinvested.com/)
+
 ## Investing - Market Platforms
 
 [E*TRADE☁](https://us.etrade.com/home),

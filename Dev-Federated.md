@@ -12,5 +12,8 @@ Content creation:
 
 [Mastodon](https://joinmastodon.org/)
 
-Link aggregation:  
+Forum-based:  
 [Lemmy](https://join-lemmy.org/)
+
+Photo/video-based:  
+[Pixelfed](https://pixelfed.org/)

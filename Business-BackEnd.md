@@ -44,8 +44,8 @@ Invoices - Bitcoin-based:
 ## Crowdfunding
 
 [GiveSendGo☁](https://givesendgo.com/),
-[GoFundMe☁](https://www.gofundme.com/),
-[Indiegogo☁](https://www.indiegogo.com/)
+[Indiegogo☁](https://www.indiegogo.com/),
+[Open Collective☁](https://opencollective.com/)
 
 Entrepreneurship:  
 [Indiegogo for Entrepreneurs☁](https://entrepreneur.indiegogo.com/),

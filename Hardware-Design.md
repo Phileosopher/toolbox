@@ -122,3 +122,18 @@ Smartphone robots:
 ## Quantum Computing
 
 [Quantiki's List of QC simulators](https://quantiki.org/wiki/list-qc-simulators)
+
+## Chemistry/Physics
+
+Atomic physics simulations:  
+[CP2K](https://www.cp2k.org/)
+
+Molecular modeling:  
+[Ascalaph](http://www.biomolecular-modeling.com/Ascalaph/),
+[Avogadro](https://avogadro.cc/)
+
+Molecular docking and dynamics:  
+[AutoDock Vina](https://vina.scripps.edu/),
+[GROMACS](https://www.gromacs.org/),
+[LAMMPS](https://www.lammps.org/),
+[VOTCA](https://www.votca.org/)

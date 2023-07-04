@@ -1,4 +1,4 @@
-# Productivity: School
+# Productivity: School & Learning
 
 Textbook answers:  
 [Slader](https://www.slader.com/)
@@ -8,7 +8,7 @@ Textbook answers:
 Related concepts:  
 [Learn Anything☁](https://learn-anything.xyz/)
 
-College education:  
+Affordable college education:  
 [Coursera☁](https://www.coursera.org/),
 [Western Governors University☁](https://www.wgu.edu/)
 
@@ -73,6 +73,7 @@ Tech talks:
 ## Other STEM
 
 Research papers/data:  
+[arXiv.org](https://arxiv.org/),
 [Sci-Hub](https://sci-hub.se/),
 [Library Genesis](https://libgen.is/),
 [The General Index](https://archive.org/details/GeneralIndex)
