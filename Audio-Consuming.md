@@ -8,3 +8,6 @@ Podcast management:
 
 [MusicBee⊞■](https://getmusicbee.com/),
 [Quod Libet⊞⌘🐧](https://quodlibet.readthedocs.io/)
+
+Streaming service:  
+[Plexamp](https://plexamp.com/)

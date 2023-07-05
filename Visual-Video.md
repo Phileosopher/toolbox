@@ -53,6 +53,7 @@ Math animations:
 ## File Conversions
 
 Convert video:  
+[DamnVid⊞■](https://damnvid.en.softonic.com/),
 [HandBrake⊞⌘🐧](https://handbrake.fr/),
 [TEncoder Video Converter⊞■](https://www.fosshub.com/TAudioConverter.html),
 [Any Video Converter⊞⌘](https://www.anvsoft.com/any-video-converter-free.html),
@@ -61,3 +62,6 @@ Convert video:
 Convert video to GIF:  
 [EZGif.com's video to GIF converter☁](https://ezgif.com/video-to-gif),
 [GIFRun☁](https://gifrun.com/)
+
+Optimize video/audio without quality loss:  
+[LosslessCut⊞⌘🐧](https://mifi.no/losslesscut/)

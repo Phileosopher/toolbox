@@ -22,6 +22,15 @@ Guitar chord finder:
 
 ## Performing
 
+Recording/sequencing/playback:  
+[MusE Sequencer🐧](https://muse-sequencer.github.io/),
+[Qtractor🐧](https://qtractor.org/),
+[Rosegarden🐧](https://rosegardenmusic.com/),
+[Sweep🐧](http://www.metadecks.org/software/sweep/)
+
+Metronome:  
+[GNU GTick🐧](https://antcom.de/gtick/)
+
 Drum accompaniment:  
 [AutoDrum⊞■](https://openmidiproject.osdn.jp/AutoDrum_en.html),
 [Hydrogen](http://hydrogen-music.org/)
@@ -45,6 +54,13 @@ Digital audio workstation (DAW):
 [Cakewalk by BandLab⊞](https://www.bandlab.com/products/cakewalk),
 [LMMS⊞■⌘🐧](https://lmms.io/),
 [WavePad](https://www.nch.com.au/wavepad/index.html)
+
+Digital audio workstation (DAW) - minimalist:  
+[helio.fm⊞■⌘🐧](https://helio.fm/)
+[Composer's Sketchpad⌘🍎](http://composerssketchpad.com/)
+
+Digital audio workstation (DAW) - collaborative works:  
+[MusicMessages!🍎](http://musicmessages.io/)
 
 Synthesizer:  
 [Bespoke Synth⊞⌘🐧](https://www.bespokesynth.com/),
@@ -75,6 +91,7 @@ Audio file conversion/recording:
 
 Audio conversion:  
 [fre:ac⊞■⌘🐧](https://www.freac.org/),
+[SoX⊞⌘🐧](https://sox.sourceforge.net/),
 [TAudioConverter⊞■](https://www.fosshub.com/TAudioConverter.html)
 
 Extracting audio from video:  
@@ -82,6 +99,9 @@ Extracting audio from video:
 
 Track splitting:  
 [Mp3splt⊞■⌘🐧](http://mp3splt.sourceforge.net/mp3splt_page/home.php)
+
+Track merging:  
+[Audio Joiner☁](https://webbrowsertools.com/audio-joiner/)
 
 Track element separation:  
 [Spleeter⊞⌘🐧□](https://github.com/deezer/spleeter),

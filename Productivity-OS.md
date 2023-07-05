@@ -62,6 +62,9 @@ NumPad shortcuts:
 Keys to gamepad/controller:  
 [AntiMicro⊞■🐧](https://github.com/AntiMicro/antimicro),
 
+Phone camera as wireless webcam:  
+[Iriun⊞⌘🐧🤖](https://iriun.com/)
+
 Text substitution:  
 [Texter⊞■](https://texter.en.softonic.com/)
 

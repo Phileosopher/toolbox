@@ -13,3 +13,7 @@ Audio Noise:
 
 Media codecs:  
 [K-Lite Codec Pack⊞](https://codecguide.com/about_kl.htm)
+
+## Configuration
+
+[SoundVolumeView⊞■□](https://www.nirsoft.net/utils/sound_volume_view.html)

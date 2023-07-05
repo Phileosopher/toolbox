@@ -68,6 +68,12 @@ Ambient noise:
 [musicForProgramming☁);](https://www.musicforprogramming.net/),
 [SomaFM☁](https://somafm.com/)
 
+Ambient noise - air traffic control:  
+[Lo-Fi ATC](https://www.lofiatc.com/)
+
+Ambient noise - police chatter:  
+[You are listening to](http://youarelistening.to/)
+
 Binaural beats:  
 [Gnaural⬇️](https://sourceforge.net/projects/gnaural/)
 

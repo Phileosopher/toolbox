@@ -122,6 +122,9 @@ COM registrations (DLL/OCX/EXE):
 MMC snap-ins:  
 [MMCSnapInsView■](https://www.nirsoft.net/utils/mmc_snapins_view.html)
 
+Sound configuration in registry:  
+[AppAudioConfig■](https://www.nirsoft.net/utils/app_audio_config.html)
+
 ## Program issues
 
 Bloatware:  

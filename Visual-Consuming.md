@@ -15,3 +15,6 @@ Image viewers:
 
 10-foot UI:  
 [Kodi⊞■⌘🐧🍎🤖](https://kodi.tv/)
+
+Streaming service:  
+[Plex](https://www.plex.tv/)
