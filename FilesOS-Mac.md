@@ -1,4 +1,4 @@
-# Files/OS: Mac-Specific
+# Files/OS: Mac-Specific⌘
 
 Light sensor:  
 [lightum](https://github.com/poliva/lightum)
