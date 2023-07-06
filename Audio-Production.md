@@ -94,6 +94,9 @@ Audio conversion:
 [SoX⊞⌘🐧](https://sox.sourceforge.net/),
 [TAudioConverter⊞■](https://www.fosshub.com/TAudioConverter.html)
 
+Audio conversion - MP3:  
+[Convert to MP3☁](https://webbrowsertools.com/convert-to-mp3/)
+
 Extracting audio from video:  
 [Pazera Free Audio Extractor⊞](http://www.pazera-software.com/products/audio-extractor/)
 
