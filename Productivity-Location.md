@@ -10,6 +10,9 @@ International time:
 [Every Time Zone](https://everytimezone.com/),
 [TimeZonesView⊞■](https://www.nirsoft.net/utils/time_zones_view.html)
 
+Weather:  
+[National Weather Service](https://www.weather.gov/)
+
 ## Location Tracking
 
 [FacilMap☁](https://facilmap.org/),
@@ -31,6 +34,7 @@ Year-round climate:
 [Goldilocks Zone Finder☁](https://lukechampine.com/goldilocks/)
 
 Flight tracking:  
+[ADS-B Exchange☁](https://globe.adsbexchange.com/),
 [FlightStats by Cirium☁](https://www.flightstats.com)
 
 Flight tracking - notification:  
@@ -78,6 +82,9 @@ Airports:
 
 Bird detection (by sound):  
 [BirdNET☁🍎🤖](https://birdnet.cornell.edu/)
+
+GPS interference:  
+[GPSJam GPS/GNSS Interference Map](https://gpsjam.org)
 
 Light pollution:  
 [Light pollution map☁](https://www.lightpollutionmap.info/)

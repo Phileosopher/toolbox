@@ -45,6 +45,9 @@ Volunteering:
 Developer search:  
 [GitHunt](https://githunt.dev/)
 
+Employee salary data:  
+[The Work Number](https://theworknumber.com/) (with [one for employees and consumers](https://employees.theworknumber.com/))
+
 ## Job Boards (Employer/Employee)
 
 [Hired](https://hired.com/),
