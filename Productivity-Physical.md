@@ -89,10 +89,16 @@ Weightlifting comparison:
 Muscle focus:  
 [MuscleWiki☁](https://musclewiki.com/)
 
-## Wellness - Other
+## Wellness - Healthcare
 
 Drug shortages:  
 [FDA Drug Shortages](https://www.accessdata.fda.gov/scripts/drugshortages/default.cfm)
+
+CPAP data:  
+[OSCAR](https://www.sleepfiles.com/OSCAR/)
+
+Medical abbreviations:  
+[OpenMD's Medical Abbreviations & Acronyms*](https://openmd.com/dictionary/medical-abbreviations)
 
 ## Components Assembly
 
