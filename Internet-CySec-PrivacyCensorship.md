@@ -118,6 +118,9 @@ Social media fingerprint:
 [Social Network Login Status Detector Demo☁](https://www.tomanthony.co.uk/tools/detect-social-network-logins/),
 [Your Social Media Fingerprint☁](https://robinlinus.github.io/socialmedia-leak/)
 
+Most common user agents:  
+[Tech Blog (wh) Most Common User Agents*](https://techblog.willshouse.com/2012/01/03/most-common-user-agents/)
+
 ## Anti-Trackers
 
 Block scripts/ads:  
