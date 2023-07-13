@@ -44,6 +44,9 @@ Thesaurus:
 [Thesaurus.com☁](https://www.thesaurus.com/),
 [wordhippo☁](https://www.wordhippo.com/)
 
+Thesaurus - slang:  
+[Urban Thesaurus☁](https://urbanthesaurus.org/)
+
 Rhymes:  
 [RhymeZone☁](https://www.rhymezone.com/)
 
