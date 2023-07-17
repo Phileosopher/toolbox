@@ -59,8 +59,8 @@ Facial movement tracking:
 NumPad shortcuts:  
 [ControlPad⊞■](https://sector-seven.com/software/controlpad)
 
-Keys to gamepad/controller:  
-[AntiMicro⊞■🐧](https://github.com/AntiMicro/antimicro),
+Gamepad/controller mapping with keyboard:  
+[AntiMicro⊞■🐧](https://github.com/AntiMicro/antimicro)
 
 Phone camera as wireless webcam:  
 [Iriun⊞⌘🐧🤖](https://iriun.com/)
