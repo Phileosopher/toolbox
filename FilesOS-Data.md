@@ -16,6 +16,11 @@ Protein sequencing (e.g., DNA):
 Government website use:  
 [analytics.usa.gov⦿](https://analytics.usa.gov/)
 
+## Gathering
+
+Optical mark recognition (OMR) data:  
+[OMRChecker](https://github.com/Udayraj123/OMRChecker)
+
 ## Prepping
 
 Cleaning:  
