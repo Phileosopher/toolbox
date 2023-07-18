@@ -9,3 +9,16 @@ YouTube video archiving:
 
 Game ROMs:  
 [RomM](https://github.com/zurdi15/romm)
+
+Cloud storage:  
+[Nextcloud](https://nextcloud.com/)
+
+Home automation:  
+[Home Assistant](https://www.home-assistant.io/),
+[Domoticz](https://www.domoticz.com/)
+
+Phone server:  
+[Asterisk](https://www.asterisk.org/)
+
+Resource monitoring:  
+[Nagios](https://www.nagios.org/)

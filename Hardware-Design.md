@@ -65,6 +65,9 @@ Circuit simulator:
 Circuit simulator - analog circuits:  
 [LTspice⊞⌘](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 
+Circuit simulator - 3D design:  
+[Diode](https://www.withdiode.com/)
+
 VLSI design:  
 [Coriolis VLSI CAD Tools](http://coriolis.lip6.fr/)
 

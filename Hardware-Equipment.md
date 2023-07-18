@@ -34,6 +34,9 @@ Factory parts:
 Electronics parts:  
 [Octopart☁](https://octopart.com/)
 
+Electronics parts - development boards:  
+[HackerBoards☁](https://hackerboards.com/)
+
 Auto parts:  
 [RockAuto☁](https://www.rockauto.com/)
 

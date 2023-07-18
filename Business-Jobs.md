@@ -216,3 +216,6 @@ Educators:
 
 Financial advice:  
 [NAPFA's Newsroom](https://www.napfa.org/newsroom)
+
+Rent out computer resources - bandwidth:  
+[EarnApp - Bandwidth](https://earnapp.com/bandwidth)
