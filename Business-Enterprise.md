@@ -42,6 +42,12 @@ AWS Architecture:
 
 ## Cloud Hosting
 
-AWS:  
+AWS - explained:  
 [Amazon Web Services (explained on one line each)*](https://adayinthelifeof.nl/2020/05/20/aws.html),
+[Amazon Web Services In Plain English*](https://expeditedsecurity.com/aws-in-plain-english/)
+
+AWS - available tools:  
 [awstools☁](https://awstools.dev/)
+
+AWS - locally hosted:  
+[LocalStack](https://localstack.cloud/)

@@ -54,6 +54,7 @@ Personal tax filing (USA):
 [IRS Free File☁](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free)
 
 ERP:  
+[ERPNext](https://erpnext.com/),
 [LedgerSMB🐧](https://ledgersmb.org/),
 [SQL-Ledger⊞⌘🐧](https://www.sql-ledger.com/)
 

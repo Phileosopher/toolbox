@@ -33,6 +33,14 @@ POS:
 [Cyclos⊞🐧](https://www.cyclos.org/),
 [Apache Fineract⊞🐧](https://github.com/apache/fineract)
 
+Payment processing:  
+[FastSpring](https://fastspring.com/),
+[GoCardless](https://gocardless.com/),
+[Parallel Economy](https://www.paralleleconomy.com/)
+
+Payment processing - software development:  
+[Medusa](https://medusajs.com/)
+
 Expense/time tracking and invoice:  
 [AND.CO](https://www.and.co/),
 [Invoice Ninja](https://www.invoiceninja.com/)
@@ -71,9 +79,11 @@ Monetization:
 [YouTube Money Calculator☁](https://commentpicker.com/youtube-money-calculator.php)
 
 CRM:  
-[CiviCRM⊞🐧](https://civicrm.org/),
 [Dex☁🍎🤖](https://getdex.com/),
 [Monica☁](https://github.com/monicahq/monica)
+
+CRM - not-for-profits:  
+[CiviCRM⊞🐧](https://civicrm.org/)
 
 Data from existing content:  
 [Export Facebook Pages Post Likes to Excel☁](https://commentpicker.com/export-likes-facebook.php),
