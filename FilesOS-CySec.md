@@ -68,6 +68,9 @@ Hardening/auditing - mobile devices:
 Remove old Java versions:  
 [Java Uninstall Tool⊞](https://java.com/en/download/uninstalltool.jsp)
 
+Vulnerability database:  
+[NIST's Full Listing*](https://nvd.nist.gov/vuln/full-listing)
+
 ## Backup/Sync
 
 File synchronization:  
