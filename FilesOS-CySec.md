@@ -68,8 +68,13 @@ Hardening/auditing - mobile devices:
 Remove old Java versions:  
 [Java Uninstall Tool⊞](https://java.com/en/download/uninstalltool.jsp)
 
-Vulnerability database:  
-[NIST's Full Listing*](https://nvd.nist.gov/vuln/full-listing)
+Exploit database:  
+[Exploit Database*](https://www.exploit-db.com/),
+[NIST's Full Listing*](https://nvd.nist.gov/vuln/full-listing),
+[VulnHub*](https://www.vulnhub.com/)
+
+Malware source code:  
+[vx-underground](https://www.vx-underground.org/)
 
 ## Backup/Sync
 
