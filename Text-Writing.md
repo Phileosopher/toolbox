@@ -62,6 +62,18 @@ Word pronunciation:
 Random words:  
 [Random Word Generator☁](https://commentpicker.com/random-word-generator.php)
 
+Stories:  
+[Random Adventure Generator](https://donjon.bin.sh/fantasy/adventure/)
+
+Fantasy objects:  
+[Fantasy Random Generator](https://donjon.bin.sh/fantasy/random/)
+
+Inns and taverns:
+[Random Inn and Tavern Generator](https://donjon.bin.sh/fantasy/inn/)
+
+Medieval demographics:  
+[Medieval Demographics Calculator](https://donjon.bin.sh/fantasy/demographics/)
+
 ## Inspiration - Name Generators
 
 [Chaotic Shiny☁](https://www.chaoticshiny.com/),
@@ -69,6 +81,7 @@ Random words:
 [Darkest of Nights☁](https://www.darkestofnights.com/gens.php),
 [Eposic Generators☁](https://www.trollmystic.com/pub/category/generators/),
 [Fantasy name generators☁](https://www.fantasynamegenerators.com/),
+[Fantasy Name Generator☁](https://donjon.bin.sh/fantasy/name/),
 [Mithril & Mages☁](https://www.mithrilandmages.com/),
 [RanGen☁](https://www.rangen.co.uk/),
 [Serendipity☁](https://nine.frenchboys.net/),

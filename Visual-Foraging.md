@@ -199,3 +199,16 @@ React components:
 [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources),
 [Design Inspiration](https://github.com/emmabostian/design-inspiration),
 [The Mega List Of Free Image Sites For Blogging](https://www.mattcrampton.com/blog/mega_list_of_free_image_sites_for_blogging/)
+
+## Auto-generated visual elements
+
+[Antlers](https://watabou.itch.io/antlers),
+[Compass Rose Generator](https://watabou.itch.io/compass-rose-generator),
+[Procgen Locomotives](https://watabou.itch.io/procgen-locomotives),
+[Procgen Tarot](https://watabou.itch.io/procgen-tarot),
+[Rune Generator](https://watabou.itch.io/rune-generator),
+[Seasonal Wreaths](https://watabou.itch.io/wreaths),
+[Sigil Generator](https://watabou.itch.io/sigil-generator),
+[Stick Figures](https://watabou.itch.io/stick-figures),
+[Tank Doodles](https://watabou.itch.io/tank-doodles),
+[Winter Trees](https://watabou.itch.io/winter-trees)
