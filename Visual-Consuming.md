@@ -1,8 +1,11 @@
 # Visual: Consuming
 
-Audio/Video player:  
+Audio/video player:  
 [VLC⊞■⌘🐧🍎🤖](https://www.videolan.org/vlc/),
 [SMPlayer⊞■🐧](https://www.smplayer.info/)
+
+Audio/video player - plugin-friendly:  
+[WACUP⊞■](https://getwacup.com/)
 
 Video playback issues:  
 [VideoInspector⊞](https://kcsoftwares.com/?vtb)

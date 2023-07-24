@@ -65,6 +65,19 @@ Timelines and time series:
 Word clouds:  
 [WordClouds.com☁](https://www.wordclouds.com/)
 
+## Environment Generators☁
+
+Fantasy maps:  
+[Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/),
+[Inkarnate](https://inkarnate.com/)
+
+Cities:  
+[City Viewer](https://watabou.itch.io/city-viewer),
+[Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator)
+
+Village maps:  
+[Village Generator](https://watabou.itch.io/village-generator)
+
 ## Large-Scale Data Visualizations
 
 [Graphviz⊞⌘🐧](https://www.graphviz.org/),

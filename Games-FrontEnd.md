@@ -2,10 +2,13 @@
 
 ## Foraging
 
-[OpenGameArt.org](https://opengameart.org/)
+Assets:  
+[OpenGameArt.org](https://opengameart.org/),
+[Kenney](https://kenney.nl/)
 
 ## Inspiration
 
+UI/UX:  
 [Fantasy UIs*](https://www.pushing-pixels.org/fui/),
 [Game UI Database☁](https://www.gameuidatabase.com/),
 [HUDS+GUIS☁](https://www.hudsandguis.com/),
