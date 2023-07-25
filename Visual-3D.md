@@ -42,6 +42,16 @@ Hands:
 3D asset validation (.glb files):  
 [Facebook's 3D Model Validation Tool☁](https://developers.facebook.com/tools/3d/validation/)
 
+## Augmented reality
+
+Design software:  
+[ARize](https://arize.io/),
+[ARLOOPA🍎🤖](https://www.arloopa.com/),
+[Assemblr Studio](https://www.assemblrworld.com/studio),
+[EyeJack Creator](https://creator.eyejackapp.com/),
+[Halo AR🍎🤖](https://haloar.app/),
+[MyWebAR](https://mywebar.com/)
+
 ## Very Specific Needs
 
 Human models:  

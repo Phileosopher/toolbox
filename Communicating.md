@@ -33,6 +33,9 @@ Webpage markups:
 Software operation (e.g., games):  
 [Moonlight](https://moonlight-stream.org/)
 
+Meetings with visual boards:  
+[Mural](https://www.mural.co/)
+
 ## Real-Time - Chat
 
 [Pidgin⊞🐧⌘](https://pidgin.im/),
