@@ -46,8 +46,24 @@ Expense/time tracking and invoice:
 [Invoice Ninja](https://www.invoiceninja.com/)
 [Zoho Invoice](https://www.zoho.com/invoice/)
 
+Invoices - sending:  
+[Invoice Dragon☁](https://invoicedragon.com/)
+
 Invoices - Bitcoin-based:  
 [Zaprite☁](https://zaprite.com/)
+
+## ERP/CRM
+
+ERP:  
+[ERPNext](https://erpnext.com/),
+[LedgerSMB🐧](https://ledgersmb.org/),
+[SQL-Ledger⊞⌘🐧](https://www.sql-ledger.com/)
+
+ERP + CRM:  
+[Dolibarr⊞🐧](https://www.dolibarr.org/),
+[iDempiere⊞🐧](https://www.idempiere.org/),
+[inoERP⊞🐧](http://www.inoideas.org/),
+[metasfresh🐧](https://metasfresh.com/en)
 
 ## Crowdfunding
 

@@ -16,6 +16,7 @@ SVGs/illustrations:
 [Icons8's Vector Creator☁](https://icons8.com/vector-creator),
 [Inkscape⊞■⌘🐧](https://inkscape.org/),
 [Icons8's Mega Creator☁](https://icons8.com/mega-creator/),
+[SVG Edit☁](https://github.com/SVG-Edit/svgedit),
 [SvgPathEditor☁](https://yqnn.github.io/svg-path-editor/),
 [VistaCreate☁](https://create.vista.com/)
 
@@ -45,6 +46,7 @@ Avatar extraction:
 [unavatar.io☁](https://unavatar.io/)
 
 Logos:  
+[DesignBro Business Logo Maker☁](https://designbro.com/logo-maker/),
 [Fiverr's Logo Maker☁](https://www.fiverr.com/logo-maker),
 [Hipster Logo Generator☁](https://hipsterlogogenerator.com/),
 [Logo by ShapeFactory☁](https://logo.shapefactory.co/),

@@ -32,7 +32,7 @@ Credit cards:
 Banking for teens:  
 [Step☁](https://step.com/)
 
-## Accounting/ERP/CRM
+## Personal Finance
 
 Barebones income/expense tracking:  
 [GNU Pem🐧](https://www.gnu.org/software/pem/pem-nano.html)
@@ -52,17 +52,6 @@ Personal tax filing (USA):
 [FreeTaxUSA☁](https://www.freetaxusa.com/),
 [TaxHawk☁](https://www.taxhawk.com/),
 [IRS Free File☁](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free)
-
-ERP:  
-[ERPNext](https://erpnext.com/),
-[LedgerSMB🐧](https://ledgersmb.org/),
-[SQL-Ledger⊞⌘🐧](https://www.sql-ledger.com/)
-
-ERP + CRM:  
-[Dolibarr⊞🐧](https://www.dolibarr.org/),
-[iDempiere⊞🐧](https://www.idempiere.org/),
-[inoERP⊞🐧](http://www.inoideas.org/),
-[metasfresh🐧](https://metasfresh.com/en)
 
 ## Positions/Budgeting
 
