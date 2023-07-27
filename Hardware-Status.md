@@ -1,5 +1,8 @@
 # Hardware: Status
 
+Firmware analysis:  
+[Binwalk](https://github.com/ReFirmLabs/binwalk)
+
 ## Benchmarking/Testing
 
 All-in-One:  

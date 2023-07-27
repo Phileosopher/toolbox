@@ -200,6 +200,9 @@ Driver status:
 [DriverView■](https://www.nirsoft.net/utils/driverview.html),
 [InstalledDriversList■](https://www.nirsoft.net/utils/installed_drivers_list.html)
 
+Driver debugging:  
+[WinDbg](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools)
+
 Driver update:  
 [DUMo■](https://kcsoftwares.com/?dumo),
 [Snappy Driver Installer Origin](https://www.snappy-driver-installer.org/)

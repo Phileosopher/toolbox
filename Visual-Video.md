@@ -11,6 +11,9 @@ Recording/streaming video:
 Church events:  
 [OpenLP⊞⌘🐧](https://openlp.org/)
 
+Ideal video cameras:  
+[Netflix's approved cameras*](https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture)
+
 ## Editing
 
 [Motionbox☁](https://motionbox.io/),
@@ -34,6 +37,12 @@ Synchronize subtitles with video:
 [FFsubsync🐧□](https://github.com/smacke/ffsubsync)
 
 ## Auto-Rendering
+
+Motion picture film emulation:  
+[Filmbox (for DaVinci Resolve)](https://videovillage.com/filmbox/)
+
+Diffusion emulation:  
+[Scatter (for DaVinci Resolve)](https://videovillage.com/scatter/)
 
 Auto-stabilization:  
 [Gyroflow⊞⌘🐧](https://gyroflow.xyz/)

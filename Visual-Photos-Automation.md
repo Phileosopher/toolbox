@@ -82,9 +82,11 @@ Add grain:
 Photo censoring:  
 [Photo Censor☁](https://10015.io/tools/photo-censor)
 
+Dramatically angled screenshots:  
+[Screenstab☁](https://www.screenstab.com/)
+
 ## Image Optimization
 
-Optimize images:  
 [ImageMagick⊞⌘🐧](https://imagemagick.org/index.php)
 
 Optimize images - lossy:  
