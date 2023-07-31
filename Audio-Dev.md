@@ -28,6 +28,11 @@ Engine noise synthesizer:
 AI-assisted:  
 [Piano Scribe](https://piano-scribe.glitch.me/)
 
+## Audio Capture
+
+Acoustic testing and source mapping:  
+[Acoular🐍](http://www.acoular.org/)
+
 ## Audio Processing
 
 Plugin API:  
@@ -36,7 +41,15 @@ Plugin API:
 API:  
 [DSSI](https://dssi.sourceforge.net/),
 [GStreamer](https://gstreamer.freedesktop.org/),
-[JACK Audio Connection Kit](https://jackaudio.org/)
+[JACK Audio Connection Kit](https://jackaudio.org/),
+[VB-Audio Matrix](https://vb-audio.com/Matrix/index.htm)
+
+Interoperability framework:  
+[Jovo](https://www.jovo.tech/),
+[JUCE](https://juce.com/)
+
+Audio networking:  
+[VB-Audio Network](https://vb-audio.com/Voicemeeter/vban.htm)
 
 Sound data processing:  
 [Spotify's Klio](https://docs.klio.io/en/stable/)
@@ -46,6 +59,9 @@ MP3 encoding:
 
 Waveform visualization:  
 [wavesurfer.js](https://wavesurfer-js.org/)
+
+Virtualized cabling:  
+[Virtual Audio Cable⊞⌘](https://vb-audio.com/Cable/index.htm)
 
 ## TTS
 

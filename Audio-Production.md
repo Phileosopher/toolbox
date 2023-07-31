@@ -28,6 +28,13 @@ Recording/sequencing/playback:
 [Rosegarden🐧](https://rosegardenmusic.com/),
 [Sweep🐧](http://www.metadecks.org/software/sweep/)
 
+Volume controls:  
+[VoiceMeeter⊞](https://vb-audio.com/Voicemeeter/index.htm)
+
+Equalizer:  
+[VoiceMeeter Banana⊞](https://vb-audio.com/Voicemeeter/banana.htm),
+[VoiceMeeter Potato⊞](https://vb-audio.com/Voicemeeter/potato.htm)
+
 Metronome:  
 [GNU GTick🐧](https://antcom.de/gtick/)
 
