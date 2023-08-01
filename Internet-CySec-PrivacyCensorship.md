@@ -52,6 +52,7 @@ Self-detect IP:
 [IP/DNS Detect☁](https://ipleak.net/),
 [IP Chicken☁](https://ipchicken.com/),
 [DSLReports' What is my IP address?☁](http://www.dslreports.com/whatismyip),
+[PIA's What's My IP Address?☁](https://www.privateinternetaccess.com/what-is-my-ip),
 [WebBrowserTools' What is my IP Address☁](https://webbrowsertools.com/ip-address/)
 
 Self-detect IPv4/IPv6:  
@@ -59,6 +60,12 @@ Self-detect IPv4/IPv6:
 [Test your IPv6.☁](https://test-ipv6.com/),
 [What is my IP Address?☁](https://whatismyv6.com/),
 [Wireshark IPv4/IPv6 Connectivity Test☁](https://www.wireshark.org/tools/v46status.html)
+
+IPv6 leak test:  
+[IPv6 Leak Tests☁](https://ipv6leak.com/)
+
+DNS leak test:  
+[DNS Leak Tests☁](https://dnsleak.com/)
 
 VPN:  
 [WireGuard⊞⌘🐧🍎🤖](https://www.wireguard.com/),
@@ -84,6 +91,9 @@ WebRTC testing:
 
 Email privacy:  
 [Email Privacy Tester☁](https://www.emailprivacytester.com/)
+
+Email IP leak test:  
+[Email Leak Tests☁](https://emailipleak.com/)
 
 Email breach search:  
 [have i been pwned?☁](https://haveibeenpwned.com/)

@@ -79,6 +79,7 @@ Sometimes, it makes sense to clarify for context how something is used.
 - 🐍 if it runs in Python
 - 🔌 if it's an API or has API documentation
 - ⦿ for a data-heavy tool that may interest devs
+- $ if it does cost at least some money
 
 These are volatile out-of-the-box OS estimations for several reasons:
 

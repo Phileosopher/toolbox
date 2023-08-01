@@ -1,4 +1,4 @@
-# Hardware: Networks
+# Hardware: Network Status
 
 Network standards:  
 [IETF Datatracker*](https://datatracker.ietf.org/)
@@ -15,6 +15,12 @@ IP camera:
 
 ## L1 Physical - Mobile
 
+WLAN adapter - tracking:  
+[AdapterWatch⊞■](https://www.nirsoft.net/utils/awatch.html)
+
+WLAN adapter - history:  
+[WifiHistoryView⊞■](https://www.nirsoft.net/utils/wifi_history_view.html)
+
 Mobile bandwidth reference:  
 [FCC Online Table of Frequency Allocations*](https://transition.fcc.gov/oet/spectrum/table/fcctable.pdf),
 [United States Frequency Allocation Chart*](https://www.ntia.doc.gov/page/2011/united-states-frequency-allocation-chart)
@@ -25,19 +31,23 @@ Mobile Networks:
 [SCADACore's Cell Tower Map - Canada](https://www.scadacore.com/tools/rf-path/cell-tower-map-canada/),
 [SCADACore's Cell Tower Map - United States](https://www.scadacore.com/tools/rf-path/cell-tower-map-united-states/)
 
-Wireless network surveys:  
-[NetSpot⊞⌘🤖](https://www.netspotapp.com/)
-[sparrow-wifi🐧](https://github.com/ghostop14/sparrow-wifi),
-[Vistumbler⊞](https://www.vistumbler.net/)
-[WiFi Analyzer⊞](https://www.microsoft.com/en-us/p/wifi-analyzer/9nblggh33n0n)
-
-Wireless network search:  
+WLAN map:  
 [WiGLE☁](https://wigle.net/)
 
-Bluetooth:  
-[LightBlue🍎🤖](https://punchthrough.com/lightblue/),
-[Bluetility⌘](https://github.com/jnross/Bluetility),
-[bluetoothctl🐧](https://openbase.com/js/bluetoothctl/documentation)
+WLAN scanner:  
+[inSSIDer](https://www.metageek.com/inssider/),
+[Kismet](https://www.kismetwireless.net/),
+[NetSpot⊞⌘🤖](https://www.netspotapp.com/),
+[sparrow-wifi🐧](https://github.com/ghostop14/sparrow-wifi),
+[netstumbler/ministumbler⊞■](http://www.stumbler.net/),
+[Vistumbler⊞](https://www.vistumbler.net/),
+[WiFi Analyzer⊞](https://www.microsoft.com/en-us/p/wifi-analyzer/9nblggh33n0n)
+
+Bluetooth scan:  
+[Bluetility⌘](https://github.com/jnross/Bluetility)
+[BluetoothCL⊞■](https://www.nirsoft.net/utils/bluetoothcl.html),
+[BluetoothLogView⊞■](https://www.nirsoft.net/utils/bluetooth_log_view.html),
+[BluetoothView⊞■](https://www.nirsoft.net/utils/bluetooth_viewer.html)
 
 Line-of-sight:  
 [SCADACore's RF Line of Sight](https://www.scadacore.com/tools/rf-path/rf-line-of-sight/)
@@ -48,6 +58,8 @@ VHF/UHF TV signals:
 
 Wireless radio API:  
 [GNU Radio](https://wiki.gnuradio.org/)
+
+USB NIC
 
 ## L1 Physical - Cabled
 
@@ -91,7 +103,7 @@ Drywall saw
 
 Packet Analysis:  
 [TCPDUMP/LIBPCAP🐧](https://www.tcpdump.org/),
-[Wireshark⊞■⌘](https://www.wireshark.org/)
+[Wireshark⊞■⌘](https://www.wireshark.org/) (with [Termshark for TUI](https://termshark.io/))
 
 OUI/MAC search:  
 [Wireshark's OUI Lookup Tool☁](https://www.wireshark.org/tools/oui-lookup.html),
@@ -110,8 +122,10 @@ MAC address random generator:
 MAC address changer:  
 [GNU MAC Changer](https://github.com/alobbs/macchanger)
 
-WiFi:  
-[dot11Expert⊞](https://kcsoftwares.com/?dot11expert)
+SSID information:  
+[dot11Expert⊞](https://kcsoftwares.com/?dot11expert),
+[WifiInfoView⊞■](https://www.nirsoft.net/utils/wifi_information_view.html)
+[WirelessConnectionInfo⊞■](https://www.nirsoft.net/utils/wireless_connection_information.html)
 
 WiFi network QR code:  
 [WiFi Card☁](https://wificard.io/)
@@ -133,10 +147,13 @@ Multiple NICs:
 
 ## L3 Network
 
-[See Hardware-Net-Internet.md for internet-based tools](https://github.com/Phileosopher/toolbox/blob/master/Hardware-Net-Internet.md)
+Internet-based tools:  
+[Internet-Config.md](https://github.com/Phileosopher/toolbox/blob/master/Internet-Config.md),
+[Internet-CySec.md](https://github.com/Phileosopher/toolbox/blob/master/Internet-CySec.md),
+[Internet-CySec-PrivacyCensorship.md](https://github.com/Phileosopher/toolbox/blob/master/Internet-CySec-PrivacyCensorship.md)
 
-Outgoing port test:  
-[Outgoing Port Tester☁](http://52.47.209.216/)
+Multitool:  
+[IPJudo](https://www.ipjudo.com/)
 
 Ping - multiple hostnames/IPs:  
 [PingInfoView⊞■](https://www.nirsoft.net/utils/multiple_ping_tool.html)
@@ -160,14 +177,52 @@ IP address API:
 IP address random generator:  
 [IP address generator☁](https://commentpicker.com/ip-address-generator.php)
 
+IPMI:  
+[FreeIPMI🐧](https://www.gnu.org/software/freeipmi/)
+
 Router traffic analysis:  
 [MRTG (Multi Router Traffic Grapher)⊞⌘🐧](https://oss.oetiker.ch/mrtg/)
 
 IoT server:  
 [Home Assistant⊞⌘🐧🍎🤖](https://www.home-assistant.io/)
 
-IPMI:  
-[FreeIPMI🐧](https://www.gnu.org/software/freeipmi/)
+Network inventory:  
+[Network Inventory Advisor$](https://www.network-inventory-advisor.com/)
+
+## L3 Network - Probes
+
+IP address scanner:  
+[Advanced IP Scanner⊞](https://www.advanced-ip-scanner.com/),
+[Angry IP Scanner⊞■⌘🐧](https://angryip.org/),
+[FastResolver⊞■](https://www.nirsoft.net/utils/fastresolver.html),
+
+Network discovery/scanning:  
+[Nmap⊞⌘🐧□](https://nmap.org/) (with [Zenmap for GUI](https://nmap.org/zenmap/))
+
+IP scan - NetBIOS:  
+[NetBScanner⊞■](https://www.nirsoft.net/utils/netbios_scanner.html)
+
+IP lookup/info:  
+[Get Hostname from IP Address☁](https://ismyportopen.com/hostname-from-ip-address/),
+[IPAddress.com☁](https://www.ipaddress.com/),
+[IPNetInfo⊞■](https://www.nirsoft.net/utils/ipnetinfo.html),
+[Reverse IP Lookup☁](https://www.yougetsignal.com/tools/web-sites-on-web-server/),
+[Reverse IP Lookup☁](https://www.ipaddress.com/reverse-ip-lookup),
+[WhatIsMyIPAddress.com's IP Lookup☁](https://whatismyipaddress.com/ip-lookup),
+[WhoisCL⊞■□](https://www.nirsoft.net/utils/whoiscl.html),
+[WhosIP⊞■□](https://www.nirsoft.net/utils/whosip.html)
+
+IP lookup/info - offline:  
+[IPInfoOffline⊞■](https://www.nirsoft.net/utils/ip_country_info_offline.html)
+
+## L3 Network - Monitoring
+
+Traffic monitoring:  
+[Sniffnet](https://www.sniffnet.net/)
+
+Wireless networks:  
+[WifiChannelMonitor⊞■](https://www.nirsoft.net/utils/wifi_channel_monitor.html),
+[Wireless Network Watcher⊞■](https://www.nirsoft.net/utils/wireless_network_watcher.html)
 
 ## L4 Transport
 
@@ -180,13 +235,21 @@ TCP/UDP/SCTP monitoring:
 Network connection viewer:  
 [Netactview🐧](http://netactview.sourceforge.net/)
 
-Check for open ports:  
+Outgoing port test:  
+[Is My Port Open?☁](https://ismyportopen.com/),
+[Outgoing Port Tester☁](http://52.47.209.216/)
 [Shodan's remote host inspection (404 error if none)](https://beta.shodan.io/host/$YOUR_REMOTE_ADDR)
+
+Port scanner - large-scale:  
+[masscan](https://github.com/robertdavidgraham/masscan)
 
 ## L5 Session
 
 Persistent connection test:  
 [OpenSignal's Meteor🍎🤖](https://www.opensignal.com/apps)
+
+Traceroute monitoring:  
+[Solarwinds' Traceroute NG](https://www.solarwinds.com/free-tools/traceroute-ng)
 
 ## L6 Presentation
 

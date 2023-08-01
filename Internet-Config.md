@@ -7,26 +7,6 @@ Tech support basic information:
 
 ## Probes
 
-IP scan:  
-[Angry IP Scanner⊞⌘🐧](https://angryip.org/),
-[FastResolver⊞■](https://www.nirsoft.net/utils/fastresolver.html),
-
-IP scan - NetBIOS:  
-[NetBScanner⊞■](https://www.nirsoft.net/utils/netbios_scanner.html)
-
-IP lookup/info:  
-[Get Hostname from IP Address☁](https://ismyportopen.com/hostname-from-ip-address/),
-[IPAddress.com☁](https://www.ipaddress.com/),
-[IPNetInfo⊞■](https://www.nirsoft.net/utils/ipnetinfo.html),
-[Reverse IP Lookup☁](https://www.yougetsignal.com/tools/web-sites-on-web-server/),
-[Reverse IP Lookup☁](https://www.ipaddress.com/reverse-ip-lookup),
-[WhatIsMyIPAddress.com's IP Lookup☁](https://whatismyipaddress.com/ip-lookup),
-[WhoisCL⊞■□](https://www.nirsoft.net/utils/whoiscl.html),
-[WhosIP⊞■□](https://www.nirsoft.net/utils/whosip.html)
-
-IP lookup/info - offline:  
-[IPInfoOffline⊞■](https://www.nirsoft.net/utils/ip_country_info_offline.html)
-
 DNS probe:  
 [DNSdumpster.com☁](https://dnsdumpster.com/),
 [DNS-Lookup☁](https://dns-lookup.com/),
@@ -54,10 +34,9 @@ tracert/ping GUI:
 [smokeping☁](https://www.dslreports.com/smokeping),
 [WinMTR⊞■🐧](https://www.bitwizard.nl/mtr/)
 
-Network discovery:  
-[Nmap/Zenmap⊞⌘🐧□](https://nmap.org/)
-
-USB NIC
+Wi-Fi access point:  
+[HostedNetworkStarter⊞■](https://www.nirsoft.net/utils/wifi_hotspot_starter.html),
+[IoT-WiFi-AP](https://github.com/sdcampbell/IoT-WiFi-AP)
 
 ## Remote Access
 
@@ -73,10 +52,11 @@ Remote computer access:
 Speed test:  
 [Cloudflare Internet Speed Test☁](https://speed.cloudflare.com/),
 [DSLReports' Speed test☁](https://www.dslreports.com/speedtest),
-[SpeedTest☁](https://www.speedtest.net/)
+[SpeedTest☁](https://www.speedtest.net/),
 [DSLReports' Streams test☁](http://www.dslreports.com/tools/streamtest),
-[LibreSpeed☁](https://librespeed.org/)
-[TestMy.net☁](https://testmy.net/)
+[LibreSpeed☁](https://librespeed.org/),
+[TestMy.net☁](https://testmy.net/),
+[What is my Network Information☁](https://webbrowsertools.com/network-information/)
 
 Speed test API:  
 [SpeedOf.Me🔌⦿](https://speedof.me/api.html)
@@ -103,6 +83,9 @@ Site probe:
 [WhatRuns⇉](https://www.whatruns.com/),
 [WhoIsHostingThis☁](https://www.whoishostingthis.com/),
 [Whois Lookup☁](https://whois.domaintools.com/)
+
+Server information:  
+[ID Serve⊞■](https://www.grc.com/id/idserve.htm)
 
 ## Blocking
 
