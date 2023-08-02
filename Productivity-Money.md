@@ -98,7 +98,7 @@ Automated managers:
 [Fidelity Go☁](https://www.fidelity.com/managed-accounts/fidelity-go/)
 
 VC firms/startups:  
-[Republic☁](https://republic.co/),
+[Republic☁](https://republic.com/),
 [Open VC☁](https://www.openvc.app/)
 
 Market terminal:  
