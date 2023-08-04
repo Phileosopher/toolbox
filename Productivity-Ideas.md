@@ -17,15 +17,19 @@ Reference images/visual boards:
 [Eagle⊞⌘](https://en.eagle.cool/),
 [Milanote⊞⌘🍎🤖⇉](https://milanote.com/)
 
+All-in-one:  
+[Anytype⊞⌘☁🍎🤖](https://anytype.io/)
+
 Venn Diagrams:  
 [Good Calculators' Venn Diagram Maker☁](https://goodcalculators.com/venn-diagram-maker/),
 [Venngage☁](https://venngage.com/features/venn-diagram-maker)
 
-Project Management/All-in-one:  
-[Focalboard⊞⌘🐧](https://www.focalboard.com/),
-[Notion⊞⌘☁🍎🤖⇉](https://www.notion.so/),
-[Slack☁](https://slack.com/),
+Project management:  
 [Zenkit☁](https://zenkit.com)
+
+Project management + collaboration:  
+[Focalboard⊞⌘🐧](https://www.focalboard.com/) (part of [Mattermost](https://mattermost.com/)),
+[Slack☁](https://slack.com/)
 
 ## Idea-Gathering - Collection-Focused
 
@@ -52,3 +56,8 @@ Notebooks:
 Public notes:  
 [Collected Notes⌘🍎🤖☁](https://collectednotes.com/),
 [Listed☁](https://listed.to/) (pulls from [Standard Notes☁🐧🤖](https://standardnotes.com/))
+
+## Other Specific Needs
+
+LEGO bricks:  
+[Brickit🍎🤖](https://brickit.app/)

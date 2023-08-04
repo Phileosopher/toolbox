@@ -1,6 +1,7 @@
 # Visual: Planning
 
 Quick drawing:  
+[Rnote⊞⌘](https://rnote.flxzt.net/),
 [tldraw☁](https://www.tldraw.com/)
 
 ## Inspiration

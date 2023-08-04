@@ -63,6 +63,9 @@ Sending straight to recipient's spam folder:
 Sending corrupted files:  
 [Corrupt-a-File.net☁](https://corrupt-a-file.net/)
 
+Sending suspicious-looking links:  
+[Very Legit Link☁](https://verylegit.link/)
+
 PDFs that look scanned:  
 [Scan Your PDF☁](https://www.scanyourpdf.com/)
 

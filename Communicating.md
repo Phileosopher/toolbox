@@ -14,6 +14,7 @@ Language translation:
 [Lingva Translate](https://lingva.ml/)
 
 Language translation - browser plugin:  
+[Firefox Translations🔌](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/),
 [TWP🔌](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 
 ## Real-Time

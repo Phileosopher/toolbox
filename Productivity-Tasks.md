@@ -4,6 +4,9 @@ Daily tasks:
 [Concrete Goals Tracker*](https://davidseah.com/node/the-concrete-goals-tracker/),
 [Emergent Task Planner*](https://davidseah.com/node/the-emergent-task-planner/)
 
+Daily tasks - micro habits:  
+[Table Habit🤖](https://github.com/FriesI23/mhabit)
+
 Kanban boards:  
 [Trello☁⊞⌘🍎🤖⇉](https://trello.com/)
 
@@ -32,8 +35,11 @@ Gantt charts:
 [Manual Gantt Charting in Excel*](https://davidseah.com/node/manual-gantt-charting-in-excel/)
 [TeamGantt☁](https://www.teamgantt.com/)
 
-Small calendar:  
+Calendar - small:  
 [The Compact Calendar*](https://davidseah.com/node/compact-calendar/)
+
+Calendar - scheduling:  
+[Cal.com☁](https://cal.com/)
 
 Work-life balance:  
 [Day Grid Balancer*](https://davidseah.com/node/the-day-grid-balancer/)
@@ -61,11 +67,12 @@ Website timer:
 [Intention⇉](https://addons.mozilla.org/en-US/firefox/addon/intention/)
 
 Ambient noise:  
-[Noisli☁🍎🤖⇉](https://www.noisli.com/),
+[Ambient Chaos☁](https://neal.fun/ambient-chaos/),
 [freeCodeCamp.org Code Radio](https://coderadio.freecodecamp.org/),
 [generative.fm☁](https://generative.fm/),
 [lofi.cafe☁](https://lofi.cafe/),
 [musicForProgramming☁);](https://www.musicforprogramming.net/),
+[Noisli☁🍎🤖⇉](https://www.noisli.com/),
 [SomaFM☁](https://somafm.com/)
 
 Ambient noise - air traffic control:  
@@ -79,6 +86,9 @@ Binaural beats:
 
 VR work:  
 [Immersed⊞⌘🐧](https://immersed.com/)
+
+Porn distraction:  
+[Covenant Eyes$](https://www.covenanteyes.com/)
 
 ## Focus - Memorization
 

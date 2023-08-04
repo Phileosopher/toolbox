@@ -23,8 +23,7 @@ Image posts:
 [Remix by Buffer🍎🤖](https://buffer.com/remix)
 
 Emails:  
-[Buttondown☁](https://buttondown.email/),
-[Mailchimp](https://www.mailchimp.com/)
+[Buttondown☁](https://buttondown.email/)
 
 ## Marketing Front-End
 
@@ -73,6 +72,11 @@ Twitter - multi-user management:
 
 YouTube - search spoken words in videos:  
 [VideoMentions](https://videomentions.com/search)
+
+## Closing Deals
+
+Signing documents:  
+[DocuSeal](https://www.docuseal.co/)
 
 ## Tournaments
 

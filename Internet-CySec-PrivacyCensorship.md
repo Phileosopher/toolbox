@@ -208,7 +208,7 @@ Quora:
 [Quetre](https://quetre.iket.me/)
 
 Reddit:  
-[libreddit☁](https://libreddit.hu/),
+[Geddit🤖](https://kaangiray26.github.io/geddit-app/),
 [Teddit☁](https://teddit.net/)
 
 Stack Overflow:  
