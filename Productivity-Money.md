@@ -53,6 +53,9 @@ Personal tax filing (USA):
 [TaxHawk☁](https://www.taxhawk.com/),
 [IRS Free File☁](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free)
 
+Rent vs. buy a home:  
+[Is It Better to Rent or Buy?☁](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
+
 ## Positions/Budgeting
 
 [Betterment☁](https://www.betterment.com/),

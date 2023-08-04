@@ -43,7 +43,8 @@ Payment processing - software development:
 
 Expense/time tracking and invoice:  
 [AND.CO](https://www.and.co/),
-[Invoice Ninja](https://www.invoiceninja.com/)
+[Invoice Ninja](https://www.invoiceninja.com/),
+[Kill Bill(Java)](https://killbill.io/),
 [Zoho Invoice](https://www.zoho.com/invoice/)
 
 Invoices - sending:  

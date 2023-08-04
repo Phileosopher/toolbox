@@ -36,6 +36,9 @@ Secure email:
 [ProtonMail☁](https://protonmail.com/),
 [Tutanota☁](https://tutanota.com/)
 
+Secure email - email masks:  
+[Firefox Relay☁](https://relay.firefox.com)
+
 ## Sending
 
 Text (pastebin):  

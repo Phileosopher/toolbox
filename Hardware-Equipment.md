@@ -46,36 +46,10 @@ Noiseproofing:
 Fasteners:  
 [Bolt Depot - Nuts and Bolts, Screws and Fasteners online](https://www.boltdepot.com/)
 
-## Repurposing Hardware
-
-Computer monitors:  
-[How To Convert Your Old Laptop Screen Into An External Monitor*](https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/)
-
-Raspberry Pi:  
-[fm_transmitter](https://github.com/markondej/fm_transmitter)
-
 ## Older Tech
 
 Floppy disks:  
 [Floppy disks](https://www.floppydisk.com/)
 
-## Tech Repairs
-
-[Fix-It Club*](https://fixitclub.com/)
-
-Repair clay/glue:  
-[Sugru](https://sugru.com/)
-
-Testing/measurement:  
-[EEZ](https://www.envox.eu/)
-
-Soldering iron
-
-Plenty of anti-static mats, wrist straps, and cloths
-
-[Wire Wrap Tools](https://www.specialized.net/tools/wire-wrap-tools.html)
-
-Cable splicers (like [WAGO Lever Nuts](https://www.wago.com/us/lp-221))
-
-Battery charger:  
-[TP4056 board](https://www.digikey.com/htmldatasheets/production/2049110/0/0/1/tp4056.html)
+Repurpose computer monitors:  
+[How To Convert Your Old Laptop Screen Into An External Monitor*](https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/)

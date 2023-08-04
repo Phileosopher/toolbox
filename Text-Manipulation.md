@@ -65,6 +65,10 @@ Randomizing lists:
 [Convertio's Ebook Converter☁](https://convertio.co/ebook-converter/),
 [Pandoc⊞⌘🐧□](https://pandoc.org/)
 
+PDF modification:  
+[pikepdf🐍](https://github.com/pikepdf/pikepdf) (With [pdfarranger](https://github.com/pdfarranger/pdfarranger)
+ as a frontend)
+
 PDF/TIFF Splitter/Joiner:  
 [FaxTool⊞■](https://sector-seven.com/software/faxtool)
 

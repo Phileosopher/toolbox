@@ -10,6 +10,9 @@ Mind mapping/outlining:
 [Minder🐧](https://github.com/phase1geo/Minder),
 [Scapple⊞⌘](https://www.literatureandlatte.com/scapple/overview),
 
+Hierarchical mind mapping:  
+[Kinopio](https://kinopio.club/)
+
 Hierarchical spreadsheets:  
 [TreeSheets⊞⌘🐧](http://strlen.com/treesheets/)
 
