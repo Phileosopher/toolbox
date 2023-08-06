@@ -256,7 +256,8 @@ Google Docs alternative:
 Search engine:  
 [DuckDuckGo](https://duckduckgo.com/),
 [Qwant](https://www.qwant.com/),
-[searx](https://searx.space/)
+[searx](https://searx.space/),
+[Trilium](https://github.com/zadam/trilium)
 
 ## Anti-Google - Browser
 

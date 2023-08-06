@@ -50,11 +50,12 @@ Audio-based:
 Quick notes/sporadic:  
 [notes.io☁](http://notes.io/),
 
-Notebooks:  
+Hierarchical notebooks:  
 [cherrytree⊞■⌘🐧](https://www.giuspen.com/cherrytree/),
 [Evernote☁🍎🤖⇉](https://evernote.com/),
 [Obsidian⊞⌘🐧](https://obsidian.md/),
-[QOwnNotes⊞■⌘🐧](https://www.qownnotes.org/)
+[QOwnNotes⊞■⌘🐧](https://www.qownnotes.org/),
+[Trilium](https://github.com/zadam/trilium)
 
 Public notes:  
 [Collected Notes⌘🍎🤖☁](https://collectednotes.com/),
