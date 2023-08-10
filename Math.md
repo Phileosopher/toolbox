@@ -8,8 +8,9 @@ Heavy-duty calculating:
 [Wolfram|Alpha☁🍎🤖](https://www.wolframalpha.com/)
 
 Step-by-step explanations:  
+[BetterExplained*](https://betterexplained.com/),
 [Mathway☁](https://www.mathway.com/),
-[BetterExplained*](https://betterexplained.com/)
+[Symbolab☁](https://www.symbolab.com/)
 
 Math reference:  
 [Wumbo](https://wumbo.net/)
