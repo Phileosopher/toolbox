@@ -58,6 +58,9 @@ PDFs:
 Podcast search engine:  
 [Listen Notes☁](https://www.listennotes.com/)
 
+Podcast listening:  
+[Podcast Index](https://podcastindex.org/)
+
 Blog search engine:  
 [Blog Surf☁](https://blogsurf.io/)
 
@@ -123,12 +126,15 @@ BitTorrent client:
 BitTorrent - hash to magnet link:  
 [Hash to Magnet link☁](https://www.hashtomagnet.com/)
 
+BitTorrent client - web-based:  
+[WebTorrent☁](https://webtorrent.io/)
+
 Torrents - search:  
 [LibreX☁](https://librex.devol.it/),
 [SkyTorrents☁](http://www.skytorrents.me/)
 
 Torrents - streaming:  
-[Popcorn Time⊞⌘🐧🤖](https://popcorntime.app/)
+[Popcorn Time⊞⌘🐧🤖](https://github.com/popcorn-official)
 
 ## Social Media
 
@@ -178,3 +184,7 @@ Game-based:
 
 Pulling usernames:  
 [Find Instagram Username from IG User ID☁](https://commentpicker.com/instagram-username.php)
+
+## Audio books
+
+[LibriVox](https://librivox.org/)

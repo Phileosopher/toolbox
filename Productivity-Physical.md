@@ -80,6 +80,12 @@ Repetitive strain timer:
 
 ## Wellness - Workouts
 
+Workout planning:  
+[Workout.lol](https://workout.lol/)
+
+Stretching:  
+[Stretch 15](https://stretch15.com/)
+
 Running comparison:  
 [Running Level☁](https://runninglevel.com/)
 

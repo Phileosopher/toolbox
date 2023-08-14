@@ -25,8 +25,9 @@ PDF - looking scanned:
 
 ## OCR (Optical Character Recognition)
 
+[Free Online OCR☁](https://www.newocr.com/),
 [Online OCR☁](https://www.onlineocr.net/),
-[Free Online OCR☁](https://www.newocr.com/)
+[Tesseract OCR🐧](https://tesseract-ocr.github.io/)
 
 Screenshots:  
 [Screenshot Hero🍎](https://asadmemon.com/projects/screenshothero/)
@@ -39,6 +40,9 @@ Machine learning OCR:
 
 Machine learning OCR - math equations:  
 [Mathpix](https://mathpix.com/)
+
+Pull text from images:  
+[Frog🐧](https://flathub.org/apps/com.github.tenderowl.frog)
 
 Convert image numbers to CSV:  
 [image2csv🐍](https://github.com/artperrin/image2csv)

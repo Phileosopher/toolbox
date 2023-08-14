@@ -4,7 +4,8 @@ App/site blocking:
 [Cold Turkey⊞⌘](https://getcoldturkey.com/),
 [Cold Turkey Micromanager⊞](https://getcoldturkey.com/micromanager/),
 [Freedom⊞⌘🍎🤖⇉](https://freedom.to/),
-[Intention⇉](https://www.getintention.com/)
+[Intention⇉](https://www.getintention.com/),
+[LeechBlock⇉](https://www.proginosko.com/leechblock/)
 
 Interface config:  
 [FreeCommander⊞■](https://freecommander.com/en/summary/),

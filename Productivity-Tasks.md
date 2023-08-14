@@ -24,6 +24,10 @@ To do lists:
 
 ## Time Management
 
+Time zones:  
+[Pole Clock☁](https://poleclock.com/),
+[World Time Zone Map☁](https://24timezones.com/timezone-map)
+
 Time tracking:  
 [ActivityWatch⊞⌘🐧🍎🤖⇉](https://activitywatch.net/),
 [Emergent Task Timer*](https://davidseah.com/node/the-emergent-task-timer/),
@@ -72,6 +76,7 @@ Ambient noise:
 [generative.fm☁](https://generative.fm/),
 [lofi.cafe☁](https://lofi.cafe/),
 [musicForProgramming☁);](https://www.musicforprogramming.net/),
+[myNoise☁](https://mynoise.net/),
 [Noisli☁🍎🤖⇉](https://www.noisli.com/),
 [SomaFM☁](https://somafm.com/)
 

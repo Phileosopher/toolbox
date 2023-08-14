@@ -84,6 +84,17 @@ Astronomy:
 Insert SciHub links:  
 [sci-hub-injector](https://github.com/justjosias/sci-hub-injector)
 
+Check for paper endorsements:  
+[Plaudit⇉](https://plaudit.pub/)
+
+## Other Learning
+
+Anatomy:  
+[Zygote Body](https://www.zygotebody.com/)
+
+Cooking:  
+[Parsnip🤖🍎](https://www.parsnip.ai/)
+
 ## Teaching
 
 Quizzes:  

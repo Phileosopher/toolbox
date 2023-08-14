@@ -13,6 +13,7 @@ DuckDuckGo's !bang operators:
 [DuckDuckGo !bang operators*](https://mosermichael.github.io/duckduckbang/html/main.html)
 
 Overlooked searches:  
+[Marginalia Search☁](https://search.marginalia.nu/),
 [Million Short☁](https://millionshort.com/)
 
 Search by image:  
@@ -29,6 +30,8 @@ Military activities:
 [Wayback Machine](https://web.archive.org/)
 
 Books:  
+[Anna’s Archive](https://annas-archive.org/),
+[Library Genesis](https://libgen.is/),
 [Open Library](https://openlibrary.org/),
 [Standard Ebooks](https://standardebooks.org/),
 [zlibrary](https://b-ok.cc/),

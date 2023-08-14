@@ -67,6 +67,13 @@ Travel alternatives:
 [Uhotw☁](https://www.unusualhotelsoftheworld.com/home),
 [Vrbo☁](https://www.vrbo.com/)
 
+Camping:  
+[Hipcamp](https://www.hipcamp.com/en-US),
+[Recreation.gov](https://www.recreation.gov/)
+
+Camping - California co-op:  
+[Land Camp](https://www.landcamp.org/)
+
 Cabs:  
 [Lyft☁](https://www.lyft.com/),
 [Uber☁](https://www.uber.com/)
