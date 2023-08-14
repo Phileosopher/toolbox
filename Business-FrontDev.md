@@ -62,7 +62,7 @@ Mobile-friendly test:
 Accessibility test:  
 [A11ygator☁](https://a11ygator.chialab.io/),
 [AChecker☁](https://achecker.ca/),
-[ANDI(browser plugin)](https://www.ssa.gov/accessibility/andi/help/install.html),
+[ANDI⇉](https://www.ssa.gov/accessibility/andi/help/install.html),
 [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/),
 [Webflow's Accessibility checklist☁](https://webflow.com/accessibility/checklist)
 
