@@ -1,10 +1,18 @@
 # Visual: Photos
 
-Photo manager - extraction:  
+## Photo/Data Management
+
+Negatives database management:  
+[darktable⊞■⌘🐧](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
+
+Extraction:  
 [digiKam⊞⌘🐧](https://www.digikam.org/)
 
-Photo manager - sifting:  
+Sifting:  
 [Geeqie](https://www.geeqie.org/)
+
+EXIF data:  
+[ExifDataView⊞■](https://www.nirsoft.net/utils/exif_data_view.html)
 
 ## Post-Production
 

@@ -58,3 +58,7 @@ Specific generators - geographic:
 [Country☁](https://commentpicker.com/random-country-generator.php)
 [Geographic Coordinates☁](https://www.random.org/geographic-coordinates/),
 [Capital Cities☁](https://commentpicker.com/random-capital-generator.php)
+
+## Mathematical Animations
+
+[Manim🐍](https://www.manim.community/)

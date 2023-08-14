@@ -2,6 +2,9 @@
 
 ## PDF/ebook Editing
 
+[PDF Resizer](https://pdfresizer.com/),
+[PDF Tool](https://www.pdftool.org/)
+
 Editor:  
 [PDF24⊞☁](https://en.pdf24.org/)
 [PDFescape☁](https://www.pdfescape.com/windows/),
@@ -16,9 +19,6 @@ PDF - detect differences:
 [Draftable's Compare PDF & Word Documents Online☁](https://draftable.com/compare),
 [PDF24 Compare PDF files☁](https://tools.pdf24.org/en/compare-pdf),
 [PDF Compare☁](https://copyleaks.com/text-compare/compare-pdf-files)
-
-PDF - optimization:  
-[PDF Tools' Online PDF Optimizer☁](https://pdfresizer.com/optimize)
 
 PDF - looking scanned:  
 [Look Scanned](https://lookscanned.io/)

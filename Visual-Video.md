@@ -16,16 +16,20 @@ Ideal video cameras:
 
 ## Editing
 
-[Motionbox☁](https://motionbox.io/),
-[Story Creator☁](https://storycreatorapp.com/),
+[DaVinci Resolve⊞⌘🐧](https://www.blackmagicdesign.com/products/davinciresolve/),
 [Kdenlive⊞■⌘🐧](https://kdenlive.org/),
-[DaVinci Resolve⊞⌘🐧](https://www.blackmagicdesign.com/products/davinciresolve/)
+[Motionbox☁](https://motionbox.io/),
+[Shotcut🐧](https://www.shotcut.org/),
+[Story Creator☁](https://storycreatorapp.com/)
 
 Lossless editing:  
 [lossless-cut](https://github.com/mifi/lossless-cut)
 
 Machine-learning-enhanced editing:  
 [Runway☁](https://runwayml.com/)
+
+Video stabilization:  
+[Gyroflow⊞⌘🐧](https://gyroflow.xyz/)
 
 Team editing:  
 [Motionbox☁](https://motionbox.io/)

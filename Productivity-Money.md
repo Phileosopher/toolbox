@@ -221,6 +221,12 @@ Restaurant supplies:
 
 ## Real Estate
 
+Structures:  
+[realtor.com](https://www.realtor.com/),
+[Realty.com](https://www.realty.com/),
+[Zillow](https://www.zillow.com/)
+
+Land:  
 [LandWatch☁](https://www.landwatch.com/)
 
 Auctions:  
@@ -260,6 +266,8 @@ Telecom:
 
 Autos:  
 [CARFAX☁](https://www.carfax.com/),
+[Cars.com☁](https://www.cars.com/),
+[Edmunds☁](https://www.edmunds.com/),
 [Kelley Blue Book☁](https://www.kbb.com/)
 
 Books:  
@@ -277,9 +285,6 @@ Eyewear:
 
 Fuel:  
 [GasBuddy☁🍎🤖](https://www.gasbuddy.com/)
-
-Houses:  
-[Zillow☁](https://www.zillow.com/)
 
 Insurance:  
 [Insurify☁](https://insurify.com/),

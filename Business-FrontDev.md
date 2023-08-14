@@ -33,7 +33,7 @@ Support tables:
 Browser:  
 [Responsively⊞⌘🐧](https://responsively.app/)
 
-## LMS (learning management system)
+## LMS (learning management system) for Educators
 
 [ATutor⊞🐧](https://atutor.github.io/atutor/index.html),
 [FlightPath⊞🐧](https://getflightpath.com/),

@@ -100,6 +100,9 @@ CPAP data:
 Medical abbreviations:  
 [OpenMD's Medical Abbreviations & Acronyms*](https://openmd.com/dictionary/medical-abbreviations)
 
+Medical encyclopedia:  
+[MedlinePlus Encyclopedia*](https://medlineplus.gov/encyclopedia.html)
+
 ## Components Assembly
 
 Weldless pipes and connections:  

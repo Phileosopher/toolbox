@@ -1,10 +1,17 @@
 # Visual: 3D Elements
 
+[Autodesk Tinkercad](https://www.tinkercad.com/),
 [Blender⊞■⌘🐧](https://www.blender.org/),
 [K-3D⊞■⌘](http://www.k-3d.org/),
 [LibreCAD⊞■⌘🐧](https://librecad.org/),
 [Spline☁](https://spline.design/),
 [VTK🐧](https://vtk.org/)
+
+Advanced modeling:  
+[BRL-CAD](https://brlcad.org/),
+[DesignSpark Mechanical](https://www.rs-online.com/designspark/home),
+[OpenSCAD](https://openscad.org/),
+[Wings 3D](http://www.wings3d.com)
 
 Parametric modeling:  
 [FreeCAD⊞■⌘🐧](https://www.freecadweb.org/)
@@ -51,6 +58,21 @@ Design software:
 [EyeJack Creator](https://creator.eyejackapp.com/),
 [Halo AR🍎🤖](https://haloar.app/),
 [MyWebAR](https://mywebar.com/)
+
+## 3D Printing
+
+CAD:  
+[UltiMaker Cura](https://ultimaker.com/software/ultimaker-cura/)
+
+Slicer:  
+[KISSlicer](https://www.kisslicer.com/),
+[Raise3D](https://www.raise3d.com/ideamaker/),
+[Repetier Software](https://www.repetier.com/),
+[Slic3r](https://slic3r.org/)
+
+Cloud management/web interface:  
+[3DPrinterOS](https://www.3dprinteros.com/),
+[OctoPrint](https://octoprint.org/)
 
 ## Very Specific Needs
 
