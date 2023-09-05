@@ -5,6 +5,7 @@ AI CAD:
 
 AI-assisted drawing/painting:  
 [Google's AutoDraw☁](https://www.autodraw.com/),
+[Modyfi - Create. Together.](https://www.modyfi.com/),
 [NVIDIA Canvas⊞](https://www.nvidia.com/en-gb/studio/canvas/)
 
 AI photo editing:  

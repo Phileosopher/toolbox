@@ -51,8 +51,12 @@ Existing hotkeys (for assigning others):
 
 Keyboard macros:  
 [AutoHotkey⊞](https://www.autohotkey.com/),
+[AutoKey🐧](https://autokey.github.io/index.html),
 [espanso⊞⌘🐧](https://espanso.org/),
 [TinyTask⊞■](https://thetinytask.com/)
+
+Keyboard macros - auto-detect typing patterns:  
+[Compress🐧🐍](https://github.com/eschluntz/compress)
 
 Facial movement tracking:  
 [Movement Tracking(Github)⊞■⌘🐧](https://github.com/surya-veer/movement-tracking),
