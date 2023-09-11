@@ -11,7 +11,6 @@ International time:
 [TimeZonesView⊞■](https://www.nirsoft.net/utils/time_zones_view.html)
 
 Weather:  
-[National Weather Service](https://www.weather.gov/)
 
 ## Location Tracking
 
@@ -25,13 +24,23 @@ GPS visualization:
 Ship location:  
 [VesselFinder☁](https://www.vesselfinder.com/)
 
-Weather:  
+## Weather
+
+Report:  
+[National Weather Service](https://www.weather.gov/),
+[Weather Underground☁](https://www.wunderground.com/)
+
+Map:  
+[Windy: Wind map & weather forecast](https://www.windy.com/?18.790,99.003,5)
+
+API:  
 [Open-Meteo.com🔌](https://open-meteo.com/en),
 [OpenWeatherMap API guide🔌](https://openweathermap.org/guide),
-[Weather Underground☁](https://www.wunderground.com/)
 
 Year-round climate:  
 [Goldilocks Zone Finder☁](https://lukechampine.com/goldilocks/)
+
+## Logistics
 
 Flight tracking:  
 [ADS-B Exchange☁](https://globe.adsbexchange.com/),
@@ -44,8 +53,8 @@ Package tracking:
 [Boxoh](http://www.boxoh.com/),
 [Package Place□](https://package.place/)
 
-Hiking/backpacking:  
-[KT companion](https://github.com/jamealg/KT-companion)
+Airports:  
+[OpenAirportMap☁](https://openairportmap.org/)
 
 ## Remote Workers
 
@@ -78,14 +87,14 @@ Cabs:
 [Lyft☁](https://www.lyft.com/),
 [Uber☁](https://www.uber.com/)
 
+Hiking/backpacking:  
+[KT companion](https://github.com/jamealg/KT-companion)
+
 ## Itinerary
 
 [TripIt☁](https://www.tripit.com/web)
 
 ## Other Regional Needs
-
-Airports:  
-[OpenAirportMap☁](https://openairportmap.org/)
 
 Bird detection (by sound):  
 [BirdNET☁🍎🤖](https://birdnet.cornell.edu/)

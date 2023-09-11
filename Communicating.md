@@ -89,6 +89,9 @@ SMS messaging:
 P2P - sharing:  
 [watchIT](https://github.com/ZorrillosDev/watchit-app)
 
+Budgeting:  
+[I hate money☁](https://ihatemoney.org/)
+
 ## IRL
 
 [Meetup☁🍎🤖](https://www.meetup.com/)

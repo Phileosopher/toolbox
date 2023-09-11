@@ -35,7 +35,7 @@ Flight simulation:
 
 ## CAD
 
-[FreeCAD⊞■⌘🐧](https://www.freecadweb.org/)
+[FreeCAD⊞■⌘🐧](https://www.freecadweb.org/) (with [Ondsel](https://ondsel.com/) for cloud storage)
 
 2D/3D parametric CAD:  
 [Components AI](https://components.ai/),

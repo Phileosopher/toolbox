@@ -147,6 +147,9 @@ Wiki creation:
 [Fandom☁](https://www.fandom.com/),
 [Wiki.js⊞⌘🐧🍎🤖](https://wiki.js.org/)
 
+Star Wars intro style:  
+[Star Wars Intro Generator☁](https://starwarsintrogenerator.com/)
+
 ## Editing - Transcript
 
 Grammar/Spelling/Style check:  

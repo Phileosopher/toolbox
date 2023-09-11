@@ -52,6 +52,7 @@ I've broken everything into malleable and somewhat arbitrary groupings, since th
 - Hardware: to make or manage physical things, which includes computer hardware
 - Internet: a sub-division of computer networking that has its own subdomains
 - Math: for calculation-specific needs
+- Money: for lucre-specific needs
 - Text: to work with language for some intended aesthetic
 - Visual: to visually design or adapt things which contain some intended aesthetic
 - Productivity: to broadly streamline doing any of the above

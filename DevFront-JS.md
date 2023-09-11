@@ -54,6 +54,9 @@ Divided page multi-scroll:
 
 ## Element-Specific Libraries: Less Common Elements
 
+3D parallax hover effects:  
+[Atropos](https://atroposjs.com/)
+
 Curvy arrows:  
 [react-curved-arrow](https://react-curved-arrow.nickjanssen.com/)
 

@@ -1,0 +1,96 @@
+# Money: Buying - Consumer Goods
+
+## Comparison/Tracking
+
+[Product Chart☁](https://www.productchart.com/)
+
+Price tracking:  
+[Slice☁](https://www.slice.com/)
+
+Price tracking - Amazon:  
+[camelcamelcamel.com☁](https://camelcamelcamel.com/)
+
+Rewards points:  
+[Award Wallet☁](https://awardwallet.com/)
+
+## Discounts
+
+[Coupon Sherpa☁🍎🤖](https://www.couponsherpa.com/),
+[Entertainment Coupon Book☁](https://www.entertainment.com/),
+[Groupon☁](https://www.groupon.com/),
+[LivingSocial☁](https://www.livingsocial.com/),
+[LOZO☁](https://lozo.com/),
+[RetailMeNot☁](https://www.retailmenot.com/),
+[SnipSnap🍎🤖](https://www.snipsnap.it/)
+
+Coupon codes:  
+[Honey⇉](https://www.joinhoney.com/)
+
+Computer parts:  
+[ByteBucket☁](https://www.bytebucket.co/?)
+
+Restaurants:  
+[Restaurant.com☁](https://www.restaurant.com/)
+
+Rebates and cash back services:  
+[Fetch☁](https://fetch.com/),
+[Ibotta☁](https://home.ibotta.com/),
+[Mr. Rebates☁](https://mrrebates.com/),
+[Rakuten⇉](https://www.rakuten.com/),
+[Swagbucks☁](https://www.swagbucks.com/),
+[TopCashback☁](https://www.topcashback.com/)
+
+## Shopping
+
+[Reddit's Favorite Products*](https://www.looria.com/reddit)
+
+Industry comparison:  
+[Geizhals Preisvergleich☁](https://geizhals.eu/)
+
+Durable products:  
+[Buy For Life☁](https://www.buyforlife.com/)
+
+Online auctions - liquidations:  
+[AllSurplus☁](https://www.allsurplus.com/)
+
+Online auctions - government liquidations:  
+[Government Surplus Auctions*](https://www.govdeals.com/)
+
+Telecom:  
+[Allconnect.com☁](https://www.allconnect.com/)
+
+Autos:  
+[CARFAX☁](https://www.carfax.com/),
+[Cars.com☁](https://www.cars.com/),
+[Edmunds☁](https://www.edmunds.com/),
+[Kelley Blue Book☁](https://www.kbb.com/)
+
+Books:  
+[Bookshop☁](https://bookshop.org/),
+[Pages on Pages☁](https://www.pagesonpages.com/)
+
+Computer games:  
+[IsThereAnyDeal☁](https://isthereanydeal.com/),
+[Razer Game Deals⊞☁](https://deals.razer.com/),
+[SteamDB☁](https://steamdb.info/)
+
+Eyewear:  
+[Warby Parker☁](https://www.warbyparker.com/),
+[Zenni Optical☁](https://www.zennioptical.com/)
+
+Fuel:  
+[GasBuddy☁🍎🤖](https://www.gasbuddy.com/)
+
+Insurance:  
+[Insurify☁](https://insurify.com/),
+[Jerry☁](https://getjerry.com/),
+[Policygenius☁](https://www.policygenius.com/),
+[The Zebra☁](https://www.thezebra.com/)
+
+Roadside assistance services:  
+[AAA☁](https://www.aaa.com/),
+[MCA☁](https://motorclubofamerica.com/)
+
+Classified ads:  
+[craigslist☁](https://craigslist.org/),
+[OfferUp☁🍎🤖](https://offerup.com/)

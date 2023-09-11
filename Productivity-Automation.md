@@ -1,4 +1,4 @@
-# Automation
+# Productivity: Automation
 
 Service synchronization:  
 [IFTTT☁](https://ifttt.com),

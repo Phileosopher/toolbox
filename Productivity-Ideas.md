@@ -1,4 +1,24 @@
-# Productivity: Ideas
+# Productivity: Idea-Gathering
+
+## Inspiration
+
+[Oblique Strategies](https://stoney.sb.org/eno/oblique.html)
+
+LEGO bricks:  
+[Brickit🍎🤖](https://brickit.app/)
+
+## Collection-Building
+
+Research-gathering:  
+[Zotero](https://www.zotero.org/)
+
+Creative writing:  
+[Scrivener⊞⌘🍎](https://www.literatureandlatte.com/scrivener/overview)
+
+Audio-based:  
+[Voiceliner🍎🤖](https://a9.io/voiceliner/)
+
+## Dynamic Note-Taking
 
 For diagramming and charts, look at [Visual-Data.md](https://github.com/Phileosopher/toolbox/Visual-Data.md).
 
@@ -34,18 +54,7 @@ Project management + collaboration:
 [Focalboard⊞⌘🐧](https://www.focalboard.com/) (part of [Mattermost](https://mattermost.com/)),
 [Slack☁](https://slack.com/)
 
-## Idea-Gathering - Collection-Focused
-
-Research-gathering:  
-[Zotero](https://www.zotero.org/)
-
-Creative writing:  
-[Scrivener⊞⌘🍎](https://www.literatureandlatte.com/scrivener/overview)
-
-Audio-based:  
-[Voiceliner🍎🤖](https://a9.io/voiceliner/)
-
-## Idea-Gathering - Text Notes
+## Text Notes
 
 Quick notes/sporadic:  
 [notes.io☁](http://notes.io/),
@@ -60,8 +69,3 @@ Hierarchical notebooks:
 Public notes:  
 [Collected Notes⌘🍎🤖☁](https://collectednotes.com/),
 [Listed☁](https://listed.to/) (pulls from [Standard Notes☁🐧🤖](https://standardnotes.com/))
-
-## Other Specific Needs
-
-LEGO bricks:  
-[Brickit🍎🤖](https://brickit.app/)

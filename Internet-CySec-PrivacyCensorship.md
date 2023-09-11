@@ -120,6 +120,7 @@ Web browser:
 
 Browser fingerprint:  
 [AmIUnique☁](https://amiunique.org/),
+[Cover Your Tracks☁](https://coveryourtracks.eff.org/),
 [Google's Browserinfo☁](https://toolbox.googleapps.com/apps/browserinfo/),
 [Detect WebGL Fingerprint☁](https://webbrowsertools.com/webgl-fingerprint/),
 [What every Browser knows about you☁](https://webkay.robinlinus.com/)
