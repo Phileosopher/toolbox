@@ -34,9 +34,6 @@ Webpage markups:
 Software operation (e.g., games):  
 [Moonlight](https://moonlight-stream.org/)
 
-Meetings with visual boards:  
-[Mural](https://www.mural.co/)
-
 ## Real-Time - Chat
 
 [Pidgin⊞🐧⌘](https://pidgin.im/),
@@ -54,6 +51,12 @@ Type when someone else is typing:
 Contact elected officials:  
 [5 Calls](https://5calls.org/),
 [Resistbot](https://resist.bot/)
+
+## Real-Time - Meetings
+
+Digital whiteboards:  
+[Mural](https://www.mural.co/),
+[Stormboard](https://stormboard.com/)
 
 ## Sending/Receiving
 

@@ -25,7 +25,7 @@ Image posts:
 Emails:  
 [Buttondown☁](https://buttondown.email/)
 
-## Marketing Front-End
+## Marketing - Content Generation
 
 SEO slug:  
 [Online Slug Generator☁](https://commentpicker.com/slugify.php)
@@ -47,7 +47,10 @@ YouTube thumbnails:
 Vimeo thumbnails:  
 [Vimeo Thumbnail Grabber☁](https://10015.io/tools/vimeo-thumbnail-grabber)
 
-## Marketing Front-End - Influencers
+Bio auto-generation:  
+[BioHP Bio Generator](https://tools.highperformr.ai/bio-generator)
+
+## Marketing - Influencers
 
 Brand capture:  
 [KnowEm Username Search☁](https://knowem.com/)

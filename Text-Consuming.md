@@ -21,6 +21,7 @@ DjVu:
 [WinDjView/MacDjView⊞■⌘](https://windjview.sourceforge.io/)
 
 PDF/ePub/MOBI:  
+[Alexandria⊞■⌘🐧](https://github.com/btpf/Alexandria),
 [Foliate🐧](https://johnfactotum.github.io/foliate/),
 [Sumatra⊞■](https://www.sumatrapdfreader.org/free-pdf-reader.html),
 [TUI Ebook Reader□](https://github.com/wustho/baca)
