@@ -37,7 +37,10 @@ Foreign languages:
 On-demand foreign language recordings:  
 [RhinoSpike](https://rhinospike.com/)
 
-AI conversational chat:  
+Conversational chat - messaging:  
+[italki](https://www.italki.com/)
+
+Conversational chat - AI:  
 [Quazel](https://www.quazel.com/)
 
 ## Tech Learning

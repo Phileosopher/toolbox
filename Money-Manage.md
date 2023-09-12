@@ -41,9 +41,12 @@ Accounting all-in-one:
 [GNU Accounting Utilities🐧](https://www.gnu.org/software/acct/),
 [Wave Financial☁](https://www.waveapps.com)
 
-Personal finance software:  
+Personal finance - positions:  
 [GnuCash⊞■⌘🐧](https://www.gnucash.org/),
 [KMyMoney⊞⌘🐧](https://kmymoney.org/)
+
+Personal finance - projections:  
+[ProjectionLab](https://projectionlab.com/)
 
 Tax estimation:  
 [taxsim.app☁](https://taxsim.app/)

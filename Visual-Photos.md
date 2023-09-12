@@ -53,6 +53,10 @@ Avatars:
 Avatar extraction:  
 [unavatar.io☁](https://unavatar.io/)
 
+GIFs:  
+[EZGIF's Animated GIF Maker☁](https://ezgif.com/maker),
+[Imgflip's GIF Maker☁](https://imgflip.com/gif-maker)
+
 Logos:  
 [DesignBro Business Logo Maker☁](https://designbro.com/logo-maker/),
 [Fiverr's Logo Maker☁](https://www.fiverr.com/logo-maker),

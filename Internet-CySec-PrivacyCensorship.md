@@ -330,7 +330,6 @@ Anti-LG:
 Anti-Reddit - remove comment history:  
 [Shreddit🐍□](https://github.com/x89/Shreddit)
 
-
 ## Anti-Governments & Public Organizations
 
 Image scrubbing:  

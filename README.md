@@ -55,7 +55,6 @@ I've broken everything into malleable and somewhat arbitrary groupings, since th
 - Money: for lucre-specific needs
 - Text: to work with language for some intended aesthetic
 - Visual: to visually design or adapt things which contain some intended aesthetic
-- Productivity: to broadly streamline doing any of the above
 
 Further, some patterns keep cropping up in each domain:
 
@@ -63,9 +62,10 @@ Further, some patterns keep cropping up in each domain:
 - CySec: protecting bad things from happening
 - Foraging: to acquire others' created works
 
-Further further, some things are all-pervasive sporks:
+Further further, there are other groups if it's too meta to fit into any one of the above categories:
 
 - Dev: to broadly make or manage computer code, which may refer to front-end or back-end, be language-specific, and may simply be a more nuanced version of any of the above
+- Productivity: to broadly streamline doing any of the above
 
 ## OS/Usage Earmarks
 

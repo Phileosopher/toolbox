@@ -20,4 +20,5 @@ Image viewers:
 [Kodi⊞■⌘🐧🍎🤖](https://kodi.tv/)
 
 Streaming service:  
+[Jellyfin](https://jellyfin.org/),
 [Plex](https://www.plex.tv/)

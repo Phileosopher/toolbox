@@ -113,7 +113,7 @@ Audio book speakers:
 [Findaway](https://findaway.com/authors/)
 
 Foreign languages:  
-[italki - Best language learning app with certificated tutors](https://www.italki.com/)
+[italki](https://www.italki.com/)
 
 ## Job Boards (Freelancing) - Writing
 
