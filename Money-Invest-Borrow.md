@@ -6,6 +6,9 @@
 [Moody's*](https://www.moodys.com/),
 [Standard & Poor's*](https://www.standardandpoors.com/)
 
+Business information:  
+[Crunchbase☁](https://www.crunchbase.com/)
+
 Financial advisor matching:  
 [SmartAdvisor Match☁](https://smartadvisormatch.com/)
 
@@ -110,3 +113,24 @@ Farms:
 
 Women-only:  
 [Grameen America☁](https://www.grameenamerica.org/)
+
+## Crowdfunding
+
+[GiveSendGo☁](https://givesendgo.com/),
+[Indiegogo☁](https://www.indiegogo.com/),
+[Open Collective☁](https://opencollective.com/)
+
+Entrepreneurship:  
+[Indiegogo for Entrepreneurs☁](https://entrepreneur.indiegogo.com/),
+[SeedInvest☁](https://www.seedinvest.com/),
+[StartEngine☁](https://www.startengine.com/)
+
+Christian/NPO:  
+[GiveSendGo☁](https://www.givesendgo.com/),
+[Mightycause☁](https://www.mightycause.com/)
+
+Creatives:  
+[Patreon☁](https://www.patreon.com/)
+
+Games:  
+[fig.co☁](https://www.fig.co/)

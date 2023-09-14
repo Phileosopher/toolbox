@@ -7,6 +7,6 @@ Service synchronization:
 Service synchronization - enterprise:  
 [Bonitasoft⊞⌘🐧](https://www.bonitasoft.com/)
 
-Tech support callback:  
-[GetHuman☁](https://gethuman.com/),
-[FastCustomer☁](http://www.fastcustomer.com/)
+Home automation:  
+[Home Assistant💾](https://www.home-assistant.io/),
+[Domoticz💾](https://www.domoticz.com/)

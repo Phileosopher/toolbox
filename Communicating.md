@@ -1,13 +1,5 @@
 # Communicating
 
-Link shortener:  
-[bitly☁](https://bitly.com/),
-[Short URL☁](https://www.shorturl.at/),
-[TinyURL☁](https://tinyurl.com)
-
-Link lengthener:  
-[A(x56)☁](https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/)
-
 Language translation:  
 [DeepL☁](https://www.deepl.com/translator),
 [LibreTranslate](https://libretranslate.com/),
@@ -17,88 +9,76 @@ Language translation - browser plugin:
 [Firefox Translations🔌](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/),
 [TWP🔌](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 
-## Real-Time
+## Researching Senders
 
-Videoconferencing/screensharing/phone:  
-[Jitsi Meet☁🍎🤖](https://meet.jit.si/)
+Public information:  
+[Truthfinder☁🕵️](https://www.truthfinder.com/)
 
-Video calls with facial tracking:  
-[Around](https://www.around.co/)
+Reverse phone lookup:  
+[NumLookup☁🕵️](https://www.numlookup.com/)
 
-Video calls with custom effects:  
-[mmhmm⊞](https://www.mmhmm.app/)
+Email headers:  
+[Google's Messageheader☁🕵️](https://toolbox.googleapps.com/apps/messageheader/)
+[WhatIsMyIPAddress' Trace Email☁🕵️](https://whatismyipaddress.com/trace-email)
 
-Webpage markups:  
-[Marker.to⇉](http://marker.to/)
+Google email inspection:  
+[GHunt🕵️](https://github.com/mxrch/GHunt)
 
-Software operation (e.g., games):  
-[Moonlight](https://moonlight-stream.org/)
+Short link scan:  
+[CheckShortURL☁🕵️](https://checkshorturl.com/),
+[URL X-ray☁🕵️](https://urlxray.com/)
 
-## Real-Time - Chat
+Website verification:  
+[Domain Dossier☁🕵️](https://centralops.net/co/DomainDossier.aspx)
+[Norton Safe Web☁🕵️](https://safeweb.norton.com/),
+[URLVoid☁🕵️](https://www.urlvoid.com/),
+[Web of Trust🕵️](https://mywot.com/)
 
-[Pidgin⊞🐧⌘](https://pidgin.im/),
-[Rocket.Chat⊞🐧⌘🍎🤖](https://rocket.chat/),
-[tinychat☁](https://tinychat.com)
+Phone number (via site crawling):  
+[Ampare Phone Number Crawler🐧🕵️](https://snapcraft.io/amparephonenumbercrawler)
 
-Chat services - all-in-one:  
-[All-in-One Messenger⊞🐧⌘](https://allinone.im/),
-[Beeper⊞🐧⌘](https://www.beeper.com/)
-[Pidgin⊞🐧⌘](https://www.pidgin.im/)
+European surnames:  
+[Surname Map🕵️](https://www.surnamemap.eu/)
 
-Type when someone else is typing:  
-[slacktyping□](https://github.com/will/slacktyping)
+## Email
 
-Contact elected officials:  
-[5 Calls](https://5calls.org/),
-[Resistbot](https://resist.bot/)
-
-## Real-Time - Meetings
-
-Digital whiteboards:  
-[Mural](https://www.mural.co/),
-[Stormboard](https://stormboard.com/)
-
-## Sending/Receiving
-
-Video messaging:  
-[Loom☁⊞🍎](https://www.loom.com/)
-
-Email/calendar/contacts:  
+Email/calendar/contacts client:  
 [Mozilla Thunderbird⊞🐧⌘■](https://www.thunderbird.net/)
 
-Quick files:  
-[FILE.re - Temporary file sharing](https://file.re/)
+Email hosting:  
+[Fastmail☁🕵️](https://www.fastmail.com/),
+[ProtonMail☁🕵️](https://protonmail.com/),
+[Tutanota☁🕵️](https://tutanota.com/)
 
-Quick files - WebRTC:  
-[Send☁](https://send.vis.ee/)
-[WEBWORMHOLE☁](https://webwormhole.io/)
+Temporary email🕵️:  
+[Maildrop☁](https://maildrop.cc/),
+[10 minute mail☁](https://10minutemail.com/),
+[Email On Deck☁](https://www.emailondeck.com/),
+[Firefox Relay⇉](https://relay.firefox.com/accounts/profile/),
+[guerrillamail.com☁](https://www.guerrillamail.com/)
 
-Faxes:  
-[faxZERO.com☁](https://faxzero.com/)
+Email summary:  
+[Unroll.Me](https://unroll.me/)
 
-Drawn images:  
-[Witeboard☁](https://witeboard.com)
+## Email - Privacy🕵️
 
-Screenshot improvement:  
-[ProductShot☁](https://productshot.app/)
+Email privacy:  
+[Email Privacy Tester☁](https://www.emailprivacytester.com/)
 
-Money:  
-[Slash☁](https://www.joinslash.com/),
-[Braid☁](https://braid.co/)
+Email IP leak test:  
+[Email Leak Tests☁](https://emailipleak.com/)
 
-SMS messaging:  
+Email breach search:  
+[have i been pwned?☁](https://haveibeenpwned.com/)
+
+## Text Messaging
+
+[matrix⊞⌘🐧🍎🤖🕵️](https://matrix.org/)
+[Signal⊞⌘🐧🍎🤖🕵️](https://signal.org/),
+[Telegram⊞⌘🐧🍎🤖🕵️](https://telegram.org/)
+
+SMS messaging on PC:  
 [DesktopSMS⊞🤖](https://www.desktopsms.net/)
 
-P2P - sharing:  
-[watchIT](https://github.com/ZorrillosDev/watchit-app)
-
-Budgeting:  
-[I hate money☁](https://ihatemoney.org/)
-
-## IRL
-
-[Meetup☁🍎🤖](https://www.meetup.com/)
-
-Gift registry:  
-[Giftster☁](https://www.giftster.com/),
-[Honeyfund☁](https://www.honeyfund.com/)
+SMS breach notifications:  
+[Okey Monitor☁](https://okeymonitor.com/)

@@ -1,4 +1,4 @@
-# Business: Front-End Web Development
+# Internet: Web Development - Front-End
 
 ## UI Inspiration/Learning
 
@@ -91,23 +91,3 @@ QR codes:
 
 Website feedback:  
 [Pagereview.io](https://pagereview.io/)
-
-## Social Media
-
-Avatars:  
-[Gravatar☁](https://en.gravatar.com/),
-
-Twitter:  
-[Twitter's Card Validator☁](https://cards-dev.twitter.com/validator)
-
-Facebook:  
-[Facebook's Sharing Debugger☁](https://developers.facebook.com/tools/debug/)
-
-Instagram:  
-[Instagram Post Generator☁](https://10015.io/tools/instagram-post-generator)
-
-LinkedIn:  
-[LinkedIn's Post Inspector☁](https://www.linkedin.com/post-inspector/)
-
-SERP (search engine results page) preview:  
-[Portent's SERP Snippet Preview☁](https://www.portent.com/serp-preview-tool/)

@@ -67,7 +67,13 @@ Logos:
 [Shopify's Hatchful☁](https://hatchful.shopify.com/),
 [Squarespace's Free Logo Maker☁](https://www.squarespace.com/logo)
 
+Screenshot editing:  
+[BrandBird☁](https://www.brandbird.app/)
+
 ## Very Specific Needs/Effects
+
+Anonymized images:  
+[Image Scrubber☁](https://everestpipkin.github.io/image-scrubber/)
 
 Quick drafts:  
 [JS Paint☁](https://jspaint.app/)

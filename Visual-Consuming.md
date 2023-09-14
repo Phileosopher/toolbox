@@ -14,7 +14,40 @@ Image viewers:
 [XnView⊞■⌘🐧](https://www.xnview.com/),
 [IrfanView⊞■](https://www.irfanview.com/)
 
+Watch videos together remotely:  
+[Binge Together☁](https://bingetogether.com/)
+
+TL;DW YouTube:  
+[you-tldr](https://www.you-tldr.com/)
+
+TL;DW YouTube - Transcript:  
+[YouTube Transcript](https://youtubetranscript.com/)
+
+## Streaming Video Search☁
+
+Search engine:  
+[JustWatch](https://www.justwatch.com/),
+[Movie of the Night](https://www.movieofthenight.com/)
+
+Media availability by country:  
+[Streaming Availability API🔌⦿](https://www.movieofthenight.com/about/api)
+
+YouTube - channel reviews:  
+[Favoree](https://www.favoree.io/)
+
+YouTube - ad blocking:  
+[SponsorBlock🔌](https://sponsor.ajay.app/)
+
+P2P movie sharing:  
+[watchIT](https://github.com/ZorrillosDev/watchit-app)
+
 ## Media Libraries
+
+All-purpose media:  
+[Servarr (Lidarr, Radarr, Readarr, Sonarr)💾](https://wiki.servarr.com/)
+
+Subtitles:  
+[Bazarr (for Sonarr and Radarr)💾](https://www.bazarr.media/)
 
 10-foot UI:  
 [Kodi⊞■⌘🐧🍎🤖](https://kodi.tv/)

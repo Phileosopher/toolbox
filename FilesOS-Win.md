@@ -98,6 +98,9 @@ AT alternative:
 
 ## Registry Issues
 
+UserAssist registry entries:  
+[UserAssistView⊞■](https://www.nirsoft.net/utils/userassist_view.html)
+
 Registry browser:  
 [OfflineRegistryView■](https://www.nirsoft.net/utils/offline_registry_view.html),
 [RegAlyzer■](https://www.safer-networking.org/products/regalyzer/)

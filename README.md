@@ -53,6 +53,7 @@ I've broken everything into malleable and somewhat arbitrary groupings, since th
 - Internet: a sub-division of computer networking that has its own subdomains
 - Math: for calculation-specific needs
 - Money: for lucre-specific needs
+- Network: for computers across a network
 - Text: to work with language for some intended aesthetic
 - Visual: to visually design or adapt things which contain some intended aesthetic
 
@@ -77,9 +78,11 @@ Sometimes, it makes sense to clarify for context how something is used.
 - Mobile: 🤖 for Android, 🍎 for iOS.
 - □ for non-UI CLI-based tools, often requires [programming experience](https://trendless.tech/prog-basics).
 - ■ for standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/)).
-- 🐍 if it runs in Python
 - 🔌 if it's an API or has API documentation
 - ⦿ for a data-heavy tool that may interest devs
+- 💾 if it's self-hostable
+- 🐍 if it runs in Python
+- 🕵️ if it helps with trust issues
 - $ if it does cost at least some money
 
 These are volatile out-of-the-box OS estimations for several reasons:

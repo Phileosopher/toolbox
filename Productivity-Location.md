@@ -10,8 +10,6 @@ International time:
 [Every Time Zone](https://everytimezone.com/),
 [TimeZonesView⊞■](https://www.nirsoft.net/utils/time_zones_view.html)
 
-Weather:  
-
 ## Location Tracking
 
 [FacilMap☁](https://facilmap.org/),
@@ -116,6 +114,9 @@ Nuclear detonation estimation:
 
 Mandatory reporters:  
 [Resources for Mandated Reporters of Abuse](https://mandatedreporter.com/)
+
+Police tracking:  
+[Atlas of Surveillance☁🕵️](https://atlasofsurveillance.org/)
 
 Historical atlas:  
 [GeaCron](http://geacron.com/)

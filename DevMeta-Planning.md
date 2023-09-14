@@ -15,6 +15,9 @@ Learning new languages:
 Unused GitHub usernames:  
 [terror/usernames: rare inactive github usernames!](https://github.com/terror/usernames)
 
+Researching software:  
+[Business Software Reviews from Software Advice](https://www.softwareadvice.com/)
+
 ## Existing Source Code
 
 [thefreecountry.com☁](https://www.thefreecountry.com/sourcecode/index.shtml)

@@ -9,11 +9,8 @@ Speed-reading:
 Jargon filter:  
 [Bullshit.js⇉](https://mourner.github.io/bullshit.js/)
 
-Language translation:  
-[DeepL☁](https://www.deepl.com/translator)
-
-Torah/Bible:  
-[The SWORD Project☁⊞■⌘🐧🍎🤖⇉](https://crosswire.org/sword/index.jsp)
+TL;DR PDFs:  
+[pdf2gpt](https://pdf2gpt.com/)
 
 ## Media Viewers
 
@@ -35,7 +32,13 @@ MOBI reader:
 ## Media Managers
 
 Ebooks:  
-[calibre⊞■⌘🐧🍎🤖](https://calibre-ebook.com/)
+[calibre⊞■⌘🐧🍎🤖💾](https://calibre-ebook.com/),
+[Kavita💾](https://www.kavitareader.com/)
 
 Books:  
 [Inventaire☁](https://inventaire.io/)
+
+## Other Text Needs
+
+Torah/Bible:  
+[The SWORD Project☁⊞■⌘🐧🍎🤖⇉](https://crosswire.org/sword/index.jsp)

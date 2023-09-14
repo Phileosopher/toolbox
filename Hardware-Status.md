@@ -3,6 +3,9 @@
 Firmware analysis:  
 [Binwalk](https://github.com/ReFirmLabs/binwalk)
 
+Resource monitoring:  
+[Nagios💾](https://www.nagios.org/)
+
 ## Benchmarking/Testing
 
 All-in-One:  

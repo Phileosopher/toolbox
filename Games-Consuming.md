@@ -19,7 +19,13 @@ Playtime - tracking:
 [Steam Gauge☁](https://www.mysteamgauge.com/),
 [Wasted hours on Steam☁](https://steamtime.info/)
 
+Electronic games database:  
+[IGDB.com](https://www.igdb.com/)
+
 ## Virtual gaming platforms
+
+ROM management:
+[RomM💾](https://github.com/zurdi15/romm)
 
 Multi-platform:  
 [higan⊞⌘🐧🍎🤖](https://higan.dev/)

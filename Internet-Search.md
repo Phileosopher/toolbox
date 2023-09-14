@@ -1,5 +1,11 @@
 # Internet: Search Engines ☁
 
+Non-Google search engine:  
+[DuckDuckGo](https://duckduckgo.com/),
+[Qwant](https://www.qwant.com/),
+[searx](https://searx.space/),
+[Trilium](https://github.com/zadam/trilium)
+
 ## Current Information
 
 Reddit search engine:  
@@ -44,16 +50,19 @@ University articles:
 Court records:  
 [judyrecords](https://www.judyrecords.com/)
 
-## Specific Miscellaneous Search Engines
+## Specific Search Engines
+
+Blogs:  
+[Blog Surf☁](https://blogsurf.io/)
+
+Similar websites:  
+[Similarsites.com](https://www.similarsites.com/)
 
 Sports information:  
 [TheSportsDB.com🔌](https://thesportsdb.com/)
 
 Visual media:  
 [IMDb](https://www.imdb.com/)
-
-Electronic games:  
-[IGDB.com](https://www.igdb.com/)
 
 European surnames:  
 [Surname Map](https://www.surnamemap.eu/)
