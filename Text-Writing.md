@@ -1,5 +1,8 @@
 # Text: Writing
 
+Simplified language:  
+[xkcd Simple Writer](https://xkcd.com/simplewriter/)
+
 ## Inspiration - Ideas
 
 AI-Generated:  

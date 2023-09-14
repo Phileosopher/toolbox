@@ -32,6 +32,7 @@ MOBI reader:
 ## Media Managers
 
 Ebooks:  
+[Alexandria⊞■⌘🐧](https://github.com/btpf/Alexandria)
 [calibre⊞■⌘🐧🍎🤖💾](https://calibre-ebook.com/),
 [Kavita💾](https://www.kavitareader.com/)
 

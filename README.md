@@ -60,7 +60,6 @@ I've broken everything into malleable and somewhat arbitrary groupings, since th
 Further, some patterns keep cropping up in each domain:
 
 - Consuming: human consumption only, without modification to it
-- CySec: protecting bad things from happening
 - Foraging: to acquire others' created works
 
 Further further, there are other groups if it's too meta to fit into any one of the above categories:

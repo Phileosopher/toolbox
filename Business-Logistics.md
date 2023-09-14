@@ -22,3 +22,8 @@ ERP + CRM:
 [iDempiere⊞🐧](https://www.idempiere.org/),
 [inoERP⊞🐧](http://www.inoideas.org/),
 [metasfresh🐧](https://metasfresh.com/en)
+
+## Customer Service & Tickets
+
+User support/ticketing:  
+[Zammad🐧💾](https://zammad.org/)
