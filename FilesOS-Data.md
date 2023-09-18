@@ -25,12 +25,12 @@ Optical mark recognition (OMR) data:
 
 Cleaning:  
 [The Ultimate Guide to Data Cleaning*](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4),
-[Zotero⊞Inspiration■⌘🐧⇉](https://www.zotero.org/)
+[Zotero⊞Inspiration■⌘🐧⇉🆓](https://www.zotero.org/)
 
 ## 2D Data
 
 Spreadsheets:  
-[LibreOffice Calc⊞■⌘🐧](https://www.libreoffice.org/)
+[LibreOffice Calc⊞■⌘🐧🆓](https://www.libreoffice.org/)
 
 Approximate Spreadsheets:  
 [Guesstimate☁](https://www.getguesstimate.com/)

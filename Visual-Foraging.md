@@ -99,22 +99,27 @@ Landing pages:
 
 [700+ CSS Icons](https://css.gg/),
 [Bootstrap Icons](https://icons.getbootstrap.com/), [Bootstrap Icons](http://www.bootstrapicons.com/), [Boxicons](https://boxicons.com/),
-[CoreUI Icons](https://coreui.io/icons/), [CSS ICON](https://cssicon.space),
+[CoreUI Icons](https://coreui.io/icons/), [CSS ICON](https://cssicon.space), [CSS Icons](https://css.gg/app),
 [DEVICON](https://devicon.dev/), [DrawKit's Icons](https://www.drawkit.io/free-icons),
 [Endless Icons](http://endlessicons.com/), [Entypo](http://www.entypo.com/), [Eva Icons](https://akveo.github.io/eva-icons), [Evericons](http://www.evericons.com/),
 [Feather](https://feathericons.com/), [Find Icons](https://findicons.com/), [FlatIcon](https://www.flaticon.com/), [FLAT SVG DESIGNS](https://flat-svg-designs.net/en/icons/all/), [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free), [Fontello](http://fontello.com/), [Foundation Icon Fonts 3](https://zurb.com/playground/foundation-icon-fonts-3), [Free Icons](https://icon-icons.com/),
-[Heroicons](https://heroicons.dev/),
-[IcoMoon](https://icomoon.io/app/), [Iconbuddy](https://iconbuddy.app/), [Iconduck](https://iconduck.com/), [Iconfinder's Free Icons](https://www.iconfinder.com/free_icons), [Icon Store](https://iconstore.co/), [IconBros](https://www.iconbros.com/), [iconmonstr](https://iconmonstr.com/), [Iconoir](https://iconoir.com/), [Ikonate](https://ikonate.com/), [Ionicons](https://ionicons.com/),
+[Game-icons.net](https://game-icons.net/), [Google Fonts' Material Symbols and Icons](https://fonts.google.com/icons),
+[Heroicons](https://heroicons.com/), [Heroicons](https://heroicons.dev/), [Hotpot.ai](https://hotpot.ai/free-icons),
+[Iconbolt](https://www.iconbolt.com/), [IconBros](https://www.iconbros.com/), [Iconbuddy](https://iconbuddy.app/), [Iconduck](https://iconduck.com/),
+[Iconfinder's Free Icons](https://www.iconfinder.com/free_icons), [Iconic](https://iconic.app/), [IconSearch](https://iconsear.ch/), [Icon Store](https://iconstore.co/), [iconmonstr](https://iconmonstr.com/), [Iconoir](https://iconoir.com/), [Ikonate](https://ikonate.com/), [Ionicons](https://ionicons.com/),
 [Jam icons](https://linearicons.com/free),
 [Linearicons](https://linearicons.com/free), [Line Awesome](https://icons8.com/line-awesome), [Lordicon](https://lordicon.com/free-icons),
-[Material Design Icons](https://materialdesignicons.com/), [Material Design Icons](https://www.materialpalette.com/icons), [Material Design Icons](https://material.io/resources/icons/?style=baseline), [Mono Icons](https://icons.mono.company/), [Myiconfinder](http://www.myiconfinder.com/),
-[Noun Project](https://thenounproject.com/),
+[Material Design Icons](https://materialdesignicons.com/), [Material Design Icons](https://www.materialpalette.com/icons), [Material Design Icons](https://material.io/resources/icons/?style=baseline), [Mono Icons](https://icons.mono.company/),
+[Mono Icons](https://icons.mono.company/), [Myiconfinder](http://www.myiconfinder.com/),
+[Netlify Icônes](https://icones.netlify.app/), [Noun Project](https://thenounproject.com/),
+[Orion Icon Library](https://www.orioniconlibrary.com/),
 [Phosphor Icons](https://phosphoricons.com/),
 [Remix Icon](https://remixicon.com/), [Rough Font Awesome](https://djamshed.github.io/rough-awesome-font/dist/),
-[Simple Icons](https://simpleicons.org/), [Streamline Icons](https://www.streamlineicons.com), [Studyum 3D icons](https://studyum.store/), [SVG Icons](http://svgicons.sparkk.fr/), [System UIcons](https://systemuicons.com/),
+[Simple Icons](https://simpleicons.org/), [Streamline Icons](https://www.streamlinehq.com/icons?tab=free), [Studyum 3D icons](https://studyum.store/), [SVG Icons](http://svgicons.sparkk.fr/), [System UIcons](https://systemuicons.com/),
 [Tabler Icons](https://tablericons.com/), [Typicons](https://www.s-ings.com/typicons/),
 [Unicons by iconscout](https://iconscout.com/unicons), [UXWing](https://uxwing.com/),
-[vivid.js](https://webkul.github.io/vivid/)
+[vivid.js](https://webkul.github.io/vivid/),
+[Zondicons](https://www.zondicons.com/)
 
 AWS:  
 [awsicons](https://awsicons.dev/),
@@ -124,6 +129,7 @@ Low-memory icons:
 [SuperTinyIcons](https://github.com/edent/SuperTinyIcons)
 
 Emojis:  
+[OpenMoji](https://openmoji.org/),
 [Sensa Emoji](https://sensa.co/emoji/)
 
 Avatars:  
@@ -138,9 +144,25 @@ Avatars:
 Vintage/nostalgic:  
 [Windows 98 Icon Viewer](https://win98icons.alexmeub.com/)
 
+MacOS:  
+[macOSicons](https://macosicons.com/#/)
+
+Social media:  
+[Iconshock's Social Media Icons](https://www.iconshock.com/social-media-icons/)
+
+React icons:  
+[Meronex Icons](https://github.com/meronex/meronex-icons),
+[Radix Icons](https://www.radix-ui.com/icons),
+[UseAnimations](https://react.useanimations.com/)
+
 ## Logos
 
-[Open Logos](https://openlogos.org/)
+[LogoSearch: Instant logo search for SVG logos](https://logosear.ch/),
+[Open Logos](https://openlogos.org/),
+[seeklogo](https://seeklogo.com/)
+
+Payment methods:  
+[Iconfinder's Payment Method icons](https://www.iconfinder.com/iconsets/payment-method-1)
 
 ## Mockup templates
 
@@ -177,7 +199,7 @@ Vintage/nostalgic:
 [Open Doodles](https://www.opendoodles.com/), [Open Peeps](https://www.openpeeps.com/),
 [Paaatterns!](https://products.ls.graphics/paaatterns/), [PIMPMYDRAWING](https://pimpmydrawing.com/), [pixeltrue's Free Vector Illustrations](https://www.pixeltrue.com/free-illustrations),
 [Reddit's Resources for Free Illustrations](https://www.reddit.com/r/FreeIllustrations/),
-[Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations), [sketchvalley](https://sketchvalley.com/), [Smash Illustrations](https://usesmash.com/), [Storyset](https://storyset.com/), [SVGDevs.com](https://svgdevs.com/), [stories by Freepik](https://stories.freepik.com/), [Streamline Labs](https://lab.streamlineicons.com/), [Official Streamline Illustrations](https://app.streamlinehq.com/illustrations), [SVG Repo](https://www.svgrepo.com),
+[Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations), [Shape](https://shape.so/), [sketchvalley](https://sketchvalley.com/), [Smash Illustrations](https://usesmash.com/), [Storyset](https://storyset.com/), [SVGDevs.com](https://svgdevs.com/), [stories by Freepik](https://stories.freepik.com/), [Streamline Labs](https://lab.streamlineicons.com/), [Official Streamline Illustrations](https://app.streamlinehq.com/illustrations), [SVG Repo](https://www.svgrepo.com),
 [unDraw](https://undraw.co/illustrations), [useAnimations](https://useanimations.com/),
 [WOOBRO.design](https://woobro.design/)
 

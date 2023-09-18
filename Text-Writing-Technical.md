@@ -13,7 +13,7 @@ LaTeX:
 [WebBrowserTools' LaTeX Editor☁](https://webbrowsertools.com/latex-editor/)
 
 Mathematical calculations:  
-[LibreOffice Math⊞■⌘🐧](https://www.libreoffice.org/discover/math/)
+[LibreOffice Math⊞■⌘🐧🆓](https://www.libreoffice.org/discover/math/)
 
 Source code:  
 [Doxygen⊞🐧](https://www.doxygen.nl/index.html),

@@ -1,4 +1,4 @@
-## Business: Marketing - SEO
+# Business: Marketing - SEO
 
 SEO checker:  
 [BuzzSumo☁](https://app.buzzsumo.com/),

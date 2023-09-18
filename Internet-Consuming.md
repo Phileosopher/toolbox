@@ -1,6 +1,5 @@
 # Internet: Consuming
 
-
 Web bookmarks:  
 [Every bookmark manager ever made*](https://bookmarkos.com/every-bookmark-manager-ever-made)
 
@@ -14,7 +13,8 @@ TL;DR News:
 TL;DR News - Hacker News:  
 [Hacker News Confidence](http://hn.elijames.org/),
 [Hacker News Daily](https://www.daemonology.net/hn-daily/),
-[Hacker News Rankings](https://hnrankings.info/)
+[Hacker News Rankings](https://hnrankings.info/),
+[HackYourNews](https://hackyournews.com/)
 
 Less sensationalized news:  
 [Boring Report🍎](https://www.boringreport.org/)
@@ -22,7 +22,8 @@ Less sensationalized news:
 ## RSS Feeds
 
 Webpage-to-RSS:  
-[FetchRSS☁](https://fetchrss.com/)
+[FetchRSS☁](https://fetchrss.com/),
+[GetRSSFeed☁](https://getrssfeed.com/)
 
 RSS feed manager:  
 [NetNewsWire⌘🍎](https://netnewswire.com/),

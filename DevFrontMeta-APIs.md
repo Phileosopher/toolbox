@@ -3,7 +3,7 @@
 Assets:  
 [Assetroulette🔌](https://assetroulette.com/)
 
-## APIs: Text Placeholders
+## Text Placeholders
 
 Quotes:  
 [Quotes API from They Said So🔌](https://theysaidso.com/api/)
@@ -14,7 +14,7 @@ Jokes:
 Chuck Norris jokes:  
 [Chuck Norris Jokes Api🔌](https://api.chucknorris.io/)
 
-## APIs: Photo Placeholders
+## Photo Placeholders
 
 [Holder.js🔌](http://holderjs.com/),
 [Lorem Picsum🔌](https://picsum.photos/),
@@ -40,3 +40,8 @@ Actor photos:
 [PlaceCage🔌](https://www.placecage.com/),
 [PlaceKeanu.com🔌](https://placekeanu.com/),
 [Steven SeGALLERY🔌](https://www.stevensegallery.com/)
+
+## Icons
+
+NPM:  
+[unplugin icons](https://www.npmjs.com/package/unplugin-icons)

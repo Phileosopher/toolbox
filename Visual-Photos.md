@@ -14,6 +14,9 @@ Sifting:
 EXIF data:  
 [ExifDataView⊞■](https://www.nirsoft.net/utils/exif_data_view.html)
 
+Icon library/organizer:  
+[Nucleo⊞⌘](https://nucleoapp.com/)
+
 ## Post-Production
 
 SVGs/illustrations:  
@@ -85,6 +88,7 @@ PDF elements:
 [Ipe⊞⌘🐧](http://ipe.otfried.org/)
 
 Pixel art:  
+[Aseprite⊞⌘🐧$](https://www.aseprite.org/),
 [Pixel Art Maker☁](http://pixelartmaker.com/)
 
 XKCD-style Comics:  

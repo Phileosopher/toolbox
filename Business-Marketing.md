@@ -93,17 +93,24 @@ Emails:
 Brand capture:  
 [KnowEm Username Search☁](https://knowem.com/)
 
-Social media listening:  
-[Notify☁](https://notify.ly/),
-[Mention☁](https://mention.com/)
-
-Popular trends:  
-[Exploding Topics☁](https://explodingtopics.com/)
-
 Influencer search:  
 [Anewstip☁](https://anewstip.com/),
 [NinjaOutreach☁](https://ninjaoutreach.com/),
 [Google Trends☁](https://trends.google.com/),
+
+## Trends
+
+Popular trends:  
+[Exploding Topics☁](https://explodingtopics.com/)
+
+Short-term rental data:  
+[AirDNA](https://www.airdna.co/)
+
+Moving data - USA:  
+[Allied Magnet States Report☁](https://www.allied.com/migration-map)
+
+Social media listening:  
+[Mention☁](https://mention.com/)
 
 ## Marketing Followup
 
@@ -149,4 +156,3 @@ Paper printing:
 
 YouTube video spam comments:  
 [YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge)
-

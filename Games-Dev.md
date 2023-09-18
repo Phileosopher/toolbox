@@ -32,6 +32,8 @@ Free licensed games:
 [Space Nerds In Space](https://smcameron.github.io/space-nerds-in-space/),
 [The Battle for Wesnoth](https://www.wesnoth.org/)
 
+## Complete Game Engines
+
 ## Specific Game Engines
 
 Visual novels:  
@@ -46,10 +48,10 @@ Web games:
 [Pygame(Python)](https://www.pygame.org/)
 
 3D engines:  
-[Unity(C#)](https://unity.com/),
+[Flax🆓](https://flaxengine.com/),
 [Godot Engine](https://godotengine.org/),
-[Unreal Engine](https://www.unrealengine.com/),
-[Source SDK](https://developer.valvesoftware.com/wiki/SDK_Installation)
+[Source SDK🆓](https://developer.valvesoftware.com/wiki/SDK_Installation),
+[Unreal Engine](https://www.unrealengine.com/)
 
 RTS:  
 [permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine)
@@ -86,3 +88,6 @@ Foraging:
 ## Publishing
 
 [itch.io☁](https://itch.io/)
+
+Compatibility for Linux:  
+[Proton](https://github.com/ValveSoftware/Proton)

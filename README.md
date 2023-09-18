@@ -82,6 +82,8 @@ Sometimes, it makes sense to clarify for context how something is used.
 - 💾 if it's self-hostable
 - 🐍 if it runs in Python
 - 🕵️ if it helps with trust issues
+- 🆓 if it's FLOSS
+
 - $ if it does cost at least some money
 
 These are volatile out-of-the-box OS estimations for several reasons:

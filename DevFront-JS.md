@@ -39,7 +39,14 @@ Sprites - animations/panning:
 
 Interactive maps:  
 [Leaflet](https://leafletjs.com/) (with [Leaflet Provider Demo](https://leaflet-extras.github.io/leaflet-providers/preview/)
- for existing locations)
+ for existin
+
+React components - icons:  
+[React Icons](https://react-icons.github.io/react-icons/#/icons/fa),
+[React SVG Icons](https://reactsvgicons.com/)
+
+Vue components - icons:  
+[Bootstrap Icons Vue](https://github.com/tommyip/bootstrap-icons-vue)
 
 ## Element-Specific Libraries: Transitions
 

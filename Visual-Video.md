@@ -35,7 +35,7 @@ Team editing:
 [Motionbox☁](https://motionbox.io/)
 
 File conversion/recording:  
-[FFmpeg⊞⌘🐧□](https://www.ffmpeg.org/)
+[FFmpeg⊞⌘🐧□🆓](https://www.ffmpeg.org/)
 
 Synchronize subtitles with video:  
 [FFsubsync🐧□](https://github.com/smacke/ffsubsync)

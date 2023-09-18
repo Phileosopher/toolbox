@@ -5,7 +5,7 @@
 Presentations:  
 [Google Slides☁](https://slides.google.com),
 [Microsoft PowerPoint Online☁](https://office.live.com/start/PowerPoint.aspx),
-[LibreOffice Impress⊞■⌘🐧](https://www.libreoffice.org/)
+[LibreOffice Impress⊞■⌘🐧🆓](https://www.libreoffice.org/)
 
 Presentations - display keyboard shortcuts:  
 [Carnac⊞](http://carnackeys.com/)

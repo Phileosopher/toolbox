@@ -94,6 +94,9 @@ Tailored gradients:
 [Vivid Gradient Generator Tool☁](https://learnui.design/tools/gradient-generator.html),
 [WebGradients*](https://webgradients.com/)
 
+Gradient mixer:  
+[Mesh☁](https://meshgradient.com/)
+
 Pickers:  
 [color x color☁](https://colorcolor.in/),
 [ColorBox by Lyft Design☁](https://www.colorbox.io/),

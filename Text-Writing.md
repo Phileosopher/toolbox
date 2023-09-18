@@ -123,7 +123,7 @@ Markdown editor:
 
 Word processor:  
 [Bear App⌘🍎](https://bear.app)
-[LibreOffice Writer⊞■⌘🐧](https://www.libreoffice.org/)
+[LibreOffice Writer⊞■⌘🐧🆓](https://www.libreoffice.org/)
 
 Distraction-free writing:  
 [Cold Turkey Writer⊞](https://getcoldturkey.com/writer/)

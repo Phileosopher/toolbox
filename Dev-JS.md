@@ -14,6 +14,10 @@ JS -> Ruby-like syntax:
 JSON:  
 [Hjson](https://github.com/hjson/hjson-js)
 
+## TypeScript
+
+[Dev resources](https://github.com/dzharii/awesome-typescript)
+
 ## Testing/Debugging
 
 Linting:  

@@ -48,6 +48,9 @@ Image resizing:
 [Online Image Resizer☁](https://resizeimage.net/),
 [Make Your Photo 16x9☁](https://photo16x9.com/)
 
+Image re-coloring:  
+[Color Manager🐧](https://github.com/NicklasVraa/Color-manager)
+
 AI-assisted image upscaling:  
 [Icons8's AI Image Upscaler☁](https://icons8.com/upscaler/),
 [Ojoy☁](https://ojoy.netlify.app/)
@@ -55,6 +58,9 @@ AI-assisted image upscaling:
 Filter effects:  
 [Image Filters☁](https://10015.io/tools/image-filters),
 [PhotoMosh☁](https://photomosh.com/)
+
+Icon transition:  
+[Icon transition generator☁](https://nucleoapp.com/tool/icon-transition)
 
 Histograms of chaotic functions:  
 [Fyre🐧](http://fyre.navi.cx/)
