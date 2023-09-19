@@ -8,22 +8,30 @@ Tech support basic information:
 ## Probes
 
 DNS probe:  
+[DNS Checker☁](https://dnschecker.org/),
 [DNSdumpster.com☁](https://dnsdumpster.com/),
 [DNS-Lookup☁](https://dns-lookup.com/),
 [Dnsutils🐧](https://pkgs.org/download/dnsutils),
 [getdns🔌](https://getdnsapi.net/)
 [Google's Dig☁](https://toolbox.googleapps.com/apps/dig/),
-[whatsmydns.net☁](https://www.whatsmydns.net/),
-[Google's Check MX☁](https://toolbox.googleapps.com/apps/checkmx/),
+[whatsmydns.net☁](https://www.whatsmydns.net/)
+
+Domain configuration check:  
+[DNS Tools' Domain Configuration Check☁](http://webdnstools.com/dnstools/domain_check)
 
 WHOIS data:  
 [jwhois□](https://github.com/jonasob/jwhois),
+[Who.is☁](https://who.is/),
 [WhoDat⊞■](https://portableapps.com/apps/utilities/whodat-portable),
 [WhoisCL⊞■□](https://www.nirsoft.net/utils/whoiscl.html),
 [WhoisThisDomain⊞■](https://www.nirsoft.net/utils/whois_this_domain.html)
 
 DNS/WHOIS data:  
 [DomainHostingView⊞■](https://www.nirsoft.net/utils/domain_hosting_view.html)
+
+MX probe:  
+[Google's Check MX☁](https://toolbox.googleapps.com/apps/checkmx/),
+[MxToolbox☁](https://mxtoolbox.com/)
 
 nslookup GUI:  
 [DNSDataView⊞■](https://www.nirsoft.net/utils/dns_records_viewer.html)
