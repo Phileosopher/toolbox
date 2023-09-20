@@ -1,5 +1,9 @@
 # Games: Consuming
 
+Games platforms:  
+[Steam](https://store.steampowered.com/),
+[GOG.com🕵️](https://www.gog.com/)
+
 Games without dark patterns:  
 [DarkPattern.games](https://www.darkpattern.games/)
 
@@ -15,7 +19,7 @@ Save file tweaking:
 Playtime - planning:  
 [HowLongToBeat.com☁](https://howlongtobeat.com/)
 
-Playtime - tracking:  
+Playtime - Steam game tracking:  
 [Steam Gauge☁](https://www.mysteamgauge.com/),
 [Wasted hours on Steam☁](https://steamtime.info/)
 

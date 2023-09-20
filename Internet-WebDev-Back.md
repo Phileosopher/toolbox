@@ -13,6 +13,9 @@ App cost calculator:
 Do-it-yourself hosting/domains:  
 [NearlyFreeSpeech.NET☁🕵️](https://www.nearlyfreespeech.net/)
 
+Decentralized domains:  
+[Handshake☁🕵️](https://handshake.org/)
+
 Managed hosting - free:  
 [Neocities☁](https://neocities.org/),
 [Heroku☁](https://www.heroku.com/)
