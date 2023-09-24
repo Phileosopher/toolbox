@@ -13,6 +13,9 @@ Price tracking - Amazon:
 Rewards points:  
 [Award Wallet☁](https://awardwallet.com/)
 
+Shrinkflation tracking:  
+[shrinkflation.io](https://www.shrinkflation.io/products)
+
 ## Discounts
 
 [Coupon Sherpa☁🍎🤖](https://www.couponsherpa.com/),
