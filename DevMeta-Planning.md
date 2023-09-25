@@ -7,7 +7,7 @@ Possible projects:
 [Mega Projects List*](https://github.com/karan/Projects/)
 
 Tutorials:  
-[Build Your Own X*](https://github.com/danistefanovic/build-your-own-x)
+[Build Your Own X*](https://github.com/codecrafters-io/build-your-own-x)
 
 Learning new languages:  
 [pl-catalog☁](https://github.com/prathyvsh/pl-catalog)
