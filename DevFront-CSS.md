@@ -41,6 +41,8 @@ CSS reset:
 
 ## General Visual Effects
 
+[Toptal's CSS3Maker☁](https://www.toptal.com/developers/css3maker)
+
 Blocks:  
 [blocks.css](https://thesephist.github.io/blocks.css/),
 [paper.css](https://thesephist.github.io/paper.css/),
@@ -73,6 +75,12 @@ Blobs:
 
 Triangles:  
 [10015's CSS Triangle Generator☁](https://10015.io/tools/css-triangle-generator)
+
+Clip path:  
+[10015's CSS Clip Path Generator☁](https://10015.io/tools/css-clip-path-generator)
+
+Cubic bezier:  
+[10015's Cubic Bezier Generator☁](https://10015.io/tools/css-cubic-bezier-generator)
 
 ## Responsive Design
 
@@ -133,17 +141,20 @@ Shadows:
 [Keyframes.app's Animate☁](https://keyframes.app/shadows/),
 [Trendy CSS Text Shadows by Mixfont☁](https://www.mixfont.com/shadows)
 
-## Background Patterns
+## Supporting Elements - Background Patterns
 
+Geometric patterns:  
 [10015's CSS Background Pattern Generator☁](https://10015.io/tools/css-background-pattern-generator),
-[patterns.css*](https://bansal.io/pattern-css)
+[CSS3 Patterns Gallery*](https://projects.verou.me/css3patterns/),
+[Gradienta*](https://gradienta.io/),
+[Hero Patterns*](https://www.heropatterns.com/),
+[MagicPattern's CSS Background Patterns☁](https://www.magicpattern.design/tools/css-backgrounds)
+[patterns.css*](https://bansal.io/pattern-css),
+[Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/),
+[Transparent Textures](https://www.transparenttextures.com/)
 
 Live backgrounds:  
 [makebackground.io☁](https://makebackground.io/)
-
-Geometric patterns:  
-[Gradienta*](https://gradienta.io/),
-[MagicPattern's CSS Background Patterns☁](https://www.magicpattern.design/tools/css-backgrounds)
 
 Triangle patterns:  
 [Trianglify.io☁](https://trianglify.io/)
@@ -156,3 +167,6 @@ A11y issues:
 
 Linting:  
 [CSS Lint☁](http://csslint.net/)
+
+Minifier/optimizing:  
+[10015's CSS Minifier☁](https://10015.io/tools/css-minifier)

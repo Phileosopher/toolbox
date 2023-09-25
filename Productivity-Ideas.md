@@ -58,6 +58,8 @@ Project management + collaboration:
 
 Quick notes/sporadic:  
 [notes.io☁](http://notes.io/),
+[Simplenote☁⊞⌘🐧🍎🤖](https://simplenote.com/),
+[Standard Notes☁🐧](https://standardnotes.com/)
 
 Hierarchical notebooks:  
 [cherrytree⊞■⌘🐧](https://www.giuspen.com/cherrytree/),

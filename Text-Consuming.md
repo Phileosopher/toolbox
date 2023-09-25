@@ -9,8 +9,11 @@ Speed-reading:
 Jargon filter:  
 [Bullshit.js⇉](https://mourner.github.io/bullshit.js/)
 
+TL;DR websites:  
+[Kagi's Universal Summarizer☁](https://kagi.com/summarizer/index.html)
+
 TL;DR PDFs:  
-[pdf2gpt](https://pdf2gpt.com/)
+[pdf2gpt☁](https://pdf2gpt.com/)
 
 ## Media Viewers
 

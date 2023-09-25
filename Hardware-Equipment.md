@@ -26,6 +26,9 @@ Headlamp
 
 [Cat phones](https://www.catphones.com/)
 
+Smartphone sensor readings:  
+[phyphox🍎🤖](https://phyphox.org/)
+
 ## Shopping
 
 Factory parts:  

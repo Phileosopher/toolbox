@@ -25,11 +25,14 @@ Mobile bandwidth reference:
 [FCC Online Table of Frequency Allocations*](https://transition.fcc.gov/oet/spectrum/table/fcctable.pdf),
 [United States Frequency Allocation Chart*](https://www.ntia.doc.gov/page/2011/united-states-frequency-allocation-chart)
 
-Mobile Networks:  
+Mobile networks - MNO location:  
 [CellMapper](https://www.cellmapper.net/Index),
 [OpenSignal🍎🤖](https://www.opensignal.com/apps),
 [SCADACore's Cell Tower Map - Canada](https://www.scadacore.com/tools/rf-path/cell-tower-map-canada/),
 [SCADACore's Cell Tower Map - United States](https://www.scadacore.com/tools/rf-path/cell-tower-map-united-states/)
+
+Mobile networks - MVNO parent networks:
+[MVNO List](https://bestmvno.com/mvnos/)
 
 WLAN map:  
 [WiGLE☁](https://wigle.net/)

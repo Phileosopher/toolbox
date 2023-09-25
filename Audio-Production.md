@@ -75,6 +75,14 @@ Synthesizer:
 [Synth1⊞](https://daichilab.sakura.ne.jp/softsynth/index.html),
 [ZynAddSubFX](https://zynaddsubfx.sourceforge.io/) (and its fork [Yoshimi](https://yoshimi.sourceforge.io/))
 
+## Auto-Generation
+
+Pulling samples:  
+[SOURCE🐍](https://github.com/ffont/source)
+
+Sample combination:  
+[AuMe☁](https://audiometaphor.ca/)
+
 ## Broadcasting
 
 Podcast hosting:  

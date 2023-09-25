@@ -191,7 +191,7 @@ Payment methods:
 [DrawKit](https://www.drawkit.io/), [Dash Illustrations](https://www.karthiksrinivas.in/dash), [Delesign's Free Illustrations](https://www.delesign.com/free-designs/graphics),
 [Freellustrations](https://www.freellustrations.com/), [Fresh Folk](https://fresh-folk.com/),
 [Getillustrations.com's Ghost Builder](https://getillustrations.com/illustration-pack/ghost-illustrations-builder), [Glaze](https://www.glazestock.com/),
-[Hero Patterns](https://www.heropatterns.com/), [Humaaans](https://www.humaaans.com/),
+[Humaaans](https://www.humaaans.com/),
 [Icons8 Illustrations](https://icons8.com/illustrations), [iconscout's Indian Doodle](https://iconscout.com/illustration-pack/indian-doodle), [iconscout's Paper Illustrations](https://iconscout.com/paper-illustrations), [illlustrations](https://illlustrations.co/), [Illustration Kit](https://illustrationkit.com/), [IRA Design](https://iradesign.io/gallery/illustrations),
 [Karthic Srinivas' Illustrations](https://www.karthiksrinivas.in/illustrations),
 [Lukasz Adam's Free Illustrations](https://lukaszadam.com/illustrations),

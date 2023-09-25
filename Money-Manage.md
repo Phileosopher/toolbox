@@ -43,7 +43,8 @@ Accounting all-in-one:
 
 Personal finance - positions:  
 [GnuCash⊞■⌘🐧](https://www.gnucash.org/),
-[KMyMoney⊞⌘🐧](https://kmymoney.org/)
+[KMyMoney⊞⌘🐧](https://kmymoney.org/),
+[Paisa⊞⌘□](https://paisa.fyi/)
 
 Personal finance - projections:  
 [ProjectionLab](https://projectionlab.com/)

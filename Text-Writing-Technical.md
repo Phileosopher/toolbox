@@ -7,6 +7,11 @@ Email copy:
 
 ## Writing Software
 
+Text editor with calculator features:  
+[Numbr☁⇉](https://numbr.dev/),
+[NumPad☁](https://numpad.io/),
+[Soulver 3⌘🍎](https://soulver.app/)
+
 LaTeX:  
 [LaTeX☁⊞⌘🐧](https://www.latex-project.org/),
 [SwiftLaTeX☁](https://www.swiftlatex.com),

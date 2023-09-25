@@ -43,6 +43,9 @@ Custom effects:
 Enterprise videoconferencing:  
 [Jitsi Videobridge](https://jitsi.org/jitsi-videobridge/)
 
+Office documents:  
+[ONLYOFFICE Docs⊞🐧💾](https://www.onlyoffice.com/)
+
 ## IRL
 
 [Meetup☁🍎🤖](https://www.meetup.com/)

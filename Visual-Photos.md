@@ -40,7 +40,8 @@ Drawing/painting:
 [Krita⊞■⌘🐧](https://krita.org/en/)
 [Autodesk SketchBook⊞⌘🍎🤖](https://www.autodesk.com/products/sketchbook/overview),
 [Paintstorm Studio⊞⌘🐧](https://www.paintstormstudio.com/buy.html),
-[Photopea☁](https://www.photopea.com/)
+[Photopea☁](https://www.photopea.com/),
+[Procreate🍎](https://procreate.com/)
 
 Icons/cursors:  
 [GFIE Pro⊞■🐧](http://greenfishsoftware.org/)

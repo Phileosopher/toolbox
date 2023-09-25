@@ -84,6 +84,9 @@ Eyewear:
 Fuel:  
 [GasBuddy☁🍎🤖](https://www.gasbuddy.com/)
 
+Heart rate sensor:  
+[Polar H10](https://www.polar.com/us-en/sensors/h10-heart-rate-sensor/)
+
 Insurance:  
 [Insurify☁](https://insurify.com/),
 [Jerry☁](https://getjerry.com/),

@@ -108,6 +108,14 @@ Housing:
 [LOUQE](https://www.louqe.com/),
 [teenage engineering](https://teenage.engineering/)
 
+## Devices
+
+Modular components:  
+[goBILDA](https://www.gobilda.com/)
+
+Book scanner:  
+[Linear Book Scanner](https://linearbookscanner.org/)
+
 ## Robotics
 
 OS:  
@@ -121,6 +129,9 @@ Debugging/testing:
 
 Smartphone robots:  
 [OpenBot🍎🤖](https://www.openbot.org/)
+
+Mars-inspired 6-wheel rover:  
+[open source rover](https://github.com/nasa-jpl/open-source-rover)
 
 ## Quantum Computing
 

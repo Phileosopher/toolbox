@@ -80,6 +80,9 @@ Binaural beats:
 Personality Test:
 [Understand Myself](https://understandmyself.com/)
 
+Breathing regulation:  
+[Every Breath You Take$](https://github.com/kbre93/every-breath-you-take)
+
 ## Wellness - Computer Tasks
 
 Circadian rhythm-based lighting:  

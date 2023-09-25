@@ -8,3 +8,6 @@ Serial code generator:
 
 Mouse side button mapping:  
 [SensibleSideButtons](https://sensible-side-buttons.archagon.net/)
+
+GitHub repo search (with [Alfred](https://www.alfredapp.com/)):  
+[alfred github repos](https://github.com/edgarjs/alfred-github-repos)

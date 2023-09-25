@@ -35,13 +35,17 @@ Decentralized storage:
 
 ## Site Engine/CMS
 
-Static sites:  
-[Zola](https://www.getzola.org/)
-
 [WordPress](https://wordpress.org/) templates/themes/plugins:  
 [Colorlib■⇉](https://colorlib.com/wp/templates/),
 [WordPress Plugins Library■⇉](https://wordpress.org/plugins/),
 [UnderStrap (Bootstrap+WordPress)](https://understrap.com/)
+
+WordPress backup/migration:  
+[Duplicator](https://duplicator.com/)
+[UpdraftPlus](https://updraftplus.com/)
+
+Static sites:  
+[Zola](https://www.getzola.org/)
 
 ## Domains
 

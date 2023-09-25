@@ -12,6 +12,9 @@ AI photo editing:
 [Hotpot.ai](https://hotpot.ai/tools),
 [Lunacy⊞⌘🐧](https://icons8.com/lunacy)
 
+AI emoji generator:  
+[AI Emojis☁](https://emoji.fly.dev/)
+
 Blob generator:  
 [SVG Blob Generator☁](https://10015.io/tools/svg-blob-generator),
 [MagicPattern's Doodle Backgrounds☁](https://www.magicpattern.design/tools/doodle-backgrounds)
@@ -44,7 +47,7 @@ Text output to image:
 
 ## Auto-Tweaking/Filters
 
-[ImageMagick⊞⌘🐧🍎](https://imagemagick.org/)
+[ImageMagick⊞⌘🐧🍎⦿](https://imagemagick.org/)
 
 Image resizing:  
 [Online Image Resizer☁](https://resizeimage.net/),
