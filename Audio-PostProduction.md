@@ -57,16 +57,3 @@ Audio conversion:
 
 Audio conversion - MP3:  
 [Convert to MP3☁](https://webbrowsertools.com/convert-to-mp3/)
-
-## Finalizing
-
-Gain adjustment:  
-[MP3Gain⊞](http://mp3gain.sourceforge.net/)
-
-Metadata:  
-[Discogs*](https://www.discogs.com/),
-[Mp3tag⊞■⌘](https://www.mp3tag.de/en/),
-[MusicBrainz Picard⊞■⌘🐧](https://picard.musicbrainz.org/)
-
-Metadata - audiobooks:  
-[Chapter and Verse⊞](http://lodensoftware.com/chapter-and-verse/)

@@ -99,7 +99,7 @@ YouTube:
 [FreeTube⊞⌘🐧](https://freetubeapp.io/),
 [Invidious](https://invidious.io/),
 [NewPipe🤖](https://newpipe.net/),
-[Piped](https://piped.video/),
+[Piped☁](https://piped.video/),
 [yattee⌘🍎](https://github.com/yattee/yattee),
 [YouTube™ Vanced🤖](https://vancedapp.com/),
 
@@ -125,4 +125,3 @@ Information-gathering opt-out - VISA:
 
 Private data tracking:  
 [Rita🍎🤖](https://ritapersonaldata.com/)
-

@@ -40,6 +40,9 @@ File conversion/recording:
 Synchronize subtitles with video:  
 [FFsubsync🐧□](https://github.com/smacke/ffsubsync)
 
+Video/audio muxing:  
+[WebBrowserTools' Video & Audio Muxer☁](https://webbrowsertools.com/video-audio-muxer/)
+
 ## Auto-Rendering
 
 Motion picture film emulation:  

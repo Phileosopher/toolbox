@@ -25,6 +25,7 @@ For diagramming and charts, look at [Visual-Data.md](https://github.com/Phileoso
 Mind mapping/outlining:  
 [Bubbl.us☁](https://bubbl.us/)
 [coggle☁](https://coggle.it/),
+[Excalidraw☁](https://excalidraw.com/),
 [FreeMind⊞⌘🐧](http://freemind.sourceforge.net/wiki/index.php/Main_Page),
 [Heimer⊞🐧](https://github.com/juzzlin/Heimer),
 [Minder🐧](https://github.com/phase1geo/Minder),

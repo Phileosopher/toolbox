@@ -58,6 +58,7 @@ Digital audio workstation (DAW):
 [Ardour⊞⌘🐧](https://www.ardour.org/),
 [Audacity⊞■⌘🐧](https://www.audacityteam.org/) (with a [web-based port☁](https://wavacity.com/)),
 [Audio Recorder☁](https://webbrowsertools.com/audio-recorder/),
+[Bitwig$⊞⌘🐧](https://www.bitwig.com/)
 [Cakewalk by BandLab⊞](https://www.bandlab.com/products/cakewalk),
 [LMMS⊞■⌘🐧](https://lmms.io/),
 [WavePad](https://www.nch.com.au/wavepad/index.html)
