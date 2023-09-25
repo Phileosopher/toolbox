@@ -29,6 +29,7 @@
 
 ## Stock Photos
 
+[Aurel Manea Photo archive](http://aurelm.com/portfolio/aurel-manea-photo-archive/),
 [British Museum Collection](https://www.britishmuseum.org/collection), [BucketListly Blog's Photos](https://www.bucketlistly.blog/photos/),
 [Chamber of Commerce FindAPhoto](https://www.chamberofcommerce.org/findaphoto/),
 [Everypixel](https://www.everypixel.com/),

@@ -44,6 +44,8 @@ Text output to image:
 
 ## Auto-Tweaking/Filters
 
+[ImageMagick⊞⌘🐧🍎](https://imagemagick.org/)
+
 Image resizing:  
 [Online Image Resizer☁](https://resizeimage.net/),
 [Make Your Photo 16x9☁](https://photo16x9.com/)
