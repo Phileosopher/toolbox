@@ -110,7 +110,10 @@ Housing:
 
 ## Devices
 
-Modular components:  
+Modular components - prototype:  
+[Meccano](https://www.meccano.com/en_us)
+
+Modular components - working model:  
 [goBILDA](https://www.gobilda.com/)
 
 Book scanner:  
