@@ -29,6 +29,9 @@ Creator-based:
 [Behance☁🍎](https://www.behance.net/),
 [Dribbble☁🍎🤖](https://dribbble.com/)
 
+Emotional support:  
+[7 Cups](https://www.7cups.com/)
+
 Cross-platform influencer following:  
 [Fraidycat⇉⊞⌘🐧](https://fraidyc.at/)
 
