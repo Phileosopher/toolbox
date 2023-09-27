@@ -13,3 +13,6 @@ System file/program management (from a PC):
 
 File management:  
 [X-plore File Manager🤖](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore&hl=en_US&gl=US)
+
+Camera:  
+[Libre Camera🤖🕵️](https://f-droid.org/packages/com.iakmds.librecamera/)

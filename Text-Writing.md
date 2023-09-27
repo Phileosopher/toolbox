@@ -89,7 +89,7 @@ Star Wars intro style:
 Grammar/Spelling/Style check:  
 [After the Deadline☁](https://www.polishmywriting.com/),
 [Bullshit.js■⇉](https://mourner.github.io/bullshit.js/),
-[Grammarly⇉☁](https://app.grammarly.com/),
+[:anguage Tool⇉☁🆓](https://languagetool.org/),
 [Hemingway App☁](http://www.hemingwayapp.com/),
 [Readable☁](https://app.readable.com/text/?demo)
 

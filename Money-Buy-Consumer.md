@@ -53,6 +53,9 @@ Industry comparison:
 Durable products:  
 [Buy For Life☁](https://www.buyforlife.com/)
 
+Product sourcing:  
+[ProductFrom.com☁](https://www.productfrom.com/)
+
 Online auctions - liquidations:  
 [AllSurplus☁](https://www.allsurplus.com/)
 

@@ -81,10 +81,13 @@ Block chat widgets:
 ## Anti-Trackers - Non-Google Browser
 
 FLoC test:  
-[Am I FLoCed?☁](https://amifloced.org/)
+[Am I FLoCed?☁🕵️](https://amifloced.org/)
 
 Google Analytics:  
-[Is Google Analytics illegal?](https://isgoogleanalyticsillegal.com/)
+[Is Google Analytics illegal?🕵️](https://isgoogleanalyticsillegal.com/)
+
+Audible Google tracking notification:  
+[googerteller⌘🐧🕵️](https://github.com/berthubert/googerteller)
 
 ## History
 

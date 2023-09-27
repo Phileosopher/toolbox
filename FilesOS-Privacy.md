@@ -30,14 +30,16 @@ Hide windows:
 
 ## Liberated Android
 
-APK files:  
+Raw APK files:  
 [APK-DL☁](https://apk-dl.com/),
 [APKMirror☁](https://www.apkmirror.com/)
-[Evozi's APK Downloader☁](https://apps.evozi.com/apk-downloader/)
+[Evozi's APK Downloader☁](https://apps.evozi.com/apk-downloader/),
+[Uptodown☁](https://www.uptodown.com/)
 
-Alternative Google Play Store:  
+Alternative Google Play Store alternative:  
 [APKPure.com🤖](https://m.apkpure.com/),
 [Aptoide🤖](https://en.aptoide.com/),
+[Aurora🤖](https://auroraoss.com/),
 [F-Droid🤖](https://f-droid.org/)
 
 Google Play Services:  

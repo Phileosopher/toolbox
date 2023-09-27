@@ -81,6 +81,9 @@ Reddit:
 [Geddit🤖](https://kaangiray26.github.io/geddit-app/),
 [Teddit☁](https://teddit.net/)
 
+Reddit - review deleted content:  
+[reveddit](https://www.reveddit.com/)
+
 Stack Overflow:  
 [AnonymousOverflow](https://code.whatever.social/)
 
@@ -106,11 +109,14 @@ YouTube:
 [yattee⌘🍎](https://github.com/yattee/yattee),
 [YouTube™ Vanced🤖](https://vancedapp.com/),
 
+YouTube - reviewed content:  
+[Favoree☁](https://www.favoree.io/)
+
 YouTube Music:  
 [Beatbump](https://beatbump.io/),
 [Hyperpipe](https://hyperpipe.surge.sh/)
 
-## Third-Party Data Management🕵️
+## Third-Party Data & PII Management🕵️
 
 Account deleter:  
 [Account Killer☁](https://www.accountkiller.com/en/popular),
@@ -128,3 +134,6 @@ Information-gathering opt-out - VISA:
 
 Private data tracking:  
 [Rita🍎🤖](https://ritapersonaldata.com/)
+
+Automatic data opt-out:  
+[incogni☁](https://incogni.com/)

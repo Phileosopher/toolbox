@@ -278,3 +278,8 @@ Encryption test:
 
 Telnet/SSH client:  
 [PuTTY⊞■🐧](https://putty.org/)
+
+## Multiple Levels
+
+Firewall (L3, L4, L7):  
+[Little Snitch Mini⌘🕵️](https://obdev.at/products/littlesnitch-mini/index.html)

@@ -32,6 +32,9 @@ Credit cards:
 Banking for teens:  
 [Step☁](https://step.com/)
 
+Payment processor:  
+[Parallel☁](https://gabpay.live/)
+
 ## Personal Finance
 
 Barebones income/expense tracking:  
