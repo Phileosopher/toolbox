@@ -86,7 +86,8 @@ Image posts:
 
 Emails:  
 [Buttondown☁](https://buttondown.email/),
-[MailPoet(WordPress)⇉](https://www.mailpoet.com/)
+[MailPoet(WordPress)⇉](https://www.mailpoet.com/),
+[Twilio's SendGrid](https://sendgrid.com/)
 
 ## Influencers
 

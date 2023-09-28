@@ -265,6 +265,9 @@ Checksums:
 Conversion:  
 [SCADACore's Online Hex Converter](https://www.scadacore.com/tools/programming-calculators/online-hex-converter/)
 
+Email test:  
+[Send a Test Email☁](https://sendtestemail.com/)
+
 Email content test:  
 [Can I email...☁](https://www.caniemail.com/)
 

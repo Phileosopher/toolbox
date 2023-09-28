@@ -1,8 +1,9 @@
 # Business: Marketing - SEO
 
 SEO checker:  
-[BuzzSumo☁](https://app.buzzsumo.com/),
-[woorank☁](https://www.woorank.com/)
+[Ahrefs☁$](https://ahrefs.com/),
+[BuzzSumo☁$](https://buzzsumo.com/),
+[woorank☁$](https://www.woorank.com/)
 
 ## Speed Tests/Optimization
 
