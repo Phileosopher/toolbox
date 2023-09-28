@@ -31,6 +31,11 @@ Blacklist specific websites from web search:
 Military activities:  
 [liveuamap.com](https://liveuamap.com/)
 
+Acronyms:  
+[TheFreeDictionary's Acronyms and Abbreviations](https://acronyms.thefreedictionary.com/),
+[The Acronym Server](https://acronyms.silmaril.ie/),
+[YourDictionary's Abbreviations & Acronyms](https://www.yourdictionary.com/articles/abbreviations-acronyms)
+
 ## Online Archives
 
 [Wayback Machine](https://web.archive.org/)

@@ -22,6 +22,9 @@ Chuck Norris jokes:
 [PlaceIMG🔌](https://placeimg.com/),
 [Unsplash Source🔌](https://source.unsplash.com/)
 
+Blurred images:  
+[BlurHash](https://blurha.sh/)
+
 Blank photos:  
 [Placeholder.com🔌](https://placeholder.com/)
 

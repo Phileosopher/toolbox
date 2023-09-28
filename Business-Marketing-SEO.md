@@ -1,5 +1,10 @@
 # Business: Marketing - SEO
 
+## Content Testing
+
+Plagiarism test:  
+[Copyscape☁](https://www.copyscape.com/)
+
 SEO checker:  
 [Ahrefs☁$](https://ahrefs.com/),
 [BuzzSumo☁$](https://buzzsumo.com/),

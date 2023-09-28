@@ -12,6 +12,15 @@ Affordable college education:
 [Coursera☁](https://www.coursera.org/),
 [Western Governors University☁](https://www.wgu.edu/)
 
+Study notes:  
+[Studocu☁](https://www.studocu.com/) (With [StuHack⇉](https://github.com/isanchop/stuhack) for premium workaround)
+
+Academic search engine:  
+[Google Scholar](https://scholar.google.com/),
+[iSEEK Education (old)](https://education.iseek.com/iseek/home.page),
+[iSEEK Education (new)](https://education.iseek.com/),
+[RefSeek](https://www.refseek.com/)
+
 ## K-12 Learning
 
 Language games:  
@@ -77,9 +86,13 @@ Tech talks:
 
 Research papers/data:  
 [arXiv.org](https://arxiv.org/),
-[Sci-Hub](https://sci-hub.se/),
 [Library Genesis](https://libgen.is/),
 [The General Index](https://archive.org/details/GeneralIndex)
+
+Research papers/data - Sci-Hub mirrors:  
+[Sci-Hub .se](https://sci-hub.se/),
+[Sci-Hub .ru](https://www.sci-hub.ru/),
+[Sci-Hub .st](https://www.sci-hub.st/)
 
 Astronomy:  
 [Stellarium Web](https://stellarium-web.org/)

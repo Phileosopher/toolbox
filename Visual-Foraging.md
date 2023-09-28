@@ -158,9 +158,10 @@ React icons:
 
 ## Logos
 
-[LogoSearch: Instant logo search for SVG logos](https://logosear.ch/),
+[LogoSearch](https://logosear.ch/),
 [Open Logos](https://openlogos.org/),
-[seeklogo](https://seeklogo.com/)
+[seeklogo](https://seeklogo.com/),
+[Worldvectorlogo](https://worldvectorlogo.com/)
 
 Payment methods:  
 [Iconfinder's Payment Method icons](https://www.iconfinder.com/iconsets/payment-method-1)
