@@ -1,7 +1,10 @@
-# Files/OS: Privacy-Based Software🕵️
+# Files/OS: Privacy-Respecting Software🕵️
+
+[Ethical Alternatives & Resources☁](https://ethical.net/resources/)
 
 Anti-FAANG alternatives:  
-[No More Google☁](https://nomoregoogle.com/)
+[No More Google☁](https://nomoregoogle.com/),
+[switching.software☁](https://switching.software/)
 
 User-controlled software:  
 [Zero Data App💾🕵️](https://0data.app/)

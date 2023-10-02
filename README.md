@@ -25,6 +25,8 @@ Obviously, that's not _always_ true:
 
 However, if I need something to stretch audio or batch-compare files, the largest mental hurdle is knowing it even _exists_. I'm perfectly aware a tool can become obsolete, forced behind a paywall, merged into some other software suite, no longer supported, or [was closed-source the entire time](https://trendless.tech/floss). The idea, however, almost always lives on, and someone else typically reinvents it.
 
+Please note: I cannot attest to the validity of the software. Sometimes things become bloatware or malware, and sometimes I simply trust that the software does what it says it'll do. Validate the software for yourself, and trust no one.
+
 ## 3. Future Convenience
 
 I _might_ find lots of things here useful someday, but I don't feel like dragging around 4 terabytes of constantly updating programs just to know where they are.

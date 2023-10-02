@@ -8,10 +8,5 @@ Public-access APIs:
 Unofficial APIs:  
 [unofficial-apis⦿](https://github.com/Rolstenhouse/unofficial-apis)
 
-## Specific Miscellaneous APIs
-
-Vehicle listings:  
-[Auto.dev's Vehicle Listings API](https://www.auto.dev/listings)
-
-Airline in-flight WiFi:  
-[United-In-Flight-Api](https://github.com/greatjack1/United-In-Flight-Api)
+Auto VIN decoding:  
+[VIN Decode by Auto.dev](https://www.auto.dev/vin)

@@ -57,6 +57,9 @@ Court records:
 
 ## Specific Search Engines
 
+Comparisons and alternatives:  
+[Slant](https://www.slant.co/)
+
 Blogs:  
 [Blog Surf☁](https://blogsurf.io/)
 
@@ -65,9 +68,6 @@ Similar websites:
 
 Sports information:  
 [TheSportsDB.com🔌](https://thesportsdb.com/)
-
-Visual media:  
-[IMDb](https://www.imdb.com/)
 
 European surnames:  
 [Surname Map](https://www.surnamemap.eu/)

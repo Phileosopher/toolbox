@@ -1,15 +1,13 @@
 # Communicating: Social Media
 
-Video multicast:  
-[Restream☁⇉](https://restream.io/)
+## Removing Paywalls
 
-Shared screen experience:  
-[Kosmi☁](https://kosmi.io/)
-
-Articles behind paywalls:  
+Articles:  
 [Wayback Machine☁](https://archive.org/web/),
 [Webpage archive☁](https://archive.today/),
 [Web Archives⇉](https://github.com/dessant/web-archives)
+
+## Media-Based
 
 Text feed:  
 [Mastodon☁🍎🤖](https://joinmastodon.org/)
@@ -22,20 +20,32 @@ Videos:
 [Odysee☁](https://odysee.com/),
 [Vimeo☁](https://vimeo.com/watch)
 
-Image-based:  
+Images:  
 [Pinterest☁🍎🤖](https://pinterest.com)
 
-Creator-based:  
+## Creator-Based
+
 [Behance☁🍎](https://www.behance.net/),
 [Dribbble☁🍎🤖](https://dribbble.com/)
 
-Emotional support:  
-[7 Cups](https://www.7cups.com/)
+Video multicast:  
+[Restream☁⇉](https://restream.io/)
+
+Shared screen experience:  
+[Kosmi☁](https://kosmi.io/)
 
 Cross-platform influencer following:  
 [Fraidycat⇉⊞⌘🐧](https://fraidyc.at/)
 
-Game-based:  
+## Subject-Based
+
+Emotional support:  
+[7 Cups](https://www.7cups.com/)
+
+Films:  
+[Letterboxd](https://letterboxd.com/)
+
+Board games:  
 [BoardGameGeek☁](https://www.boardgamegeek.com/),
 [DriveThruCards.com☁](https://www.drivethrucards.com/)
 

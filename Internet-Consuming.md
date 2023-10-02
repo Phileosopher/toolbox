@@ -3,6 +3,9 @@
 Web bookmarks:  
 [Every bookmark manager ever made*](https://bookmarkos.com/every-bookmark-manager-ever-made)
 
+Media reviews:  
+[Metacritic](https://www.metacritic.com/)
+
 ## News☁
 
 TL;DR News:  

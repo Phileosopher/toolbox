@@ -27,7 +27,17 @@ TL;DW YouTube - Transcript:
 
 Search engine:  
 [JustWatch](https://www.justwatch.com/),
-[Movie of the Night](https://www.movieofthenight.com/)
+[Movie of the Night](https://www.movieofthenight.com/),
+[Movieo](https://movieo.me/)
+
+Database:  
+[IMDb](https://www.imdb.com/)
+
+Database - TV:  
+[TVmaze.com](https://www.tvmaze.com/)
+
+Database - DVD/Bluray/Online release dates:  
+[DVDs Release Dates](https://www.dvdsreleasedates.com/)
 
 Media availability by country:  
 [Streaming Availability API🔌⦿](https://www.movieofthenight.com/about/api)
@@ -42,6 +52,10 @@ P2P movie sharing:
 [watchIT](https://github.com/ZorrillosDev/watchit-app)
 
 ## Media Libraries
+
+Tracking/synchronization:  
+[Simkl](https://simkl.com/),
+[Trakt⊞🍎🤖](https://trakt.tv/)
 
 All-purpose media:  
 [Servarr (Lidarr, Radarr, Readarr, Sonarr)💾](https://wiki.servarr.com/)

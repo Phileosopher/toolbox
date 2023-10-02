@@ -1,8 +1,10 @@
 # Files/OS
 
 Alternative software:  
+[Alternative.me](https://alternative.me/),
 [AlternativeTo](https://alternativeto.net/),
-[Capterra](https://www.capterra.com/)
+[Capterra](https://www.capterra.com/),
+[SaaSHub](https://www.saashub.com/)
 
 Scanner drivers:  
 [VueScan⊞⌘🐧](https://www.hamrick.com/)
