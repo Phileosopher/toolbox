@@ -42,7 +42,7 @@ Reference images/visual boards:
 [Milanote⊞⌘🍎🤖⇉](https://milanote.com/)
 
 All-in-one:  
-[Anytype⊞⌘☁🍎🤖](https://anytype.io/)
+[Anytype⊞⌘☁🍎🤖](https://anytype.io/),
 
 Venn Diagrams:  
 [Good Calculators' Venn Diagram Maker☁](https://goodcalculators.com/venn-diagram-maker/),

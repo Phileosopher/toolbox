@@ -29,6 +29,10 @@ Webpage markups:
 Using software:  
 [Moonlight](https://moonlight-stream.org/)
 
+Annotations:  
+[Annotate](https://annotate.net/),
+[Hypothesis](https://web.hypothes.is/)
+
 ## Meetings - Videoconferencing
 
 [Jitsi Meet☁🍎🤖](https://meet.jit.si/),

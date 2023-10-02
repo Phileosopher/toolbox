@@ -30,6 +30,10 @@ Language games:
 
 [US Department of Education College Scorecard](https://collegescorecard.ed.gov/)
 
+University articles:  
+[OA.mg](https://oa.mg/),
+[Unpaywall](https://unpaywall.org/)
+
 Teacher review:  
 [Rate My Professors](https://www.ratemyprofessors.com/)
 
@@ -110,6 +114,14 @@ Anatomy:
 
 Cooking:  
 [Parsnip🤖🍎](https://www.parsnip.ai/)
+
+Genealogical archives:  
+[Forebears](https://forebears.io/),
+[FreeBMD (UK)](https://www.freebmd.org.uk/),
+[Genealogy.com](https://www.genealogy.com/),
+[GenealogyInTime Magazine](https://www.genealogyintime.com/),
+[Genealogy Links](https://www.genealogylinks.net/),
+[The National Archives (UK)](https://www.nationalarchives.gov.uk/)
 
 ## Teaching
 

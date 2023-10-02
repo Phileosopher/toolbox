@@ -6,6 +6,9 @@ Legal research:
 Legal research - complaints and online material removal:  
 [Lumen☁](https://lumendatabase.org/)
 
+Court record search:  
+[judyrecords](https://www.judyrecords.com/)
+
 ## Automated Legal Services
 
 Filings and auto-generated documents:  

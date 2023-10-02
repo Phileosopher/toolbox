@@ -22,11 +22,20 @@ Streaming service:
 
 ## Audio Books
 
-Downloading:  
+Search:  
+[AudioBook Bay](https://theaudiobookbay.se/)
+
+Search - freemium books:  
+[Tokybook](https://tokybook.com/)
+
+Search - public domain books:  
 [LibriVox](https://librivox.org/)
 
-Audiobooks:  
+Audiobook management:  
 [audiobookshelf💾](https://www.audiobookshelf.org/)
+
+Audible AAX file conversion:  
+[AAXtoMP3](https://krumpetpirate.github.io/AAXtoMP3/)
 
 ## Audio Optimization
 

@@ -36,26 +36,10 @@ Acronyms:
 [The Acronym Server](https://acronyms.silmaril.ie/),
 [YourDictionary's Abbreviations & Acronyms](https://www.yourdictionary.com/articles/abbreviations-acronyms)
 
-## Online Archives
-
+Archived internet pages:  
 [Wayback Machine](https://web.archive.org/)
 
-Books:  
-[Anna’s Archive](https://annas-archive.org/),
-[Library Genesis](https://libgen.is/),
-[Open Library](https://openlibrary.org/),
-[Standard Ebooks](https://standardebooks.org/),
-[zlibrary](https://b-ok.cc/),
-[UPenn's The Online Books Page](https://onlinebooks.library.upenn.edu/)
-
-University articles:  
-[OA.mg](https://oa.mg/),
-[Unpaywall](https://unpaywall.org/)
-
-Court records:  
-[judyrecords](https://www.judyrecords.com/)
-
-## Specific Search Engines
+## Specific Search Engines (Not Categorizable Elsewhere)
 
 Comparisons and alternatives:  
 [Slant](https://www.slant.co/)
