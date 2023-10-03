@@ -21,6 +21,9 @@ Academic search engine:
 [iSEEK Education (new)](https://education.iseek.com/),
 [RefSeek](https://www.refseek.com/)
 
+Bibliography extraction/management:  
+[cb2Bib](https://www.molspaces.com/cb2bib/)
+
 ## K-12 Learning
 
 Language games:  

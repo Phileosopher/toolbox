@@ -61,11 +61,24 @@ The definition of "tool" is hairy:
 
 So, for brevity's sake, I'm mostly glossing over a few groups:
 
-- The built-in tools. If I need them, they're in the computer already.
-- [Mega-corp](https://gainedin.site/groups-large) tools. They already have plenty of [advertising they paid for](https://notageni.us/marketing/), so they're _literally_ the first thing that comes up when you type that need into a search engine.
+- The built-in tools. If I need them, they're in the computer already, and I'll make a nod to them on [my tech essays](https://trendless.tech).
+- Most [mega-corp](https://gainedin.site/groups-large) tools. They already pay for plenty of [advertising](https://notageni.us/marketing/) and are _literally_ the first thing that comes up when you type that need into a search engine.
 - Paid tools when they cost enough that it makes me pause to consider [my budget](https://adequate.life/money-3/). I'm a big proponent of [free licenses](https://trendless.tech/floss/) whenever possible.
-- Most courses and courseware, since most of that is part of a _constantly_ revolving cycle of [technology fashions](https://trendless.tech/trends/). Netscape and Java don't run the planet anymore, but the concept of [web browsers](https://trendless.tech/web-dev/) and [programming languages endorsed by mega-corporations](https://trendless.tech/langs/) still are.
-- Anything where [a scandal was attached to it](https://trendless.tech/faang), it's [highly politicized](https://gainedin.site/conservative-liberal), is [debatably close to illegal](https://notageni.us/legally-safe), or it [got hacked](https://trendless.tech/hacking). I've got enough drama in my life without looking for more.
+- Most courses and courseware, which describe how to manipulate a specific tool more than what that tool does.
+- Anything [associated with a scandal](https://trendless.tech/faang), [highly politicized](https://gainedin.site/conservative-liberal), [debatably close to illegal](https://notageni.us/legally-safe), or [was hacked](https://trendless.tech/hacking). I've got enough drama in my life without looking for more.
+
+If there are lots to choose from, I try to prioritize:
+
+1. Free-as-in-freedom [FLOSS](https://trendless.tech/floss), if possible
+2. Free-as-in-beer free, if possible
+3. Affordably-priced, if possible
+4. Whatever happens to work
+
+Nothing I do here is exhaustively research, and it's all hand-curated, so it won't change that quickly if something new comes along.
+
+I cannot attest to the validity of the software, so [caveat emptor](https://notageni.us/legal-doctrines). Sometimes things become bloatware or malware, and sometimes I simply trust the software developer wasn't lying. Trust no one, and validate the software for yourself.
+
+## Groups
 
 I've broken everything into malleable and somewhat arbitrary groupings, since there are _many_ things that someone could use a computer for, and people are constantly adding new things:
 
@@ -95,6 +108,7 @@ Sometimes, it makes sense to clarify for context how something is used.
 - 🐍 if it runs in Python
 - 🕵️ if it helps with trust issues
 - 🆓 if it's FLOSS
+- $ if it does cost at least some money
 
 Further, some patterns keep cropping up in each domain:
 
@@ -107,25 +121,10 @@ Further further, there are other groups if it's too meta to fit into any one of 
 - Internet: sorta networking, sorta Everything Else
 - Productivity: to broadly streamline doing any of the above
 
-## OS/Usage Earmarks
-
-- $ if it does cost at least some money
-
 These are volatile out-of-the-box OS estimations for several reasons:
 
 - If the specs on a computer are high enough (and they often are if the software is >5 years old), you can make almost any software run on any popular OS. Quick-and-dirty still does the job, even if it's running on an MS-DOS emulator inside a Windows 98 VM on a ROM side-loaded on the SD card of a smartphone.
 - Developers keep making new things for new technologies, so this is constantly becoming obsolete or adapting to new standards.
 - In ten years a standard OS might have everything I've saved pre-installed on it, meaning this won't really matter.
-
-Please note: I cannot attest to the validity of the software. Sometimes things become bloatware or malware, and sometimes I simply trust that the software does what it says it'll do. Validate the software for yourself, and trust no one.
-
-## What I'm looking for
-
-Please PR if you see anything I've missed. Or, if tech's not your thing, contact me via "dave at stucky dot tech":
-
-1. Things that are obsolete and their superior replacement.
-2. Any relevant platforms/languages the tool needs (e.g., ⊞■⌘🐧🍎🤖⇉).
-3. Any classes or sub-classes of tool I may have missed.
-4. Something that should be removed due to a scandal involved, politicization, or was hacked, preferably with a more open-source alternative.
 
 If you like what you see, [check out my other useful things](https://stucky.tech/creations).

@@ -23,6 +23,10 @@ Book search/archive:
 [zlibrary](https://b-ok.cc/),
 [UPenn's The Online Books Page](https://onlinebooks.library.upenn.edu/)
 
+Book archive - public domain content:  
+[Authorama](http://authorama.com/),
+[Bibliomania](http://www.bibliomania.com/)
+
 ## Media Viewers
 
 DjVu:  

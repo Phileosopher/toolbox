@@ -20,6 +20,9 @@ Desktop publishing:
 Desktop publishing - hand-drawn style:  
 [Excalidraw](https://excalidraw.com/)
 
+Flipping books:  
+[FlipHTML5☁](https://fliphtml5.com/)
+
 ## Piles of visual design tools
 
 [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools),
