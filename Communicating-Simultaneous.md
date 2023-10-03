@@ -31,7 +31,8 @@ Using software:
 
 Annotations:  
 [Annotate](https://annotate.net/),
-[Hypothesis](https://web.hypothes.is/)
+[Hypothesis](https://web.hypothes.is/),
+[Squid🤖](https://www.squidnotes.com/)
 
 ## Meetings - Videoconferencing
 

@@ -18,6 +18,10 @@ Creative writing:
 Audio-based:  
 [Voiceliner🍎🤖](https://a9.io/voiceliner/)
 
+Multimedia:  
+[TagSpaces](https://www.tagspaces.org/),
+[Zoho Notebook](https://www.zoho.com/notebook/)
+
 ## Dynamic Note-Taking
 
 For diagramming and charts, look at [Visual-Data.md](https://github.com/Phileosopher/toolbox/Visual-Data.md).
@@ -43,6 +47,7 @@ Reference images/visual boards:
 
 All-in-one:  
 [Anytype⊞⌘☁🍎🤖](https://anytype.io/),
+[Notion](https://www.notion.so/)
 
 Venn Diagrams:  
 [Good Calculators' Venn Diagram Maker☁](https://goodcalculators.com/venn-diagram-maker/),
@@ -58,9 +63,11 @@ Project management + collaboration:
 ## Text Notes
 
 Quick notes/sporadic:  
+[KeepNote⊞⌘🐧](https://keepnote.org/)
 [notes.io☁](http://notes.io/),
 [Simplenote☁⊞⌘🐧🍎🤖](https://simplenote.com/),
-[Standard Notes☁🐧](https://standardnotes.com/)
+[Standard Notes☁🐧](https://standardnotes.com/),
+[Tomboy⊞⌘🐧](https://wiki.gnome.org/Apps/Tomboy)
 
 Hierarchical notebooks:  
 [cherrytree⊞■⌘🐧](https://www.giuspen.com/cherrytree/),

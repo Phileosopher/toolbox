@@ -9,7 +9,6 @@ All-in-one:
 Supplier RFQs/quotes:  
 [Jiga☁](https://jiga.io/)
 
-
 ## ERP/CRM
 
 ERP:  
@@ -27,3 +26,6 @@ ERP + CRM:
 
 User support/ticketing:  
 [Zammad🐧💾](https://zammad.org/)
+
+Knowledge base:  
+[Slite](https://slite.com/)

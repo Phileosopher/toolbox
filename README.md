@@ -74,7 +74,7 @@ If there are lots to choose from, I try to prioritize:
 3. Affordably-priced, if possible
 4. Whatever happens to work
 
-Nothing I do here is exhaustively research, and it's all hand-curated, so it won't change that quickly if something new comes along.
+Nothing I do here is exhaustively research, and it's all hand-curated, so it won't change that quickly if something new comes along. You can usually tell how exhaustive my efforts are by how much I've earmarked an individual tool.
 
 I cannot attest to the validity of the software, so [caveat emptor](https://notageni.us/legal-doctrines). Sometimes things become bloatware or malware, and sometimes I simply trust the software developer wasn't lying. Trust no one, and validate the software for yourself.
 

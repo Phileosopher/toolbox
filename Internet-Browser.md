@@ -20,6 +20,7 @@ Advanced tab management:
 
 Bookmarks:  
 [OneKeep☁](https://onekeep.com/),
+[Pocket⇉](https://getpocket.com/),
 [Raindrop.io☁⇉⊞⌘🐧🍎🤖](https://raindrop.io/)
 
 FAANG alternatives:  
