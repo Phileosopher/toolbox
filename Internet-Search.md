@@ -6,6 +6,9 @@ Non-Google search engine:
 [searx](https://searx.space/),
 [Trilium](https://github.com/zadam/trilium)
 
+Human-curated search:  
+[Curlie](https://curlie.org/)
+
 ## Current Information
 
 Reddit search engine:  
