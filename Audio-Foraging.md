@@ -5,6 +5,7 @@ Sound effects:
 [Freesound](https://freesound.org/),
 [Myinstants](https://www.myinstants.com/),
 [Pianobook](https://www.pianobook.co.uk/),
+[SONNISS Royalty Free Sound Effects](https://sonniss.com/gameaudiogdc),
 [SoundBoardGuy](https://soundboardguy.com/),
 [Videvo's Royalty Free Sound Effects](https://www.videvo.net/royalty-free-sound-effects/),
 [ZapSplat](https://www.zapsplat.com/)
@@ -20,6 +21,7 @@ Stock music:
 Free stock music:  
 [bensound](https://www.bensound.com/),
 [cchound.com](https://cchound.com/),
+[ccMixter](https://ccmixter.org/),
 [Free Music Archive](https://freemusicarchive.org/),
 [Icons8 Fugue](https://icons8.com/music),
 [Loyalty Freak Music](https://loyaltyfreakmusic.com/),

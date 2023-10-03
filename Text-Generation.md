@@ -25,7 +25,7 @@ String generator:
 [TextFX](https://textfx.withgoogle.com/)
 
 Dictionary:  
-[Dictionary.com☁](https://www.dictionary.com/)
+[Ninjawords☁](https://ninjawords.com/)
 
 Pronunciation:  
 [Forvo☁](https://forvo.com/)

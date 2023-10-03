@@ -1,12 +1,5 @@
 # Games: Consuming
 
-Games platforms:  
-[Steam](https://store.steampowered.com/),
-[GOG.com🕵️](https://www.gog.com/)
-
-Games without dark patterns:  
-[DarkPattern.games](https://www.darkpattern.games/)
-
 Pausing any game:  
 [Universal Pause Button⊞](https://github.com/ryanries/UniversalPauseButton)
 
@@ -25,6 +18,18 @@ Playtime - Steam game tracking:
 
 Electronic games database:  
 [IGDB.com](https://www.igdb.com/)
+
+## Foraging
+
+Games platforms:  
+[Steam](https://store.steampowered.com/),
+[GOG.com🕵️](https://www.gog.com/)
+
+Games without dark patterns:  
+[DarkPattern.games](https://www.darkpattern.games/)
+
+Old games:  
+[My Abandonware](https://www.myabandonware.com/)
 
 ## Virtual gaming platforms
 
