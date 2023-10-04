@@ -3,7 +3,8 @@
 Travel guides:  
 [Frommer's Travel Guides*](https://www.frommers.com/)
 
-Visa-based travel restrictions:  
+Passport travel restrictions:  
+[Passport Index☁](https://www.passportindex.org/)
 [Visa List☁](https://visalist.io/)
 
 International time:  

@@ -1,7 +1,11 @@
 # Audio: Foraging
 
+[Internet Archive Audio Archive](https://archive.org/details/audio)
+
 Sound effects:  
+[Airborne Sound's Free Sound Effects](https://www.airbornesound.com/sound-effects-library/free-sound-effects/),
 [BBC Sound Effects (licensed)](http://bbcsfx.acropolis.org.uk/),
+[Free SFX](https://www.freesfx.co.uk/),
 [Freesound](https://freesound.org/),
 [Myinstants](https://www.myinstants.com/),
 [Pianobook](https://www.pianobook.co.uk/),

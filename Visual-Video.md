@@ -14,6 +14,9 @@ Church events:
 Ideal video cameras:  
 [Netflix's approved cameras*](https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture)
 
+Camera search:  
+[EarthCam](https://www.earthcam.com/)
+
 ## Editing
 
 [DaVinci Resolve⊞⌘🐧](https://www.blackmagicdesign.com/products/davinciresolve/),

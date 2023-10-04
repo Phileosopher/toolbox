@@ -17,6 +17,9 @@ EXIF data:
 Icon library/organizer:  
 [Nucleo⊞⌘](https://nucleoapp.com/)
 
+Tiled image downloader:  
+[dezoomify-rs](https://dezoomify-rs.ophir.dev/)
+
 ## Post-Production
 
 SVGs/illustrations:  

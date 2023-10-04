@@ -1,5 +1,12 @@
 # Money: Investing & Borrowing
 
+## Learning
+
+[Investopedia](https://www.investopedia.com/)
+
+Blockchain & cryptocurrency:  
+[IQ.wiki](https://iq.wiki/)
+
 ## Research
 
 [Fitch Ratings*](https://www.fitchratings.com/),

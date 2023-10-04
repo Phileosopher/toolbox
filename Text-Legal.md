@@ -3,6 +3,9 @@
 Legal research:  
 [LexisNexis' Lexis+$](https://www.lexisnexis.com/en-us/products/lexis-plus.page)
 
+Legal research - International Court of Justice:  
+[Document search](https://www.icj-cij.org/advanced-search)
+
 Legal research - complaints and online material removal:  
 [Lumen☁](https://lumendatabase.org/)
 

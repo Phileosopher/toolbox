@@ -49,6 +49,12 @@ Board games:
 [BoardGameGeek☁](https://www.boardgamegeek.com/),
 [DriveThruCards.com☁](https://www.drivethrucards.com/)
 
+Scientific research:  
+[ResearchGate](https://www.researchgate.net/)
+
+Short stories:  
+[Writing Atlas](https://writingatlas.com/)
+
 ## Pulling Social Media IDs
 
 [FB Profile ID, Page ID & Group ID Finder☁](https://commentpicker.com/find-facebook-id.php),
@@ -91,6 +97,9 @@ Reddit:
 [Geddit🤖](https://kaangiray26.github.io/geddit-app/),
 [Teddit☁](https://teddit.net/)
 
+Reddit - map:  
+[Map of Reddit](https://www.mapofreddit.com/)
+
 Reddit - review deleted content:  
 [reveddit](https://www.reveddit.com/)
 
@@ -102,10 +111,6 @@ TikTok:
 
 Twitter:  
 [nitter](https://nitter.net/)
-
-Wikipedia:  
-[Modern for Wikipedia⇉](https://www.modernwiki.app/),
-[wikiless](https://github.com/Metastem/wikiless)
 
 Wolfram Alpha:  
 [Wolfree](https://gqq.gitlab.io/)

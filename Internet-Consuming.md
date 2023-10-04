@@ -6,6 +6,12 @@ Web bookmarks:
 Media reviews:  
 [Metacritic](https://www.metacritic.com/)
 
+Open media:  
+[Open Culture](https://www.openculture.com/)
+
+Encyclopedic skimming:  
+[Infoplease](https://www.infoplease.com/)
+
 ## News☁
 
 TL;DR News:  

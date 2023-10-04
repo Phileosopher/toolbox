@@ -6,12 +6,16 @@
 [PDF Tool](https://www.pdftool.org/)
 
 Editor:  
-[PDF24⊞☁](https://en.pdf24.org/)
+[CleverPDF☁](https://www.cleverpdf.com/),
+[PDF24⊞☁](https://en.pdf24.org/),
 [PDFescape☁](https://www.pdfescape.com/windows/),
 [PDF-XChange Editor⊞■](https://pdf-xchange.eu/pdf-xchange-editor/index.htm),
-[PDFTK Builder⊞■](http://www.angusj.com/pdftkb/)
+[PDFTK Builder⊞■](http://www.angusj.com/pdftkb/),
+[Sejda PDF Editor☁](https://www.sejda.com/pdf-editor),
+[Smallpdf☁](https://smallpdf.com/),
+[XpdfReader⊞🐧](https://www.xpdfreader.com/)
 
-EPUB editor:  
+EPUB - editor:  
 [Sigil⊞■⌘🐧](https://sigil-ebook.com/)
 
 PDF - detect differences:  
@@ -22,6 +26,9 @@ PDF - detect differences:
 
 PDF - looking scanned:  
 [Look Scanned](https://lookscanned.io/)
+
+PDF - erase content:  
+[PDF Eraser⊞](https://www.pdferaser.net/)
 
 ## OCR (Optical Character Recognition)
 
@@ -63,6 +70,9 @@ Converting case:
 
 Randomizing lists:  
 [10015 Tools' List Randomizer☁](https://10015.io/tools/list-randomizer)
+
+PDF data table extraction:  
+[Tabula⊞⌘](https://tabula.technology/)
 
 ## Text File Conversion
 

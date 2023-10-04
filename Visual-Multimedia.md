@@ -23,6 +23,9 @@ Desktop publishing - hand-drawn style:
 Flipping books:  
 [FlipHTML5☁](https://fliphtml5.com/)
 
+Automated design conversion:  
+[Issuu](https://issuu.com/)
+
 ## Piles of visual design tools
 
 [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools),

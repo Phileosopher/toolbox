@@ -8,39 +8,54 @@ Textbook answers:
 Related concepts:  
 [Learn Anything☁](https://learn-anything.xyz/)
 
-Affordable college education:  
-[Coursera☁](https://www.coursera.org/),
-[Western Governors University☁](https://www.wgu.edu/)
-
 Study notes:  
 [Studocu☁](https://www.studocu.com/) (With [StuHack⇉](https://github.com/isanchop/stuhack) for premium workaround)
 
-Academic search engine:  
-[Google Scholar](https://scholar.google.com/),
-[iSEEK Education (old)](https://education.iseek.com/iseek/home.page),
-[iSEEK Education (new)](https://education.iseek.com/),
-[RefSeek](https://www.refseek.com/)
+## Research
+
+Wikipedia:  
+[Modern for Wikipedia⇉](https://www.modernwiki.app/),
+[static.wiki☁](http://static.wiki/),
+[wikiless](https://github.com/Metastem/wikiless)
+[Wikiwand⇉](https://www.wikiwand.com/)
+
+Wikipedia - 3D map:  
+[WikiGalaxy](https://wiki.polyfra.me/)
+
+Wikipedia - enhanced search:  
+[Conzept encyclopedia](https://conze.pt/explore?l=en&d=wikipedia,wikidata#)
+
+Check for paper endorsements:  
+[Plaudit⇉](https://plaudit.pub/)
+
+Research management:  
+[Litmaps](https://www.litmaps.com/),
+[ResearchRabbit](https://www.researchrabbit.ai/)
 
 Bibliography extraction/management:  
 [cb2Bib](https://www.molspaces.com/cb2bib/)
 
-## K-12 Learning
+Citations:  
+[Citation Generator☁](https://www.citationgenerator.com/)
 
-Language games:  
-[Online ESL Games](https://www.gamestolearnenglish.com/)
+Insert SciHub links:  
+[sci-hub-injector](https://github.com/justjosias/sci-hub-injector)
 
 ## College Search
 
 [US Department of Education College Scorecard](https://collegescorecard.ed.gov/)
 
-University articles:  
-[OA.mg](https://oa.mg/),
-[Unpaywall](https://unpaywall.org/)
+Affordable college education:  
+[Coursera☁](https://www.coursera.org/),
+[Western Governors University☁](https://www.wgu.edu/)
 
 Teacher review:  
 [Rate My Professors](https://www.ratemyprofessors.com/)
 
 ## Language Learning
+
+Language games:  
+[Online ESL Games](https://www.gamestolearnenglish.com/)
 
 English standards:  
 [Plain English Campaign*](https://www.plainenglish.co.uk/)
@@ -59,14 +74,24 @@ Conversational chat - messaging:
 Conversational chat - AI:  
 [Quazel](https://www.quazel.com/)
 
-## Tech Learning
+Written language:  
+[Omniglot](https://www.omniglot.com/index.htm)
 
-CS books:  
-[Colin S. Gordon's Electronic References](https://csgordon.github.io/books.html)
+Pronunciation dictionary:  
+[Forvo](https://forvo.com/)
 
-CS books - recommendations:  
-[Hacker News Books](https://hackernewsbooks.com/),
-[HackerNews Readings](https://hacker-recommended-books.vercel.app/)
+Language conversion dictionary:  
+[Lexicool](https://www.lexicool.com/),
+[WordReference.com](https://www.wordreference.com/)
+
+Sign language:  
+[HandSpeak](https://www.handspeak.com/)
+
+English-to-sign-language:  
+[American Sign Language ASL Dictionary](https://www.signasl.org/),
+[British Sign Language BSL Dictionary](https://www.signbsl.com/)
+
+## Technology Learning
 
 Coding tests/certifications:  
 [CodeSignal☁](https://codesignal.com/),
@@ -76,55 +101,21 @@ Coding tests/certifications:
 Free CS classes:  
 [open-source-cs](https://github.com/ForrestKnight/open-source-cs)
 
-Machine learning research papers:  
-[OpenReview](https://openreview.net/)
-
-Programming books:  
-[DevFreeBooks](https://devfreebooks.github.io/),
-[free-programming-books](https://ebookfoundation.github.io/free-programming-books/)
-
 Kid-friendly programming language:  
 [Scratch](https://scratch.mit.edu/)
 
 Tech talks:  
 [TechYaks](https://techyaks.com/)
 
-## Other STEM
+## Philosophy Learning
 
-Research papers/data:  
-[arXiv.org](https://arxiv.org/),
-[Library Genesis](https://libgen.is/),
-[The General Index](https://archive.org/details/GeneralIndex)
+Philosophy papers visualization:  
+[Visualizing SEP](https://www.visualizingsep.com/#)
 
-Research papers/data - Sci-Hub mirrors:  
-[Sci-Hub .se](https://sci-hub.se/),
-[Sci-Hub .ru](https://www.sci-hub.ru/),
-[Sci-Hub .st](https://www.sci-hub.st/)
+## History Learning
 
-Astronomy:  
-[Stellarium Web](https://stellarium-web.org/)
-
-Insert SciHub links:  
-[sci-hub-injector](https://github.com/justjosias/sci-hub-injector)
-
-Check for paper endorsements:  
-[Plaudit⇉](https://plaudit.pub/)
-
-## Other Learning
-
-Anatomy:  
-[Zygote Body](https://www.zygotebody.com/)
-
-Cooking:  
-[Parsnip🤖🍎](https://www.parsnip.ai/)
-
-Genealogical archives:  
-[Forebears](https://forebears.io/),
-[FreeBMD (UK)](https://www.freebmd.org.uk/),
-[Genealogy.com](https://www.genealogy.com/),
-[GenealogyInTime Magazine](https://www.genealogyintime.com/),
-[Genealogy Links](https://www.genealogylinks.net/),
-[The National Archives (UK)](https://www.nationalarchives.gov.uk/)
+Latin-to-English dictionary:  
+[Glosbe Dictionary](https://glosbe.com/)
 
 ## Teaching
 

@@ -1,8 +1,5 @@
 # Text: Writing
 
-Simplified language:  
-[xkcd Simple Writer](https://xkcd.com/simplewriter/)
-
 ## Inspiration - Ideas
 
 [Masterpiece Generator☁](https://www.plot-generator.org.uk/)
@@ -22,20 +19,6 @@ Tone generator:
 
 Titling:  
 [Portent's Content Idea Generator☁](https://www.portent.com/tools/title-maker/)
-
-## Foraging
-
-Historic American newspapers:  
-[Chronicling America☁](https://chroniclingamerica.loc.gov/)
-
-Publications generally excluded from American mainstream media:  
-[The Unz Review☁](https://www.unz.com/print/All/)
-
-Journalistic investigation:  
-[OCCRP Aleph☁](https://aleph.occrp.org/),
-[Poliscoops☁](https://poliscoops.eu/),
-[ProCon.org](https://www.procon.org/),
-[WikiLeaks☁](https://wikileaks.org/)
 
 ## Word Processing
 
@@ -59,25 +42,17 @@ Word processor:
 Distraction-free writing:  
 [Cold Turkey Writer⊞](https://getcoldturkey.com/writer/)
 
-## Reference
+## Specific Word Processing
 
-Text character Reference:  
-[BabelMap⊞■](http://www.babelstone.co.uk/Software/BabelMap.html),
-[Copy Paste Character☁](https://www.copypastecharacter.com/),
-[TypeIt☁](https://www.typeit.org/),
-[Unicode Character Table☁](https://unicode-table.com)
-
-## Specific Needs
-
-Citations:  
-[Citation Generator☁](https://www.citationgenerator.com/)
+Simplified language:  
+[xkcd Simple Writer](https://xkcd.com/simplewriter/)
 
 Journaling:  
 [Diary Email☁](https://diaryemail.com/)
 [Ponder⇉](https://getponder.app/)
 [RedNotebook⊞■⌘🐧](https://rednotebook.sourceforge.io/)
 
-Wiki creation:  
+Wikis:  
 [Fandom☁](https://www.fandom.com/),
 [Wiki.js⊞⌘🐧🍎🤖](https://wiki.js.org/)
 
@@ -91,6 +66,7 @@ Grammar/Spelling/Style check:
 [Bullshit.js■⇉](https://mourner.github.io/bullshit.js/),
 [:anguage Tool⇉☁🆓](https://languagetool.org/),
 [Hemingway App☁](http://www.hemingwayapp.com/),
+[Spellcheck.net☁](https://www.spellcheck.net/)
 [Readable☁](https://app.readable.com/text/?demo)
 
 Word count:  
@@ -114,3 +90,8 @@ Spreasheet to HTML table:
 
 Creative Commons:  
 [Choose a License☁](https://chooser-beta.creativecommons.org/)
+
+## Publishing
+
+Tech pay-what-you-want:  
+[Leanpub](https://leanpub.com/)

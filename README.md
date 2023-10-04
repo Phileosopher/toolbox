@@ -26,6 +26,8 @@ On occasion, I find something that's so stunningly good that I don't trust my ow
 
 When I find those treasures, I add them here.
 
+Sometimes, I don't trust that treasure will be around for long, so I add a second one by a completely different developer, just to be safe.
+
 ## 3. Awareness
 
 Many people remake existing software because they don't realize someone already made it.

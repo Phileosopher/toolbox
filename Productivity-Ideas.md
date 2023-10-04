@@ -71,8 +71,9 @@ Quick notes/sporadic:
 
 Hierarchical notebooks:  
 [cherrytree⊞■⌘🐧](https://www.giuspen.com/cherrytree/),
-[Evernote☁🍎🤖⇉](https://evernote.com/),
-[Obsidian⊞⌘🐧](https://obsidian.md/),
+[Laverna⊞⌘🐧](https://laverna.cc/),
+[Obsidian⊞⌘🐧](https://obsidian.md/) (with [Obsidian Plugin Stats](https://obsidian-plugin-stats.vercel.app/)),
+[Outlinely⌘🍎](https://glamdevelopment.com/outlinely),
 [QOwnNotes⊞■⌘🐧](https://www.qownnotes.org/),
 [Trilium](https://github.com/zadam/trilium)
 

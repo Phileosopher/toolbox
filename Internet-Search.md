@@ -9,6 +9,9 @@ Non-Google search engine:
 Human-curated search:  
 [Curlie](https://curlie.org/)
 
+Open content:  
+[ibiblio](https://www.ibiblio.org/)
+
 ## Current Information
 
 Reddit search engine:  
@@ -34,7 +37,9 @@ Blacklist specific websites from web search:
 Military activities:  
 [liveuamap.com](https://liveuamap.com/)
 
-Acronyms:  
+Abbreviations/acronyms:  
+[Abbreviations.com](https://www.abbreviations.com/),
+[Acronym Finder](https://www.acronymfinder.com/),
 [TheFreeDictionary's Acronyms and Abbreviations](https://acronyms.thefreedictionary.com/),
 [The Acronym Server](https://acronyms.silmaril.ie/),
 [YourDictionary's Abbreviations & Acronyms](https://www.yourdictionary.com/articles/abbreviations-acronyms)

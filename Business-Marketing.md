@@ -102,7 +102,8 @@ Influencer search:
 ## Trends
 
 Popular trends:  
-[Exploding Topics☁](https://explodingtopics.com/)
+[Exploding Topics☁](https://explodingtopics.com/),
+[English Wikipedia Top 100☁](https://top.hatnote.com/)
 
 Short-term rental data:  
 [AirDNA](https://www.airdna.co/)
