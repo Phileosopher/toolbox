@@ -14,6 +14,14 @@ Budgeting:
 Type when someone else is typing:  
 [slacktyping□](https://github.com/will/slacktyping)
 
+## Office Suite
+
+Note-taking:  
+[Etherpad⊞](https://etherpad.org/)
+
+Spreadsheets:  
+[Framacalc](https://framacalc.org/abc/en/)
+
 ## Meetings
 
 Digital whiteboards:  

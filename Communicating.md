@@ -3,7 +3,8 @@
 Language translation:  
 [DeepL☁](https://www.deepl.com/translator),
 [LibreTranslate](https://libretranslate.com/),
-[Lingva Translate](https://lingva.ml/)
+[Lingva Translate](https://lingva.ml/),
+[PROMT.One Translator](https://www.online-translator.com/translation)
 
 Language translation - browser plugin:  
 [Firefox Translations🔌](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/),

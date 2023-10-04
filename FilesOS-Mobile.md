@@ -19,3 +19,6 @@ File management:
 
 Camera:  
 [Libre Camera🕵️](https://f-droid.org/packages/com.iakmds.librecamera/)
+
+Remove ad software:  
+[UnlockAPK's AdFree Tool](https://unlockapk.com/AdFree-Tool.php)

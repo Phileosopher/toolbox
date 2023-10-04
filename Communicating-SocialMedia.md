@@ -9,8 +9,9 @@ Articles:
 
 ## Media-Based
 
-Text feed:  
-[Mastodon☁🍎🤖](https://joinmastodon.org/)
+Text/post feed:  
+[Mastodon☁🍎🤖](https://joinmastodon.org/),
+[Minds](https://www.minds.com/)
 
 Topical:  
 [Lemmy☁🍎🤖](https://join-lemmy.org/)
@@ -18,6 +19,7 @@ Topical:
 Videos:  
 [BitChute☁](https://www.bitchute.com/),
 [Odysee☁](https://odysee.com/),
+[PeerTube☁](https://joinpeertube.org/),
 [Vimeo☁](https://vimeo.com/watch)
 
 Images:  
