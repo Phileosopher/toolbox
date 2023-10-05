@@ -62,6 +62,10 @@ Video messages:
 
 ## Specific Message Needs
 
+File hosting multi-upload:  
+[MirrorAce](https://mirrorace.com/),
+[MultiUp.io](https://multiup.io/)
+
 Tech support callback:  
 [GetHuman☁](https://gethuman.com/),
 [FastCustomer☁](http://www.fastcustomer.com/)

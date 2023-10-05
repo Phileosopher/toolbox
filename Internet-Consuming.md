@@ -7,7 +7,8 @@ Media reviews:
 [Metacritic](https://www.metacritic.com/)
 
 Open media:  
-[Open Culture](https://www.openculture.com/)
+[Open Culture](https://www.openculture.com/),
+[The Pirate List](https://thepiratelist.com/)
 
 Encyclopedic skimming:  
 [Infoplease](https://www.infoplease.com/)

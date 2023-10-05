@@ -1,5 +1,8 @@
 # Software Development: Productivity Improvement
 
+Gigantic lists of tools:  
+[GitHub Topics - awesome-list](https://github.com/topics/awesome-list)
+
 Unnecessary additions:  
 [You-Dont-Need](https://github.com/you-dont-need/You-Dont-Need)
 

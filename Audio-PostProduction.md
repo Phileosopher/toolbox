@@ -53,6 +53,7 @@ Audio conversion:
 [fre:ac⊞■⌘🐧](https://www.freac.org/),
 [SoX⊞⌘🐧](https://sox.sourceforge.net/),
 [TAudioConverter⊞■](https://www.fosshub.com/TAudioConverter.html),
+[Amvidia To Audio Converter⌘](https://amvidia.com/to-audio-converter)
 [WebBrowserTools' Audio Converter☁](https://webbrowsertools.com/audio-converter/)
 
 Audio conversion - MP3:  

@@ -49,9 +49,13 @@ Gain adjustment:
 [MP3Gain⊞](http://mp3gain.sourceforge.net/)
 
 Metadata:  
+[Amvidia Tag Editor⌘](https://amvidia.com/tag-editor), 
 [Discogs*](https://www.discogs.com/),
 [Mp3tag⊞■⌘](https://www.mp3tag.de/en/),
 [MusicBrainz Picard⊞■⌘🐧](https://picard.musicbrainz.org/)
 
 Metadata - audiobooks:  
 [Chapter and Verse⊞](http://lodensoftware.com/chapter-and-verse/)
+
+Metadata export:  
+[Amvidia To MP3 Converter⌘](https://amvidia.com/guides/music-organising/export-to-csv-text-files)
