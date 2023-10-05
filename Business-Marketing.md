@@ -74,6 +74,9 @@ YouTube - search spoken words in videos:
 YouTube - thumbnails:  
 [YouTube Thumbnail Grabber☁](https://10015.io/tools/youtube-thumbnail-grabber)
 
+Meta messaging analysis:  
+[DoubleText](https://app.doubletext.me/)
+
 ## Automation
 
 Auto-posts:  

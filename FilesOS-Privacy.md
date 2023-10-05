@@ -39,11 +39,12 @@ Raw APK files:
 [Evozi's APK Downloader☁](https://apps.evozi.com/apk-downloader/),
 [Uptodown☁](https://www.uptodown.com/)
 
-Alternative Google Play Store alternative:  
-[APKPure.com🤖](https://m.apkpure.com/),
+Alternative Google Play Store:  
+[ACMarket🤖](https://acmarket.net/),
 [Aptoide🤖](https://en.aptoide.com/),
 [Aurora🤖](https://auroraoss.com/),
-[F-Droid🤖](https://f-droid.org/)
+[F-Droid🤖](https://f-droid.org/),
+[HappyMod🤖](https://www.happymodapk.net/)
 
 Google Play Services:  
 [MicroG Project🤖](https://microg.org/),

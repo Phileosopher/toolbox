@@ -70,6 +70,9 @@ Pulling usernames:
 
 ## Third-Party Front-Ends☁
 
+Discord:  
+[Bluecord🤖](https://bluesmods.com/bluecord/)
+
 Dropbox:  
 [Maestral🍎](https://maestral.app/)
 
@@ -87,6 +90,12 @@ iMDb:
 
 Imgur:  
 [rimgo](https://codeberg.org/video-prize-ranch/rimgo)
+
+Instagram:  
+[Instander🤖](https://thedise.me/instander/)
+
+Kik:  
+[Blue Kik🤖](https://bluesmods.com/bluekik/)
 
 Medium:  
 [libmedium](https://git.batsense.net/realaravinth/libmedium),
