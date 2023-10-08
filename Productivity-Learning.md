@@ -47,6 +47,7 @@ Insert SciHub links:
 
 Affordable college education:  
 [Coursera☁](https://www.coursera.org/),
+[University of the People☁](https://www.uopeople.edu/),
 [Western Governors University☁](https://www.wgu.edu/)
 
 Teacher review:  

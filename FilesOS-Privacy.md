@@ -3,8 +3,11 @@
 [Ethical Alternatives & Resources☁](https://ethical.net/resources/)
 
 Anti-FAANG alternatives:  
-[No More Google☁](https://nomoregoogle.com/),
 [switching.software☁](https://switching.software/)
+
+Anti-FAANg alternatives - Google-specific:  
+[De-google-ify Internet☁](https://degooglisons-internet.org/),
+[No More Google☁](https://nomoregoogle.com/)
 
 User-controlled software:  
 [Zero Data App💾🕵️](https://0data.app/)

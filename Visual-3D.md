@@ -44,6 +44,10 @@ Isometric models:
 Hands:  
 [Handz](https://www.handz.design/)
 
+3D printing models:  
+[Printables 3D models database](https://www.printables.com/model),
+[Thangs$](https://thangs.com/)
+
 ## Validation
 
 3D asset validation (.glb files):  
