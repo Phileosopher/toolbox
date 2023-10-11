@@ -5,6 +5,9 @@ Instructions:
 
 ## Equipment
 
+Tools and supplies:  
+[TechToolSupply.com](https://www.techtoolsupply.com/default.asp)
+
 Repair clay/glue:  
 [Sugru](https://sugru.com/)
 

@@ -93,20 +93,36 @@ EDA tools:
 
 ## Computer Assembly
 
-Components:  
-[Dangerous Things](https://dangerousthings.com/),
-[Mbed](https://os.mbed.com/)
-
 Raspberry Pi:  
 [RPi Hub*](https://elinux.org/RPi_Hub)
 
 Raspberry Pi - verified peripherals:  
 [RPi Verified Peripherals*](https://elinux.org/RPi_VerifiedPeripherals)
 
+Arduino - flashing code:  
+[xLoader](https://github.com/xinabox/xLoader)
+
+Other PCB:  
+[smoothieboard](https://smoothieware.org/smoothieboard)
+
+Components:  
+[Dangerous Things](https://dangerousthings.com/),
+[Mbed](https://os.mbed.com/)
+
 Housing:  
 [DAN Cases](https://www.dan-cases.com/),
 [LOUQE](https://www.louqe.com/),
 [teenage engineering](https://teenage.engineering/)
+
+## CNC
+
+G-code sending:  
+[cncjs](https://cnc.js.org/),
+[UGS](https://winder.github.io/ugs_website/)
+
+G-code parsing:  
+[grbl (for Arduino flashing)](https://github.com/grbl/grbl),
+[TinyG](https://github.com/synthetos/TinyG/wiki)
 
 ## Devices
 
