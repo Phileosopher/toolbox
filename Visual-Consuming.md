@@ -67,5 +67,6 @@ Subtitles:
 [Kodi⊞■⌘🐧🍎🤖](https://kodi.tv/)
 
 Streaming service:  
-[Jellyfin](https://jellyfin.org/),
+[Jellyfin🐧](https://jellyfin.org/) (with [Gelli🤖](https://github.com/dkanada/gelli)
+),
 [Plex](https://www.plex.tv/)

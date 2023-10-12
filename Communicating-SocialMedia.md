@@ -137,6 +137,9 @@ YouTube:
 YouTube - reviewed content:  
 [Favoree☁](https://www.favoree.io/)
 
+YouTube - restricted content:  
+[YouTube Region Restriction Checker☁](https://polsy.org.uk/stuff/ytrestrict.cgi)
+
 YouTube Music:  
 [Beatbump](https://beatbump.io/),
 [Hyperpipe](https://hyperpipe.surge.sh/)

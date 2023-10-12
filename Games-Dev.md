@@ -8,8 +8,9 @@ Open-source game lists:
 [Open Source Game Clones](https://osgameclones.com/),
 [Unix ASCII games](https://github.com/ligurio/awesome-ttygames)
 
-Open-source game clones:  
+Specific open-source game clones:  
 [Freeciv](https://www.freeciv.org/),
+[OpenMW](https://gitlab.com/OpenMW/openmw),
 [Widelands](https://www.widelands.org/)
 
 Licensed games:  

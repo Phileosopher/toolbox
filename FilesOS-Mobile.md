@@ -7,9 +7,6 @@
 
 ## Android🤖
 
-OS essentials:  
-[Simple Mobile Tools🕵️](https://www.simplemobiletools.com/)
-
 System file/program management (from a PC):  
 [Android Debug Bridge (adb)□](https://developer.android.com/studio/command-line/adb),
 [Minimal ADB and Fastboot Tool⊞](https://androidmtk.com/download-minimal-adb-and-fastboot-tool)
