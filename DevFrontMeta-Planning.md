@@ -6,6 +6,11 @@ Checklist:
 User flow tracking:  
 [Wireflow](https://wireflow.co/)
 
+Open-source projects:  
+[GNOME Projects](https://wiki.gnome.org/Projects),
+[LibreOffice - Get Involved](https://www.libreoffice.org/community/get-involved),
+[Open Source Hub](https://opensourcehub.io/)
+
 ## Front-End Frameworks
 
 Beginner-friendly:  

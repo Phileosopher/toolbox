@@ -10,3 +10,6 @@ Service synchronization - enterprise:
 Home automation:  
 [Home Assistant💾](https://www.home-assistant.io/),
 [Domoticz💾](https://www.domoticz.com/)
+
+Home automation - voice assistant:  
+[Willow💾](https://heywillow.io/)

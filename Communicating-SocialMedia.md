@@ -117,6 +117,10 @@ Reddit - review deleted content:
 Stack Overflow:  
 [AnonymousOverflow](https://code.whatever.social/)
 
+Telegram:  
+[Nekogram🤖](https://nekogram.app/),
+[NekoX🤖](https://github.com/NekoX-Dev/NekoX)
+
 TikTok:  
 [ProxiTok](https://proxitok.pussthecat.org/)
 

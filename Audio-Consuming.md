@@ -10,7 +10,8 @@ Podcast listening:
 
 Podcast management:  
 [gpodder.net⊞■⌘🐧🍎🤖⇉☁](https://gpodder.net/),
-[Juice⊞■⌘🐧](http://juicereceiver.sourceforge.net/)
+[Juice⊞■⌘🐧](http://juicereceiver.sourceforge.net/),
+[Pocket Casts🍎🤖](https://pocketcasts.com/)
 
 ## Music Library
 
