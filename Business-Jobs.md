@@ -46,6 +46,12 @@ Volunteering:
 [Better Business Bureau](https://www.bbb.org/),
 [Glassdoor](https://www.glassdoor.com/member/home/index.htm)
 
+USA-specific:  
+[SEC EDGAR Company Search](https://www.sec.gov/edgar/searchedgar/legacy/companysearch.html)
+
+Europe-specific:  
+[Central and Eastern European Business Directory (CEEBD)](https://globaledge.msu.edu/global-resources/resource/1274)
+
 ## Employee Search
 
 Developer search:  

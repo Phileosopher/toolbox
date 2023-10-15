@@ -1,10 +1,11 @@
 # Internet: Search Engines ☁
 
 Non-Google search engine:  
-[DuckDuckGo](https://duckduckgo.com/),
+[Mojeek](https://www.mojeek.com/),
 [Qwant](https://www.qwant.com/),
 [searx](https://searx.space/),
-[Trilium](https://github.com/zadam/trilium)
+[Search Encrypt](https://www.searchencrypt.com/),
+[Startpage](https://www.startpage.com/),
 
 Human-curated search:  
 [Curlie](https://curlie.org/)

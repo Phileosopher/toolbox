@@ -16,6 +16,9 @@ Book archive - public domain content:
 Short stories:  
 [Writing Atlas](https://writingatlas.com/)
 
+Sci-fi/fantasy stories:  
+[Free Speculative Fiction Online](https://www.freesfonline.net/)
+
 Academic search engine:  
 [Google Scholar](https://scholar.google.com/),
 [iSEEK Education (old)](https://education.iseek.com/iseek/home.page),

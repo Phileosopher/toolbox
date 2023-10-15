@@ -3,10 +3,11 @@
 ## Podcasts
 
 Podcast search engine:  
-[Listen Notes☁](https://www.listennotes.com/)
+[Listen Notes☁](https://www.listennotes.com/),
+[Player FM🍎🤖☁](https://player.fm/)
 
-Podcast listening:  
-[Podcast Index](https://podcastindex.org/)
+Podcast archive:  
+[Podcast Index☁](https://podcastindex.org/)
 
 Podcast management:  
 [gpodder.net⊞■⌘🐧🍎🤖⇉☁](https://gpodder.net/),
@@ -18,19 +19,20 @@ Podcast management:
 [MusicBee⊞■](https://getmusicbee.com/),
 [Quod Libet⊞⌘🐧](https://quodlibet.readthedocs.io/)
 
-Streaming service:  
+Streaming/hosting service💾:  
 [Plexamp](https://plexamp.com/)
 
 ## Audio Books
 
 Search:  
-[AudioBook Bay](https://theaudiobookbay.se/)
+[AudioBB](https://audiobb.com/)
 
 Search - freemium books:  
 [Tokybook](https://tokybook.com/)
 
 Search - public domain books:  
-[LibriVox](https://librivox.org/)
+[LoudLit.org](http://loudlit.org/),
+[LibriVox](https://librivox.org/),
 [The Project Gutenberg Open Audiobook Collection](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)
 
 Audiobook management:  
@@ -51,7 +53,7 @@ Gain adjustment:
 [MP3Gain⊞](http://mp3gain.sourceforge.net/)
 
 Metadata:  
-[Amvidia Tag Editor⌘](https://amvidia.com/tag-editor), 
+[Amvidia Tag Editor⌘](https://amvidia.com/tag-editor),
 [Discogs*](https://www.discogs.com/),
 [Mp3tag⊞■⌘](https://www.mp3tag.de/en/),
 [MusicBrainz Picard⊞■⌘🐧](https://picard.musicbrainz.org/)

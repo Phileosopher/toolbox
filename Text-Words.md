@@ -42,6 +42,9 @@ Similar words:
 [Lexipedia](https://www.lexipedia.com/),
 [Related Words☁](https://relatedwords.org/)
 
+Similar words - historical:  
+[GutenSearch](https://gutensearch.com/)
+
 Thesaurus:  
 [Artha⊞■🐧](http://artha.sourceforge.net/),
 [OneLook Thesaurus](https://onelook.com/reverse-dictionary.shtml),

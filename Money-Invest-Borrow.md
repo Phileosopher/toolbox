@@ -28,6 +28,7 @@ Corporations (10-K):
 
 Charities/NPO (Form 990):  
 [Charity Navigator☁](https://www.charitynavigator.org/)
+[GuideStar☁$](https://www.guidestar.org/)
 
 Financial institutions:  
 [FINRA☁](https://www.finra.org/)

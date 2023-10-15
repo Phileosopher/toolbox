@@ -11,6 +11,9 @@ Related concepts:
 Study notes:  
 [Studocu☁](https://www.studocu.com/) (With [StuHack⇉](https://github.com/isanchop/stuhack) for premium workaround)
 
+Educational audio/video:  
+[LearnOutLoud.com](https://www.learnoutloud.com/)
+
 ## Research
 
 Wikipedia:  
