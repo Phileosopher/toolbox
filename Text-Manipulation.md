@@ -74,6 +74,9 @@ Randomizing lists:
 PDF data table extraction:  
 [Tabula⊞⌘](https://tabula.technology/)
 
+Strip HTML from a file:  
+[HTMLAsText⊞■](https://www.nirsoft.net/utils/htmlastext.html)
+
 ## Text File Conversion
 
 [Convertio's Ebook Converter☁](https://convertio.co/ebook-converter/),

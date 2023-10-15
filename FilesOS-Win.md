@@ -1,6 +1,7 @@
 # Files/OS: Windows-Specific Software ⊞
 
 Power tools:  
+[NirLauncher](https://launcher.nirsoft.net/),
 [Windows Sysinternals■](https://docs.microsoft.com/en-us/sysinternals/)
 
 CMD alternative:  

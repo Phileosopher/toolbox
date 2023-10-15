@@ -1,5 +1,8 @@
 # Front-End Development: HTML
 
+Code-less HTML editing:  
+[HtmlDocEdit⊞■](https://www.nirsoft.net/utils/html_doc_edit.html)
+
 HTML shell:  
 [Toptal's HTMLShell☁](https://www.toptal.com/developers/htmlshell)
 
