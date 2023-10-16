@@ -23,5 +23,11 @@ Screen reader/TTS:
 [Screen Reader⊞■](http://jacquelin.potier.free.fr/screenreader/),
 [WebBrowserTools' Text to Speech☁](https://webbrowsertools.com/text-to-speech/)
 
+Speech recognition:  
+[Dictation.io☁](https://dictation.io/),
+[MARF⊞](http://marf.sourceforge.net/),
+[TalkTyper☁](https://talktyper.com/),
+[Voice notebook](https://voicenotebook.com/)
+
 Human guides:  
 [Be My Eyes🍎🤖](https://www.bemyeyes.com/)
