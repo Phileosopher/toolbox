@@ -65,7 +65,7 @@ Audio effects:
 
 Digital audio workstation (DAW):  
 [Ardour⊞⌘🐧](https://www.ardour.org/),
-[Audacity⊞■⌘🐧](https://www.audacityteam.org/) (with a [web-based port☁](https://wavacity.com/)),
+[Audacity⊞■⌘🐧](https://www.audacityteam.org/) (with [Wavacity☁](https://wavacity.com/) as a web-based port or [Tenacity](https://tenacityaudio.org/) without any tracking),
 [Audio Recorder☁](https://webbrowsertools.com/audio-recorder/),
 [Bitwig$⊞⌘🐧](https://www.bitwig.com/)
 [Cakewalk by BandLab⊞](https://www.bandlab.com/products/cakewalk),

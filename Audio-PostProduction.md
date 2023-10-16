@@ -2,6 +2,7 @@
 
 ## Processing
 
+[afreestudio.com💩](https://www.afreestudio.com/),
 [AudioMass☁](https://audiomass.co/),
 [Integra Live](https://integra.io/portfolio-items/integralive/),
 [WaveShop⊞■](http://waveshop.sourceforge.net/)
@@ -32,6 +33,12 @@ Whistling capture:
 Extracting audio from video:  
 [Pazera Free Audio Extractor⊞](http://www.pazera-software.com/products/audio-extractor/)
 
+Extracting vocals from music:  
+[LALAL.AI Voice Cleaner & Background Noise Remover☁](https://www.lalal.ai/voice-cleaner/)
+
+Stripping vocals:  
+[Remove Vocals☁](https://www.remove-vocals.com/en/)
+
 Track splitting:  
 [Mp3splt⊞■⌘🐧](http://mp3splt.sourceforge.net/mp3splt_page/home.php)
 
@@ -39,6 +46,7 @@ Track merging:
 [Audio Joiner☁](https://webbrowsertools.com/audio-joiner/)
 
 Track element separation:  
+[LALAL.AI Vocal Remover & Instrumental AI Splitter☁](https://www.lalal.ai/)
 [Spleeter⊞⌘🐧□](https://github.com/deezer/spleeter),
 [StemRoller⊞⌘](https://www.stemroller.com/)
 
