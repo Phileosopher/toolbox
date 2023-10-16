@@ -3,9 +3,14 @@
 ## Practicing
 
 Sheet music notation:  
+[Dr. Sheet Music](https://drsheetmusic.com/),
+[Free-scores.com](https://www.free-scores.com/),
 [LilyPond⊞⌘🐧](https://lilypond.org/),
 [Noteflight☁](https://www.noteflight.com/),
+[Musicnotes.com](https://www.musicnotes.com/),
+[Musopen](https://musopen.org/),
 [MuseScore⊞⌘🐧](https://musescore.org/),
+[SheetMusic-Free.com](https://sheetmusic-free.com/),
 [Soundslice☁](https://www.soundslice.com/)
 
 Sheet music notation - jazz:  
@@ -67,12 +72,15 @@ Digital audio workstation (DAW):
 [LMMS⊞■⌘🐧](https://lmms.io/),
 [WavePad](https://www.nch.com.au/wavepad/index.html)
 
-Digital audio workstation (DAW) - minimalist:  
+DAW - minimalist:  
 [helio.fm⊞■⌘🐧](https://helio.fm/)
 [Composer's Sketchpad⌘🍎](http://composerssketchpad.com/)
 
-Digital audio workstation (DAW) - collaborative works:  
+DAW - collaborative works:  
 [MusicMessages!🍎](http://musicmessages.io/)
+
+DAW - chiptune/NES-style:  
+[FamiStudio](https://famistudio.org/)
 
 Synthesizer:  
 [Bespoke Synth⊞⌘🐧](https://www.bespokesynth.com/),
