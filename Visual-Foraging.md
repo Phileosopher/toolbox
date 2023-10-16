@@ -2,7 +2,7 @@
 
 ## Multi-Element
 
-[365psd](https://365psd.com/),
+[123RF](https://www.123rf.com/), [365psd](https://365psd.com/),
 [AllTheFreeStock](https://allthefreestock.com/), [App Sources](http://www.sketchappsources.com/),
 [Apple Design Resources](https://developer.apple.com/design/resources/),
 [Bootsnipp](https://bootsnipp.com/),
@@ -12,8 +12,9 @@
 [FOCA](https://https://focastock.com/), [Freebie Supply](https://freebiesupply.com/), [Freebiesbug](https://freebiesbug.com/), [Freebiesketch](https://freebiesketch.com/), [freepik](https://www.freepik.com/), [Free Nature Stock](https://freenaturestock.com/),
 [Icons8](https://icons8.com/), [ISO Republic](https://isorepublic.com/), [Interfacer](https://interfacer.xyz/),
 [Mixkit](https://mixkit.co/),
+[Motion Elements](https://www.motionelements.com/),
 [One Click Theme](https://www.oneclicktheme.com/),
-[Pexels](https://www.pexels.com/), [pixabay](https://pixabay.com/), [PSD Repo](https://psdrepo.com/), [PSDDD.co](https://psddd.co/),
+[Pexels](https://www.pexels.com/), [pixabay](https://pixabay.com/), [Pond5](https://www.pond5.com/), [PSD Repo](https://psdrepo.com/), [PSDDD.co](https://psddd.co/),
 [Sketch Repo](https://sketchrepo.com/), [Sketchapp TV](http://sketchapp.tv/), [Smithsonian Open Access](https://www.si.edu/openaccess), [Start Bootstrap](https://startbootstrap.com/), [Stockio](https://www.stockio.com/),
 [Vecteezy](https://www.vecteezy.com/),
 [UpLabs](https://www.uplabs.com/), [UI Store Design](https://www.uistore.design/)
@@ -21,11 +22,14 @@
 ## Stock Videos
 
 [Coverr](https://coverr.co/),
+[free-stock.video](https://free-stock.video/),
 [Life of vids](https://www.lifeofvids.com/),
+[Mazwai](https://mazwai.com/),
 [Pond5](https://www.pond5.com/),
 [Videezy](https://www.videezy.com/),
 [VideoHive](https://videohive.net/),
-[Videvo's Royalty Free Videos](https://www.videvo.net/stock-video-footage/)
+[Videvo's Royalty Free Videos](https://www.videvo.net/stock-video-footage/),
+[Vidsplay.com](https://www.vidsplay.com/)
 
 ## Stock Photos
 
@@ -78,7 +82,7 @@ AI-generated:
 [Generated Photos](https://generated.photos/)
 
 AI-generated faces:  
-[Face Generator](https://generated.photos/face-generator),
+[AI-Generated Faces](https://generated.photos/faces),
 [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 
 AI-generated movie posters:  
@@ -106,8 +110,8 @@ Landing pages:
 [Feather](https://feathericons.com/), [Find Icons](https://findicons.com/), [FlatIcon](https://www.flaticon.com/), [FLAT SVG DESIGNS](https://flat-svg-designs.net/en/icons/all/), [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free), [Fontello](http://fontello.com/), [Foundation Icon Fonts 3](https://zurb.com/playground/foundation-icon-fonts-3), [Free Icons](https://icon-icons.com/),
 [Game-icons.net](https://game-icons.net/), [Google Fonts' Material Symbols and Icons](https://fonts.google.com/icons),
 [Heroicons](https://heroicons.com/), [Heroicons](https://heroicons.dev/), [Hotpot.ai](https://hotpot.ai/free-icons),
-[Iconbolt](https://www.iconbolt.com/), [IconBros](https://www.iconbros.com/), [Iconbuddy](https://iconbuddy.app/), [Iconduck](https://iconduck.com/),
-[Iconfinder's Free Icons](https://www.iconfinder.com/free_icons), [Iconic](https://iconic.app/), [IconSearch](https://iconsear.ch/), [Icon Store](https://iconstore.co/), [iconmonstr](https://iconmonstr.com/), [Iconoir](https://iconoir.com/), [Ikonate](https://ikonate.com/), [Ionicons](https://ionicons.com/),
+[Icons8 Icons](https://icons8.com/icons/set/undefined), [Iconbolt](https://www.iconbolt.com/), [IconBros](https://www.iconbros.com/), [Iconbuddy](https://iconbuddy.app/), [Iconduck](https://iconduck.com/),
+[Iconfinder's Free Icons](https://icons8.com/icons), [Iconic](https://iconic.app/), [IconSearch](https://iconsear.ch/), [Icon Store](https://iconstore.co/), [iconmonstr](https://iconmonstr.com/), [Iconoir](https://iconoir.com/), [Ikonate](https://ikonate.com/), [Ionicons](https://ionicons.com/),
 [Jam icons](https://linearicons.com/free),
 [Linearicons](https://linearicons.com/free), [Line Awesome](https://icons8.com/line-awesome), [Lordicon](https://lordicon.com/free-icons),
 [Material Design Icons](https://materialdesignicons.com/), [Material Design Icons](https://www.materialpalette.com/icons), [Material Design Icons](https://material.io/resources/icons/?style=baseline), [Mono Icons](https://icons.mono.company/),
@@ -130,6 +134,7 @@ Low-memory icons:
 [SuperTinyIcons](https://github.com/edent/SuperTinyIcons)
 
 Emojis:  
+[Icons8 Emoji](https://icons8.com/icon/set/emoji/emoji),
 [OpenMoji](https://openmoji.org/),
 [Sensa Emoji](https://sensa.co/emoji/)
 

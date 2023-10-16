@@ -23,10 +23,14 @@ Guitar chord finder:
 ## Performing
 
 Recording/sequencing/playback:  
+[udioCapt](http://jbouchat.ucoz.com/index/audiocapt/0-20),
 [MusE Sequencer🐧](https://muse-sequencer.github.io/),
 [Qtractor🐧](https://qtractor.org/),
 [Rosegarden🐧](https://rosegardenmusic.com/),
 [Sweep🐧](http://www.metadecks.org/software/sweep/)
+
+Volume tracking:  
+[SpeakerSweep](http://jbouchat.ucoz.com/index/speakersweep/0-24)
 
 Volume controls:  
 [VoiceMeeter⊞](https://vb-audio.com/Voicemeeter/index.htm)
@@ -73,16 +77,27 @@ Digital audio workstation (DAW) - collaborative works:
 Synthesizer:  
 [Bespoke Synth⊞⌘🐧](https://www.bespokesynth.com/),
 [Cursynth□](https://www.gnu.org/software/cursynth/),
+[SongWish reMIDI 2⌘](https://filecr.com/macos/songwish-remidi2/),
 [Synth1⊞](https://daichilab.sakura.ne.jp/softsynth/index.html),
 [ZynAddSubFX](https://zynaddsubfx.sourceforge.io/) (and its fork [Yoshimi](https://yoshimi.sourceforge.io/))
 
 ## Auto-Generation
+
+Sound effect generation:  
+[LabChirp](https://labbed.net/software/labchirp/),
+[sfxr](https://drpetter.se/project_sfxr.html) (expansion through [Bfxr](https://www.bfxr.net/))
+
+Sample generation:  
+[Spect&Gen](http://jbouchat.ucoz.com/index/spect_gen/0-4)
 
 Pulling samples:  
 [SOURCE🐍](https://github.com/ffont/source)
 
 Sample combination:  
 [AuMe☁](https://audiometaphor.ca/)
+
+Machine learning music generation:  
+[Splice](https://splice.com/)
 
 ## Broadcasting
 

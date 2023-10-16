@@ -17,11 +17,15 @@ System management:
 Audio Visualization/Analysis:  
 [BRP-PACU](https://github.com/matthew-dews/brp-pacu),
 [Libvisual](http://libvisual.org/),
-[Sonic Visualiser⊞⌘🐧](https://www.sonicvisualiser.org/)
+[Sonic Visualiser⊞⌘🐧](https://www.sonicvisualiser.org/),
+[awesome-audio-visualization💩](https://github.com/willianjusten/awesome-audio-visualization)
 
 Speech recognition:  
 [Dictation.io☁](https://dictation.io/)
 [MARF⊞](http://marf.sourceforge.net/)
+
+Whistling capture:  
+[iWhistle](http://jbouchat.ucoz.com/index/iwhistle/0-7)
 
 ## Heavy Processing
 

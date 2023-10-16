@@ -111,6 +111,7 @@ Sometimes, it makes sense to clarify for context how something is used.
 - 🕵️ if it helps with trust issues
 - 🆓 if it's FLOSS
 - $ if it does cost at least some money
+- 💩 if it's an unsorted pile of stuff
 
 Further, some patterns keep cropping up in each domain:
 
