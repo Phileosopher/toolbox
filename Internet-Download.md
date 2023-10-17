@@ -9,9 +9,7 @@ Download manager - image galleries:
 [gallery-dl](https://github.com/mikf/gallery-dl)
 
 Download manager - YouTube:  
-[youtube-dlp⊞□🐧](https://github.com/yt-dlp/yt-dlp),
-[youtube-dl-gui⊞⌘🐧(GUI)](https://github.com/jely2002/youtube-dl-gui),
-
+[youtube-dlp⊞□🐧](https://github.com/yt-dlp/yt-dlp) (with frontends with [youtube-dl-gui⊞⌘🐧(GUI)](https://github.com/jely2002/youtube-dl-gui) and [Videomass](https://jeanslack.github.io/Videomass/))
 HTTP media downloads:  
 [KeepVid☁](https://keepvid.com/)
 

@@ -65,9 +65,6 @@ Looping/slicing:
 
 ## File Modification
 
-Audio file conversion/recording:  
-[FFmpeg⊞⌘🐧□](https://www.ffmpeg.org/)
-
 Audio conversion:  
 [fre:ac⊞■⌘🐧](https://www.freac.org/),
 [SoX⊞⌘🐧](https://sox.sourceforge.net/),

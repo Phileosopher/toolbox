@@ -72,3 +72,27 @@ Virtualized cabling:
 
 TTS filters:  
 [Talkfilters](https://directory.fsf.org/wiki/Talkfilters)
+
+## FFmpeg
+
+[FFmpeg⊞⌘🐧□](https://www.ffmpeg.org/)
+
+Front-ends:  
+[Axiom⊞](https://axiomui.github.io/),
+[Videomass](https://jeanslack.github.io/Videomass/))
+
+yt-dl build:  
+[FFmpeg-Builds](https://github.com/yt-dlp/FFmpeg-Builds))
+
+OS build:  
+[megapro17/FFmpeg-Builds](https://github.com/megapro17/FFmpeg-Builds),
+[FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)
+
+PHP build:  
+[PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg)
+
+JS port:  
+[ffmpeg.js](https://github.com/Kagami/ffmpeg.js/)
+
+Webassembly/JS port:  
+[ffmpeg.wasm](https://ffmpegwasm.netlify.app/)

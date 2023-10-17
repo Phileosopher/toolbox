@@ -74,13 +74,16 @@ Math animations:
 Convert video:  
 [DamnVid⊞■](https://damnvid.en.softonic.com/),
 [HandBrake⊞⌘🐧](https://handbrake.fr/),
-[TEncoder Video Converter⊞■](https://www.fosshub.com/TAudioConverter.html),
+[TEncoder Video Converter⊞■](https://www.fosshub.com/TEncoder-Video-Converter.html),
 [Any Video Converter⊞⌘](https://www.anvsoft.com/any-video-converter-free.html),
 [WebBrowserTools' Video Converter☁](https://webbrowsertools.com/video-converter/)
 
 Convert video to GIF:  
 [EZGif.com's video to GIF converter☁](https://ezgif.com/video-to-gif),
 [GIFRun☁](https://gifrun.com/)
+
+Reverse a GIF:  
+[EZGif.com's Reverse animated GIF☁](https://ezgif.com/reverse)
 
 Optimize video/audio without quality loss:  
 [LosslessCut⊞⌘🐧](https://mifi.no/losslesscut/)

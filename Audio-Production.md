@@ -9,7 +9,7 @@ Sheet music notation:
 [Noteflight☁](https://www.noteflight.com/),
 [Musicnotes.com](https://www.musicnotes.com/),
 [Musopen](https://musopen.org/),
-[MuseScore⊞⌘🐧](https://musescore.org/),
+[MuseScore⊞⌘🐧](https://musescore.org/) (downloader with [LibreScore](https://github.com/LibreScore/dl-librescore)),
 [SheetMusic-Free.com](https://sheetmusic-free.com/),
 [Soundslice☁](https://www.soundslice.com/)
 
@@ -20,7 +20,7 @@ Sheet music search:
 [IMSLP☁](https://imslp.org/wiki/Main_Page)
 
 Singing training:  
-[Solfege⊞■](https://portableapps.com/apps/education/solfege-portable)
+[Solfege⊞■🐧](https://portableapps.com/apps/education/solfege-portable)
 
 Guitar chord finder:  
 [Guitar Dashboard☁](https://guitardashboard.com/)
@@ -28,7 +28,7 @@ Guitar chord finder:
 ## Performing
 
 Recording/sequencing/playback:  
-[udioCapt](http://jbouchat.ucoz.com/index/audiocapt/0-20),
+[AudioCapt](http://jbouchat.ucoz.com/index/audiocapt/0-20),
 [MusE Sequencer🐧](https://muse-sequencer.github.io/),
 [Qtractor🐧](https://qtractor.org/),
 [Rosegarden🐧](https://rosegardenmusic.com/),
@@ -44,26 +44,49 @@ Equalizer:
 [VoiceMeeter Banana⊞](https://vb-audio.com/Voicemeeter/banana.htm),
 [VoiceMeeter Potato⊞](https://vb-audio.com/Voicemeeter/potato.htm)
 
-Metronome:  
-[GNU GTick🐧](https://antcom.de/gtick/)
-
-Drum accompaniment:  
-[AutoDrum⊞■](https://openmidiproject.osdn.jp/AutoDrum_en.html),
-[Hydrogen](http://hydrogen-music.org/)
-
 DJing:  
 [Serato DJ Lite⊞■](https://serato.com/dj/lite),
-[Mixxx⊞■⌘🐧](https://www.mixxx.org/)
+[Mixxx⊞■⌘🐧](https://www.mixxx.org/),
+[rekordbox](https://rekordbox.com/)
 
 DJing - turntables:  
 [xwax🐧](https://xwax.org/)
 
-Audio effects:  
-[Easy Effects](https://github.com/wwmm/easyeffects)
-
 ## Composition
 
-Digital audio workstation (DAW):  
+Theremin:  
+[Theremin](https://femurdesign.com/theremin/)
+
+Keyboard:  
+[dotpiano.com](https://dotpiano.com/),
+[MK-1](https://ericrosenbaum.github.io/MK-1/),
+[Online Piano Keyboard](https://magicode.me/piano-online),
+[Roland 50](https://roland50.studio/)
+
+Synthesizer:  
+[Bespoke Synth⊞⌘🐧](https://www.bespokesynth.com/),
+[Cursynth□](https://www.gnu.org/software/cursynth/),
+[SongWish reMIDI 2⌘](https://filecr.com/macos/songwish-remidi2/),
+[Synth1⊞](https://daichilab.sakura.ne.jp/softsynth/index.html),
+[ZynAddSubFX](https://zynaddsubfx.sourceforge.io/) (and its fork [Yoshimi](https://yoshimi.sourceforge.io/))
+
+## Accompaniment
+
+Metronome:  
+[GNU GTick🐧](https://antcom.de/gtick/)
+
+Drum machine:  
+[AutoDrum⊞■](https://openmidiproject.osdn.jp/AutoDrum_en.html),
+[HammerHead Rhythm Station⊞](http://www.threechords.com/hammerhead/),
+[Hydrogen](http://hydrogen-music.org/),
+[orDrumbox](https://www.ordrumbox.com/),
+[Sequencer64☁](https://www.sequencer64.com/sequencer/session)
+
+Chiptune:  
+[Petaporon](https://pixwlk.itch.io/petaporon)
+
+## Digital Audio Workstation (DAW)
+
 [Ardour⊞⌘🐧](https://www.ardour.org/),
 [Audacity⊞■⌘🐧](https://www.audacityteam.org/) (with [Wavacity☁](https://wavacity.com/) as a web-based port or [Tenacity](https://tenacityaudio.org/) without any tracking),
 [Audio Recorder☁](https://webbrowsertools.com/audio-recorder/),
@@ -72,22 +95,15 @@ Digital audio workstation (DAW):
 [LMMS⊞■⌘🐧](https://lmms.io/),
 [WavePad](https://www.nch.com.au/wavepad/index.html)
 
-DAW - minimalist:  
+Minimalist DAW:  
 [helio.fm⊞■⌘🐧](https://helio.fm/)
 [Composer's Sketchpad⌘🍎](http://composerssketchpad.com/)
 
-DAW - collaborative works:  
+Collaborative works:  
 [MusicMessages!🍎](http://musicmessages.io/)
 
-DAW - chiptune/NES-style:  
+Chiptune/NES-style:  
 [FamiStudio](https://famistudio.org/)
-
-Synthesizer:  
-[Bespoke Synth⊞⌘🐧](https://www.bespokesynth.com/),
-[Cursynth□](https://www.gnu.org/software/cursynth/),
-[SongWish reMIDI 2⌘](https://filecr.com/macos/songwish-remidi2/),
-[Synth1⊞](https://daichilab.sakura.ne.jp/softsynth/index.html),
-[ZynAddSubFX](https://zynaddsubfx.sourceforge.io/) (and its fork [Yoshimi](https://yoshimi.sourceforge.io/))
 
 ## Auto-Generation
 
