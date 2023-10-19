@@ -133,6 +133,9 @@ Entrepreneurship:
 [SeedInvest☁](https://www.seedinvest.com/),
 [StartEngine☁](https://www.startengine.com/)
 
+Entrepreneurship - tech:  
+[Open Collective](https://opencollective.com/)
+
 Christian/NPO:  
 [GiveSendGo☁](https://www.givesendgo.com/),
 [Mightycause☁](https://www.mightycause.com/)

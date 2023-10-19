@@ -53,3 +53,6 @@ Alternative energy (e.g., EVs):
 
 Drill bits:  
 [Drill Hog](https://drillhog.com/)
+
+Lacing shoes:  
+[Ian's Shoelace Site](https://www.fieggen.com/shoelace/)
