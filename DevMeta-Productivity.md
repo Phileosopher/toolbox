@@ -16,6 +16,9 @@ Distraction-free coding videos:
 RSS to Notion:  
 [notion-feeder](https://github.com/ravgeetdhillon/notion-feeder)
 
+Finance the tech stack you depend on:  
+[thanks.dev](https://thanks.dev/)
+
 ## IDEs
 
 [Apache NetBeans⊞⌘🐧](https://netbeans.org/),
