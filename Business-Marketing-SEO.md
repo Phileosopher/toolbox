@@ -73,6 +73,7 @@ Validation/linting - CSS:
 ## Links
 
 Dead link scan:  
+[Broken Link Checker☁](https://brokenlinkcheck.com/),
 [dead link checker☁](https://www.deadlinkchecker.com/),
 [W3C Link Checker☁](https://validator.w3.org/checklink)
 
