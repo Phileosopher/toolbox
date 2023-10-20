@@ -17,5 +17,13 @@ Laptops/PCs:
 [MNT Research GmbH](https://mntre.com/),
 [System76](https://system76.com/)
 
+[RISC-V](https://riscv.org/) computers:  
+[ClockworkPi DevTerm](https://www.clockworkpi.com/home-devterm)
+
+[RISC-V](https://riscv.org/) hardware:  
+[BeagleV®-Ahead](https://www.beagleboard.org/boards/beaglev-ahead),
+[Milk-V Duo](https://milkv.io/duo),
+[Pineapple ONE](https://pineapple-one.github.io/)
+
 GPS devices:  
 [Meshtastic](https://meshtastic.org/)
