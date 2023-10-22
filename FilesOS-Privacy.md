@@ -5,9 +5,12 @@
 Anti-FAANG alternatives:  
 [switching.software☁](https://switching.software/)
 
-Anti-FAANg alternatives - Google-specific:  
+Anti-FAANG alternatives - Google-specific:  
 [De-google-ify Internet☁](https://degooglisons-internet.org/),
 [No More Google☁](https://nomoregoogle.com/)
+
+Anti-FAANG alternatives - Europe-specific:  
+[European Alternatives](https://european-alternatives.eu/)
 
 User-controlled software:  
 [Zero Data App💾🕵️](https://0data.app/)

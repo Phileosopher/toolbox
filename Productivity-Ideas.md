@@ -47,7 +47,7 @@ Reference images/visual boards:
 
 All-in-one:  
 [Anytype⊞⌘☁🍎🤖](https://anytype.io/),
-[Notion](https://www.notion.so/)
+[AppFlowy.IO](https://www.appflowy.io/)
 
 Venn Diagrams:  
 [Good Calculators' Venn Diagram Maker☁](https://goodcalculators.com/venn-diagram-maker/),

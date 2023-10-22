@@ -15,6 +15,9 @@ TL;DR websites:
 TL;DR PDFs:  
 [pdf2gpt☁](https://pdf2gpt.com/)
 
+QR code reader:  
+[Qreader☁](https://qreader.online/)
+
 ## Media Viewers
 
 DjVu:  

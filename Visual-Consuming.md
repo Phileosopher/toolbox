@@ -70,3 +70,8 @@ Streaming service:
 [Jellyfin🐧](https://jellyfin.org/) (with [Gelli🤖](https://github.com/dkanada/gelli)
 ),
 [Plex](https://www.plex.tv/)
+
+## Other Visual
+
+Astronomy:  
+[Stellarium⊞⌘🐧](https://stellarium.org/), (with [Stellarium Web☁](https://stellarium-web.org/) online)

@@ -89,6 +89,7 @@ Journal reviews - predatory journals and publishers:
 Research papers/data:  
 [Academic Journals](https://academicjournals.org/),
 [arXiv.org](https://arxiv.org/),
+[Internet Archive Scholar](https://scholar.archive.org/),
 [Library Genesis](https://libgen.is/),
 [Sci-Hub](https://sci-hub.se/),
 [The General Index](https://archive.org/details/GeneralIndex)
@@ -118,9 +119,6 @@ Gray literature:
 [Grey Guide](https://greyguide.isti.cnr.it/),
 [GreyNet International](https://www.greynet.org/),
 [LibGuides Community](https://community.libguides.com/)
-
-Astronomy:  
-[Stellarium Web](https://stellarium-web.org/)
 
 ## Medical Papers
 

@@ -2,8 +2,8 @@
 
 Multiple:  
 [Nitrokey (e.g., NitroPhone)](https://shop.nitrokey.com/),
-[PINE64 (e.g., PinePhone)](https://www.pine64.org/pinephone/),
 [Purism (e.g., Librem phone)](https://puri.sm/),
+[Star Labs](https://starlabs.systems/)
 
 Phones:  
 [Fairphone](https://www.fairphone.com/),
