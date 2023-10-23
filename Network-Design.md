@@ -6,6 +6,9 @@ Phone server:
 Cloud storage:  
 [Nextcloud💾](https://nextcloud.com/)
 
+5G:  
+[awesome-5g💩](https://github.com/calee0219/awesome-5g)
+
 ## Cloud Stack
 
 Diagramming:  
@@ -13,16 +16,3 @@ Diagramming:
 
 Locally hosted:  
 [LocalStack💾](https://localstack.cloud/)
-
-## AWS
-
-Services explained:  
-[Amazon Web Services (explained on one line each)*](https://adayinthelifeof.nl/2020/05/20/aws.html),
-[Amazon Web Services In Plain English*](https://expeditedsecurity.com/aws-in-plain-english/)
-
-Available tools:  
-[awstools☁](https://awstools.dev/)
-
-AWS IP ranges:  
-[aws-ip-ranges](https://github.com/seligman/aws-ip-ranges)
-

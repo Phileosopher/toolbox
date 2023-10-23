@@ -6,6 +6,9 @@ Code-less HTML editing:
 HTML shell:  
 [Toptal's HTMLShell☁](https://www.toptal.com/developers/htmlshell)
 
+Meta tags and manifest properties:  
+[awesome-meta-and-manifest💩](https://github.com/gokulkrishh/awesome-meta-and-manifest)
+
 ## CSS-Free Formatting
 
 [Element CSS](https://elementcss.neocities.org/),

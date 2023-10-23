@@ -19,58 +19,6 @@ RSS to Notion:
 Finance the tech stack you depend on:  
 [thanks.dev](https://thanks.dev/)
 
-## IDEs
-
-[Apache NetBeans⊞⌘🐧](https://netbeans.org/),
-[GNU Emacs⊞⌘🐧](https://www.gnu.org/software/emacs/),
-[vim⊞■⌘🐧](https://www.vim.org/),
-[Microsoft Visual Studio⊞⌘🐧](https://visualstudio.microsoft.com/),
-[VSCodium⊞⌘🐧](https://vscodium.com/)
-
-Browser-based IDE:  
-[Visual Studio Code☁](https://vscode.dev/)
-
-Android-tailored:  
-[Android SDK⊞⌘🐧](https://developer.android.com/studio/),
-
-Apple-tailored:  
-[Xcode⌘🍎](https://developer.apple.com/xcode/)
-
-Linux-tailored:  
-[The GTK Project⊞⌘🐧](https://gtk.org/)
-
-Hex editor:  
-[HxD⊞](https://mh-nexus.de/en/hxd/),
-[ImHex⊞⌘🐧](https://imhex.werwolv.net/)
-
-## IDE Enhancement
-
-Themes:  
-[blackbird](https://blackbird.mattglei.ch/)
-
-Fonts:  
-[Cozette](https://github.com/slavfox/Cozette),
-[creep2](https://github.com/raymond-w-ko/creep2),
-[Dev Fonts](https://devfonts.gafi.dev/),
-[Input](https://input.djr.com/),
-[MonoLisa](https://www.monolisa.dev/),
-[PICO-8.ttf + variants](https://www.lexaloffle.com/bbs/?tid=3760),
-[Victor Mono](https://rubjo.github.io/victor-mono/)
-
-Dark theme:  
-[Dracula](https://draculatheme.com/)
-
-Font Tournament:  
-[Coding Font by Typogram☁](https://www.codingfont.com/)
-
-## IDE Enhancement - Git Improvement
-
-Quickly open remote gits in the IDE:  
-[git-peek](https://github.com/Jarred-Sumner/git-peek)
-
-Auto-save a separate branch for ALL work:  
-[dura](https://github.com/tkellogg/dura)
-
 ## Quick-Reference
 
 Time standards:  

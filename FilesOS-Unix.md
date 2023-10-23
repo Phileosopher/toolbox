@@ -1,5 +1,8 @@
 # Files/OS: Unix-likes
 
+New Linux installation:  
+[linux-checklist](https://github.com/jeanlucaslima/linux-checklist)
+
 Microsoft-familiar Linux:  
 [Zorin🐧](https://zorin.com/)
 

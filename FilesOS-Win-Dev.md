@@ -21,3 +21,6 @@ UPX packer (EXE maker):
 
 Debugger:  
 [OllyDbg](https://www.ollydbg.de/)
+
+.NET microservices:  
+[Awesome-Microservices-DotNet💩](https://github.com/mjebrahimi/Awesome-Microservices-DotNet)

@@ -11,3 +11,6 @@ Mouse side button mapping:
 
 GitHub repo search (with [Alfred](https://www.alfredapp.com/)):  
 [alfred github repos](https://github.com/edgarjs/alfred-github-repos)
+
+Piles of everything💩:  
+[awesome-macOS](https://github.com/iCHAIT/awesome-macOS)

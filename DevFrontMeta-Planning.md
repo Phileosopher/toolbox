@@ -6,7 +6,8 @@ Checklist:
 User flow tracking:  
 [Wireflow](https://wireflow.co/)
 
-Open-source projects:  
+Open-source projects💩:  
+[awesome-oss](https://github.com/sereneblue/awesome-oss)
 [GNOME Projects](https://wiki.gnome.org/Projects),
 [LibreOffice - Get Involved](https://www.libreoffice.org/community/get-involved),
 [Open Source Hub](https://opensourcehub.io/)
@@ -47,9 +48,10 @@ Cross-platform webapps:
 Style definitions:  
 [lipgloss](https://github.com/charmbracelet/lipgloss)
 
-## Other front-end piles
+## Front-end piles💩
 
 [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers),
+[frontend-development](https://github.com/codingknite/frontend-development),
 [Invision's Free Design Resources](https://www.invisionapp.com/inside-design/design-resources/),
 [link-list](https://github.com/Vincenius/link-list),
 [Tiny helpers](https://tiny-helpers.dev/),

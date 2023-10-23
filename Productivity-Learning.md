@@ -95,6 +95,10 @@ English-to-sign-language:
 [American Sign Language ASL Dictionary](https://www.signasl.org/),
 [British Sign Language BSL Dictionary](https://www.signbsl.com/)
 
+Certifications:  
+[Free-Certifications💩](https://github.com/cloudcommunity/Free-Certifications)
+
+
 ## Technology Learning
 
 Coding tests/certifications:  

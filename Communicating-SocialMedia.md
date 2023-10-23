@@ -70,6 +70,8 @@ Pulling usernames:
 
 ## Third-Party Front-Ends☁
 
+[alternative-front-ends💩](https://github.com/mendel5/alternative-front-ends)
+
 Discord:  
 [Bluecord🤖](https://bluesmods.com/bluecord/)
 

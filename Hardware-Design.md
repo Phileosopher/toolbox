@@ -20,6 +20,9 @@ Schematics/models - search engine:
 Air quality sensor:  
 [AirGradient DIY Air Quality Sensor](https://www.airgradient.com/open-airgradient/instructions/diy-pro-v37/)
 
+ESP8266/32 projects:  
+[awesome-esp💩](https://github.com/agucova/awesome-esp)
+
 ## Simulations
 
 [SimPy🐍⇉🐧](https://pypi.org/project/simpy/)
