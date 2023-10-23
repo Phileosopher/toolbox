@@ -1,5 +1,7 @@
 # Files/OS: Data Management
 
+[awesome-storage💩](https://github.com/okhosting/awesome-storage)
+
 ## SQL databases
 
 [SQLite](https://sqlite.org/index.html)
@@ -29,6 +31,11 @@ Cleaning:
 
 DNA data conversion:  
 [Mapmy23 Tool☁](http://www.mapmy23.com/tools/ancestry_ftdna_fix.php)
+
+## Optimizing
+
+MySQL/MariaDB/Percona performance enhancement:  
+[awesome-mysql-performance](https://github.com/Releem/awesome-mysql-performance)
 
 ## 2D Data
 
@@ -91,3 +98,6 @@ Language libraries:
 [BioPHP](https://biophp.org/),
 [Biopython](https://biopython.org/),
 [BioRuby](http://bioruby.org/)
+
+Piles of genetic tools💩:  
+[awesome-CRISPR](https://github.com/davidliwei/awesome-CRISPR)

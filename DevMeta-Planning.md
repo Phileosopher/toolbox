@@ -52,3 +52,6 @@ Entire apps:
 
 Cheatsheets:  
 [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+
+Zero-config tools:  
+[awesome-toolkits](https://github.com/reyronald/awesome-toolkits)

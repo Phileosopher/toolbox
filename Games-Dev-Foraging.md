@@ -2,7 +2,8 @@
 
 ## Source Code
 
-Open-source game lists:  
+Open-source game lists💩:  
+[awesome-jsgames](https://github.com/proyecto26/awesome-jsgames)
 [awesome-open-source-games](https://github.com/michelpereira/awesome-open-source-games),
 [OSGL](https://trilarion.github.io/opensourcegames/),
 [Open Source Game Clones](https://osgameclones.com/),
