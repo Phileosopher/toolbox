@@ -18,6 +18,12 @@ Piles of everything💩:
 GPT prompts:  
 [awesome-gpt-prompt-engineering💩](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)
 
+Document data:  
+[Collato](https://collato.com/)
+
+Document data - invoices:  
+[InvoiceNet](https://github.com/naiveHobo/InvoiceNet)
+
 ## ML Papers
 
 Piles of papers💩:  

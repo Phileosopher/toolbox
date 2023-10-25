@@ -6,6 +6,9 @@ Long-Term Planning:
 Job roles that tend to marry:  
 [Jobs that Marry Together the Most](https://flowingdata.com/2021/05/26/jobs-that-marry-together/)
 
+Salary data:  
+[Monster.com Salary Comparison and Salary Estimator](https://www.monster.com/salary)
+
 ## Profile Management
 
 Social networks:  
@@ -26,10 +29,15 @@ Business card - GitHub:
 
 ## Resumé Enhancement
 
+Resumé templates:  
+[ResumGO](https://www.resumgo.com/)
+
 Resumé builder/parser:  
 [OpenResume☁](https://www.open-resume.com/),
-[Reactive Resume☁](https://rx-resume.web.app/),
-[Resumake☁](https://resumake.io/),
+[Reactive Resume](https://rxresu.me/),
+[Resumake☁](https://latexresu.me/),
+[ResumeMaker.Online](https://www.resumemaker.online/),
+[Resume Nation](https://resume-nation.github.io/),
 [wtfresume☁](https://wtfresume.com/)
 
 Resumé builder - software engineers:  
@@ -38,21 +46,35 @@ Resumé builder - software engineers:
 Resumé builder - ATS keyword matching:  
 [Resume Matcher🐍](https://www.resumematcher.fyi/)
 
+Resumé editor - BibTeX integration:  
+[CVservant](https://cvservant.com/cv/)
+
+Cover letters:  
+[Covered](https://covered.works/)
+
 Volunteering:  
 [Catchafire](https://www.catchafire.org)
 
 ## Business Research
 
 [Better Business Bureau](https://www.bbb.org/),
-[Glassdoor](https://www.glassdoor.com/member/home/index.htm)
+[Glassdoor](https://www.glassdoor.com/member/home/index.htm),
+[Indeed Company Reviews](https://www.indeed.com/companies)
 
 USA-specific:  
-[SEC EDGAR Company Search](https://www.sec.gov/edgar/searchedgar/legacy/companysearch.html)
+[SEC EDGAR Full Text Search](https://www.sec.gov/edgar/search/),
+[SEC EDGAR Company Search (legacy)](https://www.sec.gov/edgar/searchedgar/legacy/companysearch.html),
 
 Europe-specific:  
-[Central and Eastern European Business Directory (CEEBD)](https://globaledge.msu.edu/global-resources/resource/1274)
+[Central and Eastern European Business Directory (CEEBD)](https://globaledge.msu.edu/global-resources/resource/1274💩)
 
 ## Employee Search
+
+ATS:  
+[CareerBuilder for Employers](https://hiring.careerbuilder.com/)
+[Indeed Resume](https://resumes.indeed.com/),
+[Jobvertise$](https://www.jobvertise.com/),
+[MightyRecruiter](https://www.mightyrecruiter.com/)
 
 Developer search:  
 [GitHunt](https://githunt.dev/)
@@ -62,9 +84,14 @@ Employee salary data:
 
 ## Job Boards (Employer/Employee)
 
+[CareerBuilder.com](https://www.careerbuilder.com/),
 [Hired](https://hired.com/),
 [Indeed](https://www.indeed.com/),
+[SimplyHired](https://www.simplyhired.com/),
 [ZipRecruiter](https://www.ziprecruiter.com/)
+
+Middle East-specific:  
+[Bayt.com](https://www.bayt.com/)
 
 Entrepreneurship-specific:  
 [AngelList Talent](https://angel.co/)
@@ -128,15 +155,12 @@ Foreign languages:
 
 Copywriting:  
 [Contentfly](https://contentfly.com/),
-[Copify UK](https://uk.copify.com/)
+[Copify UK](https://uk.copify.com/),
+[Who Pays Writers?](http://whopayswriters.com)
 
 Localization/translation:  
 [Crowdin](https://crowdin.com/),
 [Simply Translate](https://www.simplytranslate.com/)
-
-Content generation:  
-[ContentFly](https://contentfly.com/),
-[Who Pays Writers?](http://whopayswriters.com)
 
 Journalism:  
 [Cision's Help A Reporter](https://www.helpareporter.com/)
@@ -174,11 +198,7 @@ Roadside assistance:
 
 ## Job Boards - Technology Industry
 
-[Dice](https://www.dice.com/),
-[Stack Overflow Jobs](https://stackoverflow.com/jobs)
-
-Engineering:  
-[Triplebyte](https://triplebyte.com/)
+[Dice](https://www.dice.com/)
 
 Geographically-based:  
 [whoishiring.io](https://whoishiring.io/)
@@ -188,6 +208,9 @@ Software development:
 [Turing](https://turing.com/),
 [YouTeam](https://youteam.io/)
 [Storetasker (for Shopify)](https://www.storetasker.com/)
+
+Freelancing/mentorship:  
+[Codementor](https://www.codementor.io/)
 
 ## Job Boards -  Mindless Tasks
 

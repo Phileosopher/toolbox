@@ -129,6 +129,7 @@ Women-only:
 [Open Collective☁](https://opencollective.com/)
 
 Entrepreneurship:  
+[AngelList](https://www.angellist.com/),
 [Indiegogo for Entrepreneurs☁](https://entrepreneur.indiegogo.com/),
 [SeedInvest☁](https://www.seedinvest.com/),
 [StartEngine☁](https://www.startengine.com/)

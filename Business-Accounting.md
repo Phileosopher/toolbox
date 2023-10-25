@@ -11,7 +11,7 @@ Payment processing:
 [GoCardless](https://gocardless.com/),
 [Parallel Economy](https://www.paralleleconomy.com/)
 
-Payment processing - software development:  
+Payment processing - developer-focused:  
 [Medusa](https://medusajs.com/)
 
 Expense/time tracking and invoice:  
@@ -21,7 +21,8 @@ Expense/time tracking and invoice:
 [Zoho Invoice](https://www.zoho.com/invoice/)
 
 Invoices - sending:  
-[Invoice Dragon☁](https://invoicedragon.com/)
+[Invoice Dragon☁](https://invoicedragon.com/),
+[Invoiceto.me☁](https://invoiceto.me/)
 
 Invoices - Bitcoin-based:  
 [Zaprite☁](https://zaprite.com/)

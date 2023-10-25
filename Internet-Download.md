@@ -8,6 +8,11 @@ Download manager:
 Download manager - image galleries:  
 [gallery-dl](https://github.com/mikf/gallery-dl)
 
+Download manager - auto-throttling:  
+[AllDebrid](https://alldebrid.com/),
+[Premiumize.me](https://www.premiumize.me/),
+[Real-Debrid](https://real-debrid.com/)
+
 Download manager - YouTube:  
 [youtube-dlp⊞□🐧](https://github.com/yt-dlp/yt-dlp) (with frontends with [youtube-dl-gui⊞⌘🐧(GUI)](https://github.com/jely2002/youtube-dl-gui) and [Videomass](https://jeanslack.github.io/Videomass/))
 HTTP media downloads:  
@@ -38,3 +43,6 @@ Torrents - search:
 
 Torrents - streaming:  
 [Popcorn Time⊞⌘🐧🤖](https://github.com/popcorn-official)
+
+Torrents - alternate proxy:  
+[Knaben's Proxy List](https://knaben.info/)

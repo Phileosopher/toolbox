@@ -42,6 +42,7 @@ Stock music:
 [Icons8 Fugue](https://icons8.com/music), [incompetech Music Search](https://incompetech.com/music/royalty-free/music.html),
 [Loyalty Freak Music](https://loyaltyfreakmusic.com/),
 [Magnatune$](http://magnatune.com/),
+[Openverse](https://openverse.org/),
 [Pixabay's Royalty Free Music](https://pixabay.com/music/), [PremiumBeat$](https://www.premiumbeat.com/), [Purple Planet](https://www.purple-planet.com/),
 [Silverman Sound Studios Royalty Free Music](https://www.silvermansound.com/free-music), [StreamBeats](https://www.senpai.tv/streambeats/),
 [The Blake Robinson Synthetic Orchestra](https://syntheticorchestra.com/),

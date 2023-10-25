@@ -12,7 +12,8 @@ Terms of service:
 ## Intellectual Property
 
 Open-source licenses:  
-[Choose a License*](https://choosealicense.com/)
+[Choose a License*](https://choosealicense.com/),
+[mklicense(npm)🐧□](https://www.npmjs.com/package/mklicense)
 
 ## Consenting
 

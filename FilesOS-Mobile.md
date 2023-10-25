@@ -19,3 +19,7 @@ Camera:
 
 Remove ad software:  
 [UnlockAPK's AdFree Tool](https://unlockapk.com/AdFree-Tool.php)
+
+Email:  
+[FairEmail](https://email.faircode.eu/),
+[K-9 Mail](https://k9mail.app/)

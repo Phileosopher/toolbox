@@ -91,7 +91,7 @@ Chiptune:
 [Audacity⊞■⌘🐧](https://www.audacityteam.org/) (with [Wavacity☁](https://wavacity.com/) as a web-based port or [Tenacity](https://tenacityaudio.org/) without any tracking),
 [Audio Recorder☁](https://webbrowsertools.com/audio-recorder/),
 [Bitwig$⊞⌘🐧](https://www.bitwig.com/)
-[Cakewalk by BandLab⊞](https://www.bandlab.com/products/cakewalk),
+[Cakewalk by BandLab⊞](https://www.bandlab.com/products/cakewalk) (with [MenuMagic Details](https://www.agitatedstate.com/html/menumagic.php) as plugin manager),
 [LMMS⊞■⌘🐧](https://lmms.io/),
 [WavePad](https://www.nch.com.au/wavepad/index.html)
 
@@ -102,13 +102,17 @@ Minimalist DAW:
 Collaborative works:  
 [MusicMessages!🍎](http://musicmessages.io/)
 
-Chiptune/NES-style:  
+Chiptune - NES-style:  
 [FamiStudio](https://famistudio.org/)
+
+Chiptune - Gameboy-style:  
+[Little Sound Dj](https://www.littlesounddj.com/lsd/index.php)
 
 ## Auto-Generation
 
 Sound effect generation:  
 [LabChirp](https://labbed.net/software/labchirp/),
+[rFXGen](https://raylibtech.itch.io/rfxgen),
 [sfxr](https://drpetter.se/project_sfxr.html) (expansion through [Bfxr](https://www.bfxr.net/))
 
 Sample generation:  
