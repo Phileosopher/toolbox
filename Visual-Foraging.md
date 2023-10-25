@@ -88,6 +88,9 @@ AI-generated faces:
 AI-generated movie posters:  
 [This Movie Does Not Exist](https://thismoviedoesnotexist.org/movie/unique-presence-1)
 
+Databases:  
+[laion-aesthetic-6pls](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls)
+
 Patterns:  
 [CodeinWP](https://www.codeinwp.com/pattern-collection/)
 
@@ -171,7 +174,7 @@ React icons:
 Payment methods:  
 [Iconfinder's Payment Method icons](https://www.iconfinder.com/iconsets/payment-method-1)
 
-## Mockup templates
+## Mockup Templates
 
 [Facebook Design's Devices](https://facebook.design/devices),
 [Facebook Design's Diverse Device Hands](https://facebook.design/handskit),
@@ -183,6 +186,11 @@ Payment methods:
 ## Slideshow Templates
 
 [SlidesCarnival](https://www.slidescarnival.com/)
+
+## After Effects Templates
+
+[Free After Effects Templates](https://vfxdownload.com/),
+[ShareAE](https://shareae.com/)
 
 ## Clipart
 
