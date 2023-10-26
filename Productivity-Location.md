@@ -7,6 +7,14 @@ Passport travel restrictions:
 [Passport Index☁](https://www.passportindex.org/)
 [Visa List☁](https://visalist.io/)
 
+General-purpose maps:  
+[FacilMap☁](https://facilmap.org/),
+[OpenStreetMap🔌](https://www.openstreetmap.org/about),
+[Where Am I☁](https://ctrlq.org/maps/where/)
+
+Offline maps:  
+[OsmAnd](https://osmand.net/)
+
 ## Location Data
 
 Pull Lat/Long from address:  
@@ -25,17 +33,17 @@ DMS to Lat/Long:
 Lat/Long to UTM:  
 [LatLong.net Lat Long to UTM Converter☁](https://www.latlong.net/lat-long-utm.html)
 
-## Location Visualization
-
-[FacilMap☁](https://facilmap.org/),
-[OpenStreetMap🔌](https://www.openstreetmap.org/about),
-[Where Am I☁](https://ctrlq.org/maps/where/)
-
-GIS data:  
-[QGIS⊞⌘🐧🍎🤖](https://www.qgis.org/en/site/)
-
-GPS visualization:  
+GPS visualization from mapping:  
 [GPS Visualizer☁](https://www.gpsvisualizer.com/)
+
+## Specific Visualizations
+
+High-quality imaging:  
+[Copernicus Data Space Ecosystem☁](https://dataspace.copernicus.eu/),
+[EarthExplorer☁](https://earthexplorer.usgs.gov/)
+
+Current LEO satellites:  
+[Low Earth Orbit Visualization☁](https://platform.leolabs.space/visualization)
 
 Ship location:  
 [VesselFinder☁](https://www.vesselfinder.com/)
@@ -51,7 +59,7 @@ Report:
 [Weather Underground☁](https://www.wunderground.com/)
 
 Map:  
-[Windy: Wind map & weather forecast](https://www.windy.com/?18.790,99.003,5)
+[Windy: Wind map & weather forecast](https://www.windy.com/)
 
 Year-round climate:  
 [Goldilocks Zone Finder☁](https://lukechampine.com/goldilocks/)
@@ -139,3 +147,27 @@ Police tracking:
 
 Historical atlas:  
 [GeaCron](http://geacron.com/)
+
+OSM editor:  
+[StreetComplete🤖](https://streetcomplete.app/)
+
+## Map APIs
+
+Tile data API:  
+[Protomaps](https://docs.protomaps.com/),
+[OpenMapTiles](https://openmaptiles.org/)
+
+Google Earth regional tiles API:  
+[Google Maps Platform Coverage Details](https://developers.google.com/maps/coverage)
+
+OSM data visualization:  
+[prettymaps](https://github.com/marceloprates/prettymaps) (optimized with [prettymapp](https://github.com/chrieke/prettymapp))
+
+Aerial data:  
+[DroneDB](https://docs.dronedb.app/)
+
+## GIS Data Management
+
+GIS data navigator:  
+[maps.earth](https://about.maps.earth/),
+[QGIS⊞⌘🐧🍎🤖](https://www.qgis.org/en/site/)
