@@ -31,6 +31,9 @@ Lat/Long to UTM:
 [OpenStreetMap🔌](https://www.openstreetmap.org/about),
 [Where Am I☁](https://ctrlq.org/maps/where/)
 
+GIS data:  
+[QGIS⊞⌘🐧🍎🤖](https://www.qgis.org/en/site/)
+
 GPS visualization:  
 [GPS Visualizer☁](https://www.gpsvisualizer.com/)
 
@@ -49,10 +52,6 @@ Report:
 
 Map:  
 [Windy: Wind map & weather forecast](https://www.windy.com/?18.790,99.003,5)
-
-API:  
-[Open-Meteo.com🔌](https://open-meteo.com/en),
-[OpenWeatherMap API guide🔌](https://openweathermap.org/guide),
 
 Year-round climate:  
 [Goldilocks Zone Finder☁](https://lukechampine.com/goldilocks/)
@@ -104,8 +103,9 @@ Cabs:
 [Lyft☁](https://www.lyft.com/),
 [Uber☁](https://www.uber.com/)
 
-Hiking/backpacking:  
-[KT companion](https://github.com/jamealg/KT-companion)
+Hiking/trails:  
+[KT companion](https://github.com/jamealg/KT-companion),
+[Organic Maps🤖🍎](https://organicmaps.app/)
 
 ## Itinerary
 
