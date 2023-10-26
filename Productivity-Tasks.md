@@ -5,6 +5,7 @@ Daily tasks:
 [Emergent Task Planner*](https://davidseah.com/node/the-emergent-task-planner/)
 
 Daily tasks - micro habits:  
+[Loop Habit Tracker🤖](https://github.com/iSoron/uhabits),
 [Table Habit🤖](https://github.com/FriesI23/mhabit)
 
 Kanban boards:  
