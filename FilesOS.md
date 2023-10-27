@@ -3,8 +3,12 @@
 Alternative software:  
 [Alternative.me](https://alternative.me/),
 [AlternativeTo](https://alternativeto.net/),
+[Appmus](https://appmus.com/),
 [Capterra](https://www.capterra.com/),
-[SaaSHub](https://www.saashub.com/)
+[ListAlternative](https://www.listalternative.com/),
+[SaaSHub](https://www.saashub.com/),
+[Slant](https://www.slant.co/),
+[TopAlter.com](https://topalter.com/)
 
 Scanner drivers:  
 [VueScan⊞⌘🐧](https://www.hamrick.com/)
