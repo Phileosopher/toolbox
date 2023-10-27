@@ -118,7 +118,7 @@ Further, some patterns keep cropping up in each domain:
 - Consuming: human consumption only, without modification to it
 - Foraging: to acquire others' created works
 
-Further further, there are other groups if it's too meta to fit into any one of the above categories:
+Further further, there are other "fallback" groups if it's too meta to fit into any one of the above categories:
 
 - Dev: to broadly make or manage computer code, which may refer to front-end or back-end, be language-specific, and may simply be a more nuanced version of any of the above
 - Internet: sorta networking, sorta Everything Else

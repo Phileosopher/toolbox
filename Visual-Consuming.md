@@ -51,6 +51,9 @@ YouTube - ad blocking:
 P2P movie sharing:  
 [watchIT](https://github.com/ZorrillosDev/watchit-app)
 
+Popular movies list API:  
+[popular-movies](https://github.com/sjlu/popular-movies)
+
 ## Media Libraries
 
 Tracking/synchronization:  

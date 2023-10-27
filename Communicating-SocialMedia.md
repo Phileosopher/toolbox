@@ -70,7 +70,9 @@ Pulling usernames:
 
 ## Third-Party Front-Ends☁
 
-[alternative-front-ends💩](https://github.com/mendel5/alternative-front-ends)
+[alternative-front-ends💩](https://github.com/mendel5/alternative-front-ends),
+[alternative-frontends💩](https://github.com/digitalblossom/alternative-frontends),
+[Farside💩](https://farside.link/)
 
 Discord:  
 [Bluecord🤖](https://bluesmods.com/bluecord/)

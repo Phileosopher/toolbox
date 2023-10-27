@@ -108,6 +108,9 @@ Popular trends:
 [Exploding Topics☁](https://explodingtopics.com/),
 [English Wikipedia Top 100☁](https://top.hatnote.com/)
 
+Trends search engine:  
+[Social Searcher](https://www.social-searcher.com/)
+
 Short-term rental data:  
 [AirDNA](https://www.airdna.co/)
 
@@ -115,7 +118,7 @@ Moving data - USA:
 [Allied Magnet States Report☁](https://www.allied.com/migration-map)
 
 Social media listening:  
-[Mention☁](https://mention.com/)
+[Mention☁](https://mention.com/),
 
 ## Marketing Followup
 
@@ -128,6 +131,7 @@ Monetization:
 CRM:  
 [Dex☁🍎🤖](https://getdex.com/),
 [Monica☁](https://github.com/monicahq/monica)
+[Twenty☁](https://twenty.com/)
 
 CRM - not-for-profits:  
 [CiviCRM⊞🐧](https://civicrm.org/)

@@ -15,3 +15,7 @@ Expiring patents:
 
 Regional businesses:  
 [Yelp](https://www.yelp.com/)
+
+Amazon ASIN lookup:  
+[Amazon Asin Lookup](https://amazon-asin.com/)
+[sellerapp's Reverse Asin Lookup](https://www.sellerapp.com/amazon-reverse-asin.html)

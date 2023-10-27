@@ -58,6 +58,9 @@ Metadata:
 [Mp3tag⊞■⌘](https://www.mp3tag.de/en/),
 [MusicBrainz Picard⊞■⌘🐧](https://picard.musicbrainz.org/)
 
+Metadata - album art search/download:  
+[Album Art Downloader⊞](https://sourceforge.net/projects/album-art/)
+
 Metadata - audiobooks:  
 [Chapter and Verse⊞](http://lodensoftware.com/chapter-and-verse/)
 

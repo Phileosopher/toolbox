@@ -1,12 +1,5 @@
 # Productivity: Travel/Location
 
-Travel guides:  
-[Frommer's Travel Guides*](https://www.frommers.com/)
-
-Passport travel restrictions:  
-[Passport Index☁](https://www.passportindex.org/)
-[Visa List☁](https://visalist.io/)
-
 General-purpose maps:  
 [FacilMap☁](https://facilmap.org/),
 [OpenStreetMap🔌](https://www.openstreetmap.org/about),
@@ -15,7 +8,14 @@ General-purpose maps:
 Offline maps:  
 [OsmAnd](https://osmand.net/)
 
+High-quality imaging:  
+[Copernicus Data Space Ecosystem☁](https://dataspace.copernicus.eu/),
+[EarthExplorer☁](https://earthexplorer.usgs.gov/)
+
 ## Location Data
+
+Device location (from IP address):  
+[What is my Geolocation☁](https://webbrowsertools.com/geolocation/)
 
 Pull Lat/Long from address:  
 [LatLong.net Address Convert☁](https://www.latlong.net/convert-address-to-lat-long.html)
@@ -36,35 +36,40 @@ Lat/Long to UTM:
 GPS visualization from mapping:  
 [GPS Visualizer☁](https://www.gpsvisualizer.com/)
 
-## Specific Visualizations
+Geodetic surveying:  
+[GNU Gama](https://www.gnu.org/software/gama/)
 
-High-quality imaging:  
-[Copernicus Data Space Ecosystem☁](https://dataspace.copernicus.eu/),
-[EarthExplorer☁](https://earthexplorer.usgs.gov/)
-
-Current LEO satellites:  
-[Low Earth Orbit Visualization☁](https://platform.leolabs.space/visualization)
-
-Ship location:  
-[VesselFinder☁](https://www.vesselfinder.com/)
-
-International time:  
-[Every Time Zone](https://everytimezone.com/),
-[TimeZonesView⊞■](https://www.nirsoft.net/utils/time_zones_view.html)
+IP address geolocation:  
+[ipapi.is Geolocation](https://ipapi.is/geolocation.html)
 
 ## Weather
 
 Report:  
 [National Weather Service](https://www.weather.gov/),
+[Weather Spark](https://weatherspark.com/),
 [Weather Underground☁](https://www.wunderground.com/)
 
 Map:  
-[Windy: Wind map & weather forecast](https://www.windy.com/)
+[Weather Spark Map](https://weatherspark.com/map)
+
+Wind map:  
+[Windy](https://www.windy.com/)
 
 Year-round climate:  
 [Goldilocks Zone Finder☁](https://lukechampine.com/goldilocks/)
 
+Weather data API:  
+[AviationWeather Data API](https://aviationweather.gov/data/api/),
+[Open-Meteo.com🔌](https://open-meteo.com/en),
+[OpenWeatherMap API guide🔌](https://openweathermap.org/guide),
+
 ## Logistics
+
+Current LEO satellites:  
+[Low Earth Orbit Visualization☁](https://platform.leolabs.space/visualization)
+
+Airports:  
+[OpenAirportMap☁](https://openairportmap.org/)
 
 Flight tracking:  
 [ADS-B Exchange☁](https://globe.adsbexchange.com/),
@@ -73,18 +78,38 @@ Flight tracking:
 Flight tracking - notification:  
 [plane-notify🐍](https://github.com/Jxck-S/plane-notify)
 
+Airline in-flight WiFi API - United Airlines:  
+[United-In-Flight-Api](https://github.com/greatjack1/United-In-Flight-Api)
+
+Ship location:  
+[VesselFinder☁](https://www.vesselfinder.com/)
+
 Package tracking:  
 [Boxoh](http://www.boxoh.com/),
 [Package Place□](https://package.place/)
 
-Airports:  
-[OpenAirportMap☁](https://openairportmap.org/)
+Submarine cables:  
+[Globe.GL submarine cables](https://globe.gl/example/submarine-cables/)
+
+GPS interference:  
+[GPSJam GPS/GNSS Interference Map](https://gpsjam.org)
 
 ## Remote Workers
 
 [Nomad List☁](https://nomadlist.com/)
 
 ## Traveling
+
+Travel guides:  
+[Frommer's Travel Guides*](https://www.frommers.com/)
+
+Passport travel restrictions:  
+[Passport Index☁](https://www.passportindex.org/)
+[Visa List☁](https://visalist.io/)
+
+International time:  
+[Every Time Zone](https://everytimezone.com/),
+[TimeZonesView⊞■](https://www.nirsoft.net/utils/time_zones_view.html)
 
 Airline research:  
 [SeatGuru☁](https://www.seatguru.com/)
@@ -115,47 +140,50 @@ Hiking/trails:
 [KT companion](https://github.com/jamealg/KT-companion),
 [Organic Maps🤖🍎](https://organicmaps.app/)
 
-## Itinerary
+## Itinerary/Planning
 
 [TripIt☁](https://www.tripit.com/web)
+
+Traveling radius:  
+[Smappen☁](https://www.smappen.com/)
+
+Light pollution:  
+[Light pollution map☁](https://www.lightpollutionmap.info/)
+
+Police tracking:  
+[Atlas of Surveillance☁🕵️](https://atlasofsurveillance.org/)
+
+Nuclear detonation estimation:  
+[NUKEMAP☁](https://nuclearsecrecy.com/nukemap/)
 
 ## Other Regional Needs
 
 Bird detection (by sound):  
 [BirdNET☁🍎🤖](https://birdnet.cornell.edu/)
 
-GPS interference:  
-[GPSJam GPS/GNSS Interference Map](https://gpsjam.org)
-
-Light pollution:  
-[Light pollution map☁](https://www.lightpollutionmap.info/)
-
 Power outages:  
 [United States Power Outage Map](https://poweroutage.us/)
-
-Traveling radius:  
-[OALLEY☁](https://www.oalley.net/)
-
-Nuclear detonation estimation:  
-[NUKEMAP☁](https://nuclearsecrecy.com/nukemap/)
 
 Mandatory reporters:  
 [Resources for Mandated Reporters of Abuse](https://mandatedreporter.com/)
 
-Police tracking:  
-[Atlas of Surveillance☁🕵️](https://atlasofsurveillance.org/)
-
 Historical atlas:  
 [GeaCron](http://geacron.com/)
+
+## GIS Data Management
+
+GIS data navigator:  
+[maps.earth](https://about.maps.earth/),
+[QGIS⊞⌘🐧🍎🤖](https://www.qgis.org/en/site/)
 
 OSM editor:  
 [StreetComplete🤖](https://streetcomplete.app/)
 
-## Map APIs
+## Tile Data APIs
 
-Tile data API:  
-[Protomaps](https://docs.protomaps.com/),
-[OpenMapTiles](https://openmaptiles.org/)
+[OpenMapTiles](https://openmaptiles.org/),
+[Planetiler](https://github.com/onthegomap/planetiler),
+[Protomaps](https://docs.protomaps.com/)
 
 Google Earth regional tiles API:  
 [Google Maps Platform Coverage Details](https://developers.google.com/maps/coverage)
@@ -166,8 +194,6 @@ OSM data visualization:
 Aerial data:  
 [DroneDB](https://docs.dronedb.app/)
 
-## GIS Data Management
+## GIS UI
 
-GIS data navigator:  
-[maps.earth](https://about.maps.earth/),
-[QGIS⊞⌘🐧🍎🤖](https://www.qgis.org/en/site/)
+[Globe.GL](https://globe.gl/)

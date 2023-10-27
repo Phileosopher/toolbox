@@ -127,3 +127,8 @@ SVG to JSX:
 
 Image comparison:  
 [DiffImg⊞■](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Viewers/DiffImg.shtml)
+
+## Machine Learning
+
+Computer Vision:  
+[awesome-computer-vision-models💩](https://github.com/gmalivenko/awesome-computer-vision-models)

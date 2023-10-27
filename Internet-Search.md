@@ -13,9 +13,6 @@ Human-curated search:
 Open content:  
 [ibiblio](https://www.ibiblio.org/)
 
-Scrape all URLs from an HTML page:  
-[AddrView⊞■](https://www.nirsoft.net/utils/addrview.html)
-
 ## Current Information
 
 Reddit search engine:  
@@ -67,3 +64,11 @@ Sports information:
 
 European surnames:  
 [Surname Map](https://www.surnamemap.eu/)
+
+## Data Scraping
+
+URLs in an HTML page:  
+[AddrView⊞■](https://www.nirsoft.net/utils/addrview.html)
+
+Amazon product data:  
+[amazon-scraper](https://github.com/scrapehero-code/amazon-scraper)

@@ -46,6 +46,15 @@ Auto lookup:
 Auto accidents:  
 [CRASHDOCS.org*](https://www.crashdocs.org/)
 
+Auto VIN decoding API:  
+[VIN Decode by Auto.dev](https://www.auto.dev/vin)
+
+Vehicle listings API:  
+[Auto.dev's Vehicle Listings API](https://www.auto.dev/listings)
+
+Automotives in popular visual media:  
+[IMCDb.org](https://imcdb.org/)
+
 ## Other
 
 Alternative energy (e.g., EVs):

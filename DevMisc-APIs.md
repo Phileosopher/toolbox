@@ -1,17 +1,9 @@
 # Software Development: Miscellaneous APIs 🔌
 
-Public-access APIs:  
+Public-access APIs💩:  
 [Public APIs⦿](https://public-apis.io/),
 [Public APIs⦿](https://public-apis.xyz/),
 [public-apis⦿](https://github.com/public-apis/public-apis)
 
-Unofficial APIs:  
+Unofficial APIs💩:  
 [unofficial-apis⦿](https://github.com/Rolstenhouse/unofficial-apis)
-
-Auto VIN decoding:  
-[VIN Decode by Auto.dev](https://www.auto.dev/vin)
-
-## Weather Data
-  
-[Open-Meteo.com🔌](https://open-meteo.com/en),
-[OpenWeatherMap API guide🔌](https://openweathermap.org/guide),
