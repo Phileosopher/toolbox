@@ -9,6 +9,11 @@ Cloud storage:
 5G:  
 [awesome-5g💩](https://github.com/calee0219/awesome-5g)
 
+## Network Layer Stack
+
+E2E encryption:  
+[SCION Internet Architecture](https://scion-architecture.net/)
+
 ## Cloud Stack
 
 Diagramming:  

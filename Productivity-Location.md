@@ -12,6 +12,9 @@ High-quality imaging:
 [Copernicus Data Space Ecosystem☁](https://dataspace.copernicus.eu/),
 [EarthExplorer☁](https://earthexplorer.usgs.gov/)
 
+OSM search API:  
+[Nominatim](https://nominatim.org/)
+
 ## Location Data
 
 Device location (from IP address):  
