@@ -23,6 +23,9 @@ Podcast management:
 [MusicBee⊞■](https://getmusicbee.com/),
 [Quod Libet⊞⌘🐧](https://quodlibet.readthedocs.io/)
 
+Music download:  
+[Download Music School☁](https://downloadmusicschool.com/)
+
 Streaming/hosting server💾:  
 [mStream](https://mstream.io/),
 [Plexamp](https://plexamp.com/)

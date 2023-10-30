@@ -38,6 +38,7 @@ Extracting vocals from music:
 
 Stripping vocals:  
 [AI Vocal Remover](https://aivocalremover.com/),
+[AudioStrip☁](https://audiostrip.co.uk/),
 [Remove Vocals☁](https://www.remove-vocals.com/en/)
 
 Stripping instrumentals:  
@@ -74,3 +75,16 @@ Audio conversion:
 
 Audio conversion - MP3:  
 [Convert to MP3☁](https://webbrowsertools.com/convert-to-mp3/)
+
+## Broadcasting
+
+Sharing:  
+[Whyp](https://whyp.it/)
+
+Hosting - music:  
+[Clyp$](https://clyp.it/),
+[SoundCloud](https://soundcloud.com/)
+
+Hosting - podcast:  
+[Castopod💾](https://castopod.org/),
+[Podbean](https://www.podbean.com/podcast-hosting-pricing)

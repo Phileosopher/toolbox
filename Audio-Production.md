@@ -54,6 +54,9 @@ DJing - turntables:
 
 ## Composition
 
+MIDI files:  
+[Minor9](https://bhs.minor9.com/)
+
 Theremin:  
 [Theremin](https://femurdesign.com/theremin/)
 
@@ -108,6 +111,9 @@ Chiptune - NES-style:
 Chiptune - Gameboy-style:  
 [Little Sound Dj](https://www.littlesounddj.com/lsd/index.php)
 
+Microtuning for plugins:  
+[MTS-ESP](https://github.com/ODDSound/MTS-ESP)
+
 ## Auto-Generation
 
 Sound effect generation:  
@@ -124,10 +130,11 @@ Pulling samples:
 Sample combination:  
 [AuMe☁](https://audiometaphor.ca/)
 
-Machine learning music generation:  
+Convert spoken languages:  
+[Coqui☁](https://coqui.ai/)
+
+Song generation:  
 [Splice](https://splice.com/)
 
-## Broadcasting
-
-Podcast hosting:  
-[Castopod💾](https://castopod.org/)
+Song generation - DAW auto-builder:  
+[Jukeblocks](https://jukeblocks.io/)

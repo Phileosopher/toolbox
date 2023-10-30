@@ -51,7 +51,7 @@ Stock music:
 [Videvo's Royalty Free Music](https://www.videvo.net/royalty-free-music/),
 [whatfunk (SoundCloud)](https://soundcloud.com/whatfunk), [Wistia’s Music Collection](https://wistia.com/resources/music)
 
-Dtock music - electronic game remixes:  
+Stock music - electronic game remixes:  
 [OverClocked ReMix](https://ocremix.org/)
 
 Live music:  
@@ -61,8 +61,9 @@ Live music - bootleg recordings:
 [Heavy Soundboard Bootlegs](https://heavysoundboard.blogspot.com/),
 [Hip Hop Bootleggers](http://www.hiphopbootleggers.net/)
 
-Auto-generation - convert spoken languages:  
-[Coqui☁](https://coqui.ai/)
+Software:  
+[AudioLove](https://audiolove.me/),
+[Audio wareZ](https://audioz.download/)
 
 Piles of everything💩:  
 [awesome-music](https://github.com/noteflakes/awesome-music),

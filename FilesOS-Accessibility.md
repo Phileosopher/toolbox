@@ -16,7 +16,7 @@ Magnifying glass:
 [Virtual Magnifying Glass⊞■🐧](http://magnifier.sourceforge.net/)
 
 Screen reader/TTS:  
-[Balabolka⊞■](http://balabolka.site/balabolka.htm),
+[Balabolka⊞■](https://www.cross-plus-a.com/balabolka.htm),
 [Emacspeak🐧](http://emacspeak.sourceforge.net/),
 [NV Access⊞■](https://www.nvaccess.org/),
 [Orca🐧](https://help.gnome.org/users/orca/stable/introduction.html.en),
