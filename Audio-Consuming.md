@@ -1,5 +1,8 @@
 # Audio: Consuming
 
+Music recognition:  
+[AudioTag.info](https://audiotag.info/)
+
 ## Podcasts
 
 Podcast search engine:  
@@ -16,10 +19,12 @@ Podcast management:
 
 ## Music Library
 
+[beets](https://beets.io/)
 [MusicBee⊞■](https://getmusicbee.com/),
 [Quod Libet⊞⌘🐧](https://quodlibet.readthedocs.io/)
 
-Streaming/hosting service💾:  
+Streaming/hosting server💾:  
+[mStream](https://mstream.io/),
 [Plexamp](https://plexamp.com/)
 
 ## Audio Books
