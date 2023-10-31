@@ -45,8 +45,19 @@ Abbreviations/acronyms:
 [The Acronym Server](https://acronyms.silmaril.ie/),
 [YourDictionary's Abbreviations & Acronyms](https://www.yourdictionary.com/articles/abbreviations-acronyms)
 
+## Archived Web
+
 Archived internet pages:  
+[Time Travel](https://timetravel.mementoweb.org/)
 [Wayback Machine](https://web.archive.org/)
+[The Eye](https://the-eye.eu/)
+
+Archive downloader - books in PDF:  
+[Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader)
+
+Flash content:  
+[Flashpoint Archive](https://flashpointarchive.org/),
+[FlashMuseum](https://flashmuseum.org/)
 
 ## Specific Search Engines (Not Categorizable Elsewhere)
 

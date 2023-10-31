@@ -68,6 +68,9 @@ Maps:
 [George II Topographical Collection](https://www.flickr.com/photos/tags/georgeiiitopographicalcollection),
 [Old Maps Online](https://www.oldmapsonline.org/)
 
+Museum collections:  
+[Museo](https://museo.app/)
+
 Technology:  
 [Startup Stock Photos](https://startupstockphotos.com/)
 
@@ -88,11 +91,14 @@ AI-generated faces:
 AI-generated movie posters:  
 [This Movie Does Not Exist](https://thismoviedoesnotexist.org/movie/unique-presence-1)
 
-Databases:  
+Photo databases:  
 [laion-aesthetic-6pls](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls)
 
 Patterns:  
 [CodeinWP](https://www.codeinwp.com/pattern-collection/)
+
+Paid stock photos - search:  
+[GetPaidStock](https://getpaidstock.com/)
 
 ## Stock Photos: Web-Based
 
@@ -225,6 +231,9 @@ Payment methods:
 
 React components:  
 [React Kawaii](https://react-kawaii.vercel.app/)
+
+Content creator graphics:  
+[PixelPro.io Free Graphics](https://pixelpro.io/graphics)
 
 ## Figma UI Kits/Templates
 

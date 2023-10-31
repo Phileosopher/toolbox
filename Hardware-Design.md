@@ -109,6 +109,7 @@ Other PCB:
 [smoothieboard](https://smoothieware.org/smoothieboard)
 
 Components:  
+[Adafruit](https://www.adafruit.com/),
 [Dangerous Things](https://dangerousthings.com/),
 [Mbed](https://os.mbed.com/)
 

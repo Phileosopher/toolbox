@@ -30,6 +30,9 @@ Search engine:
 [Movie of the Night](https://www.movieofthenight.com/),
 [Movieo](https://movieo.me/)
 
+Tracking new releases:  
+[Simkl](https://simkl.com/)
+
 Database:  
 [IMDb](https://www.imdb.com/)
 

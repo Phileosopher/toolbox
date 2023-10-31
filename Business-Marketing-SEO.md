@@ -92,3 +92,6 @@ SERP (search engine results page) preview:
 
 Meta tag generator:  
 [Meta Tags☁](https://metatags.io/)
+
+Recently cached content:  
+[CachedView](https://cachedview.com/)

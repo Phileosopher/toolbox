@@ -2,6 +2,9 @@
 
 [Internet Archive Audio Archive](https://archive.org/details/audio)
 
+Free music:  
+[Musgle](http://musgle.com/)
+
 Sound effects - search:  
 [FindSounds - Browse for sounds](https://www.findsounds.com/),
 [Samplescope⊞⌘](https://samplescope.app/)
@@ -27,6 +30,7 @@ Sound effects - electronic games:
 Samples/loops:  
 [Free-Loops.com](https://free-loops.com/),
 [Sample Focus](https://samplefocus.com/),
+[SamplesHome](https://sampleshome.com/),
 [SampleSwap](https://sampleswap.org/),
 [SoundPacks.com](https://soundpacks.com/),
 [Looperman](https://www.looperman.com/),
@@ -43,7 +47,7 @@ Stock music:
 [Loyalty Freak Music](https://loyaltyfreakmusic.com/),
 [Magnatune$](http://magnatune.com/),
 [Openverse](https://openverse.org/),
-[Pixabay's Royalty Free Music](https://pixabay.com/music/), [PremiumBeat$](https://www.premiumbeat.com/), [Purple Planet](https://www.purple-planet.com/),
+[Pixabay's Royalty Free Music](https://pixabay.com/music/), [PixelPro.io Free Music](https://pixelpro.io/music), [PremiumBeat$](https://www.premiumbeat.com/), [Purple Planet](https://www.purple-planet.com/),
 [Silverman Sound Studios Royalty Free Music](https://www.silvermansound.com/free-music), [StreamBeats](https://www.senpai.tv/streambeats/),
 [The Blake Robinson Synthetic Orchestra](https://syntheticorchestra.com/),
 [Transistor's free podcast intro theme music](https://transistor.fm/free-podcast-intro-music/),
@@ -60,6 +64,9 @@ Live music:
 Live music - bootleg recordings:  
 [Heavy Soundboard Bootlegs](https://heavysoundboard.blogspot.com/),
 [Hip Hop Bootleggers](http://www.hiphopbootleggers.net/)
+
+Sheet music:  
+[Sheet-Music.xyz](https://sheet-music.xyz/)
 
 Software:  
 [AudioLove](https://audiolove.me/),

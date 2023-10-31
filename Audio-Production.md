@@ -1,5 +1,13 @@
 # Audio: Production
 
+## Testing
+
+Tone generation:  
+[Online Tone Generator☁](https://www.szynalski.com/tone-generator/)
+
+Audio Noise:  
+[Audio Noise Generator☁](https://www.random.org/audio-noise/)
+
 ## Practicing
 
 Sheet music notation:  

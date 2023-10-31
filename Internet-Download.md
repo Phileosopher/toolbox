@@ -1,29 +1,39 @@
 # Internet: Downloading
 
-Download manager:  
-[Free Download Manager⊞⌘🐧](https://www.freedownloadmanager.org/),
-[uGet⊞■⌘🐧](https://ugetdm.com/),
-[WinWGet+ Portable⊞■](https://portableapps.com/apps/internet/winwget_portable)
-
-Download manager - image galleries:  
-[gallery-dl](https://github.com/mikf/gallery-dl)
-
-Download manager - auto-throttling:  
-[AllDebrid](https://alldebrid.com/),
-[Premiumize.me](https://www.premiumize.me/),
-[Real-Debrid](https://real-debrid.com/)
-
-Download manager - YouTube:  
-[youtube-dlp⊞□🐧](https://github.com/yt-dlp/yt-dlp) (with frontends with [youtube-dl-gui⊞⌘🐧(GUI)](https://github.com/jely2002/youtube-dl-gui) and [Videomass](https://jeanslack.github.io/Videomass/))
-HTTP media downloads:  
-[KeepVid☁](https://keepvid.com/)
-
-FTP client:  
-[FileZilla⊞■⌘🐧](https://filezilla-project.org/)
+[Downloader.la](https://downloader.la/)
 
 YouTube video archiving:  
 [Tube Archivist💾](https://www.tubearchivist.com/),
 [yark💾🐍](https://pypi.org/project/yark/)
+
+Maximum-zoomed images:  
+[Dezoomify](https://dezoomify.ophir.dev/)
+
+## Download Manager
+
+[Free Download Manager⊞⌘🐧](https://www.freedownloadmanager.org/),
+[uGet⊞■⌘🐧](https://ugetdm.com/),
+[WinWGet+ Portable⊞■](https://portableapps.com/apps/internet/winwget_portable)
+
+Auto-throttling:  
+[AllDebrid](https://alldebrid.com/),
+[Premiumize.me](https://www.premiumize.me/),
+[Real-Debrid](https://real-debrid.com/)
+
+YouTube:  
+[youtube-dlp⊞□🐧](https://github.com/yt-dlp/yt-dlp) (with frontends with [youtube-dl-gui⊞⌘🐧(GUI)](https://github.com/jely2002/youtube-dl-gui) and [Videomass](https://jeanslack.github.io/Videomass/))
+
+HTTP media:  
+[KeepVid☁](https://keepvid.com/)
+
+Image galleries:  
+[gallery-dl□](https://github.com/mikf/gallery-dl)
+
+Anime/manga:  
+[HakuNeko](https://hakuneko.download/)
+
+FTP client:  
+[FileZilla⊞■⌘🐧](https://filezilla-project.org/)
 
 ## Torrents
 

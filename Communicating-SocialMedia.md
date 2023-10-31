@@ -25,6 +25,16 @@ Videos:
 Images:  
 [Pinterest☁🍎🤖](https://pinterest.com)
 
+Simultaneous chat:  
+[Discord](https://discord.com/)
+
+Simultaneous chat - topic search:  
+[DISBOARD](https://disboard.org/),
+[Discadia](https://discadia.com/),
+[DiscordBee](https://discordbee.com/home),
+[Discord Servers](https://discordservers.com/),
+[Public Discord Servers and Bots](https://discord.me/servers)
+
 ## Creator-Based
 
 [Behance☁🍎](https://www.behance.net/),
@@ -56,17 +66,6 @@ Scientific research:
 
 Short stories:  
 [Writing Atlas](https://writingatlas.com/)
-
-## Pulling Social Media IDs
-
-[FB Profile ID, Page ID & Group ID Finder☁](https://commentpicker.com/find-facebook-id.php),
-[Instagram User ID & Follower Count☁](https://commentpicker.com/instagram-user-id.php),
-[TikTok User ID, Follower count & Fans count☁](https://commentpicker.com/tiktok-id.php),
-[Twitter user ID & follower count☁](https://commentpicker.com/twitter-id.php),
-[YouTube Channel ID☁](https://commentpicker.com/youtube-channel-id.php)
-
-Pulling usernames:  
-[Find Instagram Username from IG User ID☁](https://commentpicker.com/instagram-username.php)
 
 ## Third-Party Front-Ends☁
 
@@ -173,3 +172,8 @@ Private data tracking:
 
 Automatic data opt-out:  
 [incogni☁](https://incogni.com/)
+
+## Social Media Tracking/Saving
+
+Discord:  
+[Discord History Tracker](https://dht.chylex.com/)

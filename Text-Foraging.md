@@ -67,7 +67,11 @@ Genealogical archives:
 Newspaper archives:  
 [Chronicling America☁](https://chroniclingamerica.loc.gov/),
 [Elephind.com](https://www.elephind.com/),
-[Google News Archive Search](https://news.google.com/newspapers)
+[Google News Archive Search](https://news.google.com/newspapers),
+[Internet Archive's Newspapers](https://archive.org/details/newspapers)
+
+Magazine archives:  
+[Internet Archive's The Magazine Rack](https://archive.org/details/magazine_rack)
 
 ## Religion
 

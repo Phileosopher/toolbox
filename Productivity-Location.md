@@ -15,6 +15,18 @@ High-quality imaging:
 OSM search API:  
 [Nominatim](https://nominatim.org/)
 
+## GIS Data Management
+
+GIS data creation:  
+[Felt](https://felt.com/)
+
+GIS data navigator:  
+[maps.earth](https://about.maps.earth/),
+[QGIS⊞⌘🐧🍎🤖](https://www.qgis.org/en/site/)
+
+OSM editor:  
+[StreetComplete🤖](https://streetcomplete.app/)
+
 ## Location Data
 
 Device location (from IP address):  
@@ -173,18 +185,10 @@ Mandatory reporters:
 Historical atlas:  
 [GeaCron](http://geacron.com/)
 
-## GIS Data Management
-
-GIS data navigator:  
-[maps.earth](https://about.maps.earth/),
-[QGIS⊞⌘🐧🍎🤖](https://www.qgis.org/en/site/)
-
-OSM editor:  
-[StreetComplete🤖](https://streetcomplete.app/)
-
 ## Tile Data APIs
 
 [OpenMapTiles](https://openmaptiles.org/),
+[Overture Maps Schema](https://docs.overturemaps.org/),
 [Planetiler](https://github.com/onthegomap/planetiler),
 [Protomaps](https://docs.protomaps.com/)
 
@@ -196,6 +200,10 @@ OSM data visualization:
 
 Aerial data:  
 [DroneDB](https://docs.dronedb.app/)
+
+## Map Data APIs
+
+[Mapbox](https://www.mapbox.com/),
 
 ## GIS UI
 

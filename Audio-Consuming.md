@@ -1,7 +1,17 @@
 # Audio: Consuming
 
 Music recognition:  
-[AudioTag.info](https://audiotag.info/)
+[AudioTag.info](https://audiotag.info/),
+[SoundHound🍎🤖](https://www.soundhound.com/soundhound)
+
+Music recognition - singing association:  
+[midomi](https://www.midomi.com/)
+
+Media codecs:  
+[K-Lite Codec Pack⊞](https://codecguide.com/)
+
+Volume configuration:  
+[SoundVolumeView⊞■□](https://www.nirsoft.net/utils/sound_volume_view.html)
 
 ## Podcasts
 
@@ -74,3 +84,8 @@ Metadata - audiobooks:
 
 Metadata export:  
 [Amvidia To MP3 Converter⌘](https://amvidia.com/guides/music-organising/export-to-csv-text-files)
+
+## Cloud Music
+
+Music server:  
+[Funkwhale](https://funkwhale.audio/)
