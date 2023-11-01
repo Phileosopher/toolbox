@@ -83,7 +83,6 @@ Intellectual properties:
 [Flippa☁](https://flippa.com/)
 
 Intellectual properties - web domains:  
-[Flippa☁](https://flippa.com/),
 [Sedo☁](https://sedo.com/us/)
 
 Private equity:  
