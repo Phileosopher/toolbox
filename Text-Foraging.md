@@ -94,7 +94,7 @@ Research papers/data:
 [Academic Journals](https://academicjournals.org/),
 [arXiv.org](https://arxiv.org/),
 [Internet Archive Scholar](https://scholar.archive.org/),
-[Library Genesis](https://libgen.is/),
+[Library Genesis](https://libgen.is/) (alternate mirror [here](https://libgen.fun/), [here](https://libgen.rs/), and [here](https://libgen.st/)),
 [Sci-Hub](https://sci-hub.se/),
 [The General Index](https://archive.org/details/GeneralIndex)
 

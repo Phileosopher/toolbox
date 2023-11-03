@@ -23,8 +23,12 @@ Auto-throttling:
 Wayback Machine:  
 [wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)
 
-YouTube:  
-[youtube-dlp⊞□🐧](https://github.com/yt-dlp/yt-dlp) (with frontends with [youtube-dl-gui⊞⌘🐧(GUI)](https://github.com/jely2002/youtube-dl-gui) and [Videomass](https://jeanslack.github.io/Videomass/))
+Online videos:  
+[Ymp4](https://ymp4.download/en57/supported/)
+
+YouTube videos:  
+[youtube-dlp⊞□🐧](https://github.com/yt-dlp/yt-dlp) (with frontends with [youtube-dl-gui⊞⌘🐧(GUI)](https://github.com/jely2002/youtube-dl-gui) and [Videomass](https://jeanslack.github.io/Videomass/)),
+[Ymp4 Youtube To Mp4 Video Downloader](https://ymp4.download/)
 
 HTTP media:  
 [KeepVid☁](https://keepvid.com/)

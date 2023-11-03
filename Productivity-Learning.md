@@ -115,6 +115,9 @@ Kid-friendly programming language:
 Tech talks:  
 [TechYaks](https://techyaks.com/)
 
+Blogs:  
+[Awesome Blogs](https://github.com/learn-anything/blogs💩)
+
 ## Philosophy Learning
 
 Philosophy papers visualization:  

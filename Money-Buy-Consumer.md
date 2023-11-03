@@ -76,6 +76,12 @@ Books:
 [Pages on Pages☁](https://www.pagesonpages.com/)
 
 Computer games:  
+[CDKeyPrices.com](https://cdkeyprices.com/),
+[CDKeys.com](https://www.cdkeys.com/),
+[DLCompare.com](https://www.dlcompare.com/),
+[Fanatical](https://www.fanatical.com/),
+[G2PLAY.NET](https://www.g2play.net/),
+[Gocdkeys](https://gocdkeys.com/),
 [IsThereAnyDeal☁](https://isthereanydeal.com/),
 [Razer Game Deals⊞☁](https://deals.razer.com/),
 [SteamDB☁](https://steamdb.info/)
