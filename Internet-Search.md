@@ -6,6 +6,7 @@ Non-Google search engine:
 [searx](https://searx.space/),
 [Search Encrypt](https://www.searchencrypt.com/),
 [Startpage](https://www.startpage.com/),
+[Yandex](https://yandex.com/)
 
 Human-curated search:  
 [Curlie](https://curlie.org/)

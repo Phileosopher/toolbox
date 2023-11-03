@@ -1,16 +1,18 @@
 # Text: Writing - Legal
 
-Legal research:  
+## Legal Research
+
 [LexisNexis' Lexis+$](https://www.lexisnexis.com/en-us/products/lexis-plus.page)
 
-Legal research - International Court of Justice:  
+USA rulings and court records:  
+[judyrecords](https://www.judyrecords.com/),
+[RECAP Suite](https://free.law/recap)
+
+International Court of Justice:  
 [Document search](https://www.icj-cij.org/advanced-search)
 
-Legal research - complaints and online material removal:  
+Complaints and online material removal:  
 [Lumen☁](https://lumendatabase.org/)
-
-Court record search:  
-[judyrecords](https://www.judyrecords.com/)
 
 ## Automated Legal Services
 

@@ -70,7 +70,8 @@ Foreign languages:
 [Memrise☁](https://www.memrise.com/)
 
 On-demand foreign language recordings:  
-[RhinoSpike](https://rhinospike.com/)
+[RhinoSpike](https://rhinospike.com/),
+[YouGlish](https://youglish.com/),
 
 Conversational chat - messaging:  
 [italki](https://www.italki.com/)
@@ -117,6 +118,9 @@ Tech talks:
 
 Blogs:  
 [Awesome Blogs](https://github.com/learn-anything/blogs💩)
+
+Publications:  
+[ACM Digital Library](https://dl.acm.org/)
 
 ## Philosophy Learning
 
