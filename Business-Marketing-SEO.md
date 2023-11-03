@@ -94,4 +94,5 @@ Meta tag generator:
 [Meta Tags☁](https://metatags.io/)
 
 Recently cached content:  
+[Cached Pages](http://www.cachedpages.com/),
 [CachedView](https://cachedview.com/)

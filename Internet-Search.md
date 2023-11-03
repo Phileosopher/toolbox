@@ -48,8 +48,12 @@ Abbreviations/acronyms:
 ## Archived Web
 
 Archived internet pages:  
+[archive.today](https://archive.today/),
+[CachedView](https://cachedview.nl/),
 [Time Travel](https://timetravel.mementoweb.org/)
 [Wayback Machine](https://web.archive.org/)
+
+Archived internet content:  
 [The Eye](https://the-eye.eu/)
 
 Archive downloader - books in PDF:  

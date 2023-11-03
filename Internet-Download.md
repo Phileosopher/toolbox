@@ -20,6 +20,9 @@ Auto-throttling:
 [Premiumize.me](https://www.premiumize.me/),
 [Real-Debrid](https://real-debrid.com/)
 
+Wayback Machine:  
+[wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)
+
 YouTube:  
 [youtube-dlp⊞□🐧](https://github.com/yt-dlp/yt-dlp) (with frontends with [youtube-dl-gui⊞⌘🐧(GUI)](https://github.com/jely2002/youtube-dl-gui) and [Videomass](https://jeanslack.github.io/Videomass/))
 

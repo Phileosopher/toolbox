@@ -36,6 +36,10 @@ Land:
 Auctions:  
 [Bid4Assets.com*](https://www.bid4assets.com/)
 
+Homes:  
+[REX](https://www.rexhomes.com/),
+[Trelora](https://www.trelora.com/)
+
 ## Healthcare
 
 Healthcare comparison:  
