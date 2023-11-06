@@ -104,6 +104,9 @@ EPUB to multiple:
 DOC to MD:
 [DOC to MD Converter☁](https://word2md.com/)
 
+Comics to EPUB/MOBI/CBZ:  
+[KCC](https://github.com/ciromattia/kcc)
+
 Markdown:  
 [remarkjs□](https://github.com/remarkjs/remark)
 

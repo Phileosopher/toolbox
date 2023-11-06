@@ -1,5 +1,8 @@
 # Visual: Photos
 
+Website screenshot:  
+[Website Screenshot](https://www.ipvoid.com/capture-website-screenshot/)
+
 ## Photo/Data Management
 
 Negatives database management:  

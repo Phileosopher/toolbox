@@ -110,8 +110,12 @@ Other PCB:
 
 Components:  
 [Adafruit](https://www.adafruit.com/),
+[Crowd Supply](https://www.crowdsupply.com/),
 [Dangerous Things](https://dangerousthings.com/),
 [Mbed](https://os.mbed.com/)
+
+Components - cameras:  
+[MAXLAB.IO](https://maxlab.io/store/)
 
 Housing:  
 [DAN Cases](https://www.dan-cases.com/),

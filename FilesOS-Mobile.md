@@ -23,3 +23,8 @@ Remove ad software:
 Email:  
 [FairEmail](https://email.faircode.eu/),
 [K-9 Mail](https://k9mail.app/)
+
+## Pi/Arduino
+
+Camera firmware:  
+[OpenIPC](https://github.com/OpenIPC)

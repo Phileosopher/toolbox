@@ -153,10 +153,7 @@ Multiple NICs:
 
 ## L3 Network
 
-Internet-based tools:  
-[Internet-Config.md](https://github.com/Phileosopher/toolbox/blob/master/Internet-Config.md),
-[Internet-CySec.md](https://github.com/Phileosopher/toolbox/blob/master/Internet-CySec.md),
-[Internet-CySec-PrivacyCensorship.md](https://github.com/Phileosopher/toolbox/blob/master/Internet-CySec-PrivacyCensorship.md)
+[IPVoid💩](https://www.ipvoid.com/)
 
 Multitool:  
 [IPJudo](https://www.ipjudo.com/)

@@ -77,6 +77,9 @@ Streaming service:
 ),
 [Plex](https://www.plex.tv/)
 
+Comics library:  
+[YACReader](https://www.yacreader.com/)
+
 ## Other Visual
 
 Astronomy:  

@@ -51,6 +51,7 @@ Text output to image:
 
 ## Auto-Tweaking/Filters
 
+[Blackmagic Camera🍎](https://www.blackmagicdesign.com/products/blackmagiccamera),
 [ImageMagick⊞⌘🐧🍎⦿](https://imagemagick.org/)
 
 Image resizing:  
