@@ -14,6 +14,9 @@ International Court of Justice:
 Complaints and online material removal:  
 [Lumen☁](https://lumendatabase.org/)
 
+Attorney search:  
+[upcounsel](https://www.upcounsel.com/)
+
 ## Automated Legal Services
 
 Filings and auto-generated documents:  
@@ -30,3 +33,8 @@ Consumer protections:
 
 Visas:  
 [Boundless](https://www.boundless.com/)
+
+## Intellectual Property
+
+Patent search:  
+[USPTO Patent Public Search](https://ppubs.uspto.gov/pubwebapp/static/pages/landing.html)
