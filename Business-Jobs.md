@@ -9,6 +9,9 @@ Job roles that tend to marry:
 Salary data:  
 [Monster.com Salary Comparison and Salary Estimator](https://www.monster.com/salary)
 
+Salary data - tech industry:  
+[Bonsai's Freelance rates explorer](https://www.hellobonsai.com/rates/freelance),
+
 ## Profile Management
 
 Social networks:  
@@ -151,6 +154,11 @@ Audio book speakers:
 Foreign languages:  
 [italki](https://www.italki.com/)
 
+Public speaking:  
+[SpeakerHub](https://speakerhub.com/),
+[SpeakInc](https://www.speakinc.com/),
+[SpeakerMatch](https://speakermatch.com/)
+
 ## Job Boards (Freelancing) - Writing
 
 Copywriting:  
@@ -233,15 +241,30 @@ Games:
 
 ## Job Boards -  Misc
 
-Professional advice:  
-[Cision's ProfNet](https://profnet.prnewswire.com/profnethome/what-is-profnet.aspx),
+Professional advice and specialized information:  
 [Coursera's Expert Network](https://experts.coursera.org/),
-[Expertise Finder](https://expertisefinder.com/)
+[ExpertFile](https://expertfile.com/),
+[Expert by Big Village](https://www.expertengine.com/),
+[Expert Republic](https://expertrepublic.com/),
+[Experts.com](https://www.experts.com/),
+[Expertise Finder](https://expertisefinder.com/),
+[find an expert online](https://findanexpertonline.com/),
+[Maven Research](https://www.maven.co/),
+[Sources](https://www.sources.com/),
+[The Expert Finder](https://theexpertfinder.com/)
 
-Expert witnesses:  
-[Expert Institute](https://www.expertinstitute.com/)
-[ForensisGroup](https://www.forensisgroup.com/)
-[JurisPro Expert Witness Directory](https://www.jurispro.com/)
+Expert witnesses and interviewees:  
+[Cision's PR Newswire](https://prnmedia.prnewswire.com/),
+[Cision's ProfNet](https://profnet.prnewswire.com/),
+[ExpertClick](https://www.expertclick.com/),
+[Expert Pages](https://www.expertpages.com/),
+[Expert Institute](https://www.expertinstitute.com/),
+[ForensisGroup](https://www.forensisgroup.com/),
+[JurisPro Expert Witness Directory](https://www.jurispro.com/),
+[Law.com Expert Witness Directory](https://www.law.com/expert-witness/),
+[Newswise](https://www.newswise.com/),
+[Round Table Group](https://www.roundtablegroup.com/),
+[SEAK, Inc. Expert Witness Directory](https://www.seakexperts.com/)
 
 Self-help advice:  
 [Self-Growth.com's Expert Search](https://www.selfgrowth.com/experts.html)

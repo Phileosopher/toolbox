@@ -97,6 +97,10 @@ Analytics - Heavy Lifting:
 Email - verify if an email is real:  
 [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)
 
+SRE monitoring:  
+[Check host💩](https://check-host.net/),
+[Site24x7💩](https://www.site24x7.com/tools/)
+
 ## Plugin Design
 
 [Test Link Revealer☁](https://webbrowsertools.com/test-link-revealer/)

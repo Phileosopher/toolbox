@@ -20,8 +20,8 @@ Reddit search engine:
 [Redditle](https://redditle.com/)
 
 Google's advanced search operators:  
-[ahrefs' List*](https://supple.com.au/tools/google-advanced-search-operators/),
-[Supple's List*](https://ahrefs.com/blog/google-advanced-search-operators/)
+[ahrefs' List*](https://ahrefs.com/blog/google-advanced-search-operators/),
+[Supple's List*](https://supple.com.au/tools/google-advanced-search-operators/)
 
 DuckDuckGo's !bang operators:  
 [DuckDuckGo !bang operators*](https://mosermichael.github.io/duckduckbang/html/main.html)
@@ -50,9 +50,12 @@ Abbreviations/acronyms:
 
 Archived internet pages:  
 [archive.today](https://archive.today/),
-[CachedView](https://cachedview.nl/),
-[Time Travel](https://timetravel.mementoweb.org/)
-[Wayback Machine](https://web.archive.org/)
+[Time Travel](https://timetravel.mementoweb.org/),
+[Wayback Machine](https://web.archive.org/),
+[WebCite](https://webcitation.org/)
+
+Archived internet pages - meta search:  
+[CachedView](https://cachedview.nl/)
 
 Archived internet content:  
 [The Eye](https://the-eye.eu/)

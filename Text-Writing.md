@@ -56,6 +56,10 @@ Wikis:
 [Fandom☁](https://www.fandom.com/),
 [Wiki.js⊞⌘🐧🍎🤖](https://wiki.js.org/)
 
+Word/phrase frequency counter:  
+[Text Analyzer](https://www.online-utility.org/text/analyzer.jsp),
+[Word Frequency Counter](http://www.writewords.org.uk/word_count.asp)
+
 Star Wars intro style:  
 [Star Wars Intro Generator☁](https://starwarsintrogenerator.com/)
 

@@ -102,6 +102,10 @@ Influencer search:
 [NinjaOutreach☁](https://ninjaoutreach.com/),
 [Google Trends☁](https://trends.google.com/),
 
+Market research experts$:  
+[NewtonX](https://www.newtonx.com/),
+[Zintro](https://www.zintro.com/)
+
 ## Trends
 
 Popular trends:  
@@ -156,9 +160,6 @@ Market surveys:
 [SurveyMonkey☁](https://www.surveymonkey.com/),
 [Survey Planet☁](https://surveyplanet.com/),
 [Zoho Survey](https://www.zoho.com/survey/)
-
-Niche branding:  
-[ExpertFile](https://expertfile.com/)
 
 Paper printing:  
 [Vistaprint☁](https://www.vistaprint.com/)

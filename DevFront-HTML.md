@@ -54,3 +54,13 @@ Media player - back-end:
 
 Media player - front-end:  
 [Clappr](http://clappr.io/)
+
+## Debugging
+
+HTTP headers:  
+[REDbot☁](https://redbot.org/),
+[WebNots HTTP Header Checker☁](https://www.webnots.com/seo-tools/http-header-checker/)
+
+HTTP:  
+[W3C Nu Html Checker☁](https://validator.w3.org/nu/),
+[WBox🐧](http://www.hping.org/wbox/)

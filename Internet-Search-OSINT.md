@@ -8,6 +8,9 @@
 Clubhouse:  
 [Clubhouse Database](https://clubhousedb.com/)
 
+Gravatar:  
+[Gravatar Search](https://gravatar.com/site/check/)
+
 ## Pulling Social Media IDs
 
 [FB Profile ID, Page ID & Group ID Finder☁](https://commentpicker.com/find-facebook-id.php),

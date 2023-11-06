@@ -23,7 +23,8 @@ Computational heavy lifting:
 Measurement conversion:  
 [Online Conversion☁](http://www.onlineconversion.com/),
 [ConvertAll⊞■🐧](http://convertall.bellz.org/),
-[Converber⊞■🍎](http://www.xyntec.com/converber.htm)
+[Converber⊞■🍎](http://www.xyntec.com/converber.htm),
+[Measurements Conversion☁](https://www.online-utility.org/measures/index.jsp)
 
 Country size conversion:  
 [The True Size Of...☁](https://thetruesize.com/)

@@ -165,7 +165,7 @@ A11y issues:
 [a11y.css⇉](https://ffoodd.github.io/a11y.css/),
 [Checka11y.css](https://checka11y.jackdomleo.dev/)
 
-Linting:  
+Validation/linting:  
 [CSS Lint☁](http://csslint.net/)
 
 Minifier/optimizing:  
