@@ -19,11 +19,16 @@ Google ad preview:
 ## Keyword Tracking
 
 Keyword research:  
-[Keyword Discovery](https://www.keyworddiscovery.com/)
+[Keyword Discovery](https://www.keyworddiscovery.com/),
 [Wordtracker's Free Keyword Research Tool](https://www.wordtracker.com/)
 
 Keyword planning:  
 [Google Ads Keyword Planner](https://ads.google.com/home/tools/keyword-planner/)
+
+Hashtag research:  
+[Best Hashtag](https://best-hashtags.com/),
+[Quick hashtags search](https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/)
+
 
 ## Speed Tests/Optimization
 

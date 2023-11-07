@@ -51,6 +51,7 @@ Abbreviations/acronyms:
 Archived internet pages:  
 [archive.today](https://archive.today/),
 [Time Travel](https://timetravel.mementoweb.org/),
+[Trove](https://trove.nla.gov.au/),
 [Wayback Machine](https://web.archive.org/),
 [WebCite](https://webcitation.org/)
 
@@ -88,6 +89,8 @@ European surnames:
 [Surname Map](https://www.surnamemap.eu/)
 
 ## Data Scraping
+
+[Apify💩](https://apify.com/)
 
 URLs in an HTML page:  
 [AddrView⊞■](https://www.nirsoft.net/utils/addrview.html)

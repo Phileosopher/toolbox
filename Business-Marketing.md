@@ -25,8 +25,9 @@ Multiple link sharing:
 [Capsulelink☁](https://capsulelink.com/)
 
 Tournaments:  
-[Tournament Bracket Generator☁](https://commentpicker.com/tournament-bracket-generator.php),
-[Random Team Generator☁](https://commentpicker.com/team-generator.php)
+[Random Team Generator☁](https://commentpicker.com/team-generator.php),
+[Score7 Tournament Generator and Bracket Maker](https://www.score7.io/),
+[Tournament Bracket Generator☁](https://commentpicker.com/tournament-bracket-generator.php)
 
 ## Posting - Validation
 
@@ -111,6 +112,7 @@ Market research experts$:
 Popular trends:  
 [Exploding Topics☁](https://explodingtopics.com/),
 [English Wikipedia Top 100☁](https://top.hatnote.com/)
+[Popular Hashtags On TikTok](https://ads.tiktok.com/business/creativecenter/inspiration/)
 
 Trends search engine:  
 [Social Searcher](https://www.social-searcher.com/)
