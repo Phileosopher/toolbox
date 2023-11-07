@@ -24,6 +24,9 @@ Finance the tech stack you depend on:
 Time standards:  
 [RFC 3339 vs ISO 8601*](https://ijmacd.github.io/rfc3339-iso8601/)
 
+Regex:  
+[Regex Cheat Sheet](https://www.rexegg.com/regex-quickstart.html)
+
 ## Text Modification
 
 Covert lines of text into a tree structure:  
