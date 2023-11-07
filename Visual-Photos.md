@@ -101,8 +101,38 @@ Pixel art:
 XKCD-style Comics:  
 [Comix I/O☁](http://cmx.io/)
 
-Placeholder photos:  
-[BlurHash](https://blurha.sh/)
-
 Stippling:  
 [stippled-image□](https://github.com/pshihn/stippled-image)
+
+NPM Icons API:  
+[unplugin icons](https://www.npmjs.com/package/unplugin-icons)
+
+## Placeholder Photos API:  
+
+[Holder.js🔌](http://holderjs.com/),
+[Lorem Picsum🔌](https://picsum.photos/),
+[lorempixel🔌](https://lorempixel.com/),
+[PlaceIMG🔌](https://placeimg.com/),
+[Unsplash Source🔌](https://source.unsplash.com/)
+
+Blurred images:  
+[BlurHash](https://blurha.sh/)
+
+Blank photos:  
+[Placeholder.com🔌](https://placeholder.com/)
+
+Animal photos:  
+[Dog API🔌](https://dog.ceo/dog-api/),
+[{placebear}🔌](https://placebear.com/),
+[placedog.net🔌](https://placedog.net/),
+[{placekitten}🔌](https://placekitten.com/)
+
+Food photos:  
+[baconmockup🔌](https://baconmockup.com/),
+[placebeer.com🔌](http://placebeer.com/)
+
+Actor photos:  
+[Fill Murray🔌](https://www.fillmurray.com/)
+[PlaceCage🔌](https://www.placecage.com/),
+[PlaceKeanu.com🔌](https://placekeanu.com/),
+[Steven SeGALLERY🔌](https://www.stevensegallery.com/)

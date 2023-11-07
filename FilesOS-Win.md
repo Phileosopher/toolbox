@@ -13,6 +13,11 @@ Package manager:
 Linux integration:  
 [WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
 
+Activation codes:  
+[CrackSerialCodes](https://www.crackserialcodes.com/),
+[SerialShack](https://www.serialshack.com/),
+[Smart Serials](https://smartserials.com/)
+
 ## Windows Search
 
 Windows Search alternative:  

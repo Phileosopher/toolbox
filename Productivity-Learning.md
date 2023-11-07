@@ -118,6 +118,7 @@ Tech talks:
 
 Blogs:  
 [Awesome Blogs](https://github.com/learn-anything/blogs💩)
+[Awesome Tech Blogs](https://tech-blogs.dev/💩)
 
 Publications:  
 [ACM Digital Library](https://dl.acm.org/)

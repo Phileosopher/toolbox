@@ -6,6 +6,9 @@ Web bookmarks:
 Media reviews:  
 [Metacritic](https://www.metacritic.com/)
 
+Media recommendations:  
+[TasteDive](https://tastedive.com/)
+
 Open media:  
 [Open Culture](https://www.openculture.com/),
 [The Pirate List](https://thepiratelist.com/)

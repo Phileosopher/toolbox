@@ -36,11 +36,15 @@ HTTP media:
 Image galleries:  
 [gallery-dl□](https://github.com/mikf/gallery-dl)
 
-Anime/manga:  
-[HakuNeko](https://hakuneko.download/)
-
 FTP client:  
 [FileZilla⊞■⌘🐧](https://filezilla-project.org/)
+
+Anime/manga:  
+[Free Manga Downloader](https://sourceforge.net/projects/fmd/),
+[HakuNeko](https://hakuneko.download/)
+
+Comic books:  
+[mylar3](https://github.com/mylar3/mylar3)
 
 ## Torrents
 

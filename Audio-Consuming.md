@@ -40,6 +40,9 @@ Streaming/hosting server💾:
 [mStream](https://mstream.io/),
 [Plexamp](https://plexamp.com/)
 
+Quality detection:  
+[Fakin' The Funk?](https://fakinthefunk.net/en/)
+
 ## Audio Books
 
 Search:  

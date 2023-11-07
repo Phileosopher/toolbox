@@ -30,8 +30,12 @@ Search engine:
 [Movie of the Night](https://www.movieofthenight.com/),
 [Movieo](https://movieo.me/)
 
+Search engine - fuzzy AI search:  
+[What is my movie?](https://www.whatismymovie.com/)
+
 Tracking new releases:  
-[Simkl](https://simkl.com/)
+[Simkl](https://simkl.com/),
+[Trakt](https://trakt.tv/)
 
 Database:  
 [IMDb](https://www.imdb.com/)

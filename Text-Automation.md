@@ -52,3 +52,14 @@ Document data:
 
 Document data - invoices:  
 [InvoiceNet](https://github.com/naiveHobo/InvoiceNet)
+
+## Text Placeholder APIs
+
+Quotes:  
+[Quotes API from They Said So🔌](https://theysaidso.com/api/)
+
+Jokes:  
+[JokeAPI🔌](https://jokeapi.dev/)
+
+Chuck Norris jokes:  
+[Chuck Norris Jokes Api🔌](https://api.chucknorris.io/)

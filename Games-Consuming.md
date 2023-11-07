@@ -19,6 +19,9 @@ Playtime - Steam game tracking:
 Electronic games database:  
 [IGDB.com](https://www.igdb.com/)
 
+Mods:  
+[Nexus mods](https://www.nexusmods.com/) (with [Vortex Mod Manager](https://www.nexusmods.com/about/vortex/))
+
 ## Virtual gaming platforms
 
 ROM management:

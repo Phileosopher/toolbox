@@ -67,6 +67,9 @@ Flash content:
 [Flashpoint Archive](https://flashpointarchive.org/),
 [FlashMuseum](https://flashmuseum.org/)
 
+Direct file search:  
+[FilePursuit](https://filepursuit.com/)
+
 ## Specific Search Engines (Not Categorizable Elsewhere)
 
 Comparisons and alternatives:  
