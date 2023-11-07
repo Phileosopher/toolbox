@@ -2,8 +2,7 @@
 
 General-purpose maps:  
 [FacilMap☁](https://facilmap.org/),
-[OpenStreetMap🔌](https://www.openstreetmap.org/about),
-[Where Am I☁](https://ctrlq.org/maps/where/)
+[OpenStreetMap🔌](https://www.openstreetmap.org/about)
 
 Offline maps:  
 [OsmAnd](https://osmand.net/)

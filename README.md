@@ -3,86 +3,40 @@
 This is not an exhaustive list. I recommend one of the following for that:
 
 - Websites that give gigantic piles of alternatives like [Slant](https://www.slant.co/) or [AlternativeTo](https://alternativeto.net/)
-- One of the hundreds of AWESOME LISTS OF EVERYTHING EVER MADE TO DO A THING that jockey for a top 100 position on [Product Hunt](https://www.producthunt.com/)
-- Piles of curated search content such as [Curlie](https://curlie.org/) run by many passionate people at once
+- One of the hundreds of AWESOME LISTS OF EVERYTHING EVER MADE TO DO A THING that jockey for a top 100 position on [Product Hunt](https://www.producthunt.com/).
+- Piles of curated search content such as [Curlie](https://curlie.org/), run by many passionate people at once.
 
-This is my quick-reference, a type of link-based [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book), and I've made it for several purposes.
+This is my quick-reference, a link-based [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book), made it for several purposes.
 
 ## 1. Understanding
 
-When we find familiarity in computers, we often forget it can do more than we expected.
+The definition of "tool" is more complex than first impulses may dictate:
 
-Thankfully, plenty of innovative software developers build things that expand our horizons and break our expectations.
+1. Every tool revolves around [human purpose](https://gainedin.site/purpose/), which is a concept created as a [relative human value](https://gainedin.site/values/) derived as the difference between [perceived reality](https://gainedin.site/reality/) and [what is imagined to be possible](https://gainedin.site/imagination/).
+2. Our [cognitive bias](https://gainedin.site/bias), specifically "law of the instrument", means we're stuck always interpreting a tool according to what we're presently working on.
+3. [Hacking](https://trendless.tech/hacking) can involve using _anything_ for a purpose it wasn't intended for.
 
-If we grasp what their software is doing, those extra information management tools create extra [understanding](https://gainedin.site/understanding) and [effectiveness](https://gainedin.site/results) with the world _beyond_ the computers themselves.
+When we're familiar with computers, we often forget it can do more than we expect.
 
-When I find those tools, I add them here.
+Thankfully, clever software developers keep build things that expand our horizons and break our expectations.
+
+Those extra [information management](https://notageni.us/information/) tools can create extra [understanding](https://gainedin.site/understanding/) and [effectiveness](https://gainedin.site/results/) with the world _beyond_ the computers themselves.
+
+When I find useful tools, mostly computer-based, I add them here.
 
 ## 2. Convenience
 
-With the web, most people download something, use it, then promptly forget about it. Then, months or years later, they'll research a solution and rediscover it, then promptly forget it again.
+The internet has created a strange trend:
 
-On occasion, I find something that's so stunningly good that I don't trust my own memory to hold such a valuable treasure.
+1. Someone searches for something they need.
+2. They download and use that tool.
+3. They promptly forget about the tool.
+4. Months or years later, they need to do that thing again.
+5. Recurse to Step 1.
 
-When I find those treasures, I add them here.
+I often find neat things, but I don't trust my memory, so I add them here to avoid re-researching.
 
-Sometimes, I don't trust that treasure will be around for long, so I add a second one by a completely different developer, just to be safe.
-
-## 3. Awareness
-
-Many people remake existing software because they don't realize someone already made it.
-
-That's not _always_ true, of course:
-
-- Refactoring is complicated, and it's often hard to find _precisely_ what you want.
-- Some software developers want to test whether they're smart enough to reinvent the wheel and make it better.
-- Sometimes it's very educational or downright _fun_ to reinvent the wheel.
-- If someone has severe trust issues, they'll make an open-source or lobotomized version of that thing.
-
-When an existing tool becomes obsolete, forced behind a paywall, merged into some other big software suite, is no longer supported, or [was closed-source the entire time and the creator became tyrannical](https://notageni.us/ip), [reverse-engineering is always a thing](https://trendless.tech/hacking).
-
-However, the largest mental hurdle in the first place is knowing a tool even _exists_. The idea can live on if someone knows another human already did it, but we have a harder time accomplishing what we believe to be impossible.
-
-When I find something I think people shouldn't forget, I add them here.
-
-## 4. Future Convenience
-
-I _might_ find lots of things useful here someday, but I couldn't tell you what I want to do in 4 years.
-
-The only alternative to this pile of links is to store terabytes' worth of information in the off-chance that it could be useful someday.
-
-If my hoarding tendencies flare up and I think something might be useful, I add it here.
-
-## Rules
-
-The definition of "tool" is hairy:
-
-- Every tool revolves around [human purpose](https://gainedin.site/purpose/), which is a concept created as a [relative human value](https://gainedin.site/values/).
-- The [cognitive bias](https://gainedin.site/bias) of Maslow's Hammer means we're stuck always interpreting a tool according to what we're presently working on.
-- [Hacking](https://trendless.tech/hacking) can involve using _anything_ for a purpose it wasn't intended for.
-
-So, for brevity's sake, I'm mostly glossing over a few groups:
-
-- The built-in tools. If I need them, they're in the computer already, and I'll make a nod to them on [my tech essays](https://trendless.tech).
-- Most [mega-corp](https://gainedin.site/groups-large) tools. They already pay for plenty of [advertising](https://notageni.us/marketing/) and are _literally_ the first thing that comes up when you type that need into a search engine.
-- Paid tools when they cost enough that it makes me pause to consider [my budget](https://adequate.life/money-3/). I'm a big proponent of [free licenses](https://trendless.tech/floss/) whenever possible.
-- Most courses and courseware, which describe how to manipulate a specific tool more than what that tool does.
-- Anything [associated with a scandal](https://trendless.tech/faang), [highly politicized](https://gainedin.site/conservative-liberal), [debatably close to illegal](https://notageni.us/legally-safe), or [was hacked](https://trendless.tech/hacking). I've got enough drama in my life without looking for more.
-
-If there are lots to choose from, I try to prioritize:
-
-1. Free-as-in-freedom [FLOSS](https://trendless.tech/floss), if possible
-2. Free-as-in-beer free, if possible
-3. Affordably-priced, if possible
-4. Whatever happens to work
-
-Nothing I do here is exhaustively research, and it's all hand-curated, so it won't change that quickly if something new comes along. You can usually tell how exhaustive my efforts are by how much I've earmarked an individual tool.
-
-I cannot attest to the validity of the software, so [caveat emptor](https://notageni.us/legal-doctrines). Sometimes things become bloatware or malware, and sometimes I simply trust the software developer wasn't lying. Trust no one, and validate the software for yourself.
-
-## Groups
-
-I've broken everything into malleable and somewhat arbitrary groupings, since there are _many_ things that someone could use a computer for, and people are constantly adding new things:
+Since someone can use a computer for _many_ things, and people are constantly inventing new things, everything is broken into malleable and somewhat arbitrary groupings:
 
 - Audio: to work with sound for some intended aesthetic
 - Communicating: to communicate with other people, directly or indirectly
@@ -96,7 +50,61 @@ I've broken everything into malleable and somewhat arbitrary groupings, since th
 - Text: to work with language for some intended aesthetic
 - Visual: to visually design or adapt things which contain some intended aesthetic
 
-Sometimes, it makes sense to clarify for context how something is used.
+There are other "fallback" spork groups if it's too meta to fit into any one of the above categories:
+
+- Dev: to broadly make or manage computer code, which may refer to front-end or back-end, be language-specific, and may simply be a more nuanced version of any of the above
+- Internet: sorta networking, sorta Everything Else
+- Productivity: to broadly streamline doing any of the above
+
+Further, some patterns keep cropping up in each domain:
+
+- Consuming: human consumption only, without modification to it
+- Foraging: to acquire others' created works
+
+## 3. Awareness
+
+Many people remake existing software because they don't realize someone already made it.
+
+Of course, that's not _always_ true:
+
+- It's often hard to find _precisely_ what you want, and refactoring can be complicated.
+- Some software developers reinvent the wheel or [reverse-engineer something](https://trendless.tech/hacking), just for fun.
+- Reinventing the wheel is very educational, even if its results aren't always useful.
+- An existing tool might become obsolete, jammed behind a paywall, merged into some bloated software suite, or the software's owner [became tyrannical](https://gainedin.site/bad-systems/) over [their IP](https://notageni.us/ip).
+- For any reason whatsoever, a developer may start distrusting software and will make a lobotomized or [https://trendless.tech/floss/](open-source) version of it.
+
+However, the largest mental wall for most people is knowing a tool even _exists_. If someone knows another human already did it, we know it's possible. It's much harder accomplishing what everyone thinks is impossible.
+
+For brevity's sake, I try to gloss over a few groups:
+
+- The built-in tools. If I need them, they're in the computer already, and if it's that important I'll reference them on [my tech essays](https://trendless.tech).
+- Most [mega-corp](https://gainedin.site/groups-large) tools. They already pay for plenty of [advertising](https://notageni.us/marketing/) and are _literally_ the first thing on a search engine.
+- Paid tools when they cost enough that it makes me pause to consider [my budget](https://adequate.life/money-3/). I'm a big proponent of [free licensing](https://trendless.tech/floss/) whenever possible, and I'm aware other people don't always have money to do things.
+- Most courses and courseware, which describe how to manipulate a specific tool more than what that tool does.
+- Anything [associated with a scandal](https://trendless.tech/faang), [highly politicized](https://gainedin.site/conservative-liberal), [debatably close to illegal](https://notageni.us/legally-safe), or [was hacked](https://trendless.tech/hacking). I've got enough drama in my life without looking for more.
+
+## 4. Future Convenience
+
+I _might_ find lots of things useful here someday, but I couldn't tell you what I want to do several years from now.
+
+I have been a data hoarder in the past, and the only alternative is to store terabytes' worth of hypothetically useful software.
+
+I don't know what I'll use, so I aim for things I anticipate will be around in 5-10 years, which omits many candidates:
+
+1. If the site is interpreted as suspicious by government authorities (e.g., [for piracy](https://trendless.tech/torrent/)), it's not likely to stick around, though some future iteration of it will float out there somewhere.
+2. When the tool is bleeding-edge technology (e.g., [AI](https://trendless.tech/ai/) right now), it'll likely get shoved behind a vastly overpriced paywall, with an open-source iteration of it floating out there somewhere.
+3. Tech startups like to create "kitchen sink" tools that do many things, but within a few years it's almost certain that tool will be repurposed once they've found their market or were acquired by a [FAANG corporation](https://trendless.tech/faang/).
+4. Quick-reference sheets are great, but they should _still_ be useful later on. Some [protocols](https://trendless.tech/protocols/) move around, others stay nearly the same.
+5. Large-scale [enterprise-grade](https://trendless.tech/enterprise/) software must be maintained by [large-scale entities](https://gainedin.site/groups-large/), so its monolithic nature is mostly its undoing relative to an open-source implementation of the same solution.
+
+If there are lots of tools to choose from, I try to prioritize:
+
+1. Free-as-in-freedom [FLOSS](https://trendless.tech/floss), if possible
+2. Free-as-in-beer free, if possible
+3. Affordably-priced, if possible
+4. Whatever happens to work
+
+It sometimes makes sense to clarify for context how something is used.
 
 - _*_ if it's something to copy-paste or a reference sheet.
 - ☁ for browser-based apps, ⇉ for a browser/software plugin or extension
@@ -106,23 +114,14 @@ Sometimes, it makes sense to clarify for context how something is used.
 - ■ for standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/)).
 - 🔌 if it's an API or has API documentation
 - ⦿ for a data-heavy tool that may interest devs
-- 💾 if it's self-hostable
+- 💾 if it's self-hostable or runs in a container
 - 🐍 if it runs in Python
 - 🕵️ if it helps with trust issues
 - 🆓 if it's FLOSS
 - $ if it does cost at least some money
 - 💩 if it's an unsorted pile of stuff
 
-Further, some patterns keep cropping up in each domain:
-
-- Consuming: human consumption only, without modification to it
-- Foraging: to acquire others' created works
-
-Further further, there are other "fallback" groups if it's too meta to fit into any one of the above categories:
-
-- Dev: to broadly make or manage computer code, which may refer to front-end or back-end, be language-specific, and may simply be a more nuanced version of any of the above
-- Internet: sorta networking, sorta Everything Else
-- Productivity: to broadly streamline doing any of the above
+You can usually tell how exhaustive my efforts are by how much I've earmarked an individual tool.
 
 These are volatile out-of-the-box OS estimations for several reasons:
 
@@ -130,4 +129,10 @@ These are volatile out-of-the-box OS estimations for several reasons:
 - Developers keep making new things for new technologies, so this is constantly becoming obsolete or adapting to new standards.
 - In ten years a standard OS might have everything I've saved pre-installed on it, meaning this won't really matter.
 
-If you like what you see, [check out my other useful things](https://stucky.tech/creations).
+## YMMV
+
+I cannot attest to the validity of the software, so [caveat emptor](https://notageni.us/legal-doctrines). I trust the software developer wasn't lying. Trust no one, and validate the software for yourself.
+
+I also can't attest to the _current_ validity or comparative quality of the software. This is hand-curated by me, so it won't quickly change if something new comes along.
+
+I also [make other useful things as well](https://stucky.tech/creations).

@@ -1,6 +1,7 @@
 # Business: Startups
 
-[awesome-startup-tools-list💩](https://github.com/Ibexoft/awesome-startup-tools-list)
+[awesome-startup-tools-list💩](https://github.com/Ibexoft/awesome-startup-tools-list),
+[awesome-startup-resources](https://github.com/ahmadnassri/awesome-startup-resources)
 
 Startup profitability calculator:  
 [Startup Growth Calculator☁](http://growth.tlb.org/#)

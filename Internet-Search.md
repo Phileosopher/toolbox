@@ -1,6 +1,8 @@
 # Internet: Search Engines ☁
 
 Non-Google search engine:  
+[100 Search Engines](https://www.100searchengines.com/huge-list-search-engines.htm),
+[Golgozar](https://golgozar.org/),
 [Mojeek](https://www.mojeek.com/),
 [Qwant](https://www.qwant.com/),
 [searx](https://searx.space/),

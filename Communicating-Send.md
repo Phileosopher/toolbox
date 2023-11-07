@@ -4,9 +4,17 @@
 
 Link shortener:  
 [awesome-url-shortener💩](https://github.com/738/awesome-url-shortener),
+[3C5.com](https://3c5.com/)
 [bitly☁](https://bitly.com/),
+[gg.gg](http://gg.gg/),
+[is.gd](https://www.is.gd/),
+[Linkify](https://creator.linkify.cz/),
+[s.id](https://home.s.id/),
 [Short URL☁](https://www.shorturl.at/),
-[TinyURL☁](https://tinyurl.com)
+[T.LY](https://t.ly/),
+[TinyURL☁](https://tinyurl.com),
+[Tiny URL](https://tiny.cc/),
+[v.gd](https://v.gd/)
 
 Link lengthener:  
 [A(x56)☁](https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/)

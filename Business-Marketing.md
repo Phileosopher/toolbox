@@ -43,6 +43,10 @@ Facebook:
 [Facebook's Batch Invalidator☁](https://developers.facebook.com/tools/debug/sharing/batch/),
 [Facebook's Sharing Debugger☁](https://developers.facebook.com/tools/debug)
 
+Twitter:  
+[Affinitweet](https://affinitweet.com/),
+[Twitonomy](https://www.twitonomy.com/)
+
 Twitter/X - photos:  
 [Tweet Generator☁](https://10015.io/tools/tweet-generator),
 [Tweet to Image Converter☁](https://10015.io/tools/tweet-to-image-converter)
@@ -51,11 +55,9 @@ Twitter/X - cards:
 [SEOptimer's Twitter Cards☁](https://www.seoptimer.com/twitter-card-validator),
 [Twitter's Card Validator☁](https://cards-dev.twitter.com/validator)
 
-Twitter - the first tweet of something:  
-[First Tweet☁](http://ctrlq.org/first/)
-
 Twitter - multi-user management:  
-[TweetDeck☁](https://tweetdeck.twitter.com/)
+[TweetDeck☁](https://tweetdeck.twitter.com/),
+[Tweeten⊞⌘](https://tweetenapp.com/)
 
 Google - business review link generator:  
 [Supple's Business Review Link Generator☁](https://supple.com.au/tools/google-review-link-generator/)
@@ -81,27 +83,36 @@ Meta messaging analysis:
 ## Automation
 
 Auto-posts:  
-[Buffer☁](https://buffer.com/),
-[Hootsuite☁](https://hootsuite.com/)
+[Buffer☁](https://buffer.com/)
 
 Image posts:  
 [Pablo by Buffer☁](https://pablo.buffer.com/),
 [Remix by Buffer🍎🤖](https://buffer.com/remix)
 
 Emails:  
+[AWeber$](https://www.aweber.com/),
 [Buttondown☁](https://buttondown.email/),
+[Constant Contact$](https://www.constantcontact.com/),
 [MailPoet(WordPress)⇉](https://www.mailpoet.com/),
 [Twilio's SendGrid](https://sendgrid.com/)
 
 ## Influencers
 
-Brand capture:  
-[KnowEm Username Search☁](https://knowem.com/)
-
 Influencer search:  
 [Anewstip☁](https://anewstip.com/),
 [NinjaOutreach☁](https://ninjaoutreach.com/),
 [Google Trends☁](https://trends.google.com/),
+[Heepsy](https://www.heepsy.com/)
+
+Influencer search - by location:  
+[Google Trends for locations](https://mashups.appb.in/google-trend-mashup),
+[Klear influencer by location](https://klear.com/free-tools/find-influencers-by-location)
+
+Influencer search - Twitter:  
+[Klear Twitter influencer search](https://klear.com/free-tools/find-twitter-influencers)
+
+Twitter list search:  
+[ScoutZen Search for Twitter Lists](https://www.scoutzen.com/twitter-lists/search)
 
 Market research experts$:  
 [NewtonX](https://www.newtonx.com/),
@@ -109,13 +120,13 @@ Market research experts$:
 
 ## Trends
 
+[Social Searcher](https://www.social-searcher.com/)
+
 Popular trends:  
+[Google Trends - Hot Searches visualization](https://trends.google.com/trends/hottrends/visualize)
 [Exploding Topics☁](https://explodingtopics.com/),
 [English Wikipedia Top 100☁](https://top.hatnote.com/)
 [Popular Hashtags On TikTok](https://ads.tiktok.com/business/creativecenter/inspiration/)
-
-Trends search engine:  
-[Social Searcher](https://www.social-searcher.com/)
 
 Short-term rental data:  
 [AirDNA](https://www.airdna.co/)
@@ -125,6 +136,9 @@ Moving data - USA:
 
 Social media listening:  
 [Mention☁](https://mention.com/),
+
+Social media listening - Twitter:  
+[ScoutZen](https://www.scoutzen.com/)
 
 ## Marketing Followup
 
@@ -142,13 +156,18 @@ CRM:
 CRM - not-for-profits:  
 [CiviCRM⊞🐧](https://civicrm.org/)
 
-Data from existing content:  
+Social media data - Facebook:  
 [Export Facebook Pages Post Likes to Excel☁](https://commentpicker.com/export-likes-facebook.php),
 [Export Facebook Comments to Excel & CSV☁](https://commentpicker.com/export-comments-facebook.php),
+[Facebook Post ID Finder☁](https://commentpicker.com/facebook-post-id-finder.php)
+
+Social media data - Instagram:  
 [Export Instagram Comments to Excel & CSV☁](https://commentpicker.com/export-comments-instagram.php),
-[Facebook Post ID Finder☁](https://commentpicker.com/facebook-post-id-finder.php),
+
+Social media data - YouTube:  
 [YouTube Tag Extractor☁](https://commentpicker.com/youtube-tag-extractor.php),
-[YouTube video ID & YouTube video thumbnails☁](https://commentpicker.com/youtube-video-id.php)
+[YouTube video ID & YouTube video thumbnails☁](https://commentpicker.com/youtube-video-id.php),
+[Youtube channel ID](https://commentpicker.com/youtube-channel-id.php)
 
 User research:  
 [Sprig](https://sprig.com/)
@@ -165,6 +184,9 @@ Market surveys:
 
 Paper printing:  
 [Vistaprint☁](https://www.vistaprint.com/)
+
+Comment picker - Facebook:  
+[Comment Picker](https://commentpicker.com/)
 
 YouTube video spam comments:  
 [YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge)
