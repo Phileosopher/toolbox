@@ -9,6 +9,9 @@ Startup profitability calculator:
 Stock option outcome calculator:  
 [TLDR Stock Options☁](https://tldroptions.io/)
 
+Banking:  
+[Slash☁](https://www.joinslash.com/)
+
 ## Research & Ideas
 
 Expiring patents:  

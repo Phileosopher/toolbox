@@ -2,24 +2,48 @@
 
 ## Sending Web Links
 
+[ShortURL-Services-List💩](https://github.com/sambokai/ShortURL-Services-List/blob/master/shorturl-services-list.csv)
+
 Link shortener:  
 [awesome-url-shortener💩](https://github.com/738/awesome-url-shortener),
 [3C5.com](https://3c5.com/)
 [bitly☁](https://bitly.com/),
 [gg.gg](http://gg.gg/),
 [is.gd](https://www.is.gd/),
-[Linkify](https://creator.linkify.cz/),
 [s.id](https://home.s.id/),
+[shortURL.com](https://shorturl.com/),
 [Short URL☁](https://www.shorturl.at/),
 [T.LY](https://t.ly/),
 [TinyURL☁](https://tinyurl.com),
 [Tiny URL](https://tiny.cc/),
+
+Link shortener - IP logger/analytics:  
+[Cuttly](https://cutt.ly/),
+[Dub](https://dub.co/),
+[Grabify](https://grabify.link/),
+[Kutt](https://kutt.it/),
 [v.gd](https://v.gd/)
 
-Link lengthener:  
-[A(x56)☁](https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/)
+Link shortener - self-deployed💾:  
+[mpngin](https://github.com/thewalkingtoast/mpngin),
+[suri](https://github.com/jstayton/suri)
 
-Sending suspicious-looking links:  
+Link shortener - from browser URL entry box:  
+[OFFF](https://offf.to/)
+
+Link shortener - anonymous sender without referrer:  
+[Anon.to](https://anon.to/),
+[Anonymous URL Shortener](https://anonymiz.com/shorten-url)
+
+Link shortener - chance to rickroll:  
+[rroll.to](https://rroll.to/)
+
+Link lengthener:  
+[0wx.org's tremendous large URL](https://www.0wx.org/0wx/?show=bigurl),
+[A(x56)☁](https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/),
+[l62.ng](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ng/)
+
+Make link look suspicious:  
 [Very Legit Link☁](https://verylegit.link/)
 
 ## Data-Sending Platforms
@@ -27,7 +51,7 @@ Sending suspicious-looking links:
 [Bitwarden Send⊞⌘🐧🍎🤖🕵️](https://bitwarden.com/products/send/)
 
 Quick files:  
-[FILE.re](https://file.re/)
+[FilePizza](https://file.pizza/)
 
 Quick files - WebRTC:  
 [Send☁](https://send.vis.ee/)
@@ -44,13 +68,11 @@ Faxes:
 
 Money:  
 [Braid☁](https://braid.co/),
-[Privacy☁](https://privacy.com/),
-[Slash☁](https://www.joinslash.com/),
-
-Private web hosting:  
-[Haven🕵️](https://havenweb.org/)
+[Privacy☁](https://privacy.com/)
 
 ## PDF files
+
+[FILE.re](https://file.re/)
 
 PDFs that look scanned:  
 [Scan Your PDF☁🕵️](https://www.scanyourpdf.com/)
@@ -60,11 +82,25 @@ PDFs that look signed:
 
 ## Temporary Messages
 
-Short-term notes:  
-[privnote☁🕵️](https://privnote.com/)
+Short-term notes☁🕵️:  
+[Burner Note](https://burnernote.com/),
+[privnote](https://privnote.com/)
 
-Text (pastebin):  
-[PrivateBin☁🕵️](https://privatebin.info/)
+Pastebin☁:  
+[0wx.org's UNIX 336 Pastebin](https://www.0wx.org/0wx/?show=paste),
+[Encrypted Pastebin🕵️](https://defuse.ca/pastebin.htm),
+[Hardbin🕵️](https://hardbin.com/),
+[JustPaste.it](https://justpaste.it/),
+[paste.gg](https://paste.gg/),
+[Pastebin.com](https://pastebin.com/),
+[PrivateBin🕵️💾](https://privatebin.info/),
+[Shrib.com](https://shrib.com/),
+[Telegraph](https://telegra.ph/),
+[Toptal's Hastebin](https://www.toptal.com/developers/hastebin)
+
+Pastebin - markdown☁:  
+[MarkdownPastebin](https://markdownpastebin.com/),
+[Rentry.co](https://rentry.co/) (mirror [here](https://rentry.org/))
 
 Temporary text messages:  
 [tmpsms🕵️](https://github.com/sdushantha/tmpsms)

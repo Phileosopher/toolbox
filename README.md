@@ -110,7 +110,7 @@ It sometimes makes sense to clarify for context how something is used.
 - ☁ for browser-based apps, ⇉ for a browser/software plugin or extension
 - Desktop: ⊞ for Windows, ⌘ for Mac OS X, 🐧 for Linux and Friends.
 - Mobile: 🤖 for Android, 🍎 for iOS.
-- □ for non-UI CLI-based tools, often requires [programming experience](https://trendless.tech/prog-basics).
+- □ for non-GUI CLI-based tools, often requires [programming experience](https://trendless.tech/prog-basics).
 - ■ for standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/)).
 - 🔌 if it's an API or has API documentation
 - ⦿ for a data-heavy tool that may interest devs

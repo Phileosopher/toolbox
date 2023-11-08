@@ -99,3 +99,12 @@ Creative Commons:
 
 Tech pay-what-you-want:  
 [Leanpub](https://leanpub.com/)
+
+## Publishing - Quick Blogging Platforms
+
+[Bear Blog](https://bearblog.dev/),
+[Emanates](https://emanates-demo.netlify.app/),
+[Haven🕵️](https://havenweb.org/),
+[Mataroa](https://mataroa.blog/),
+[twtxt💾](https://twtxt.readthedocs.io/en/stable/),
+[WriteFreely](https://writefreely.org/)
