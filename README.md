@@ -106,28 +106,32 @@ If there are lots of tools to choose from, I try to prioritize:
 
 It sometimes makes sense to clarify for context how something is used.
 
-- _*_ if it's something to copy-paste or a reference sheet.
-- ☁ for browser-based apps, ⇉ for a browser/software plugin or extension
-- Desktop: ⊞ for Windows, ⌘ for Mac OS X, 🐧 for Linux and Friends.
-- Mobile: 🤖 for Android, 🍎 for iOS.
-- □ for non-GUI CLI-based tools, often requires [programming experience](https://trendless.tech/prog-basics).
-- ■ for standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/)).
-- 🔌 if it's an API or has API documentation
-- ⦿ for a data-heavy tool that may interest devs
-- 💾 if it's self-hostable or runs in a container
-- 🐍 if it runs in Python
-- 🕵️ if it helps with trust issues
-- 🆓 if it's FLOSS
-- $ if it does cost at least some money
-- 💩 if it's an unsorted pile of stuff
+- _*_ - reference sheet or copy/paste.
+- ☁ - browser-based
+- ⇉ - browser/software plugin or extension
+- ⊞ - Windows
+- ⌘ - Mac OS X
+- 🐧 - Unix and friends
+- 🤖 - Android
+- 🍎 - iOS
+- ■ - standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/))
+- □ - CLI-based without GUI (often requires [programming experience](https://trendless.tech/prog-basics))
+- 🔌 - an API, or has API documentation
+- ⦿ - data-intensive tool
+- 💾 - self-hostable, or runs in a container
+- 🐍 - runs in Python
+- 🕵️ - helps with [trust issues](https://gainedin.site/trust/)
+- 🆓 - [FLOSS](https://trendless.tech/floss/)
+- $ - requires paying at least some money
+- 💩 - a recursed pile of stuff, curated by someone else
 
-You can usually tell how exhaustive my efforts are by how much I've earmarked an individual tool.
+These icons are volatile out-of-the-box guesstimates, for several reasons:
 
-These are volatile out-of-the-box OS estimations for several reasons:
+- If the specs on a computer are high enough (and they often are if the software is >5 years old), a multipurpose OS can run almost any software, even if it's an unlocked fridge running a sideloaded Linux on an SD card to run Windows 98 to run MS-DOS.
+- Developers keep making new things for new technologies, so this is constantly becoming obsolete or adapting to new standards. From the time you read this, most of this toolbox is good for about 10 years.
+- Addon features have a funny way of becoming built-in features as everyone uses it, and built-in features will often become lobotomized to make something more efficient or profitable. Nothing is permanent.
 
-- If the specs on a computer are high enough (and they often are if the software is >5 years old), you can make almost any software run on any popular OS. Quick-and-dirty still does the job, even if it's running on an MS-DOS emulator inside a Windows 98 VM on a ROM side-loaded on the SD card of a smartphone.
-- Developers keep making new things for new technologies, so this is constantly becoming obsolete or adapting to new standards.
-- In ten years a standard OS might have everything I've saved pre-installed on it, meaning this won't really matter.
+You can usually tell how much I use it by how much I've earmarked an individual tool.
 
 ## YMMV
 
