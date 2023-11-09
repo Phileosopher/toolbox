@@ -13,6 +13,10 @@ Diagrams-as-code:
 
 [Ruff](https://beta.ruff.rs/docs/)
 
+## Compiling
+
+[PyInstaller](https://pyinstaller.org/en/stable/)
+
 ## Text Conversion
 
 Python calculations to rendered LaTeX:  
