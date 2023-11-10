@@ -42,7 +42,7 @@ Image galleries:
 FTP client:  
 [FileZilla⊞■⌘🐧](https://filezilla-project.org/)
 
-Anime/manga:  
+Anime/Manga:  
 [Free Manga Downloader](https://sourceforge.net/projects/fmd/),
 [HakuNeko](https://hakuneko.download/)
 

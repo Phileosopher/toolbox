@@ -31,9 +31,6 @@ Lossless editing:
 Machine-learning-enhanced editing:  
 [Runway☁](https://runwayml.com/)
 
-Video stabilization:  
-[Gyroflow⊞⌘🐧](https://gyroflow.xyz/)
-
 Team editing:  
 [Motionbox☁](https://motionbox.io/)
 
@@ -48,14 +45,14 @@ Video/audio muxing:
 
 ## Auto-Rendering
 
+Video auto-stabilization:  
+[Gyroflow⊞⌘🐧](https://gyroflow.xyz/)
+
 Motion picture film emulation:  
 [Filmbox (for DaVinci Resolve)](https://videovillage.com/filmbox/)
 
 Diffusion emulation:  
 [Scatter (for DaVinci Resolve)](https://videovillage.com/scatter/)
-
-Auto-stabilization:  
-[Gyroflow⊞⌘🐧](https://gyroflow.xyz/)
 
 3D:  
 [Source Filmmaker⊞](https://store.steampowered.com/app/1840/Source_Filmmaker/)

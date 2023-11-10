@@ -64,7 +64,7 @@ Popular movies list API:
 ## Media Libraries
 
 Tracking/synchronization:  
-[Simkl](https://simkl.com/),
+[Aniyomi🤖](https://aniyomi.org/),
 [Trakt⊞🍎🤖](https://trakt.tv/)
 
 All-purpose media:  
@@ -81,8 +81,9 @@ Streaming service:
 ),
 [Plex](https://www.plex.tv/)
 
-Comics library:  
+Comics/Manga library:  
 [YACReader](https://www.yacreader.com/)
+[Tachiyomi🤖](https://tachiyomi.org/)
 
 ## Other Visual
 
