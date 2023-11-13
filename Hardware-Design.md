@@ -96,6 +96,16 @@ EDA tools:
 
 ## Computer Assembly
 
+PC builds:  
+[Pangoly's PC configurator☁](https://pangoly.com/en/pc-configurator)
+[PCPartPicker's System Builder☁](https://pcpartpicker.com/list/)
+
+PC builds - 3DMark score:
+[PC Building Simulator HTML Calculator](https://jacobwklein.github.io/PC-Building-Simulator/HTML-Calculator/Current-Version/PC-Building-Simulator-HTML-Calculator.html)
+
+Hardware upgrade:  
+[Crucial by Micron☁](https://www.crucial.com/)
+
 Raspberry Pi:  
 [RPi Hub*](https://elinux.org/RPi_Hub)
 
@@ -181,5 +191,33 @@ Molecular docking and dynamics:
 
 ## Mobile Networks
 
-4G cellular networks:  
+4G cellular network design:  
 [LibreCellular](https://librecellular.org/)
+
+## Parts Shopping
+
+Factory parts:  
+[McMaster-Carr☁](https://www.mcmaster.com/),
+
+Electronics parts:  
+[Octopart☁](https://octopart.com/)
+
+Electronics parts - development boards:  
+[HackerBoards☁](https://hackerboards.com/)
+
+Auto parts:  
+[RockAuto☁](https://www.rockauto.com/)
+
+Noiseproofing:  
+[Green Glue](https://www.greengluecompany.com/)
+
+Fasteners:  
+[Bolt Depot - Nuts and Bolts, Screws and Fasteners online](https://www.boltdepot.com/)
+
+## Parts Shopping - Older Tech
+
+Floppy disks:  
+[Floppy disks](https://www.floppydisk.com/)
+
+Repurpose computer monitors:  
+[How To Convert Your Old Laptop Screen Into An External Monitor*](https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/)

@@ -47,5 +47,8 @@ Books:
 
 ## Other Text Needs
 
+Torrent/Usenet tracking client:  
+[Readarr](https://readarr.com/)
+
 Torah/Bible:  
 [The SWORD Project☁⊞■⌘🐧🍎🤖⇉](https://crosswire.org/sword/index.jsp)

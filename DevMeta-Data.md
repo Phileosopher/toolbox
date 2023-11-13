@@ -1,6 +1,9 @@
-# Files/OS: Data Management
+# Software Development: Data Management
 
-[awesome-storage💩](https://github.com/okhosting/awesome-storage)
+[data-tools💩](https://github.com/victorcouste/data-tools)
+
+Receipt photo data:  
+[awesome-receipt-data-extraction💩](https://github.com/VictorAtPL/awesome-receipt-data-extraction)
 
 ## SQL databases
 

@@ -7,6 +7,9 @@
 Blockchain & cryptocurrency:  
 [IQ.wiki](https://iq.wiki/)
 
+Scam research:  
+[Better Business Bureau Scam Tracker](https://www.bbb.org/scamtracker)
+
 ## Research
 
 [Fitch Ratings*](https://www.fitchratings.com/),

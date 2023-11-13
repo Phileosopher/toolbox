@@ -36,7 +36,7 @@ Batch renaming:
 Batch copying:  
 [FastCopy⊞■](https://fastcopy.jp/en/)
 
-Batch merging:  
+Batch merging/diff:  
 [WinMerge⊞■](https://winmerge.org/)
 
 File compression:  

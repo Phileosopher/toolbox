@@ -110,13 +110,17 @@ Video messages:
 
 ## Specific Message Needs
 
-File hosting multi-upload:  
+File hosting multi-upload/mirroring:  
+[Deepbrid Service](https://www.deepbrid.com/service),
+[Filecrypt](https://filecrypt.cc/),
 [MirrorAce](https://mirrorace.com/),
-[MultiUp.io](https://multiup.io/)
+[Mirrored.to](https://www.mirrored.to/),
+[MultiUp.io](https://multiup.io/),
+[UploadBoy.com](https://uploadboy.com/)
 
-Tech support callback:  
-[GetHuman☁](https://gethuman.com/),
-[FastCustomer☁](http://www.fastcustomer.com/)
+Tech support contact number:  
+[ContactFound.com☁](https://contactfound.com/),
+[GetHuman☁](https://gethuman.com/)
 
 Contact elected officials:  
 [5 Calls](https://5calls.org/),
@@ -133,11 +137,16 @@ Scam reporting:
 
 ## Specific Message Needs - Email
 
-Email masks:  
-[Firefox Relay☁🕵️](https://relay.firefox.com)
+Email masks🕵️:  
+[addy.io](https://addy.io/),
+[Firefox Relay☁](https://relay.firefox.com),
+[Forward Email](https://forwardemail.net/),
+[SimpleLogin](https://simplelogin.io/),
+[spamgourmet](https://www.spamgourmet.com/)
 
-Send corrupted files:  
-[Corrupt-a-File.net☁🕵️](https://corrupt-a-file.net/)
+Send corrupted files🕵️:  
+[Corrupt-a-File.net☁](https://corrupt-a-file.net/),
+[Corrupt My File](https://www.corruptmyfile.com/)
 
 Sending straight to recipient's spam folder:  
 [Straight to Spam☁](https://straight2spam.xyz/)

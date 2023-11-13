@@ -70,3 +70,6 @@ Torrents - streaming:
 
 Torrents - alternate proxy:  
 [Knaben's Proxy List](https://knaben.info/)
+
+Debrid:  
+[Deepbrid](https://www.deepbrid.com/home)

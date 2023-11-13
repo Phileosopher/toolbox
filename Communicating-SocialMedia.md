@@ -26,6 +26,9 @@ Images:
 [9GAG](https://9gag.com/),
 [Pinterest☁🍎🤖](https://pinterest.com)
 
+Blog posts/articles:  
+[Medium](https://medium.com/)
+
 Simultaneous chat:  
 [Discord](https://discord.com/)
 

@@ -61,29 +61,34 @@ P2P movie sharing:
 Popular movies list API:  
 [popular-movies](https://github.com/sjlu/popular-movies)
 
+## Streaming Content Client
+
+Movie-based for Torrent/Usenet:  
+[Radarr](https://radarr.video/)
+
+TV-based for Torrent/Usenet:  
+[Sonarr](https://sonarr.tv/),
+[SickChill](https://sickchill.github.io/)
+
+Comics/Manga-based:  
+[YACReader](https://www.yacreader.com/)
+[Tachiyomi🤖](https://tachiyomi.org/)
+
 ## Media Libraries
 
-Tracking/synchronization:  
-[Aniyomi🤖](https://aniyomi.org/),
-[Trakt⊞🍎🤖](https://trakt.tv/)
+[Jellyfin🐧](https://jellyfin.org/) (with [Gelli🤖](https://github.com/dkanada/gelli)),
+[OSMC](https://osmc.tv/),
+[Plex](https://www.plex.tv/)
 
-All-purpose media:  
-[Servarr (Lidarr, Radarr, Readarr, Sonarr)💾](https://wiki.servarr.com/)
-
-Subtitles:  
-[Bazarr (for Sonarr and Radarr)💾](https://www.bazarr.media/)
+Low-profile:  
+[Myflix](https://github.com/farfalleflickan/Myflix)
 
 10-foot UI:  
 [Kodi⊞■⌘🐧🍎🤖](https://kodi.tv/)
 
-Streaming service:  
-[Jellyfin🐧](https://jellyfin.org/) (with [Gelli🤖](https://github.com/dkanada/gelli)
-),
-[Plex](https://www.plex.tv/)
-
-Comics/Manga library:  
-[YACReader](https://www.yacreader.com/)
-[Tachiyomi🤖](https://tachiyomi.org/)
+Content tracking/synchronization:  
+[Aniyomi🤖](https://aniyomi.org/),
+[Trakt⊞🍎🤖](https://trakt.tv/)
 
 ## Other Visual
 

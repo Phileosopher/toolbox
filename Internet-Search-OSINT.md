@@ -1,7 +1,16 @@
 # Internet: Search Engines - OSINT/People☁
 
+[ScanFactory India Open-Source Intelligence (OSINT) Resources💩](https://in.scanfactory.io/intelligence.html),
+[Canada's open data🔌](https://open.canada.ca/en/using-open-data)
+
+## People Search
+
 [Epieos](https://epieos.com/),
+[People Search Now](https://www.peoplesearchnow.com/),
 [Radaris People Search](https://radaris.com/)
+
+Address search:  
+[People Search Now's Address Lookup](https://www.peoplesearchnow.com/address)
 
 ## Social Media Searches
 
@@ -37,6 +46,6 @@ Gravatar:
 Pulling usernames:  
 [Find Instagram Username from IG User ID](https://commentpicker.com/instagram-username.php)
 
-## Piles of Everything💩
+## Large Organization Search:  
 
-[ScanFactory India Open-Source Intelligence (OSINT) Resources](https://in.scanfactory.io/intelligence.html)
+[Canada's Open Government Portal](https://open.canada.ca/data/dataset)

@@ -195,6 +195,13 @@ IoT server:
 Network inventory:  
 [Network Inventory Advisor$](https://www.network-inventory-advisor.com/)
 
+Phone lookup:  
+[People Search Now's Reverse Phone Lookup](https://www.peoplesearchnow.com/phone-number),
+[Reverse Phone Lookup](https://npnr.org/)
+
+Phone number country codes:  
+[CountryCode.org☁](https://www.countrycode.org/)
+
 ## L3 Network - Probes
 
 IP address scanner:  

@@ -54,6 +54,7 @@ Email/calendar/contacts client:
 
 Email hosting☁🕵️:  
 [Fastmail](https://www.fastmail.com/),
+[mail.com](https://www.mail.com/),
 [ProtonMail](https://protonmail.com/),
 [Tutanota](https://tutanota.com/)
 
@@ -61,7 +62,6 @@ Temporary email🕵️:
 [Maildrop☁](https://maildrop.cc/),
 [10 minute mail☁](https://10minutemail.com/),
 [Email On Deck☁](https://www.emailondeck.com/),
-[Firefox Relay⇉](https://relay.firefox.com/accounts/profile/),
 [guerrillamail.com☁](https://www.guerrillamail.com/)
 
 Email summary:  

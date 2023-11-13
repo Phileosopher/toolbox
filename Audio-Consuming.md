@@ -33,6 +33,9 @@ Podcast management:
 [MusicBee⊞■](https://getmusicbee.com/),
 [Quod Libet⊞⌘🐧](https://quodlibet.readthedocs.io/)
 
+Torrent/Usenet tracking client:  
+[Lidarr](https://lidarr.audio/)
+
 Music download:  
 [Download Music School☁](https://downloadmusicschool.com/)
 

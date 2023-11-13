@@ -76,32 +76,6 @@ Exploit database:
 Malware source code:  
 [vx-underground](https://www.vx-underground.org/)
 
-## Backup/Sync
-
-File synchronization:  
-[FreeFileSync⊞⌘🐧](https://freefilesync.org/),
-[Syncthing⊞⌘🐧🤖](https://syncthing.net/)
-
-Folder synchronization:  
-[MEGA☁⊞■⌘🐧🍎🤖□](https://mega.nz/),
-[Nextcloud⊞■⌘🐧🍎🤖⇉](https://nextcloud.com/)
-
-Drive backup:  
-[TeraCopy⊞⌘🤖](https://www.codesector.com/teracopy)
-
-File/folder backup:  
-[Restic](https://restic.readthedocs.io/)
-
-CD/DVD:
-[Clonezilla⊞⌘🐧🍎🤖](https://clonezilla.org/)
-
-Websites:  
-[HTTrack Website Copier⊞⌘🐧🤖](https://www.httrack.com/)
-
-CalDAV/CardDAV (email's calendar/contacts):  
-[DAVx⁵🤖](https://f-droid.org/packages/at.bitfire.davdroid/),
-[TbSync⇉](https://addons.thunderbird.net/en-us/thunderbird/addon/tbsync/)
-
 ## Recovery
 
 General analysis/recovery:  

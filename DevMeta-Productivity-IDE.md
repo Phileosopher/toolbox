@@ -6,7 +6,7 @@
 [Microsoft Visual Studio⊞⌘🐧](https://visualstudio.microsoft.com/),
 [VSCodium⊞⌘🐧](https://vscodium.com/)
 
-Browser-based IDE:  
+Browser-based:  
 [Visual Studio Code☁](https://vscode.dev/)
 
 Apple-tailored:  
@@ -21,6 +21,9 @@ PHP-tailored:
 Hex editor:  
 [HxD⊞](https://mh-nexus.de/en/hxd/),
 [ImHex⊞⌘🐧](https://imhex.werwolv.net/)
+
+Cloud-based:  
+[Gitpod](https://www.gitpod.io/)
 
 ## Enhancement
 
