@@ -22,7 +22,7 @@ Protective gloves
 
 Headlamp
 
-[Gearwrench ratcheting wrenches](https://www.gearwrench.com/all-tools/wrenches?field_product_classifications_target_id[]=4441)
+[Gearwrench ratcheting wrenches](https://www.gearwrench.com/all-tools/wrenches)
 
 [Cat phones](https://www.catphones.com/)
 

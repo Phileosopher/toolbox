@@ -1,18 +1,5 @@
 # Files/OS: Virtualization/Emulation
 
-## PC/Device Integration
-
-[Wormhole⊞⌘🐧🍎🤖](https://er.run/)
-
-iOS - file management and jailbreak:  
-[3uTools⊞](https://www.3u.com/)
-
-Android - file management and root:  
-[Odin3⊞](https://odin3download.com/)
-
-TV - root:  
-[RootMyTV](https://rootmy.tv/)
-
 ## Virtualization
 
 All-purpose VMs:  

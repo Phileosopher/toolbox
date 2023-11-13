@@ -9,9 +9,6 @@
 Browser-based IDE:  
 [Visual Studio Code☁](https://vscode.dev/)
 
-Android-tailored:  
-[Android SDK⊞⌘🐧](https://developer.android.com/studio/),
-
 Apple-tailored:  
 [Xcode⌘🍎](https://developer.apple.com/xcode/)
 
