@@ -14,6 +14,10 @@ Cloud storage:
 E2E encryption:  
 [SCION Internet Architecture](https://scion-architecture.net/)
 
+## Messaging Stack
+
+[Mattermost💾](https://mattermost.com/) (uses [Matterbridge](https://mattermost.com/marketplace/matterbridge/))
+
 ## Cloud Stack
 
 Diagramming:  

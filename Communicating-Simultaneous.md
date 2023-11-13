@@ -5,11 +5,24 @@ Budgeting:
 
 ## Chat
 
+Multi-chat clients:  
 [All-in-One Messenger⊞🐧⌘](https://allinone.im/),
 [Beeper⊞🐧⌘](https://www.beeper.com/),
-[Pidgin⊞🐧⌘](https://pidgin.im/),
+[Kopete🐧](https://apps.kde.org/kopete/),
+[Pidgin⊞■🐧⌘](https://pidgin.im/),
 [Rocket.Chat⊞🐧⌘🍎🤖](https://rocket.chat/),
-[tinychat☁](https://tinychat.com)
+[tinychat☁](https://tinychat.com),
+[WeeChat🐧□](https://weechat.org/)
+
+IRC client:  
+[Wikipedia's Comparison of Internet Relay Chat clients💩](https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients),
+[Wikipedia's Comparison of mobile Internet Relay Chat clients🍎🤖💩](https://en.wikipedia.org/wiki/Comparison_of_mobile_Internet_Relay_Chat_clients),
+[HexChat■](https://hexchat.github.io/),
+[KiwiIRC☁](https://kiwiirc.com/),
+[Konversation⊞🐧](https://konversation.kde.org/),
+[KVIrc.net⊞■🐧⌘](https://www.kvirc.net/),
+[mIRC⊞](https://www.mirc.com/)
+
 
 Type when someone else is typing:  
 [slacktyping□](https://github.com/will/slacktyping)

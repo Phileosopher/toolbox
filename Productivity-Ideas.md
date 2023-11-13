@@ -53,13 +53,6 @@ Venn Diagrams:
 [Good Calculators' Venn Diagram Maker☁](https://goodcalculators.com/venn-diagram-maker/),
 [Venngage☁](https://venngage.com/features/venn-diagram-maker)
 
-Project management:  
-[Zenkit☁](https://zenkit.com)
-
-Project management + collaboration:  
-[Focalboard⊞⌘🐧](https://www.focalboard.com/) (part of [Mattermost](https://mattermost.com/)),
-[Slack☁](https://slack.com/)
-
 ## Text Notes
 
 Quick notes/sporadic:  

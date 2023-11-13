@@ -10,7 +10,7 @@ Articles:
 ## Media-Based
 
 Text/post feed:  
-[Mastodon☁🍎🤖](https://joinmastodon.org/),
+[Mastodon☁🍎🤖🕵️](https://joinmastodon.org/),
 [Minds](https://www.minds.com/)
 
 Topical:  
@@ -29,8 +29,10 @@ Images:
 Blog posts/articles:  
 [Medium](https://medium.com/)
 
-Simultaneous chat:  
-[Discord](https://discord.com/)
+Simultaneous group chat:  
+[Discord](https://discord.com/),
+[matrix⊞⌘🐧🍎🤖🕵️](https://matrix.org/),
+[Revolt](https://revolt.chat/)
 
 Simultaneous chat - topic search:  
 [DISBOARD](https://disboard.org/),

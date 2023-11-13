@@ -63,6 +63,9 @@ Popular movies list API:
 
 ## Streaming Content Client
 
+Torrent-based streaming:  
+[Webtor.io](https://webtor.io/)
+
 Movie-based for Torrent/Usenet:  
 [Radarr](https://radarr.video/)
 

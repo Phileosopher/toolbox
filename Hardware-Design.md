@@ -94,45 +94,10 @@ EDA tools:
 
 [Device Fundamentals Tests - Windows drivers⊞](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/device-fundamentals-tests)
 
-## Computer Assembly
-
-PC builds:  
-[Pangoly's PC configurator☁](https://pangoly.com/en/pc-configurator)
-[PCPartPicker's System Builder☁](https://pcpartpicker.com/list/)
-
-PC builds - 3DMark score:
-[PC Building Simulator HTML Calculator](https://jacobwklein.github.io/PC-Building-Simulator/HTML-Calculator/Current-Version/PC-Building-Simulator-HTML-Calculator.html)
-
-Hardware upgrade:  
-[Crucial by Micron☁](https://www.crucial.com/)
-
-Raspberry Pi:  
-[RPi Hub*](https://elinux.org/RPi_Hub)
-
-Raspberry Pi - verified peripherals:  
-[RPi Verified Peripherals*](https://elinux.org/RPi_VerifiedPeripherals)
+## CNC
 
 Arduino - flashing code:  
 [xLoader](https://github.com/xinabox/xLoader)
-
-Other PCB:  
-[smoothieboard](https://smoothieware.org/smoothieboard)
-
-Components:  
-[Adafruit](https://www.adafruit.com/),
-[Crowd Supply](https://www.crowdsupply.com/),
-[Dangerous Things](https://dangerousthings.com/),
-[Mbed](https://os.mbed.com/)
-
-Components - cameras:  
-[MAXLAB.IO](https://maxlab.io/store/)
-
-Housing:  
-[DAN Cases](https://www.dan-cases.com/),
-[LOUQE](https://www.louqe.com/),
-[teenage engineering](https://teenage.engineering/)
-
-## CNC
 
 G-code sending:  
 [cncjs](https://cnc.js.org/),
@@ -142,16 +107,13 @@ G-code parsing:
 [grbl (for Arduino flashing)](https://github.com/grbl/grbl),
 [TinyG](https://github.com/synthetos/TinyG/wiki)
 
-## Devices
-
-Modular components - prototype:  
-[Meccano](https://www.meccano.com/en_us)
-
-Modular components - working model:  
-[goBILDA](https://www.gobilda.com/)
+## Designs
 
 Book scanner:  
 [Linear Book Scanner](https://linearbookscanner.org/)
+
+Repurpose computer monitors:  
+[How To Convert Your Old Laptop Screen Into An External Monitor*](https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/)
 
 ## Robotics
 
@@ -193,31 +155,3 @@ Molecular docking and dynamics:
 
 4G cellular network design:  
 [LibreCellular](https://librecellular.org/)
-
-## Parts Shopping
-
-Factory parts:  
-[McMaster-Carr☁](https://www.mcmaster.com/),
-
-Electronics parts:  
-[Octopart☁](https://octopart.com/)
-
-Electronics parts - development boards:  
-[HackerBoards☁](https://hackerboards.com/)
-
-Auto parts:  
-[RockAuto☁](https://www.rockauto.com/)
-
-Noiseproofing:  
-[Green Glue](https://www.greengluecompany.com/)
-
-Fasteners:  
-[Bolt Depot - Nuts and Bolts, Screws and Fasteners online](https://www.boltdepot.com/)
-
-## Parts Shopping - Older Tech
-
-Floppy disks:  
-[Floppy disks](https://www.floppydisk.com/)
-
-Repurpose computer monitors:  
-[How To Convert Your Old Laptop Screen Into An External Monitor*](https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/)

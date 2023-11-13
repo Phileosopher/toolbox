@@ -9,6 +9,10 @@ NAS:
 
 ## Remote Storage
 
+File hosting:  
+[File Hosting Wiki💩](https://filehostlist.miraheze.org/wiki/Main_Page),
+[Free cloud storage providers spreadsheet💩](https://nafanz.github.io/)
+
 File synchronization:  
 [FreeFileSync⊞⌘🐧](https://freefilesync.org/),
 [ownCloud💾🆓](https://owncloud.com/),
@@ -18,6 +22,10 @@ Automatic folder synchronization:
 [Box](https://www.box.com/),
 [MEGA☁⊞■⌘🐧🍎🤖□](https://mega.nz/) (with [Megatools□](https://megatools.megous.com/)),
 [Nextcloud⊞■⌘🐧🍎🤖⇉](https://nextcloud.com/)
+
+Cloud-to-cloud synchronization:  
+[MultCloud](https://www.multcloud.com/),
+[TransferCloud.io](https://transfercloud.io/)
 
 ## Remote Storage - Enterprise-Grade
 

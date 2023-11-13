@@ -15,10 +15,17 @@ Maximum-zoomed images:
 [uGet⊞■⌘🐧](https://ugetdm.com/),
 [WinWGet+ Portable⊞■](https://portableapps.com/apps/internet/winwget_portable)
 
-Auto-throttling:  
+Temporary cloud/debrid:  
 [AllDebrid](https://alldebrid.com/),
+[Bitport.io](https://bitport.io/),
+[Deepbrid](https://www.deepbrid.com/),
 [Premiumize.me](https://www.premiumize.me/),
-[Real-Debrid](https://real-debrid.com/)
+[put.io](https://put.io/),
+[Real-Debrid](https://real-debrid.com/) (with [rdcli□](https://github.com/johackim/rdcli)),
+[Seedr](https://www.seedr.cc/)
+
+Debrid (Kodi addon):  
+[Gaia](https://gaiakodi.com/)
 
 Wayback Machine:  
 [wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)
@@ -65,11 +72,11 @@ Torrents - search:
 [LibreX☁](https://librex.devol.it/),
 [SkyTorrents☁](http://www.skytorrents.me/)
 
+Torrents - private trackers:  
+[Private Trackers Spreadsheet](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/)
+
 Torrents - streaming:  
 [Popcorn Time⊞⌘🐧🤖](https://github.com/popcorn-official)
 
 Torrents - alternate proxy:  
 [Knaben's Proxy List](https://knaben.info/)
-
-Debrid:  
-[Deepbrid](https://www.deepbrid.com/home)

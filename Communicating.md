@@ -80,13 +80,23 @@ Email breach search☁:
 
 ## Text Messaging
 
-Messaging client🕵️:  
-[matrix⊞⌘🐧🍎🤖](https://matrix.org/)
-[Signal⊞⌘🐧🍎🤖](https://signal.org/),
+Messaging client:  
 [Telegram⊞⌘🐧🍎🤖](https://telegram.org/)
+
+Messaging client - hyper-secure🕵️:  
+[Signal⊞⌘🐧🍎🤖](https://signal.org/)
 
 SMS messaging on PC:  
 [DesktopSMS⊞🤖](https://www.desktopsms.net/)
 
 SMS breach notifications:  
 [Okey Monitor☁](https://okeymonitor.com/)
+
+## Collaboration/Productivity
+
+Project management:  
+[Zenkit☁](https://zenkit.com)
+
+Project management + collaboration:  
+[Focalboard⊞⌘🐧](https://www.focalboard.com/) (part of [Mattermost](https://mattermost.com/)),
+[Slack☁](https://slack.com/)
