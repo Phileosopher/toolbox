@@ -4,9 +4,17 @@ AI CAD:
 [Components AI](https://components.ai/)
 
 AI-assisted drawing/painting:  
+[Generated Photos](https://generated.photos/),
 [Google's AutoDraw☁](https://www.autodraw.com/),
 [Modyfi - Create. Together.](https://www.modyfi.com/),
 [NVIDIA Canvas⊞](https://www.nvidia.com/en-gb/studio/canvas/)
+
+AI-generated faces:  
+[AI-Generated Faces](https://generated.photos/faces),
+[This Person Does Not Exist](https://thispersondoesnotexist.com/)
+
+AI-generated movie posters:  
+[This Movie Does Not Exist](https://thismoviedoesnotexist.org/movie/unique-presence-1)
 
 AI photo editing:  
 [Hotpot.ai](https://hotpot.ai/tools),
@@ -25,6 +33,18 @@ Blob generator:
 
 Pattern generator:  
 [SVG Pattern Generator☁](https://10015.io/tools/svg-pattern-generator)
+
+Auto-generated visual elements:
+[Antlers](https://watabou.itch.io/antlers),
+[Compass Rose Generator](https://watabou.itch.io/compass-rose-generator),
+[Procgen Locomotives](https://watabou.itch.io/procgen-locomotives),
+[Procgen Tarot](https://watabou.itch.io/procgen-tarot),
+[Rune Generator](https://watabou.itch.io/rune-generator),
+[Seasonal Wreaths](https://watabou.itch.io/wreaths),
+[Sigil Generator](https://watabou.itch.io/sigil-generator),
+[Stick Figures](https://watabou.itch.io/stick-figures),
+[Tank Doodles](https://watabou.itch.io/tank-doodles),
+[Winter Trees](https://watabou.itch.io/winter-trees)
 
 ## Capture
 

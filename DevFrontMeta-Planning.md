@@ -55,5 +55,4 @@ Style definitions:
 [Invision's Free Design Resources](https://www.invisionapp.com/inside-design/design-resources/),
 [link-list](https://github.com/Vincenius/link-list),
 [Tiny helpers](https://tiny-helpers.dev/),
-[UI Goodies](https://www.uigoodies.com/),
-[UpLabs](https://www.uplabs.com/)
+[UI Goodies](https://www.uigoodies.com/)

@@ -24,6 +24,7 @@ Videos:
 
 Images:  
 [9GAG](https://9gag.com/),
+[Flickr](https://www.flickr.com/),
 [Pinterest☁🍎🤖](https://pinterest.com)
 
 Blog posts/articles:  

@@ -1,20 +1,19 @@
 # Visual: Foraging☁
 
-## Multi-Element
+## Multi-Element💩
 
 [123RF](https://www.123rf.com/), [365psd](https://365psd.com/),
-[AllTheFreeStock](https://allthefreestock.com/), [App Sources](http://www.sketchappsources.com/),
+[AllTheFreeStock](https://allthefreestock.com/), [App Sources](http://www.sketchappsources.com/all-free-sources.html),
 [Apple Design Resources](https://developer.apple.com/design/resources/),
 [Bootsnipp](https://bootsnipp.com/),
 [Colors and Fonts](https://www.colorsandfonts.com/),
-[Design Bonos](https://designbonos.com/),
-[design.dev](https://design.dev/),
+[Depositphotos Free Media](https://depositphotos.com/free-images.html),
 [FOCA](https://https://focastock.com/), [Freebie Supply](https://freebiesupply.com/), [Freebiesbug](https://freebiesbug.com/), [Freebiesketch](https://freebiesketch.com/), [freepik](https://www.freepik.com/), [Free Nature Stock](https://freenaturestock.com/),
 [Icons8](https://icons8.com/), [ISO Republic](https://isorepublic.com/), [Interfacer](https://interfacer.xyz/),
 [Mixkit](https://mixkit.co/),
 [Motion Elements](https://www.motionelements.com/),
 [One Click Theme](https://www.oneclicktheme.com/),[Openverse](https://openverse.org/),
-[Pexels](https://www.pexels.com/), [pixabay](https://pixabay.com/), [Pond5](https://www.pond5.com/), [PSD Repo](https://psdrepo.com/), [PSDDD.co](https://psddd.co/),
+[Pexels](https://www.pexels.com/), [pikwizard](https://pikwizard.com/), [pixabay](https://pixabay.com/), [Pond5](https://www.pond5.com/), [PSD Repo](https://psdrepo.com/), [PSDDD.co](https://psddd.co/),
 [Sketch Repo](https://sketchrepo.com/), [Sketchapp TV](http://sketchapp.tv/), [Smithsonian Open Access](https://www.si.edu/openaccess), [Start Bootstrap](https://startbootstrap.com/), [Stockio](https://www.stockio.com/),
 [Vecteezy](https://www.vecteezy.com/),
 [UpLabs](https://www.uplabs.com/), [UI Store Design](https://www.uistore.design/)
@@ -25,7 +24,6 @@
 [free-stock.video](https://free-stock.video/),
 [Life of vids](https://www.lifeofvids.com/),
 [Mazwai](https://mazwai.com/),
-[Pond5](https://www.pond5.com/),
 [Videezy](https://www.videezy.com/),
 [VideoHive](https://videohive.net/),
 [Videvo's Royalty Free Videos](https://www.videvo.net/stock-video-footage/),
@@ -43,12 +41,11 @@
 [Imagebase](https://imagebase.net/),
 [Kaboompics](https://kaboompics.com/),
 [LibreStock](https://librestock.com/), [Life of Pix](https://www.lifeofpix.com/),
-[Magdeleine](https://magdeleine.co/), [Morguefile](https://morguefile.com/photos),
+[Magdeleine](https://magdeleine.co/), [Morguefile](https://morguefile.com/),
 [Negative Space](https://negativespace.co/), [New Old Stock](https://nos.twnsnd.co/),
-[picjumbo](https://picjumbo.com/), [Picography](https://picography.co), [picspree](https://picspree.com/), [pikwizard](https://pikwizard.com/), [Pixabay](https://pixabay.com), [Pixelmob](https://pixelmob.co/),
+[picjumbo](https://picjumbo.com/), [Picography](https://picography.co), [picspree](https://picspree.com/), [Pixelmob](https://pixelmob.co/),
 [Realistic Shots](https://realisticshots.com/), [Reshot](https://www.reshot.com/),
 [Same Energy](https://same.energy/), [Shopify's Burst](https://burst.shopify.com/), [Skitterphoto](https://skitterphoto.com/), [SKUAWK](http://skuawk.com/), [Stock Up](https://www.sitebuilderreport.com/stock-up/), [Stockified](https://www.stockified.com/), [StockSnap.io](https://stocksnap.io/), [Stockvault](https://www.stockvault.net/), [stokpic](https://stokpic.com/),
-[Bucketlistly Blog's Photos](https://www.bucketlistly.blog/photos),
 [Unsplash](https://unsplash.com/),
 [Vector.me](https://vector.me/), [Visual Hunt](https://visualhunt.com/), [Visuals of Earth](https://visualsofearth.com/)
 
@@ -78,18 +75,7 @@ Furniture:
 [Foter](https://foter.com/)
 
 Animation:  
-[STUDIO GHIBLI](https://www.ghibli.jp/info/013251/)
-
-AI-generated:  
-[AutoDraw](https://www.autodraw.com/),
-[Generated Photos](https://generated.photos/)
-
-AI-generated faces:  
-[AI-Generated Faces](https://generated.photos/faces),
-[This Person Does Not Exist](https://thispersondoesnotexist.com/)
-
-AI-generated movie posters:  
-[This Movie Does Not Exist](https://thismoviedoesnotexist.org/movie/unique-presence-1)
+[STUDIO GHIBLI](https://www.ghibli.jp/info/013251/) (and [another](https://www.ghibli.jp/info/013409/))
 
 Photo databases:  
 [laion-aesthetic-6pls](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls)
@@ -99,6 +85,10 @@ Patterns:
 
 Paid stock photos - search:  
 [GetPaidStock](https://getpaidstock.com/)
+
+Adobe PSD files:  
+[Download PSD](https://downloadpsd.cc/),
+[FreePSDvn](https://freepsdvn.com/)
 
 ## Stock Photos: Web-Based
 
@@ -111,19 +101,17 @@ Landing pages:
 
 ## Icons
 
-[700+ CSS Icons](https://css.gg/),
 [Bootstrap Icons](https://icons.getbootstrap.com/), [Bootstrap Icons](http://www.bootstrapicons.com/), [Boxicons](https://boxicons.com/),
-[CoreUI Icons](https://coreui.io/icons/), [CSS ICON](https://cssicon.space), [CSS Icons](https://css.gg/app),
+[CoreUI Icons](https://coreui.io/icons/), [CSS ICON](https://cssicon.space), [CSS Icons](https://css.gg/),
 [DEVICON](https://devicon.dev/), [DrawKit's Icons](https://www.drawkit.io/free-icons),
 [Endless Icons](http://endlessicons.com/), [Entypo](http://www.entypo.com/), [Eva Icons](https://akveo.github.io/eva-icons), [Evericons](http://www.evericons.com/),
-[Feather](https://feathericons.com/), [Find Icons](https://findicons.com/), [FlatIcon](https://www.flaticon.com/), [FLAT SVG DESIGNS](https://flat-svg-designs.net/en/icons/all/), [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free), [Fontello](http://fontello.com/), [Foundation Icon Fonts 3](https://zurb.com/playground/foundation-icon-fonts-3), [Free Icons](https://icon-icons.com/),
+[Feather](https://feathericons.com/), [Find Icons](https://findicons.com/), [FlatIcon](https://www.flaticon.com/), [FLAT SVG DESIGNS](https://flat-svg-designs.net/en/icons/all/), [Font Awesome Free Icons](https://fontawesome.com/icons?d=gallery&m=free), [Fontello](http://fontello.com/), [Foundation Icon Fonts 3](https://zurb.com/playground/foundation-icon-fonts-3), [Free Icons](https://icon-icons.com/),
 [Game-icons.net](https://game-icons.net/), [Google Fonts' Material Symbols and Icons](https://fonts.google.com/icons),
 [Heroicons](https://heroicons.com/), [Heroicons](https://heroicons.dev/), [Hotpot.ai](https://hotpot.ai/free-icons),
-[Icons8 Icons](https://icons8.com/icons/set/undefined), [Iconbolt](https://www.iconbolt.com/), [IconBros](https://www.iconbros.com/), [Iconbuddy](https://iconbuddy.app/), [Iconduck](https://iconduck.com/),
-[Iconfinder's Free Icons](https://icons8.com/icons), [Iconic](https://iconic.app/), [IconSearch](https://iconsear.ch/), [Icon Store](https://iconstore.co/), [iconmonstr](https://iconmonstr.com/), [Iconoir](https://iconoir.com/), [Ikonate](https://ikonate.com/), [Ionicons](https://ionicons.com/),
-[Jam icons](https://linearicons.com/free),
-[Linearicons](https://linearicons.com/free), [Line Awesome](https://icons8.com/line-awesome), [Lordicon](https://lordicon.com/free-icons),
-[Material Design Icons](https://materialdesignicons.com/), [Material Design Icons](https://www.materialpalette.com/icons), [Material Design Icons](https://material.io/resources/icons/?style=baseline), [Mono Icons](https://icons.mono.company/),
+[Icons8 Icons](https://icons8.com/icons/set/undefined), [Icons8's Free Icons](https://icons8.com/icons), [Iconbolt](https://www.iconbolt.com/), [IconBros](https://www.iconbros.com/), [Iconbuddy](https://iconbuddy.app/), [Iconduck](https://iconduck.com/),
+[Iconic](https://iconic.app/), [IconSearch](https://iconsear.ch/), [Icon Store](https://iconstore.co/), [iconmonstr](https://iconmonstr.com/), [Iconoir](https://iconoir.com/), [Ikonate](https://ikonate.com/), [Ionicons](https://ionicons.com/),
+[Linearicons](https://linearicons.com/free), [Line Awesome](https://icons8.com/line-awesome), [Lordicon](https://lordicon.com/icons#free),
+[Material Design Icons](https://materialdesignicons.com/), [Material Design Icons](https://www.materialpalette.com/icons), [Material Design Icons](https://material.io/resources/icons/?style=baseline),
 [Mono Icons](https://icons.mono.company/), [Myiconfinder](http://www.myiconfinder.com/),
 [Netlify Icônes](https://icones.netlify.app/), [Noun Project](https://thenounproject.com/),
 [Orion Icon Library](https://www.orioniconlibrary.com/),
@@ -180,21 +168,13 @@ React icons:
 Payment methods:  
 [Iconfinder's Payment Method icons](https://www.iconfinder.com/iconsets/payment-method-1)
 
-## Mockup Templates
-
-[Facebook Design's Devices](https://facebook.design/devices),
-[Facebook Design's Diverse Device Hands](https://facebook.design/handskit),
-[Facebook Design's Virtual Hands](https://facebook.design/virtual-hands),
-[KK Ui Store's Vector Mockups Library](https://mockups.kkuistore.com/),
-[Lstore Graphics' Free Mockups](https://www.ls.graphics/free-mockups),
-[Mockup World](https://www.ls.graphics/free-mockups)
-
 ## Slideshow Templates
 
 [SlidesCarnival](https://www.slidescarnival.com/)
 
 ## After Effects Templates
 
+[Aedownload.com](https://aedownload.com/),
 [Free After Effects Templates](https://vfxdownload.com/),
 [ShareAE](https://shareae.com/)
 
@@ -205,7 +185,7 @@ Payment methods:
 
 ## SVGs/Illustrations/Animations
 
-[Absurd Design](https://absurd.design/), [Amigos Illustrations](https://amigos.blush.design/), [Avataaars](https://avataaars.com/),
+[Absurd Design](https://absurd.design/), [Amigos Illustrations](https://amigos.blush.design/),
 [Black Illustrations](https://www.blackillustrations.com/), [Bulbman](https://bulbman.art/),
 [Charco](https://www.karthiksrinivas.in/charco), [Control](https://control.rocks/), [Creative Veila](https://www.veila.me/freebies/scandinavian-houses-free-vector-images),
 [DrawKit](https://www.drawkit.io/), [Dash Illustrations](https://www.karthiksrinivas.in/dash), [Delesign's Free Illustrations](https://www.delesign.com/free-designs/graphics),
@@ -214,20 +194,15 @@ Payment methods:
 [Humaaans](https://www.humaaans.com/),
 [Icons8 Illustrations](https://icons8.com/illustrations), [iconscout's Indian Doodle](https://iconscout.com/illustration-pack/indian-doodle), [iconscout's Paper Illustrations](https://iconscout.com/paper-illustrations), [illlustrations](https://illlustrations.co/), [Illustration Kit](https://illustrationkit.com/), [IRA Design](https://iradesign.io/gallery/illustrations),
 [Karthic Srinivas' Illustrations](https://www.karthiksrinivas.in/illustrations),
-[Lukasz Adam's Free Illustrations](https://lukaszadam.com/illustrations),
+[Lukasz Adam's Free Illustrations](https://lukaszadam.com),
 [Manuela Langella's Retroooo Folks!](https://www.manuelalangella.com/retroooo-folks/), [ManyPixels' Illustration Gallery](https://www.manypixels.co/gallery/),
 [mega-doodles-pack](https://github.com/MariaLetta/mega-doodles-pack),
 [Open Doodles](https://www.opendoodles.com/), [Open Peeps](https://www.openpeeps.com/),
-[Paaatterns!](https://products.ls.graphics/paaatterns/), [PIMPMYDRAWING](https://pimpmydrawing.com/), [pixeltrue's Free Vector Illustrations](https://www.pixeltrue.com/free-illustrations),
+[Paaatterns!](https://products.ls.graphics/paaatterns/), [PIMPMYDRAWING](https://pimpmydrawing.com/),
 [Reddit's Resources for Free Illustrations](https://www.reddit.com/r/FreeIllustrations/),
-[Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations), [Shape](https://shape.so/), [sketchvalley](https://sketchvalley.com/), [Smash Illustrations](https://usesmash.com/), [Storyset](https://storyset.com/), [SVGDevs.com](https://svgdevs.com/), [stories by Freepik](https://stories.freepik.com/), [Streamline Labs](https://lab.streamlineicons.com/), [Official Streamline Illustrations](https://app.streamlinehq.com/illustrations), [SVG Repo](https://www.svgrepo.com),
+[Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations), [Shape](https://shape.so/), [sketchvalley](https://sketchvalley.com/), [Smash Illustrations](https://usesmash.com/), [Storyset](https://storyset.com/), [SVGDevs.com](https://svgdevs.com/), [stories by Freepik](https://stories.freepik.com/), [Streamline Labs](https://www.streamlinehq.com/illustrations/free-illustrations-bundle), [SVG Repo](https://www.svgrepo.com),
 [unDraw](https://undraw.co/illustrations), [useAnimations](https://useanimations.com/),
 [WOOBRO.design](https://woobro.design/)
-
-3D illustrations:  
-[3D Hands gestures](https://www.handz.design/),
-[IsoFlat](https://isoflat.com/), [Isometric](https://isometric.online/), [Isometriclove](https://www.isometriclove.com/),
-[Shapefest](https://www.shapefest.com/)
 
 React components:  
 [React Kawaii](https://react-kawaii.vercel.app/)
@@ -240,21 +215,8 @@ Content creator graphics:
 [100 Daily UI Library](https://100dailyui.webflow.io/),
 [UI Kits for Figma](https://www.uikitsnow.com/)
 
-## Piles of stock resources
+## Piles of stock resources💩
 
 [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources),
-[Design Inspiration](https://github.com/emmabostian/design-inspiration),
+[fucking-awesome-stock-resources](https://github.com/Correia-jpv/fucking-awesome-stock-resources),
 [The Mega List Of Free Image Sites For Blogging](https://www.mattcrampton.com/blog/mega_list_of_free_image_sites_for_blogging/)
-
-## Auto-generated visual elements
-
-[Antlers](https://watabou.itch.io/antlers),
-[Compass Rose Generator](https://watabou.itch.io/compass-rose-generator),
-[Procgen Locomotives](https://watabou.itch.io/procgen-locomotives),
-[Procgen Tarot](https://watabou.itch.io/procgen-tarot),
-[Rune Generator](https://watabou.itch.io/rune-generator),
-[Seasonal Wreaths](https://watabou.itch.io/wreaths),
-[Sigil Generator](https://watabou.itch.io/sigil-generator),
-[Stick Figures](https://watabou.itch.io/stick-figures),
-[Tank Doodles](https://watabou.itch.io/tank-doodles),
-[Winter Trees](https://watabou.itch.io/winter-trees)

@@ -2,6 +2,7 @@
 
 ## UI Inspiration/Learning
 
+Consuming💩:  
 [Collect UI*](https://collectui.com/),
 [GoodUI*](https://goodui.org/),
 [Landingfolio*](https://www.landingfolio.com/),
@@ -15,7 +16,8 @@
 [UI-Patterns*](http://ui-patterns.com/),
 [UI Design Daily*](https://uidesigndaily.com/),
 [UI Garage*](https://uigarage.net/),
-[UI Sources*](https://www.uisources.com/)
+[UI Sources*](https://www.uisources.com/),
+[Web Design Inspiration](https://www.webdesign-inspiration.com/)
 
 Practice:  
 [Frontend Practice☁](https://www.frontendpractice.com/)

@@ -33,14 +33,22 @@ Wireframe kits:
 
 [Animockup☁](https://animockup.com/),
 [Cleanmock☁](https://cleanmock.com/),
-[Device Shots☁](https://deviceshots.com/),
-[Deviceful.js](https://deviceful.app/)
-[Devices from Facebook Design](https://design.facebook.com/toolsandresources/devices),
+[Facebook Design's Virtual Hands](https://facebook.design/virtual-hands),
 [Free Mockups](https://www.ls.graphics/free-mockups),
+[KK Ui Store's Vector Mockups Library](https://mockups.kkuistore.com/),
+[Lstore Graphics' Free Mockups](https://www.ls.graphics/free-mockups),
+[Mockup World](https://www.ls.graphics/free-mockups)
 [morflax things☁](https://things.morflax.com/),
 [Screely☁](https://www.screely.com/),
 [Threed.io☁](https://threed.io/),
 [Web App Mockups (Figma)⇉](https://www.figma.com/community/file/945035983482109746)
+
+Devices:  
+[Device Shots☁](https://deviceshots.com/),
+[Deviceful.js](https://deviceful.app/)
+[Devices from Facebook Design](https://design.facebook.com/toolsandresources/devices),
+[Facebook Design's Devices](https://facebook.design/devices),
+[Facebook Design's Diverse Device Hands](https://facebook.design/handskit),
 
 Browsers:  
 [Screenshot.Rocks☁](https://screenshot.rocks/),

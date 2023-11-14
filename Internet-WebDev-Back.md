@@ -33,6 +33,9 @@ Static hosting:
 Decentralized storage:  
 [Tardigrade☁](https://tardigrade.io/)
 
+Emails reserved for other use:  
+[Forward Email's Reserved Email Addresses List](https://forwardemail.net/en/docs/reserved-email-addresses-list)
+
 ## Site Engine/CMS
 
 [WordPress](https://wordpress.org/) templates/themes/plugins:  

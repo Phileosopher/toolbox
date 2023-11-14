@@ -56,6 +56,9 @@ Anime/Manga:
 Comic books:  
 [mylar3](https://github.com/mylar3/mylar3)
 
+Lightnovels:  
+[lightnovel-crawler🐍](https://pypi.org/project/lightnovel-crawler/)
+
 ## Torrents
 
 BitTorrent client:  
