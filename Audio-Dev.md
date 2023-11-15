@@ -16,8 +16,7 @@ RTSP stream:
 ## Audio Generation
 
 Synthesizer API:  
-[FluidSynth](https://www.fluidsynth.org/),
-[Psychosynth](https://psychosynth.com/)
+[FluidSynth](https://www.fluidsynth.org/)
 
 Engine noise synthesizer:  
 [Engine Simulator](https://www.engine-sim.parts/)
@@ -63,6 +62,9 @@ Waveform visualization:
 
 Virtualized cabling:  
 [Virtual Audio Cable⊞⌘](https://vb-audio.com/Cable/index.htm)
+
+Speech recognition:  
+[Kaldi ASR](https://kaldi-asr.org/) (enhanced with [awesome-kaldi💩](https://github.com/YoavRamon/awesome-kaldi))
 
 ## TTS
 

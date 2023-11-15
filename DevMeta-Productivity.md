@@ -1,6 +1,7 @@
 # Software Development: Productivity Improvement
 
-Gigantic lists of tools:  
+Gigantic lists of tools💩:  
+[andou tech-resources](https://andou.github.io/tech-resources/),
 [GitHub Topics - awesome-list](https://github.com/topics/awesome-list)
 
 Unnecessary additions:  
@@ -31,6 +32,12 @@ Regex:
 
 Covert lines of text into a tree structure:  
 [frangipanni](https://github.com/birchb1024/frangipanni)
+
+## General Automation
+
+Dynamic instrumentation toolkit - JS-based:  
+[Frida](https://frida.re/) (enhanced with [awesome-frida💩](https://github.com/dweinstein/awesome-frida)),
+[gulp.js](https://gulpjs.com/) (enhanced with [Awesome gulp💩](https://alferov.github.io/awesome-gulp/))
 
 ## Automatic Debugging
 

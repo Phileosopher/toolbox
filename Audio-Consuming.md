@@ -24,7 +24,7 @@ Podcast archive:
 
 Podcast management:  
 [gpodder.net⊞■⌘🐧🍎🤖⇉☁](https://gpodder.net/),
-[Juice⊞■⌘🐧](http://juicereceiver.sourceforge.net/),
+[Juice⊞■⌘🐧](https://juicereceiver.sourceforge.net/),
 [Pocket Casts🍎🤖](https://pocketcasts.com/)
 
 ## Music Library
@@ -74,7 +74,7 @@ Equalization - room correction:
 [Dirac Live⇉](https://www.dirac.com/live/)
 
 Gain adjustment:  
-[MP3Gain⊞](http://mp3gain.sourceforge.net/)
+[MP3Gain⊞](https://mp3gain.sourceforge.net/)
 
 Metadata:  
 [Amvidia Tag Editor⌘](https://amvidia.com/tag-editor),
@@ -94,4 +94,4 @@ Metadata export:
 ## Cloud Music
 
 Music server:  
-[Funkwhale](https://funkwhale.audio/)
+[Funkwhale](https://www.funkwhale.audio/)

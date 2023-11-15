@@ -99,8 +99,9 @@ English-to-sign-language:
 Certifications:  
 [Free-Certifications💩](https://github.com/cloudcommunity/Free-Certifications)
 
-
 ## Technology Learning
+
+[Resources💩](https://progdisc.club/resources/)
 
 Coding tests/certifications:  
 [CodeSignal☁](https://codesignal.com/),
@@ -117,8 +118,8 @@ Tech talks:
 [TechYaks](https://techyaks.com/)
 
 Blogs:  
-[Awesome Blogs](https://github.com/learn-anything/blogs💩)
-[Awesome Tech Blogs](https://tech-blogs.dev/💩)
+[Awesome Blogs💩](https://github.com/learn-anything/blogs)
+[Awesome Tech Blogs💩](https://tech-blogs.dev/)
 
 Publications:  
 [ACM Digital Library](https://dl.acm.org/)

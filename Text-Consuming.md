@@ -40,7 +40,8 @@ MOBI reader:
 Ebooks:  
 [Alexandria⊞■⌘🐧](https://github.com/btpf/Alexandria)
 [calibre⊞■⌘🐧🍎🤖💾](https://calibre-ebook.com/),
-[Kavita💾](https://www.kavitareader.com/)
+[Kavita💾](https://www.kavitareader.com/),
+[Librum](https://librumreader.com/)
 
 Books:  
 [Inventaire☁](https://inventaire.io/)
