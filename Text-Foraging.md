@@ -53,8 +53,7 @@ Formal libraries:
 Informal libraries:  
 [Free Online Library](https://www.thefreelibrary.com/),
 [Library Genesis](https://libgen.is/),
-[Open Library](https://openlibrary.org/),
-[The Eye - index of /public/Books/](https://the-eye.eu/public/Books/)
+[Open Library](https://openlibrary.org/)
 
 Genealogical archives:  
 [Forebears](https://forebears.io/),

@@ -72,11 +72,6 @@ TLS Test:
 DMARC test/setup:  
 [DMARC Inspector](https://dmarcian.com/dmarc-inspector/)
 
-## Site-Specific Design
-
-Favicons:  
-[favico.js - Make use of your favicon](http://lab.ejci.net/favico.js/)
-
 ## Code Generation
 
 JSON markup:  

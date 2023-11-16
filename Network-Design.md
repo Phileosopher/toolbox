@@ -9,6 +9,17 @@ Cloud storage:
 5G:  
 [awesome-5g💩](https://github.com/calee0219/awesome-5g)
 
+Ad-blocking:  
+[Pi-hole](https://pi-hole.net/),
+[Safing Portmaster](https://safing.io/)
+
+Ad-blocking - list:  
+[Firebog Blocklist Collection](https://firebog.net/),
+[pi-hole-blocklist](https://github.com/zangadoprojets/pi-hole-blocklist)
+
+DNS/DHCP services:  
+[pi-hole/FTL](https://github.com/pi-hole/FTL)
+
 ## Network Layer Stack
 
 E2E encryption:  

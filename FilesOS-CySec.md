@@ -94,8 +94,7 @@ Disk image recovery:
 [Ddrescue🐧](https://www.gnu.org/software/ddrescue/)
 
 Hard drive recovery - undelete files:
-[Foremost🐧](http://foremost.sourceforge.net/),
-[Recuva⊞■](https://www.ccleaner.com/recuva)
+[Foremost🐧](http://foremost.sourceforge.net/)
 
 Hard drive recovery - rebuild after faulty software:  
 [TestDisk⊞⌘🐧](https://www.cgsecurity.org/wiki/TestDisk)

@@ -47,6 +47,9 @@ Rebates and cash back services:
 
 [Reddit's Favorite Products*](https://www.looria.com/reddit)
 
+Gift cards:  
+[eGifter](https://www.egifter.com/)
+
 Industry comparison:  
 [Geizhals Preisvergleich☁](https://geizhals.eu/)
 

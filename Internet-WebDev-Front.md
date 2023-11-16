@@ -73,11 +73,20 @@ Worldwide test:
 
 ## Icons
 
-Favicons:  
-[favicon.io☁](https://favicon.io/), [Favicon & App Icon Generator☁](https://www.favicon-generator.org/),
+Favicon cheat sheet:  
+[Favicon Cheat Sheet*](https://github.com/audreyfeldroy/favicon-cheat-sheet)
+
+Favicon generator/drawing:  
+[Dynamic Drive - FavIcon Generator](https://tools.dynamicdrive.com/favicon/),
+[Favic-o-Matic](https://favicomatic.com/),
+[favicon.cc](https://www.favicon.cc/),
+[favicon.io☁](https://favicon.io/),
+[Favicon & App Icon Generator☁](https://www.favicon-generator.org/),
 [Real Favicon Generator☁](https://realfavicongenerator.net/),
 [SVG Favicon Maker☁](https://formito.com/tools/favicon),
-[Favicon Cheat Sheet*](https://github.com/audreyfeldroy/favicon-cheat-sheet)
+
+Favicon animation:  
+[favico.js - Make use of your favicon](http://lab.ejci.net/favico.js/)
 
 App icons:  
 [App Icon Generator☁](https://appicon.co/)

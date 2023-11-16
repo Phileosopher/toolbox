@@ -52,9 +52,10 @@ Drawing/painting:
 Icons/cursors:  
 [GFIE Pro⊞■🐧](http://greenfishsoftware.org/)
 
-Avatars:  
+Avatar generators:  
 [Avataaars Generator☁](https://getavataaars.com/),
 [Big Heads☁](https://bigheads.io/),
+[DiceBear](https://www.dicebear.com/),
 [Draftbit's Personas☁](https://personas.draftbit.com/),
 [hashicon☁](https://github.com/emeraldpay/hashicon),
 [Multiavatar☁](https://multiavatar.com/),

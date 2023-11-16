@@ -115,6 +115,9 @@ Book scanner:
 Repurpose computer monitors:  
 [How To Convert Your Old Laptop Screen Into An External Monitor*](https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/)
 
+Weather dashboard:  
+[kindle-weather-dashboard](https://github.com/matopeto/kindle-weather-dashboard)
+
 ## Robotics
 
 OS:  

@@ -267,12 +267,15 @@ Batch cleanup/repair:
 [Tron](https://www.reddit.com/r/TronScript/comments/oqe6qg/tron_v1200_20210723_completely_remove_support_for/)
 
 Default apps:  
-[Windows 10 App Remover](https://m.majorgeeks.com/files/details/windows_10_app_remover.html)
+[Windows 10 App Remover](https://www.majorgeeks.com/files/details/windows_10_app_remover.html)
 
 PC junk:  
-[CCleaner■](https://www.ccleaner.com/) (with [CCEnhancer](https://singularlabs.com/software/ccenhancer/)),
+[Glary Utilities](https://www.glarysoft.com/glary-utilities/),
 [HDCleaner](https://www.kurtzimmermann.com/hdcleanerext_en.html),
 [System Ninja](https://singularlabs.com/software/system-ninja/)
+
+PC junk - list:  
+[Winapp2*](https://github.com/MoscaDotTo/Winapp2)
 
 Empty file directories:  
 [RmEDir■□](http://www.pazera-software.com/products/rmedir/)

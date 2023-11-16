@@ -1,5 +1,8 @@
 # Visual: Foraging☁
 
+Photo downloading:  
+[Downloader.la](https://downloader.la/)
+
 ## Multi-Element💩
 
 [123RF](https://www.123rf.com/), [365psd](https://365psd.com/),
@@ -13,10 +16,13 @@
 [Mixkit](https://mixkit.co/),
 [Motion Elements](https://www.motionelements.com/),
 [One Click Theme](https://www.oneclicktheme.com/),[Openverse](https://openverse.org/),
-[Pexels](https://www.pexels.com/), [pikwizard](https://pikwizard.com/), [pixabay](https://pixabay.com/), [Pond5](https://www.pond5.com/), [PSD Repo](https://psdrepo.com/), [PSDDD.co](https://psddd.co/),
+[Pexels](https://www.pexels.com/), [pikwizard](https://pikwizard.com/), [pixabay](https://pixabay.com/), [Pixelbuddha](https://pixelbuddha.net/all?filter%5Btypes%5D=Free), [Pond5](https://www.pond5.com/), [PSD Repo](https://psdrepo.com/), [PSDDD.co](https://psddd.co/),
 [Sketch Repo](https://sketchrepo.com/), [Sketchapp TV](http://sketchapp.tv/), [Smithsonian Open Access](https://www.si.edu/openaccess), [Start Bootstrap](https://startbootstrap.com/), [Stockio](https://www.stockio.com/),
 [Vecteezy](https://www.vecteezy.com/),
 [UpLabs](https://www.uplabs.com/), [UI Store Design](https://www.uistore.design/)
+
+Search engines:  
+[The Stocks 3](https://thestocks.im/)
 
 ## Stock Videos
 
@@ -43,11 +49,12 @@
 [LibreStock](https://librestock.com/), [Life of Pix](https://www.lifeofpix.com/),
 [Magdeleine](https://magdeleine.co/), [Morguefile](https://morguefile.com/),
 [Negative Space](https://negativespace.co/), [New Old Stock](https://nos.twnsnd.co/),
-[picjumbo](https://picjumbo.com/), [Picography](https://picography.co), [picspree](https://picspree.com/), [Pixelmob](https://pixelmob.co/),
+[picjumbo](https://picjumbo.com/), [picmelon](http://picmelon.com/), [Picography](https://picography.co), [picspree](https://picspree.com/), [Pixelmob](https://pixelmob.co/),
 [Realistic Shots](https://realisticshots.com/), [Reshot](https://www.reshot.com/),
 [Same Energy](https://same.energy/), [Shopify's Burst](https://burst.shopify.com/), [Skitterphoto](https://skitterphoto.com/), [SKUAWK](http://skuawk.com/), [Stock Up](https://www.sitebuilderreport.com/stock-up/), [Stockified](https://www.stockified.com/), [StockSnap.io](https://stocksnap.io/), [Stockvault](https://www.stockvault.net/), [stokpic](https://stokpic.com/),
 [Unsplash](https://unsplash.com/),
 [Vector.me](https://vector.me/), [Visual Hunt](https://visualhunt.com/), [Visuals of Earth](https://visualsofearth.com/)
+[Vladimir Kudinov's Free Photos](https://photos.google.com/share/AF1QipMqTdSXxVJsc8pVpPlwktz8XFNATPiIWX8VHYuOA_MSKfxa3J_Or5YMtOIG-4B_Bg?key=dXRMUWpDeE9zT01yRWxzY2ZEMzlSRE95UF81YWRn)
 
 PNGs:  
 [SeekPNG](https://www.seekpng.com/)
@@ -74,6 +81,9 @@ Technology:
 Furniture:  
 [Foter](https://foter.com/)
 
+African:  
+[Iwaria](https://iwaria.com/)
+
 Animation:  
 [STUDIO GHIBLI](https://www.ghibli.jp/info/013251/) (and [another](https://www.ghibli.jp/info/013409/))
 
@@ -82,6 +92,9 @@ Photo databases:
 
 Patterns:  
 [CodeinWP](https://www.codeinwp.com/pattern-collection/)
+
+Wallpaper photos:  
+[wallhaven.cc](https://wallhaven.cc/)
 
 Paid stock photos - search:  
 [GetPaidStock](https://getpaidstock.com/)
@@ -138,7 +151,7 @@ Emojis:
 Avatars:  
 [Avataaars (Sketch Library)](https://avataaars.com/),
 [Boring Avatars](https://boringavatars.com/),
-[Joe Schmoe](https://joeschmoe.io/),
+[Joe Schmoe](https://armory.visualsoldiers.com/joe-schmoe/),
 [PowerPeoplePlatform](https://powerpeopleplatform.com/)
 
 3D icons:  

@@ -1,7 +1,5 @@
 # Internet: Downloading
 
-[Downloader.la](https://downloader.la/)
-
 YouTube video archiving:  
 [Tube Archivist💾](https://www.tubearchivist.com/),
 [yark💾🐍](https://pypi.org/project/yark/)
@@ -12,6 +10,7 @@ Maximum-zoomed images:
 ## Download Manager
 
 [Free Download Manager⊞⌘🐧](https://www.freedownloadmanager.org/),
+[Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader),
 [uGet⊞■⌘🐧](https://ugetdm.com/),
 [WinWGet+ Portable⊞■](https://portableapps.com/apps/internet/winwget_portable)
 
@@ -70,6 +69,11 @@ BitTorrent - hash to magnet link:
 
 BitTorrent client - web-based:  
 [WebTorrent☁](https://webtorrent.io/)
+
+Torrent sites (label moves around all the time):  
+Kickass Torrents,
+ThePirateBay,
+1337X
 
 Torrents - search:  
 [LibreX☁](https://librex.devol.it/),
