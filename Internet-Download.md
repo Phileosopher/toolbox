@@ -7,6 +7,12 @@ YouTube video archiving:
 Maximum-zoomed images:  
 [Dezoomify](https://dezoomify.ophir.dev/)
 
+Unblocked sites (URLs change all the time):  
+[Unblock Ninja!](https://unblockninja.com/),
+[UNBLOCKSOURCE.RE](https://unblocksource.re/)
+Unblocked,
+Unblockit
+
 ## Download Manager
 
 [Free Download Manager⊞⌘🐧](https://www.freedownloadmanager.org/),
@@ -70,10 +76,11 @@ BitTorrent - hash to magnet link:
 BitTorrent client - web-based:  
 [WebTorrent☁](https://webtorrent.io/)
 
-Torrent sites (label moves around all the time):  
+Torrent sites (URLs change all the time):  
+123movies,
+1337X,
 Kickass Torrents,
-ThePirateBay,
-1337X
+ThePirateBay
 
 Torrents - search:  
 [LibreX☁](https://librex.devol.it/),

@@ -61,6 +61,7 @@ Ken Burns effect:
 [PhotoFilmStrip⊞■🐧](https://www.photofilmstrip.org/en/)
 
 Remove backgrounds:  
+[SocialBook Video Background Remover](https://socialbook.io/remove-video-background),
 [Unscreen☁](https://www.unscreen.com/)
 
 Math animations:  

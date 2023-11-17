@@ -48,8 +48,10 @@ Raw APK files:
 
 Alternative Google Play Store:  
 [ACMarket🤖](https://acmarket.net/),
+[an1🤖](https://an1.com/),
 [Aptoide🤖](https://en.aptoide.com/),
 [Aurora🤖](https://auroraoss.com/),
+[Evozi's APK Downloader](https://apps.evozi.com/apk-downloader/),
 [F-Droid🤖](https://f-droid.org/),
 [HappyMod🤖](https://www.happymodapk.net/)
 

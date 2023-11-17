@@ -13,8 +13,9 @@ Text/post feed:
 [Mastodon☁🍎🤖🕵️](https://joinmastodon.org/),
 [Minds](https://www.minds.com/)
 
-Topical:  
-[Lemmy☁🍎🤖](https://join-lemmy.org/)
+Topical forums:  
+[Lemmy☁🍎🤖](https://join-lemmy.org/),
+[The Something Awful Forums](https://forums.somethingawful.com/)
 
 Videos:  
 [BitChute☁](https://www.bitchute.com/),

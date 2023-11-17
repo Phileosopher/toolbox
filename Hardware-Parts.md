@@ -66,6 +66,9 @@ Cameras:
 Keyboards:  
 [Unicomp, Inc.](https://www.pckeyboard.com/page/SFNT)
 
+Keyboards - discussion board:  
+[KeebTalk](https://www.keebtalk.com/)
+
 ## Older Tech
 
 Floppy disks:  

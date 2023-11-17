@@ -13,10 +13,6 @@ Open media:
 [Open Culture](https://www.openculture.com/),
 [The Pirate List](https://thepiratelist.com/)
 
-Open media - unblock proxy:  
-[Unblock Ninja!](https://unblockninja.com/),
-[UNBLOCKSOURCE.RE](https://unblocksource.re/)
-
 Encyclopedic skimming:  
 [Infoplease](https://www.infoplease.com/)
 
