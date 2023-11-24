@@ -17,9 +17,6 @@ Desktop publishing:
 [Microsoft Sway☁](https://sway.office.com),
 [Scribus⊞■⌘🐧](https://www.scribus.net/)
 
-Desktop publishing - hand-drawn style:  
-[Excalidraw](https://excalidraw.com/)
-
 Flipping books:  
 [FlipHTML5☁](https://fliphtml5.com/)
 

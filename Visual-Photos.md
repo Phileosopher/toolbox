@@ -6,7 +6,7 @@ Website screenshot:
 ## Photo/Data Management
 
 Negatives database management:  
-[darktable⊞■⌘🐧](https://www.darktable.org/2022/07/darktable-4.0.0-released/)
+[darktable⊞■⌘🐧](https://www.darktable.org/)
 
 Extraction:  
 [digiKam⊞⌘🐧](https://www.digikam.org/)
