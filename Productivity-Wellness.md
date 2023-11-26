@@ -67,3 +67,6 @@ Medical abbreviations:
 
 Medical encyclopedia:  
 [MedlinePlus Encyclopedia*](https://medlineplus.gov/encyclopedia.html)
+
+Testing different results' variance:  
+[Your results may vary: the imprecision of medical measurements](https://www.bmj.com/content/368/bmj.m149/rr-8)
