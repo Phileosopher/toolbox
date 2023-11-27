@@ -47,7 +47,7 @@ DMS to Lat/Long:
 Lat/Long to UTM:  
 [LatLong.net Lat Long to UTM Converter☁](https://www.latlong.net/lat-long-utm.html)
 
-GPS visualization from mapping:  
+GPS visualization from GPX/TCX files:  
 [GPS Visualizer☁](https://www.gpsvisualizer.com/)
 
 Geodetic surveying:  
