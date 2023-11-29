@@ -13,7 +13,7 @@ DNS probe:
 [DNS-Lookup☁](https://dns-lookup.com/),
 [Dnsutils🐧](https://pkgs.org/download/dnsutils),
 [getdns🔌](https://getdnsapi.net/)
-[Google's Dig☁](https://toolbox.googleapps.com/apps/dig/),
+[Google's Dig☁🧛](https://toolbox.googleapps.com/apps/dig/),
 [whatsmydns.net☁](https://www.whatsmydns.net/)
 
 Domain configuration check:  
@@ -30,7 +30,7 @@ DNS/WHOIS data:
 [DomainHostingView⊞■](https://www.nirsoft.net/utils/domain_hosting_view.html)
 
 MX probe:  
-[Google's Check MX☁](https://toolbox.googleapps.com/apps/checkmx/),
+[Google's Check MX☁🧛](https://toolbox.googleapps.com/apps/checkmx/),
 [MxToolbox☁](https://mxtoolbox.com/)
 
 nslookup GUI:  

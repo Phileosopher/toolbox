@@ -47,7 +47,7 @@ WLAN scanner:
 [sparrow-wifi🐧](https://github.com/ghostop14/sparrow-wifi),
 [netstumbler/ministumbler⊞■](http://www.stumbler.net/),
 [Vistumbler⊞](https://www.vistumbler.net/),
-[WiFi Analyzer⊞](https://www.microsoft.com/en-us/p/wifi-analyzer/9nblggh33n0n)
+[WiFi Analyzer⊞🧛](https://www.microsoft.com/en-us/p/wifi-analyzer/9nblggh33n0n)
 
 Bluetooth scan:  
 [Bluetility⌘](https://github.com/jnross/Bluetility)
@@ -181,7 +181,7 @@ IP address random generator:
 [IP address generator☁](https://commentpicker.com/ip-address-generator.php)
 
 Enterprise IP address info:  
-[IPinfo.io☁](https://ipinfo.io/)
+[IPinfo.io☁🔌](https://ipinfo.io/)
 
 IPMI:  
 [FreeIPMI🐧](https://www.gnu.org/software/freeipmi/)
@@ -240,7 +240,7 @@ Wireless networks:
 ## L4 Transport
 
 TCP/UDP monitoring:  
-[TCPView⊞■](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
+[TCPView⊞■🧛](https://docs.microsoft.com/en-us/sysinternals/downloads/tcpview)
 
 TCP/UDP/SCTP monitoring:  
 [iPerf⊞⌘🐧🍎🤖□](https://iperf.fr/)
@@ -282,7 +282,7 @@ Email/SMTP testing:
 [mailpit](https://github.com/axllent/mailpit)
 
 Encryption test:  
-[Google's Encode/Decode☁](https://toolbox.googleapps.com/apps/encode_decode/)
+[Google's Encode/Decode☁🧛](https://toolbox.googleapps.com/apps/encode_decode/)
 
 ## L7 Application
 

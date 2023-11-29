@@ -42,7 +42,7 @@ Dynamic instrumentation toolkit - JS-based:
 ## Automatic Debugging
 
 Dynamic checking - C:  
-[Checked C](https://github.com/Microsoft/checkedc)
+[Checked C🧛](https://github.com/Microsoft/checkedc)
 
 ## Automatic Code Completion
 

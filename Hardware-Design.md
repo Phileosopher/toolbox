@@ -92,7 +92,7 @@ EDA tools:
 
 ## Testing
 
-[Device Fundamentals Tests - Windows drivers⊞](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/device-fundamentals-tests)
+[Device Fundamentals Tests - Windows drivers⊞🧛](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/device-fundamentals-tests)
 
 ## CNC
 

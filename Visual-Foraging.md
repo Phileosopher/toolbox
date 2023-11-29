@@ -54,7 +54,7 @@ Search engines:
 [Same Energy](https://same.energy/), [Shopify's Burst](https://burst.shopify.com/), [Skitterphoto](https://skitterphoto.com/), [SKUAWK](http://skuawk.com/), [Stock Up](https://www.sitebuilderreport.com/stock-up/), [Stockified](https://www.stockified.com/), [StockSnap.io](https://stocksnap.io/), [Stockvault](https://www.stockvault.net/), [stokpic](https://stokpic.com/),
 [Unsplash](https://unsplash.com/),
 [Vector.me](https://vector.me/), [Visual Hunt](https://visualhunt.com/), [Visuals of Earth](https://visualsofearth.com/)
-[Vladimir Kudinov's Free Photos](https://photos.google.com/share/AF1QipMqTdSXxVJsc8pVpPlwktz8XFNATPiIWX8VHYuOA_MSKfxa3J_Or5YMtOIG-4B_Bg?key=dXRMUWpDeE9zT01yRWxzY2ZEMzlSRE95UF81YWRn)
+[Vladimir Kudinov's Free Photos🧛](https://photos.google.com/share/AF1QipMqTdSXxVJsc8pVpPlwktz8XFNATPiIWX8VHYuOA_MSKfxa3J_Or5YMtOIG-4B_Bg?key=dXRMUWpDeE9zT01yRWxzY2ZEMzlSRE95UF81YWRn)
 
 PNGs:  
 [SeekPNG](https://www.seekpng.com/)
@@ -119,7 +119,7 @@ Landing pages:
 [DEVICON](https://devicon.dev/), [DrawKit's Icons](https://www.drawkit.io/free-icons),
 [Endless Icons](http://endlessicons.com/), [Entypo](http://www.entypo.com/), [Eva Icons](https://akveo.github.io/eva-icons), [Evericons](http://www.evericons.com/),
 [Feather](https://feathericons.com/), [Find Icons](https://findicons.com/), [FlatIcon](https://www.flaticon.com/), [FLAT SVG DESIGNS](https://flat-svg-designs.net/en/icons/all/), [Font Awesome Free Icons](https://fontawesome.com/icons?d=gallery&m=free), [Fontello](http://fontello.com/), [Foundation Icon Fonts 3](https://zurb.com/playground/foundation-icon-fonts-3), [Free Icons](https://icon-icons.com/),
-[Game-icons.net](https://game-icons.net/), [Google Fonts' Material Symbols and Icons](https://fonts.google.com/icons),
+[Game-icons.net](https://game-icons.net/), [Google Fonts' Material Symbols and Icons🧛](https://fonts.google.com/icons),
 [Heroicons](https://heroicons.com/), [Heroicons](https://heroicons.dev/), [Hotpot.ai](https://hotpot.ai/free-icons),
 [Icons8 Icons](https://icons8.com/icons/set/undefined), [Icons8's Free Icons](https://icons8.com/icons), [Iconbolt](https://www.iconbolt.com/), [IconBros](https://www.iconbros.com/), [Iconbuddy](https://iconbuddy.app/), [Iconduck](https://iconduck.com/),
 [Iconic](https://iconic.app/), [IconSearch](https://iconsear.ch/), [Icon Store](https://iconstore.co/), [iconmonstr](https://iconmonstr.com/), [Iconoir](https://iconoir.com/), [Ikonate](https://ikonate.com/), [Ionicons](https://ionicons.com/),
@@ -138,7 +138,7 @@ Landing pages:
 
 AWS:  
 [awsicons](https://awsicons.dev/),
-[AWS Architecture Icons](https://aws.amazon.com/architecture/icons/)
+[AWS Architecture Icons🧛](https://aws.amazon.com/architecture/icons/)
 
 Low-memory icons:  
 [SuperTinyIcons](https://github.com/edent/SuperTinyIcons)

@@ -11,7 +11,7 @@ Interface config:
 [FreeCommander⊞■](https://freecommander.com/en/summary/),
 [FileVoyager⊞■](https://www.filevoyager.com/),
 [Magnet⌘](https://magnet.crowdcafe.com/),
-[Microsoft PowerToys⊞](https://docs.microsoft.com/en-us/windows/powertoys/)
+[Microsoft PowerToys⊞🧛](https://docs.microsoft.com/en-us/windows/powertoys/)
 
 Desktop icon positions:  
 [DesktopOK⊞](https://www.softwareok.com/?seite=Freeware/DesktopOK),
@@ -23,7 +23,7 @@ Automated actions:
 [Macro Recorder - No more repetitive tasks - Mouse and Keyboard Capture](https://www.macrorecorder.com/)
 
 File preview:  
-[QuickLook⊞](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S)
+[QuickLook⊞🧛](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S)
 
 Clipboard management:  
 [Clipboard PRO🍎](https://clipboardpro.app/),

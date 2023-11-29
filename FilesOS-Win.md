@@ -2,16 +2,16 @@
 
 Power tools:  
 [NirLauncher](https://launcher.nirsoft.net/),
-[Windows Sysinternals■](https://docs.microsoft.com/en-us/sysinternals/)
+[Windows Sysinternals■🧛](https://docs.microsoft.com/en-us/sysinternals/)
 
 CMD alternative:  
 [NirCmd■□](https://www.nirsoft.net/utils/nircmd.html)
 
 Package manager:  
-[winget](https://docs.microsoft.com/en-us/windows/package-manager/winget/)
+[winget🧛](https://docs.microsoft.com/en-us/windows/package-manager/winget/)
 
 Linux integration:  
-[WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
+[WSL🧛](https://docs.microsoft.com/en-us/windows/wsl/install)
 
 Activation codes:  
 [CrackSerialCodes](https://www.crackserialcodes.com/),
@@ -41,7 +41,7 @@ PE file analysis (.exe, .dll, .ocx, .bpl, et al):
 [PEInfo■](http://www.pazera-software.com/products/peinfo/)
 
 BSOD:  
-[Microsoft's Bug Checks*](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/bug-checks--blue-screens-)
+[Microsoft's Bug Checks*🧛](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/bug-checks--blue-screens-)
 
 File type management:  
 [FileTypesMan■](https://www.nirsoft.net/utils/file_types_manager.html)
@@ -63,7 +63,7 @@ MIME types:
 ## Process Issues
 
 [ProcessThreadsView■](https://www.nirsoft.net/utils/process_threads_view.html),
-[Process Monitor■](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
+[Process Monitor■🧛](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
 
 Previous programs:  
 [ExecutedProgramsList■](https://www.nirsoft.net/utils/executed_programs_list.html)
@@ -94,7 +94,7 @@ Heap memory viewer:
 [HeapMemView■](https://www.nirsoft.net/utils/heap_memory_view.html)
 
 Memory use:  
-[VMMap■](https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap)
+[VMMap■🧛](https://docs.microsoft.com/en-us/sysinternals/downloads/vmmap)
 
 Device use:  
 [DeviceIOView■](https://www.nirsoft.net/utils/device_io_view.html)
@@ -210,7 +210,7 @@ Driver status:
 [InstalledDriversList■](https://www.nirsoft.net/utils/installed_drivers_list.html)
 
 Driver debugging:  
-[WinDbg](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools)
+[WinDbg🧛](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools)
 
 Driver update:  
 [DUMo■](https://kcsoftwares.com/?dumo),
@@ -238,7 +238,7 @@ Bad network drivers:
 ## System Updates
 
 Installation media:  
-[Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
+[Windows 10🧛](https://www.microsoft.com/en-us/software-download/windows10)
 
 Software update:  
 [Ninite](https://ninite.com/),

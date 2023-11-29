@@ -1,5 +1,8 @@
 # Internet: Downloading
 
+Streaming content library:  
+[NewPipeExtractor🔌](https://github.com/TeamNewPipe/NewPipeExtractor)
+
 YouTube video archiving:  
 [Tube Archivist💾](https://www.tubearchivist.com/),
 [yark💾🐍](https://pypi.org/project/yark/)
@@ -12,6 +15,9 @@ Unblocked sites (URLs change all the time):
 [UNBLOCKSOURCE.RE](https://unblocksource.re/)
 Unblocked,
 Unblockit
+
+Piracy resources:  
+[Ripped💩](https://ripped.guide/)
 
 ## Download Manager
 
@@ -56,7 +62,8 @@ FTP client:
 
 Anime/Manga:  
 [Free Manga Downloader](https://sourceforge.net/projects/fmd/),
-[HakuNeko](https://hakuneko.download/)
+[HakuNeko](https://hakuneko.download/),
+[Kotatsu🤖](https://kotatsu.app/)
 
 Comic books:  
 [mylar3](https://github.com/mylar3/mylar3)
@@ -76,15 +83,17 @@ BitTorrent - hash to magnet link:
 BitTorrent client - web-based:  
 [WebTorrent☁](https://webtorrent.io/)
 
-Torrent sites (URLs change all the time):  
+Torrent search sites (URLs change all the time):  
 123movies,
 1337X,
+Bitsearch,
+BT4G,
+idope,
 Kickass Torrents,
+LibreX or LibreY,
+limetorrents,
+[MagnetDL](https://www.magnetdl.com/),
 ThePirateBay
-
-Torrents - search:  
-[LibreX☁](https://librex.devol.it/),
-[SkyTorrents☁](http://www.skytorrents.me/)
 
 Torrents - private trackers:  
 [Private Trackers Spreadsheet](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/)

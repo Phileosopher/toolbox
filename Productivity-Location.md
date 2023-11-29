@@ -192,7 +192,7 @@ Historical atlas:
 [Protomaps](https://docs.protomaps.com/)
 
 Google Earth regional tiles API:  
-[Google Maps Platform Coverage Details](https://developers.google.com/maps/coverage)
+[Google Maps Platform Coverage Details🧛](https://developers.google.com/maps/coverage)
 
 OSM data visualization:  
 [prettymaps](https://github.com/marceloprates/prettymaps) (optimized with [prettymapp](https://github.com/chrieke/prettymapp))

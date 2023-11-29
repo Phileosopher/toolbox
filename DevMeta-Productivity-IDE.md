@@ -3,7 +3,7 @@
 [Apache NetBeans⊞⌘🐧](https://netbeans.org/),
 [GNU Emacs⊞⌘🐧](https://www.gnu.org/software/emacs/),
 [vim⊞■⌘🐧](https://www.vim.org/),
-[Microsoft Visual Studio⊞⌘🐧](https://visualstudio.microsoft.com/),
+[Microsoft Visual Studio⊞⌘🐧🧛](https://visualstudio.microsoft.com/),
 [VSCodium⊞⌘🐧](https://vscodium.com/)
 
 Browser-based:  

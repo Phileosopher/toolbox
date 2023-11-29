@@ -10,7 +10,7 @@ Font search (from a file):
 [FontDrop!☁](https://fontdrop.info/)
 
 Font pairing:  
-[Google Fonts Pair Finder☁](https://10015.io/tools/google-fonts-pair-finder)
+[Google Fonts Pair Finder☁🧛](https://10015.io/tools/google-fonts-pair-finder)
 
 Formatting:  
 [Archetype☁](https://archetypeapp.com)
@@ -36,7 +36,7 @@ Testing:
 [comic-shanns](https://github.com/shannpersand/comic-shanns), [Comic Mono](https://dtinth.github.io/comic-mono-font/),
 [DaFont](https://www.dafont.com/), [Dribbble Free Fonts](https://dribbble.com/search/free-font),
 [Fontget](https://www.fontget.com/), [FontSpace](https://www.fontspace.com/), [Font Squirrel](https://www.fontsquirrel.com/), [Fontfabric's Free Fonts](https://www.fontfabric.com/free-fonts/),
-[Google Fonts](https://fonts.google.com/),
+[Google Fonts🧛](https://fonts.google.com/),
 [The League of Moveable Type](https://www.theleagueofmoveabletype.com/), [Lost Type Co-op](http://www.losttype.com/browse/),
 [National Park Typeface](https://nationalparktypeface.com/),
 [Programming Fonts](https://www.programmingfonts.org/)

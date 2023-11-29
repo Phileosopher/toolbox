@@ -1,9 +1,12 @@
 # Text: Foraging☁
 
+Written media API:  
+[Twingly🔌](https://www.twingly.com/)
+
 Book search/archive:  
-[Amazon.com Free Kindle Books](https://www.amazon.com/b?node=20102661011),
+[Amazon.com Free Kindle Books🧛](https://www.amazon.com/b?node=20102661011),
 [Anna’s Archive](https://annas-archive.org/),
-[Google Play Free Books](https://play.google.com/store/books/collection/topselling_free),
+[Google Play Free Books🧛](https://play.google.com/store/books/collection/topselling_free),
 [OceanofPDF](https://oceanofpdf.com/),
 [PDF Room](https://pdfroom.com/),
 [Standard Ebooks](https://standardebooks.org/),
@@ -20,10 +23,14 @@ Sci-fi/fantasy stories:
 [Free Speculative Fiction Online](https://www.freesfonline.net/)
 
 Academic search engine:  
-[Google Scholar](https://scholar.google.com/),
+[Google Scholar🧛](https://scholar.google.com/),
 [iSEEK Education (old)](https://education.iseek.com/iseek/home.page),
 [iSEEK Education (new)](https://education.iseek.com/),
 [RefSeek](https://www.refseek.com/)
+
+Blogs:  
+[Blogarama](https://www.blogarama.com/),
+[Blog Search Engine](https://www.blogsearchengine.com/)
 
 ## News Outlets
 
@@ -66,7 +73,7 @@ Genealogical archives:
 Newspaper archives:  
 [Chronicling America☁](https://chroniclingamerica.loc.gov/),
 [Elephind.com](https://www.elephind.com/),
-[Google News Archive Search](https://news.google.com/newspapers),
+[Google News Archive Search🧛](https://news.google.com/newspapers),
 [Internet Archive's Newspapers](https://archive.org/details/newspapers)
 
 Magazine archives:  

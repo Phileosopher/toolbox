@@ -65,7 +65,7 @@ Adjectives:
 ## Word Analysis
 
 Historical word usage:  
-[Google Books Ngram Viewer☁](https://books.google.com/ngrams),
+[Google Books Ngram Viewer☁🧛](https://books.google.com/ngrams),
 [Online Etymology Dictionary☁](https://www.etymonline.com/),
 [Wordsworth☁](http://www.wordsworth.us/)
 

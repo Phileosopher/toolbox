@@ -227,7 +227,7 @@ Freelancing/mentorship:
 [GAIN.GG](https://gain.gg/),
 [GamerMine](https://gamermine.com/),
 [GrindBux.com](https://grindbux.com/),
-[Amazon Mechanical Turk](https://www.mturk.com/),
+[Amazon Mechanical Turk🧛](https://www.mturk.com/),
 [PrizeRebel](https://www.prizerebel.com/)
 
 User testing (for marketing):  

@@ -21,7 +21,7 @@ Open content:
 Reddit search engine:  
 [Redditle](https://redditle.com/)
 
-Google's advanced search operators:  
+Google's advanced search operators🧛:  
 [ahrefs' List*](https://ahrefs.com/blog/google-advanced-search-operators/),
 [Supple's List*](https://supple.com.au/tools/google-advanced-search-operators/)
 
@@ -33,7 +33,7 @@ Overlooked searches:
 [Million Short☁](https://millionshort.com/)
 
 Search by image:  
-[Google's Reverse Image Search(camera icon)](https://images.google.com/)
+[Google's Reverse Image Search(camera icon)🧛](https://images.google.com/)
 
 Blacklist specific websites from web search:  
 [Wiper⇉](https://github.com/davidahmed/wiper)
@@ -95,8 +95,8 @@ European surnames:
 [Apify💩](https://apify.com/)
 
 URLs in an HTML page:  
-[Link Gopher](https://sites.google.com/site/linkgopher/),
+[Link Gopher🧛](https://sites.google.com/site/linkgopher/),
 [AddrView⊞■](https://www.nirsoft.net/utils/addrview.html)
 
-Amazon product data:  
+Amazon product data🧛:  
 [amazon-scraper](https://github.com/scrapehero-code/amazon-scraper)

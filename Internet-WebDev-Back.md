@@ -21,7 +21,7 @@ Managed hosting - free:
 [Heroku☁](https://www.heroku.com/)
 
 Managed hosting - dirt-cheap:  
-[Amazon S3☁](https://aws.amazon.com/s3/),
+[Amazon S3☁🧛](https://aws.amazon.com/s3/),
 [Bluehost Education Discount☁](https://www.bluehost.com/special/educationspecial)
 
 Static hosting:  

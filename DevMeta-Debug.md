@@ -26,7 +26,7 @@ Test harness:
 
 Text:  
 [Big List of Naughty Strings🐍](https://github.com/minimaxir/big-list-of-naughty-strings),
-[Microsoft's OneFuzz🔌](https://github.com/microsoft/onefuzz)
+[Microsoft's OneFuzz🔌🧛](https://github.com/microsoft/onefuzz)
 
 Node.js/Web:  
 [faker.js🔌](https://github.com/Marak/faker.js)

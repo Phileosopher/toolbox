@@ -3,8 +3,8 @@
 [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)
 
 Presentations:  
-[Google Slides☁](https://slides.google.com),
-[Microsoft PowerPoint Online☁](https://office.live.com/start/PowerPoint.aspx),
+[Google Slides☁🧛](https://slides.google.com),
+[Microsoft PowerPoint Online☁🧛](https://office.live.com/start/PowerPoint.aspx),
 [LibreOffice Impress⊞■⌘🐧🆓](https://www.libreoffice.org/)
 
 Presentations - display keyboard shortcuts:  
@@ -14,7 +14,7 @@ Presentations - church worship events:
 [OpenLP⊞⌘🐧](https://openlp.org/)
 
 Desktop publishing:  
-[Microsoft Sway☁](https://sway.office.com),
+[Microsoft Sway☁🧛](https://sway.office.com),
 [Scribus⊞■⌘🐧](https://www.scribus.net/)
 
 Flipping books:  

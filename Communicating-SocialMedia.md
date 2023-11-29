@@ -148,7 +148,7 @@ YouTube:
 [CloudTube](https://tube.cadence.moe/),
 [FreeTube⊞⌘🐧](https://freetubeapp.io/),
 [Invidious](https://invidious.io/),
-[NewPipe🤖](https://newpipe.net/),
+[NewPipe🤖](https://newpipe.net/) (with [SponsorBlock functionality added](https://github.com/polymorphicshade/NewPipe)),
 [Piped☁](https://piped.video/),
 [yattee⌘🍎](https://github.com/yattee/yattee)
 

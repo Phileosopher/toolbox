@@ -14,7 +14,7 @@ SEO checker:
 [woorank☁$](https://www.woorank.com/)
 
 Google ad preview:  
-[Anonymous Ad Preview Tool](https://ads.google.com/anon/AdPreview)
+[Anonymous Ad Preview Tool🧛](https://ads.google.com/anon/AdPreview)
 
 ## Keyword Tracking
 
@@ -23,21 +23,20 @@ Keyword research:
 [Wordtracker's Free Keyword Research Tool](https://www.wordtracker.com/)
 
 Keyword planning:  
-[Google Ads Keyword Planner](https://ads.google.com/home/tools/keyword-planner/)
+[Google Ads Keyword Planner🧛](https://ads.google.com/home/tools/keyword-planner/)
 
 Hashtag research:  
 [Best Hashtag](https://best-hashtags.com/),
 [Quick hashtags search](https://cipher387.github.io/hashtags_and_keywords_social_media_quick_search/)
 
-
 ## Speed Tests/Optimization
 
 Site speed test:  
 [GTmetrix☁](https://gtmetrix.com),
-[Google PageSpeed☁](https://pagespeed.web.dev/)
+[Google PageSpeed☁🧛](https://pagespeed.web.dev/)
 
 Page speed test:  
-[Google PageSpeed Insights☁](https://developers.google.com/speed/pagespeed/insights/)
+[Google PageSpeed Insights☁🧛](https://developers.google.com/speed/pagespeed/insights/)
 
 Image compression:  
 [Kraken's Free Online Image Optimizer☁](https://kraken.io/web-interface),
@@ -61,16 +60,16 @@ Persistent connection test:
 Recently cached content:  
 [Cached Pages](http://www.cachedpages.com/),
 [CachedView](https://cachedview.com/)
-[Google Cache Checker☁](https://www.webnots.com/seo-tools/google-cache-checker)
+[Google Cache Checker☁🧛](https://www.webnots.com/seo-tools/google-cache-checker)
 
 DNS cache purge:  
-[Google's Flush Cache☁](https://developers.google.com/speed/public-dns/cache)
+[Google's Flush Cache☁🧛](https://developers.google.com/speed/public-dns/cache)
 
 Sitemap generator:  
 [XML Sitemaps Generator☁](https://www.xml-sitemaps.com/)
 
 Structured data testing:  
-[Google's Rich Results Test☁](https://search.google.com/test/rich-results)
+[Google's Rich Results Test☁🧛](https://search.google.com/test/rich-results)
 [SEO Scout's Structured Data Testing Tool☁](https://seoscout.com/tools/schema-generator)
 
 ## Links

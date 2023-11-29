@@ -58,7 +58,7 @@ Multi-browser testing:
 [Turbo's Browser Sandbox☁](https://turbo.net/browsers)
 
 Mobile-friendly test:  
-[Google's Mobile-Friendly Test☁](https://search.google.com/test/mobile-friendly),
+[Google's Mobile-Friendly Test☁🧛](https://search.google.com/test/mobile-friendly),
 [Responsinator☁](https://www.responsinator.com/)
 
 Accessibility test:  

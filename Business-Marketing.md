@@ -3,6 +3,9 @@
 Avatars:  
 [Gravatar☁](https://en.gravatar.com/)
 
+Site registry:  
+[Best of the Web Business Directory](https://botw.org/)
+
 ## Content Generation
 
 SEO slug:  
@@ -40,8 +43,8 @@ Local business schema generator:
 ## Posting - Specific Social Media
 
 Facebook:  
-[Facebook's Batch Invalidator☁](https://developers.facebook.com/tools/debug/sharing/batch/),
-[Facebook's Sharing Debugger☁](https://developers.facebook.com/tools/debug)
+[Facebook's Batch Invalidator☁🧛](https://developers.facebook.com/tools/debug/sharing/batch/),
+[Facebook's Sharing Debugger☁🧛](https://developers.facebook.com/tools/debug)
 
 Twitter:  
 [Affinitweet](https://affinitweet.com/),
@@ -56,17 +59,17 @@ Twitter/X - cards:
 [Twitter's Card Validator☁](https://cards-dev.twitter.com/validator)
 
 Twitter - multi-user management:  
-[TweetDeck☁](https://tweetdeck.twitter.com/),
+[TweetDeck☁🧛](https://tweetdeck.twitter.com/),
 [Tweeten⊞⌘](https://tweetenapp.com/)
 
 Google - business review link generator:  
-[Supple's Business Review Link Generator☁](https://supple.com.au/tools/google-review-link-generator/)
+[Supple's Business Review Link Generator☁🧛](https://supple.com.au/tools/google-review-link-generator/)
 
 Instagram:  
 [Instagram Post Generator☁](https://10015.io/tools/instagram-post-generator)
 
 LinkedIn:  
-[LinkedIn's Post Inspector☁](https://www.linkedin.com/post-inspector/)
+[LinkedIn's Post Inspector☁🧛](https://www.linkedin.com/post-inspector/)
 
 Vimeo thumbnails:  
 [Vimeo Thumbnail Grabber☁](https://10015.io/tools/vimeo-thumbnail-grabber)
@@ -101,11 +104,11 @@ Emails:
 Influencer search:  
 [Anewstip☁](https://anewstip.com/),
 [NinjaOutreach☁](https://ninjaoutreach.com/),
-[Google Trends☁](https://trends.google.com/),
+[Google Trends☁🧛](https://trends.google.com/),
 [Heepsy](https://www.heepsy.com/)
 
 Influencer search - by location:  
-[Google Trends for locations](https://mashups.appb.in/google-trend-mashup),
+[Google Trends for locations🧛](https://mashups.appb.in/google-trend-mashup),
 [Klear influencer by location](https://klear.com/free-tools/find-influencers-by-location)
 
 Influencer search - Twitter:  
@@ -123,7 +126,7 @@ Market research experts$:
 [Social Searcher](https://www.social-searcher.com/)
 
 Popular trends:  
-[Google Trends - Hot Searches visualization](https://trends.google.com/trends/hottrends/visualize)
+[Google Trends - Hot Searches visualization🧛](https://trends.google.com/trends/hottrends/visualize)
 [Exploding Topics☁](https://explodingtopics.com/),
 [English Wikipedia Top 100☁](https://top.hatnote.com/)
 [Popular Hashtags On TikTok](https://ads.tiktok.com/business/creativecenter/inspiration/)

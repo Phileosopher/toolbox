@@ -52,7 +52,7 @@ Hands:
 ## Validation
 
 3D asset validation (.glb files):  
-[Facebook's 3D Model Validation Tool☁](https://developers.facebook.com/tools/3d/validation/)
+[Facebook's 3D Model Validation Tool☁🧛](https://developers.facebook.com/tools/3d/validation/)
 
 ## Augmented reality
 
@@ -88,7 +88,7 @@ Star-mapping:
 [Spacechart🐧](https://www.gnu.org/software/spacechart/)
 
 Ray tracing simulation:  
-[OpticSim.jl](https://microsoft.github.io/OpticSim.jl/stable/)
+[OpticSim.jl🧛](https://microsoft.github.io/OpticSim.jl/stable/)
 
 Low-poly models:  
 [Dust3D](https://dust3d.org/)

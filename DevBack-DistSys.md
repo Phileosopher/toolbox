@@ -1,6 +1,6 @@
 # Back-End Development: Distributed Systems
 
-## AWS
+## AWS🧛
 
 Services explained:  
 [Amazon Web Services (explained on one line each)*](https://adayinthelifeof.nl/2020/05/20/aws.html),

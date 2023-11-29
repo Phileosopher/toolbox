@@ -13,7 +13,7 @@ Receipt photo data:
 
 Datasets:  
 [Dedolist](https://dedolist.com/),
-[Google Dataset Search](https://toolbox.google.com/datasetsearch)
+[Google Dataset Search🧛](https://toolbox.google.com/datasetsearch)
 
 Protein sequencing (e.g., DNA):  
 [UNCALLED🐍](https://github.com/skovaka/UNCALLED)
