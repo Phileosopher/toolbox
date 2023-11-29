@@ -27,7 +27,11 @@ E2E encryption:
 
 ## Messaging Stack
 
-[Mattermost💾](https://mattermost.com/) (uses [Matterbridge](https://mattermost.com/marketplace/matterbridge/))
+Messaging interface platform:  
+[Mattermost💾](https://mattermost.com/) (simplified with [mattermost-cookbook](https://github.com/ist-dsi/mattermost-cookbook))
+
+REST API bridge:  
+[Matterbridge](https://mattermost.com/marketplace/matterbridge/)
 
 ## Cloud Stack
 

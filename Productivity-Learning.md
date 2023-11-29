@@ -19,7 +19,7 @@ Educational audio/video:
 Wikipedia:  
 [Modern for Wikipedia⇉](https://www.modernwiki.app/),
 [static.wiki☁](http://static.wiki/),
-[wikiless](https://github.com/Metastem/wikiless)
+[wikiless](https://wiki.metastem.su),
 [Wikiwand⇉](https://www.wikiwand.com/)
 
 Wikipedia - 3D map:  

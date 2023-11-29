@@ -9,8 +9,12 @@ Media reviews:
 Media recommendations:  
 [TasteDive](https://tastedive.com/)
 
-Open media:  
-[Open Culture](https://www.openculture.com/),
+Open media💩:  
+[Open Culture](https://www.openculture.com/)
+
+Open media - piracy resources💩:  
+[Ripped](https://ripped.guide/),
+[GitLab piracy](https://gitlab.com/piracy/piracy),
 [The Pirate List](https://thepiratelist.com/)
 
 Encyclopedic skimming:  

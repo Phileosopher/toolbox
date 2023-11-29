@@ -16,9 +16,6 @@ Unblocked sites (URLs change all the time):
 Unblocked,
 Unblockit
 
-Piracy resources:  
-[Ripped💩](https://ripped.guide/)
-
 ## Download Manager
 
 [Free Download Manager⊞⌘🐧](https://www.freedownloadmanager.org/),
