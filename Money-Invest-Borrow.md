@@ -126,7 +126,6 @@ Women-only:
 
 ## Crowdfunding
 
-[GiveSendGo☁](https://givesendgo.com/),
 [Indiegogo☁](https://www.indiegogo.com/),
 [Open Collective☁](https://opencollective.com/)
 
