@@ -78,9 +78,6 @@ Direct file search:
 Comparisons and alternatives:  
 [Slant](https://www.slant.co/)
 
-Blogs:  
-[Blog Surf☁](https://blogsurf.io/)
-
 Similar websites:  
 [Similarsites.com](https://www.similarsites.com/)
 

@@ -23,6 +23,8 @@ IRC client:
 [KVIrc.net⊞■🐧⌘](https://www.kvirc.net/),
 [mIRC⊞](https://www.mirc.com/)
 
+Email-based chat:  
+[Delta Chat](https://delta.chat/)
 
 Type when someone else is typing:  
 [slacktyping□](https://github.com/will/slacktyping)

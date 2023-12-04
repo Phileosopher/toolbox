@@ -9,7 +9,6 @@ Book search/archive:
 [Google Play Free Books🧛](https://play.google.com/store/books/collection/topselling_free),
 [OceanofPDF](https://oceanofpdf.com/),
 [PDF Room](https://pdfroom.com/),
-[Standard Ebooks](https://standardebooks.org/),
 [UPenn's The Online Books Page](https://onlinebooks.library.upenn.edu/)
 
 Book archive - public domain content:  

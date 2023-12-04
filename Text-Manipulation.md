@@ -77,6 +77,9 @@ PDF data table extraction:
 Strip HTML from a file:  
 [HTMLAsText⊞■](https://www.nirsoft.net/utils/htmlastext.html)
 
+HTML to Markdown:  
+[HTML To MD☁](https://htmltomd.com/)
+
 ## Text File Conversion
 
 [Convertio's Ebook Converter☁](https://convertio.co/ebook-converter/),
