@@ -13,7 +13,7 @@ Receipt photo data:
 
 Datasets:  
 [Dedolist](https://dedolist.com/),
-[Google Dataset Search🧛](https://toolbox.google.com/datasetsearch)
+[Google Dataset Search🧛](https://datasetsearch.research.google.com/)
 
 Protein sequencing (e.g., DNA):  
 [UNCALLED🐍](https://github.com/skovaka/UNCALLED)
@@ -29,8 +29,7 @@ Optical mark recognition (OMR) data:
 ## Prepping
 
 Cleaning:  
-[The Ultimate Guide to Data Cleaning*](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4),
-[Zotero⊞Inspiration■⌘🐧⇉🆓](https://www.zotero.org/)
+[The Ultimate Guide to Data Cleaning*](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)
 
 DNA data conversion:  
 [Mapmy23 Tool☁](http://www.mapmy23.com/tools/ancestry_ftdna_fix.php)

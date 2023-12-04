@@ -48,8 +48,9 @@ Simplified language:
 [xkcd Simple Writer](https://xkcd.com/simplewriter/)
 
 Journaling:  
-[Diary Email☁](https://diaryemail.com/)
-[Ponder⇉](https://getponder.app/)
+[Day One⌘🍎🤖](https://dayoneapp.com/),
+[Diary Email☁](https://diaryemail.com/),
+[Ponder⇉](https://getponder.app/),
 [RedNotebook⊞■⌘🐧](https://rednotebook.sourceforge.io/)
 
 Wikis:  

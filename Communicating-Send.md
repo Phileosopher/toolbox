@@ -1,8 +1,11 @@
-# Communicating: Sending🕵️
+# Communicating: Sending
 
 ## Sending Web Links
 
 [ShortURL-Services-List💩](https://github.com/sambokai/ShortURL-Services-List/blob/master/shorturl-services-list.csv)
+
+Delete-on-command links🕵️:  
+[keeplinks.org](https://www.keeplinks.org/)
 
 Link shortener:  
 [awesome-url-shortener💩](https://github.com/738/awesome-url-shortener),

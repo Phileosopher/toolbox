@@ -4,13 +4,10 @@
 
 [Oblique Strategies](https://stoney.sb.org/eno/oblique.html)
 
-LEGO bricks:  
-[Brickit🍎🤖](https://brickit.app/)
-
 ## Collection-Building
 
 Research-gathering:  
-[Zotero](https://www.zotero.org/)
+[Zotero⊞■⌘🐧⇉🆓](https://www.zotero.org/)
 
 Creative writing:  
 [Scrivener⊞⌘🍎](https://www.literatureandlatte.com/scrivener/overview)
@@ -24,16 +21,17 @@ Multimedia:
 
 ## Dynamic Note-Taking
 
-For diagramming and charts, look at [Visual-Data.md](https://github.com/Phileosopher/toolbox/Visual-Data.md).
-
 Mind mapping/outlining:  
 [Bubbl.us☁](https://bubbl.us/)
 [coggle☁](https://coggle.it/),
 [Excalidraw☁](https://excalidraw.com/),
 [FreeMind⊞⌘🐧](http://freemind.sourceforge.net/wiki/index.php/Main_Page),
 [Heimer⊞🐧](https://github.com/juzzlin/Heimer),
+[Inforapid Knowledgebase Builder](http://www.buildyourmap.com/),
 [Minder🐧](https://github.com/phase1geo/Minder),
 [Scapple⊞⌘](https://www.literatureandlatte.com/scapple/overview),
+[TheBrain](https://www.thebrain.com/),
+[Xmind](https://xmind.app/)
 
 Hierarchical mind mapping:  
 [Kinopio](https://kinopio.club/)
@@ -42,7 +40,7 @@ Hierarchical spreadsheets:
 [TreeSheets⊞⌘🐧](http://strlen.com/treesheets/)
 
 Reference images/visual boards:  
-[Eagle⊞⌘](https://en.eagle.cool/),
+[Eagle⊞⌘](https://eagle.cool/),
 [Milanote⊞⌘🍎🤖⇉](https://milanote.com/)
 
 All-in-one:  
@@ -62,13 +60,22 @@ Quick notes/sporadic:
 [Standard Notes☁🐧](https://standardnotes.com/),
 [Tomboy⊞⌘🐧](https://wiki.gnome.org/Apps/Tomboy)
 
+JSON Converters:  
+[Day One to Standard Notes](https://github.com/ArneTR/standardnotes_day_one_importer)
+
 Hierarchical notebooks:  
 [cherrytree⊞■⌘🐧](https://www.giuspen.com/cherrytree/),
 [Laverna⊞⌘🐧](https://laverna.cc/),
-[Obsidian⊞⌘🐧](https://obsidian.md/) (with [Obsidian Plugin Stats](https://obsidian-plugin-stats.vercel.app/)),
+[Obsidian⊞⌘🐧](https://obsidian.md/),
 [Outlinely⌘🍎](https://glamdevelopment.com/outlinely),
 [QOwnNotes⊞■⌘🐧](https://www.qownnotes.org/),
 [Trilium](https://github.com/zadam/trilium)
+
+Obsidian plugins:  
+[Obsidian Plugin Stats](https://obsidian-plugin-stats.vercel.app/),
+Number counter - [obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker),
+Backup - [obsidian-git](https://github.com/denolehov/obsidian-git),
+Templates - [Templater](https://silentvoid13.github.io/Templater/)
 
 Public notes:  
 [Collected Notes⌘🍎🤖☁](https://collectednotes.com/),

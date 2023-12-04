@@ -16,18 +16,6 @@ Educational audio/video:
 
 ## Research
 
-Wikipedia:  
-[Modern for Wikipedia⇉](https://www.modernwiki.app/),
-[static.wiki☁](http://static.wiki/),
-[wikiless](https://wiki.metastem.su),
-[Wikiwand⇉](https://www.wikiwand.com/)
-
-Wikipedia - 3D map:  
-[WikiGalaxy](https://wiki.polyfra.me/)
-
-Wikipedia - enhanced search:  
-[Conzept encyclopedia](https://conze.pt/explore?l=en&d=wikipedia,wikidata#)
-
 Check for paper endorsements:  
 [Plaudit⇉](https://plaudit.pub/)
 
@@ -43,6 +31,22 @@ Citations:
 
 Insert SciHub links:  
 [sci-hub-injector](https://github.com/justjosias/sci-hub-injector)
+
+## Wikipedia
+
+[Modern for Wikipedia⇉](https://www.modernwiki.app/),
+[static.wiki☁](http://static.wiki/),
+[wikiless](https://wiki.metastem.su),
+[Wikiwand⇉](https://www.wikiwand.com/)
+
+Simplified Wikipedia:  
+[Simple Wikipedia](https://simple.wikipedia.org)
+
+Wikipedia 3D map:  
+[WikiGalaxy](https://wiki.polyfra.me/)
+
+Enhanced Wikipedia search:  
+[Conzept encyclopedia](https://conze.pt/explore?l=en&d=wikipedia,wikidata#)
 
 ## College Search
 
