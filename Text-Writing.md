@@ -56,6 +56,13 @@ Wikis:
 [Fandom☁](https://www.fandom.com/),
 [Wiki.js⊞⌘🐧🍎🤖](https://wiki.js.org/)
 
+Prompts - Smithsonian Open Access photos:  
+[Curaturae☁](https://curaturae.com/)
+
+Prompts - audio feedback:  
+[Typatone☁](https://typatone.com/),
+[typedrummer☁](http://typedrummer.com/)
+
 Word/phrase frequency counter:  
 [Text Analyzer](https://www.online-utility.org/text/analyzer.jsp),
 [Word Frequency Counter](http://www.writewords.org.uk/word_count.asp)
