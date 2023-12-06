@@ -14,6 +14,9 @@ Study notes:
 Educational audio/video:  
 [LearnOutLoud.com](https://www.learnoutloud.com/)
 
+Cheat sheets:  
+[Cheatography](https://cheatography.com/)
+
 ## Research
 
 Check for paper endorsements:  
@@ -105,7 +108,8 @@ Certifications:
 
 ## Technology Learning
 
-[Resources💩](https://progdisc.club/resources/)
+[Resources💩](https://progdisc.club/resources/),
+[Helpful-Tech-Resources💩](https://github.com/lovelacecoding/Helpful-Tech-Resources)
 
 Coding tests/certifications:  
 [CodeSignal☁](https://codesignal.com/),

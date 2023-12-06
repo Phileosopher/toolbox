@@ -1,26 +1,29 @@
 # Software Development: Productivity Improvement
 
 Gigantic lists of tools💩:  
-[andou tech-resources](https://andou.github.io/tech-resources/),
-[GitHub Topics - awesome-list](https://github.com/topics/awesome-list)
+[andou tech-resources](https://andou.github.io/tech-resources/)
 
 Unnecessary additions:  
 [You-Dont-Need](https://github.com/you-dont-need/You-Dont-Need)
 
-Cheat sheets:  
-[Code House☁](https://codehouse.vercel.app/),
-[OverAPI.com*](http://overapi.com/)
-
 Distraction-free coding videos:  
 [CodeOnVideo☁](https://codeonvideo.com/)
-
-RSS to Notion:  
-[notion-feeder](https://github.com/ravgeetdhillon/notion-feeder)
 
 Finance the tech stack you depend on:  
 [thanks.dev](https://thanks.dev/)
 
 ## Quick-Reference
+
+Cheat sheets💩:  
+[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/),
+[cheat.sh□](https://cheat.sh/),
+[Cheat Sheets](https://lzone.de/cheat-sheet.html),
+[Cheat Sheet](https://www.cheat-sheets.org/),
+[Code House☁](https://codehouse.vercel.app/),
+[Devhints.io](https://devhints.io/) (from [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)),
+[GNU/Linux.guru🐧](https://gnulinux.guru/),
+[OverAPI.com*](http://overapi.com/),
+[QuickRef.ME](https://quickref.me/)
 
 Time standards:  
 [RFC 3339 vs ISO 8601*](https://ijmacd.github.io/rfc3339-iso8601/)

@@ -128,9 +128,6 @@ Reddit:
 Reddit - map:  
 [Map of Reddit](https://www.mapofreddit.com/)
 
-Reddit - review deleted content:  
-[reveddit](https://www.reveddit.com/)
-
 Stack Overflow:  
 [AnonymousOverflow](https://code.whatever.social/)
 
