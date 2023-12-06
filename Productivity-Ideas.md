@@ -60,9 +60,6 @@ Quick notes/sporadic:
 [Standard Notes☁🐧](https://standardnotes.com/),
 [Tomboy⊞⌘🐧](https://wiki.gnome.org/Apps/Tomboy)
 
-JSON Converters:  
-[Day One to Standard Notes](https://github.com/ArneTR/standardnotes_day_one_importer)
-
 Hierarchical notebooks:  
 [cherrytree⊞■⌘🐧](https://www.giuspen.com/cherrytree/),
 [Laverna⊞⌘🐧](https://laverna.cc/),

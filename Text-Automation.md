@@ -63,3 +63,11 @@ Jokes:
 
 Chuck Norris jokes:  
 [Chuck Norris Jokes Api🔌](https://api.chucknorris.io/)
+
+## Content Auto-Migration
+
+RSS to Notion:  
+[notion-feeder](https://github.com/ravgeetdhillon/notion-feeder)
+
+JSON Converters:  
+[Day One to Standard Notes](https://github.com/ArneTR/standardnotes_day_one_importer)

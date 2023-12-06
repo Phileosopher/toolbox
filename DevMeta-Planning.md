@@ -50,8 +50,5 @@ Entire apps:
 [awesome](https://github.com/sindresorhus/awesome)
 [Awesome Resources](https://shahednasser.github.io/awesome-resources/)
 
-Cheatsheets:  
-[LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
-
 Zero-config tools:  
 [awesome-toolkits](https://github.com/reyronald/awesome-toolkits)
