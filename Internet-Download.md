@@ -1,5 +1,8 @@
 # Internet: Downloading
 
+Direct file search:  
+[FilePursuit](https://filepursuit.com/)
+
 Streaming content library:  
 [NewPipeExtractor🔌](https://github.com/TeamNewPipe/NewPipeExtractor)
 

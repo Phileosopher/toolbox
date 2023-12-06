@@ -69,6 +69,9 @@ Keyboards:
 Keyboards - discussion board:  
 [KeebTalk](https://www.keebtalk.com/)
 
+Network router:  
+[Turris🆓](https://www.turris.com/)
+
 ## Older Tech
 
 Floppy disks:  
