@@ -1,4 +1,4 @@
-# Audio: Foraging
+# Audio: Foraging💩
 
 [Internet Archive Audio Archive](https://archive.org/details/audio)
 
@@ -66,13 +66,14 @@ Live music - bootleg recordings:
 [Hip Hop Bootleggers](http://www.hiphopbootleggers.net/)
 
 Sheet music:  
+[Walter Cosand](http://www.waltercosand.com/CosandScores/)
 [Sheet-Music.xyz](https://sheet-music.xyz/)
 
 Software:  
 [AudioLove](https://audiolove.me/),
 [Audio wareZ](https://audioz.download/)
 
-Piles of everything💩:  
+Piles of everything:  
 [awesome-music](https://github.com/noteflakes/awesome-music),
 [awesome-music-production](https://github.com/ad-si/awesome-music-production),
 [Software Music Machine Archive](http://www.hitsquad.com/smm/)

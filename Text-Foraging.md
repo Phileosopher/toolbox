@@ -12,9 +12,12 @@ Book search/archive:
 [PDF Room](https://pdfroom.com/),
 [UPenn's The Online Books Page](https://onlinebooks.library.upenn.edu/)
 
-Book archive - public domain content:  
+Public domain content:  
 [Authorama](http://authorama.com/),
 [Bibliomania](http://www.bibliomania.com/)
+
+Religion/philosophy:  
+[isidore](https://isidore.co/)
 
 Short stories:  
 [Writing Atlas](https://writingatlas.com/)
@@ -156,6 +159,9 @@ Programming books:
 [DevFreeBooks](https://devfreebooks.github.io/),
 [free-programming-books](https://ebookfoundation.github.io/free-programming-books/),
 [Runestone Academy](https://runestone.academy/ns/books/index)
+
+Old computers:  
+[Rich Cini's Classic Computing Main Page](http://cini.classiccmp.org/) (with [PDFs](http://cini.classiccmp.org/pdf/))
 
 Machine learning research papers:  
 [OpenReview](https://openreview.net/)
