@@ -9,8 +9,14 @@ Cost of living comparison - geographical:
 Cost of living comparison - historical:  
 [Historical Currency Converter☁](https://www.historicalstatistics.org/Currencyconverter.html)
 
+Currency exchange:  
+[Travelex](https://www.travelex.co.uk/),
+[X-Rates](https://www.x-rates.com/)
+
 Currency exchange - current:  
-[Xe Currency Converter☁](https://www.xe.com/currencyconverter/)
+[OANDA Currency Converter](https://www.oanda.com/currency-converter/),
+[Xe Currency Converter☁](https://www.xe.com/currencyconverter/),
+[Yahoo Finance Currency Converter](https://finance.yahoo.com/currency-converter)
 
 Currency exchange - ancient societies:  
 [Trapezites☁](https://trapezites.com/)

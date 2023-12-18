@@ -10,9 +10,12 @@ Multi-chat clients:
 [Beeper⊞🐧⌘](https://www.beeper.com/),
 [Kopete🐧](https://apps.kde.org/kopete/),
 [Pidgin⊞■🐧⌘](https://pidgin.im/),
-[Rocket.Chat⊞🐧⌘🍎🤖](https://rocket.chat/),
+[Rocket.Chat⊞🐧⌘🍎🤖💾](https://rocket.chat/),
 [tinychat☁](https://tinychat.com),
 [WeeChat🐧□](https://weechat.org/)
+
+P2P chat:  
+[cabal](https://cabal.chat/)
 
 IRC client:  
 [Wikipedia's Comparison of Internet Relay Chat clients💩](https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients),

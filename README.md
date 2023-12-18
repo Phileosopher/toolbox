@@ -118,7 +118,7 @@ It sometimes makes sense to clarify for context how something is used.
 - □ - CLI-based without GUI (often requires [programming experience](https://trendless.tech/prog-basics))
 - 🔌 - an API, or has API documentation
 - ⦿ - data-intensive tool
-- 💾 - self-hostable, or runs in a container
+- 💾 - self-hostable, or runs easily in a container
 - 🐍 - runs in Python
 - 🕵️ - helps with [trust issues](https://gainedin.site/trust/)
 - 🆓 - [FLOSS](https://trendless.tech/floss/)

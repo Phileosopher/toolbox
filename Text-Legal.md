@@ -11,6 +11,9 @@ USA rulings and court records:
 International Court of Justice:  
 [Document search](https://www.icj-cij.org/advanced-search)
 
+International legislation:  
+[UN's SHERLOC](https://sherloc.unodc.org)
+
 Complaints and online material removal:  
 [Lumen☁](https://lumendatabase.org/)
 
@@ -36,5 +39,8 @@ Visas:
 
 ## Intellectual Property
 
-Patent search:  
+Patent search - USA:  
 [USPTO Patent Public Search](https://ppubs.uspto.gov/pubwebapp/static/pages/landing.html)
+
+Patent search - Israel:  
+[Israel Patents Search](https://israelpatents.justice.gov.il/)
