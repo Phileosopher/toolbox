@@ -1,8 +1,12 @@
 # Internet: Browser
 
 Web browser:  
+[Brave🧛](https://brave.com/) (with [awesome-brave-filters](https://github.com/astariul/awesome-brave-filters)),
+[Falkon](https://www.falkon.org/),
 [Firefox Browser⊞■⌘🐧🍎🤖](https://www.mozilla.org/en-US/firefox/new/),
-[Tor Browser⊞⌘🐧🤖](https://www.torproject.org/)
+[Iridium Browser⊞⌘🐧](https://iridiumbrowser.de/),
+[Tor Browser⊞⌘🐧🤖](https://www.torproject.org/),
+[Ungoogled Chromium🧛](https://ungoogled-software.github.io/) (With [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store))
 
 ## Optimizations
 

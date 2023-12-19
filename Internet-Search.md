@@ -2,6 +2,7 @@
 
 Non-Google search engine:  
 [100 Search Engines](https://www.100searchengines.com/huge-list-search-engines.htm),
+[Brave Search](https://search.brave.com/),
 [Golgozar](https://golgozar.org/),
 [Mojeek](https://www.mojeek.com/),
 [Qwant](https://www.qwant.com/),
