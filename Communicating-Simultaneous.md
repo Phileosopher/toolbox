@@ -8,6 +8,7 @@ Budgeting:
 Multi-chat clients:  
 [All-in-One Messenger⊞🐧⌘](https://allinone.im/),
 [Beeper⊞🐧⌘](https://www.beeper.com/),
+[Irssi🐧□](https://irssi.org/),
 [Kopete🐧](https://apps.kde.org/kopete/),
 [Pidgin⊞■🐧⌘](https://pidgin.im/),
 [Rocket.Chat⊞🐧⌘🍎🤖💾](https://rocket.chat/),
@@ -24,27 +25,43 @@ IRC client:
 [KiwiIRC☁](https://kiwiirc.com/),
 [Konversation⊞🐧](https://konversation.kde.org/),
 [KVIrc.net⊞■🐧⌘](https://www.kvirc.net/),
+[Mibbit.com☁](https://mibbit.com/),
 [mIRC⊞](https://www.mirc.com/)
 
 Email-based chat:  
-[Delta Chat](https://delta.chat/)
+[Delta Chat](https://delta.chat/) (with [Bots](https://bots.delta.chat))
 
 Type when someone else is typing:  
 [slacktyping□](https://github.com/will/slacktyping)
 
-## Office Suite
+## Collaborative Office Suite
+
+[CryptPad.fr](https://cryptpad.fr/),
+[Nextcloud Office](https://nextcloud.com/office/),
+[ONLYOFFICE⊞🐧💾](https://www.onlyoffice.com/)
 
 Note-taking:  
-[Etherpad⊞](https://etherpad.org/)
+[Etherpad⊞](https://etherpad.org/),
+[Firepad](https://firepad.io/)
+
+Word processing - academic needs:  
+[Fidus Writer](https://www.fiduswriter.org/)
+
+Word processing - LaTeX:  
+[Overleaf](https://www.overleaf.com/)
 
 Spreadsheets:  
-[Framacalc](https://framacalc.org/abc/en/)
+[Framacalc](https://framacalc.org/),
 
 ## Meetings
 
+[Nextcloud Talk💾](https://nextcloud.com/talk/)
+
 Digital whiteboards:  
 [Mural](https://www.mural.co/),
-[Stormboard](https://stormboard.com/)
+[Onlineboard](https://onlineboard.eu/),
+[Stormboard](https://stormboard.com/),
+[Whimsical☁](https://whimsical.com/)
 
 Drawn image:  
 [Witeboard☁](https://witeboard.com)
@@ -62,8 +79,11 @@ Annotations:
 
 ## Meetings - Videoconferencing
 
-[Jitsi Meet☁🍎🤖](https://meet.jit.si/),
-[TWAKE☁](https://twake.app/)
+[Briefing🕵️](https://brie.fi/ng),
+[Jitsi Meet☁🍎🤖](https://meet.jit.si/) (with [awesome-jitsi](https://github.com/xceejay/awesome-jitsi)),
+[Noysi Meet](https://meet.noysi.com/),
+[TWAKE☁](https://twake.app/),
+[Videolink2me](https://videolink2me.com/)
 
 Facial tracking:  
 [Around](https://www.around.co/)
@@ -74,8 +94,8 @@ Custom effects:
 Enterprise videoconferencing:  
 [Jitsi Videobridge](https://jitsi.org/jitsi-videobridge/)
 
-Office documents:  
-[ONLYOFFICE Docs⊞🐧💾](https://www.onlyoffice.com/)
+Self-sabotage video meetings:  
+[Zoom Escaper](https://zoomescaper.com/)
 
 ## IRL
 

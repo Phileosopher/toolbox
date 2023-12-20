@@ -77,3 +77,9 @@ Templates - [Templater](https://silentvoid13.github.io/Templater/)
 Public notes:  
 [Collected Notes⌘🍎🤖☁](https://collectednotes.com/),
 [Listed☁](https://listed.to/) (pulls from [Standard Notes☁🐧🤖](https://standardnotes.com/))
+
+Annotation:  
+[How to annotate literally everything💩](https://beepb00p.xyz/annotating.html)
+
+Annotation - YouTube:  
+[Annotate.tv](https://annotate.tv/)

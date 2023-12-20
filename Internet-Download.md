@@ -19,6 +19,9 @@ Unblocked sites (URLs change all the time):
 Unblocked,
 Unblockit
 
+Copyright-infringing sites:  
+[Piracybank](https://piracybank.org/)
+
 ## Download Manager
 
 [Free Download Manager⊞⌘🐧](https://www.freedownloadmanager.org/),
@@ -38,7 +41,8 @@ Temporary cloud/debrid:
 Debrid (Kodi addon):  
 [Gaia](https://gaiakodi.com/)
 
-Wayback Machine:  
+Wayback Machine archived sites:  
+[waybackpack](https://github.com/jsvine/waybackpack),
 [wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)
 
 Online videos:  

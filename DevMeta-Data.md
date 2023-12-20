@@ -39,6 +39,10 @@ DNA data conversion:
 MySQL/MariaDB/Percona performance enhancement:  
 [awesome-mysql-performance](https://github.com/Releem/awesome-mysql-performance)
 
+Database-to-spreadsheet conversion:  
+[Baserow](https://baserow.io/),
+[NocoDB](https://nocodb.com/)
+
 ## 2D Data
 
 Spreadsheets:  

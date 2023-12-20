@@ -7,9 +7,8 @@ ASCII prototyping:
 
 ## Diagrams
 
-[diagrams.net/draw.io☁⊞⌘🐧](https://www.diagrams.net/) (or [its GitHub source](https://github.com/jgraph/drawio)),
+[draw.io☁⊞⌘🐧](https://www.drawio.com/),
 [Ilograph⊞⌘🐧](https://www.ilograph.com/),
-[Whimsical☁](https://whimsical.com/),
 [yEd Live⊞⌘🐧☁](https://www.yworks.com/products/yed)
 
 Text-to-diagram:  

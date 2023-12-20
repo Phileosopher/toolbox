@@ -3,7 +3,7 @@
 ## Removing Paywalls
 
 Articles:  
-[Wayback Machine☁](https://archive.org/web/),
+[Wayback Machine☁](https://archive.org/web/) (quickly save with [the official plugin⇉](https://github.com/internetarchive/wayback-machine-webextension) or a [third-party one⇉](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine)),
 [Webpage archive☁](https://archive.today/),
 [Web Archives⇉](https://github.com/dessant/web-archives)
 
@@ -36,8 +36,13 @@ Blog posts/articles:
 
 Simultaneous group chat:  
 [Discord](https://discord.com/),
+[ICQ](https://icq.com/),
 [matrix⊞⌘🐧🍎🤖🕵️](https://matrix.org/),
 [Revolt](https://revolt.chat/)
+
+Simultaneous group chat - IRC search:  
+[IRC Index](https://netsplit.de/)
+[Mibbit Search](https://search.mibbit.com/)
 
 Simultaneous chat - topic search:  
 [DISBOARD](https://disboard.org/),
@@ -85,7 +90,10 @@ Short stories:
 [Farside💩](https://farside.link/)
 
 Discord:  
-[Bluecord🤖](https://bluesmods.com/bluecord/)
+[Bluecord🤖](https://bluesmods.com/bluecord/),
+[discord-PWA](https://github.com/NeverDecaf/discord-PWA),
+[DiscordFlex](https://github.com/ZenithRogue/DiscordFlex),
+[WebCord](https://github.com/SpacingBat3/WebCord)
 
 Dropbox:  
 [Maestral🍎](https://maestral.app/)

@@ -52,7 +52,7 @@ Abbreviations/acronyms:
 ## Archived Web
 
 Archived internet pages:  
-[archive.today](https://archive.today/),
+[archive.today⇉](https://archive.today/),
 [Time Travel](https://timetravel.mementoweb.org/),
 [Trove](https://trove.nla.gov.au/),
 [Wayback Machine](https://web.archive.org/),

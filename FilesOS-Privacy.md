@@ -1,5 +1,10 @@
 # Files/OS: Privacy-Respecting Software🕵️
 
+Reviews:  
+[PrivacySpy](https://privacyspy.org/),
+[Terms of Service; Didn't Read*⇉](https://tosdr.org/)
+
+Alternatives:  
 [Ethical Alternatives & Resources☁](https://ethical.net/resources/),
 [PRISM Break](https://prism-break.org/en/)
 

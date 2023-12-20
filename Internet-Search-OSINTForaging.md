@@ -68,6 +68,9 @@ Old government websites:
 Government salaries:  
 [Federal, state, county and municipal government salaries and employee names database](https://pibuzz.com/government-salaries/)
 
+White House:  
+[The White House Disclosures](https://www.whitehouse.gov/disclosures/)
+
 FAA:  
 [FAA Registry - Airmen](https://amsrvs.registry.faa.gov/airmeninquiry/)
 

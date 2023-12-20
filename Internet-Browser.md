@@ -3,7 +3,7 @@
 Web browser:  
 [Brave🧛](https://brave.com/) (with [awesome-brave-filters](https://github.com/astariul/awesome-brave-filters)),
 [Falkon](https://www.falkon.org/),
-[Firefox Browser⊞■⌘🐧🍎🤖](https://www.mozilla.org/en-US/firefox/new/),
+[Firefox Browser⊞■⌘🐧🍎🤖](https://www.mozilla.org/en-US/firefox/new/) (with [Firefox Profilemaker](https://ffprofile.com/) or [user.js template](https://github.com/arkenfox/user.js)/[alternate](https://github.com/pyllyukko/user.js/) that uses [Firefox tweaks](https://github.com/loganmarchione/Firefox-tweaks/blob/master/user.js)),
 [Iridium Browser⊞⌘🐧](https://iridiumbrowser.de/),
 [Tor Browser⊞⌘🐧🤖](https://www.torproject.org/),
 [Ungoogled Chromium🧛](https://ungoogled-software.github.io/) (With [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store))

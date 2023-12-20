@@ -21,7 +21,7 @@ File synchronization:
 Automatic folder synchronization:  
 [Box](https://www.box.com/),
 [MEGA☁⊞■⌘🐧🍎🤖□](https://mega.nz/) (with [Megatools□](https://megatools.megous.com/)),
-[Nextcloud⊞■⌘🐧🍎🤖⇉](https://nextcloud.com/)
+[Nextcloud⊞■⌘🐧🍎🤖⇉💾](https://nextcloud.com/) (with [App Store](https://apps.nextcloud.com/))
 
 Cloud-to-cloud synchronization:  
 [MultCloud](https://www.multcloud.com/),

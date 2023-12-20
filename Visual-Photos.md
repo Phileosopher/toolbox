@@ -25,6 +25,9 @@ Tiled image downloader:
 
 ## Post-Production
 
+Quick edits:  
+[PicPick⊞](https://picpick.app/)
+
 SVGs/illustrations:  
 [Adobe Illustrator CS Scripts⇉](http://shspage.com/aijs/en/)
 [Blush(Figma/Sketch)☁⇉](https://blush.design/),

@@ -9,3 +9,6 @@ Public-access APIs💩:
 
 Unofficial APIs💩:  
 [unofficial-apis⦿](https://github.com/Rolstenhouse/unofficial-apis)
+
+Video calling:  
+[Whereby](https://whereby.com/)

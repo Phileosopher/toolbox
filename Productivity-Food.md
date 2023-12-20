@@ -29,13 +29,16 @@ Simplified information:
 Base components:  
 [Based Cooking*](https://based.cooking/)
 
-Recipe search engine:  
+Search engine:  
 [Stovetop](https://stovetop.app/),
 [Munchy](https://joinmunchy.com/)
 
-Recipe search engine - from available food:  
+Search engine - from available food:  
 [MyFridgeFood☁🤖](https://myfridgefood.com/),
 [Supercook☁](https://www.supercook.com/#/recipes)
+
+Recipe database:  
+[Nextcloud Cookbook](https://apps.nextcloud.com/apps/cookbook) with [Android client🤖](https://lneugebauer.github.io/nextcloud-cookbook/)
 
 ## Alcohol
 
