@@ -106,32 +106,6 @@ English-to-sign-language:
 Certifications:  
 [Free-Certifications💩](https://github.com/cloudcommunity/Free-Certifications)
 
-## Technology Learning
-
-[Resources💩](https://progdisc.club/resources/),
-[Helpful-Tech-Resources💩](https://github.com/lovelacecoding/Helpful-Tech-Resources)
-
-Coding tests/certifications:  
-[CodeSignal☁](https://codesignal.com/),
-[freeCodeCamp☁](https://www.freecodecamp.org/)
-[HackerRank☁](https://www.hackerrank.com/)
-
-Free CS classes:  
-[open-source-cs](https://github.com/ForrestKnight/open-source-cs)
-
-Kid-friendly programming language:  
-[Scratch](https://scratch.mit.edu/)
-
-Tech talks:  
-[TechYaks](https://techyaks.com/)
-
-Blogs:  
-[Awesome Blogs💩](https://github.com/learn-anything/blogs)
-[Awesome Tech Blogs💩](https://tech-blogs.dev/)
-
-Publications:  
-[ACM Digital Library](https://dl.acm.org/)
-
 ## Philosophy Learning
 
 Philosophy papers visualization:  
