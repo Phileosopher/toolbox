@@ -12,5 +12,6 @@ Alternative software:
 
 Abandonware:  
 [Internet Archive's TOSEC](https://archive.org/details/tosec),
-[Internet Archive's The Vintage Software Collection](https://archive.org/details/vintagesoftware),
+[Internet Archive's Vintage Software Collection](https://archive.org/details/vintagesoftware),
+[SCiZE's CLASSIC WAREZ COLLECTION](https://scenelist.org/),
 [VETUSWARE.COM](https://vetusware.com/)

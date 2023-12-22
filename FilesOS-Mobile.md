@@ -7,6 +7,8 @@
 
 ## Android🤖
 
+[Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/)
+
 File management and root:  
 [Odin3⊞](https://odin3download.com/)
 

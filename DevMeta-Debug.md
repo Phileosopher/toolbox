@@ -3,10 +3,8 @@
 ## Syntax Errors
 
 Linting:  
-[GitHub's Super Linter](https://github.com/github/super-linter)
-
-JS Linting:  
-[JSHint☁](https://jshint.com/)
+[GitHub's Super Linter](https://github.com/github/super-linter),
+[OX Security's MegaLinter](https://megalinter.io)
 
 ## Runtime Errors
 
@@ -29,7 +27,7 @@ Text:
 [Microsoft's OneFuzz🔌🧛](https://github.com/microsoft/onefuzz)
 
 Node.js/Web:  
-[faker.js🔌](https://github.com/Marak/faker.js)
+[faker.js🔌](https://fakerjs.dev/)
 
 JSON:  
 [JSONPlaceholder🔌](https://jsonplaceholder.typicode.com/)
@@ -50,7 +48,7 @@ C/C++:
 
 Go:  
 [Golang security checker](https://github.com/securego/gosec),
-[gotestfmt](https://github.com/haveyoudebuggedit/gotestfmt)
+[gotestfmt](https://github.com/GoTestTools/gotestfmt)
 
 ## Bug Tracking
 
@@ -63,7 +61,9 @@ Go:
 ## Version Control
 
 [Bitbucket⊞🐧](https://bitbucket.org/),
-[Git⊞■⌘🐧](https://git-scm.com/),
+[Git⊞■⌘🐧](https://git-scm.com/)
+
+Social network:  
 [Github☁](https://github.com/)
 
 Github front-end:  
@@ -73,8 +73,14 @@ Github front-end:
 
 .gitignore templates (to ignore during updates):  
 [gitignore](https://github.com/github/gitignore/)
+[Toptal's gitignore.io](https://www.toptal.com/developers/gitignore)
 
-GUI:  
+Git TUI:  
+[gitui](https://github.com/Extrawurst/gitui),
+[lazygit](https://github.com/jesseduffield/lazygit)
+
+Git GUI:  
+[GitKraken](https://www.gitkraken.com/),
 [Sourcetree⊞⌘](https://www.sourcetreeapp.com/)
 
 Multiple users/emails:  

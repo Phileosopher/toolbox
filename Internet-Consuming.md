@@ -38,11 +38,19 @@ Less sensationalized news:
 
 ## RSS Feeds
 
-Webpage-to-RSS:  
+[ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS)
+
+All-in-one readers:  
 [FetchRSS☁](https://fetchrss.com/),
-[GetRSSFeed☁](https://getrssfeed.com/)
+[GetRSSFeed☁](https://getrssfeed.com/),
+[rssbox💾](https://github.com/stefansundin/rssbox)
+
+Self-made RSS feeds:  
+[RSS-Bridge](https://rss-bridge.org/bridge01/),
+[RSSHub](https://docs.rsshub.app/)
 
 RSS feed manager:  
+[FreshRSS💾](https://freshrss.org/) (with [extensions](https://github.com/harleypig/FreshRSS-extensions), [more extensions](https://github.com/cn-tools/cntools_FreshRssExtensions) and [demo](https://demo.freshrss.org/i/?rid=65834a6431fb4)),
 [NetNewsWire⌘🍎](https://netnewswire.com/),
 [QuiteRSS⊞■⌘🐧](https://quiterss.org/),
 [RSS Guard⊞■⌘🐧](https://github.com/martinrotter/rssguard),
@@ -53,3 +61,16 @@ RSS-to-email:
 
 Site status (updates on changed code on a site):  
 [Follow That Page☁](https://www.followthatpage.com/)
+
+iTunes:  
+[iTunes→RSS](https://podshows.fr/itunesrss),
+[itunesrss💾](https://github.com/gromnitsky/itunesrss),
+[RSS Builder](https://rss.applemarketingtools.com/)
+
+Twitch livestreams:  
+[stfg💾](https://github.com/m3taas/stfg),
+[TwitchRSS💾](https://github.com/lzeke0/TwitchRSS)
+
+YouTube video feeds:  
+[Podify](https://www.podify.org/),
+[YouCast](http://youcast.i3arnon.com/)

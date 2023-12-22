@@ -23,6 +23,22 @@ Clubhouse:
 Gravatar:  
 [Gravatar Search](https://gravatar.com/site/check/)
 
+Facebook:  
+[Export Facebook Pages Post Likes to Excel☁](https://commentpicker.com/export-likes-facebook.php),
+[Export Facebook Comments to Excel & CSV☁](https://commentpicker.com/export-comments-facebook.php),
+[Facebook Post ID Finder☁](https://commentpicker.com/facebook-post-id-finder.php)
+
+Instagram:  
+[Export Instagram Comments to Excel & CSV☁](https://commentpicker.com/export-comments-instagram.php),
+
+YouTube:  
+[YouTube Tag Extractor☁](https://commentpicker.com/youtube-tag-extractor.php),
+[YouTube video ID & YouTube video thumbnails☁](https://commentpicker.com/youtube-video-id.php),
+
+YouTube - channel ID:  
+[YouTube Channel ID Finder](https://www.streamweasels.com/tools/youtube-channel-id-and-user-id-convertor/),
+[Youtube channel ID](https://commentpicker.com/youtube-channel-id.php)
+
 ## People Search
 
 [Epieos](https://epieos.com/),

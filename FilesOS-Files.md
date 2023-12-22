@@ -40,7 +40,8 @@ Batch merging/diff:
 [WinMerge⊞■](https://winmerge.org/)
 
 File compression:  
-[7-Zip⊞](https://www.7-zip.org/)
+[7-Zip⊞](https://www.7-zip.org/),
+[bzip2](https://sourceware.org/bzip2/),
 [PeaZip⊞■🐧](https://www.peazip.org/)
 
 File Splitting:  

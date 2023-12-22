@@ -21,6 +21,7 @@ JSON:
 ## Testing/Debugging
 
 Linting:  
+[ESLint](https://eslint.org/) (with [awesome-eslint](https://github.com/dustinspecker/awesome-eslint)),
 [JSLint☁](https://jslint.com/)
 
 Optimizing:  

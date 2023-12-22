@@ -9,6 +9,10 @@ Articles:
 
 ## Media-Based
 
+Everything-at-once:  
+[Facebook](https://www.facebook.com/),
+[Gab](https://gab.com/)
+
 Text/post feed:  
 [Mastodon☁🍎🤖🕵️](https://joinmastodon.org/),
 [Minds](https://www.minds.com/)

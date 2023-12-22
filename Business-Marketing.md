@@ -99,6 +99,12 @@ Emails:
 [MailPoet(WordPress)⇉](https://www.mailpoet.com/),
 [Twilio's SendGrid](https://sendgrid.com/)
 
+YouTube-to-podcast:  
+[yt2pod](https://github.com/frou/yt2pod)
+
+YouTube/Vimeo-to-podcast:  
+[Podsync](https://github.com/mxpv/podsync)
+
 ## Influencers
 
 Influencer search:  
@@ -158,19 +164,6 @@ CRM:
 
 CRM - not-for-profits:  
 [CiviCRM⊞🐧](https://civicrm.org/)
-
-Social media data - Facebook:  
-[Export Facebook Pages Post Likes to Excel☁](https://commentpicker.com/export-likes-facebook.php),
-[Export Facebook Comments to Excel & CSV☁](https://commentpicker.com/export-comments-facebook.php),
-[Facebook Post ID Finder☁](https://commentpicker.com/facebook-post-id-finder.php)
-
-Social media data - Instagram:  
-[Export Instagram Comments to Excel & CSV☁](https://commentpicker.com/export-comments-instagram.php),
-
-Social media data - YouTube:  
-[YouTube Tag Extractor☁](https://commentpicker.com/youtube-tag-extractor.php),
-[YouTube video ID & YouTube video thumbnails☁](https://commentpicker.com/youtube-video-id.php),
-[Youtube channel ID](https://commentpicker.com/youtube-channel-id.php)
 
 User research:  
 [Sprig](https://sprig.com/)
