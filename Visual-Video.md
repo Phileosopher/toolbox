@@ -69,11 +69,14 @@ Math animations:
 
 ## File Conversions
 
+[Hybrid](https://www.selur.de/)
+
 Convert video:  
 [DamnVid⊞■](https://damnvid.en.softonic.com/),
 [HandBrake⊞⌘🐧](https://handbrake.fr/),
 [TEncoder Video Converter⊞■](https://www.fosshub.com/TEncoder-Video-Converter.html),
 [Any Video Converter⊞⌘](https://www.anvsoft.com/any-video-converter-free.html),
+[Video to Video Converter](https://www.videotovideo.org/),
 [WebBrowserTools' Video Converter☁](https://webbrowsertools.com/video-converter/)
 
 Convert video to GIF:  

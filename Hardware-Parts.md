@@ -76,3 +76,8 @@ Network router:
 
 Floppy disks:  
 [Floppy disks](https://www.floppydisk.com/)
+
+## Other Technology
+
+Handheld e-paper computer:  
+[Beepy](https://beepy.sqfmi.com/)

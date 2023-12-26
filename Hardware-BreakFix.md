@@ -33,6 +33,9 @@ Printer:
 Scanners/TWAIN devices:  
 [TWACKER⊞■](https://www.dynamsoft.com/web-twain/docs/faq/How-to-use-TWACKER-to-check-if-your-device-is-TWAIN-Compliant.html),
 
+Touchscreen touch points:  
+[IsMyTouchScreenOK](https://softwareok.com/?seite=Microsoft%2FIsMyTouchScreenOK)
+
 ## Drivers: Peripherals
 
 Scanner drivers:  
@@ -51,18 +54,29 @@ Manage codec drivers and DirectShow filters:
 
 ## Testing: Peripherals - Video
 
+Configuration:  
+[ControlMyMonitor⊞■](https://www.nirsoft.net/utils/control_my_monitor.html)
+
+Direct monitor test:  
+[EIZO monitor test☁](https://www.eizo.be/monitor-test/)
+[IsMyLcdOK⊞■](https://softwareok.com/?seite=Microsoft%2FIsMyLcdOK)
+
 GPU/Graphics Card:  
 [FurMark⊞](https://www.geeks3d.com/furmark/),
 [GPU-Z⊞■](https://www.techpowerup.com/gpuz/)
 
-Screen - detect actual hertz:  
+Detect actual hertz:  
 [DisplayHz.com](https://www.displayhz.com/)
 
-Screen - backlight bleed test:  
+Backlight bleed test:  
 [Backlight Bleed Test](https://lightbleedtest.com/)
 
-Screen - VSYNC test:  
+VSYNC test:  
 [VSYNC synchronization tester](https://www.vsynctester.com/)
+
+EDID data:  
+[DumpEDID⊞■](https://www.nirsoft.net/utils/dump_edid.html),
+[MonitorInfoView⊞■](https://www.nirsoft.net/utils/monitor_info_view.html)
 
 ## Testing: Hard Drive
   
