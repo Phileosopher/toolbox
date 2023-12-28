@@ -10,7 +10,7 @@ Articles:
 ## Media-Based
 
 Everything-at-once:  
-[Facebook](https://www.facebook.com/),
+[Facebook🧛](https://www.facebook.com/),
 [Gab](https://gab.com/)
 
 Text/post feed:  
@@ -18,6 +18,7 @@ Text/post feed:
 [Minds](https://www.minds.com/)
 
 Topical forums:  
+[Reddit🧛](https://reddit.com),
 [Lemmy☁🍎🤖](https://join-lemmy.org/),
 [The Something Awful Forums](https://forums.somethingawful.com/)
 

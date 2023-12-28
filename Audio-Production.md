@@ -101,7 +101,7 @@ Chiptune:
 [Ardour⊞⌘🐧](https://www.ardour.org/),
 [Audacity⊞■⌘🐧](https://www.audacityteam.org/) (with [Wavacity☁](https://wavacity.com/) as a web-based port or [Tenacity](https://tenacityaudio.org/) without any tracking),
 [Audio Recorder☁](https://webbrowsertools.com/audio-recorder/),
-[Bitwig$⊞⌘🐧](https://www.bitwig.com/)
+[Bitwig$⊞⌘🐧](https://www.bitwig.com/),
 [Cakewalk by BandLab⊞](https://www.bandlab.com/products/cakewalk) (with [MenuMagic Details](https://www.agitatedstate.com/html/menumagic.php) as plugin manager),
 [LMMS⊞■⌘🐧](https://lmms.io/),
 [WavePad](https://www.nch.com.au/wavepad/index.html)

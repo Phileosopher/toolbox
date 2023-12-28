@@ -79,7 +79,7 @@ EDID data:
 [MonitorInfoView⊞■](https://www.nirsoft.net/utils/monitor_info_view.html)
 
 ## Testing: Hard Drive
-  
+
 [SSD-Z⊞■](http://aezay.dk/aezay/ssdz/),
 [CrystalDiskMark⊞■](https://crystalmark.info/en/software/crystaldiskmark/)
 

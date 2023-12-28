@@ -93,7 +93,7 @@ Journal reviews:
 [SJR](https://www.scimagojr.com/journalrank.php)
 
 Journal reviews - find abstract:  
-[Journal / Author Name Estimator](https://jane.biosemantics.org/)
+[Journal/Author Name Estimator](https://jane.biosemantics.org/)
 
 Journal reviews - predatory journals and publishers:  
 [Beall's List](https://beallslist.net/)
