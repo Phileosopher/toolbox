@@ -79,6 +79,7 @@ Synthesizer:
 [Cursynth□](https://www.gnu.org/software/cursynth/),
 [SongWish reMIDI 2⌘](https://filecr.com/macos/songwish-remidi2/),
 [Synth1⊞](https://daichilab.sakura.ne.jp/softsynth/index.html),
+[XSound.app☁](https://xsound.app/),
 [ZynAddSubFX](https://zynaddsubfx.sourceforge.io/) (and its fork [Yoshimi](https://yoshimi.sourceforge.io/))
 
 ## Accompaniment

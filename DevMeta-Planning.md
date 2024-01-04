@@ -10,6 +10,9 @@ Possible projects/practice💩:
 Possible projects/practice - Rust💩:  
 [not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust)
 
+Possible projects/practice - FLOSS💩:  
+[best-of-open-source-projects](https://github.com/nicohaenggi/best-of-open-source-projects)
+
 Tutorials:  
 [Build Your Own X*](https://github.com/codecrafters-io/build-your-own-x)
 

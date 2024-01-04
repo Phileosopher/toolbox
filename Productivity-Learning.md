@@ -5,6 +5,8 @@ Textbook answers:
 
 ## General Learning
 
+[LearnAwesome](https://learnawesome.org/)
+
 Related concepts:  
 [Learn Anything☁](https://learn-anything.xyz/)
 

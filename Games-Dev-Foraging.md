@@ -1,9 +1,20 @@
 # Games: Development - Foraging
 
+[awesome-gamedev💩](https://github.com/Calinou/awesome-gamedev),
+[magictools💩](https://github.com/ellisonleao/magictools)
+
+Web-based games💩:  
+[Newgrounds Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources),
+[Web Game Dev](https://www.webgamedev.com/)
+
+## Learning
+
+[awesome-learn-gamedev💩](https://github.com/notpresident35/awesome-learn-gamedev),
+
 ## Source Code
 
 Open-source game lists💩:  
-[awesome-jsgames](https://github.com/proyecto26/awesome-jsgames)
+[awesome-jsgames](https://github.com/proyecto26/awesome-jsgames),
 [awesome-open-source-games](https://github.com/michelpereira/awesome-open-source-games),
 [OSGL](https://trilarion.github.io/opensourcegames/),
 [Open Source Game Clones](https://osgameclones.com/),
