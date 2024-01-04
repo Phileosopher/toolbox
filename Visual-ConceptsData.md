@@ -39,7 +39,6 @@ Wireframe kits:
 [Mockup World](https://www.ls.graphics/free-mockups)
 [morflax things☁](https://things.morflax.com/),
 [Screely☁](https://www.screely.com/),
-[Threed.io☁](https://threed.io/),
 [Web App Mockups (Figma)⇉](https://www.figma.com/community/file/945035983482109746)
 
 Devices:  

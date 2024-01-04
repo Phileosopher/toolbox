@@ -172,6 +172,9 @@ Compatibility settings:
 .NET assembly viewer alternative:  
 [GACView■](https://www.nirsoft.net/dot_net_tools/gac_viewer.html)
 
+Microsoft Visual C++ debloat:  
+[vcredist](https://github.com/abbodi1406/vcredist)
+
 ## Logs
 
 Event logs:  
