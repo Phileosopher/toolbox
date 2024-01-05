@@ -5,5 +5,8 @@ MEV:
 
 ## Ethereum
 
-Gas optimization:  
+Solidity:  
+[awesome-solidity💩](https://github.com/bkrem/awesome-solidity)
+
+Solidity gas optimization:  
 [awesome-solidity-gas-optimization💩](https://github.com/0xisk/awesome-solidity-gas-optimization)

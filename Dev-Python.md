@@ -15,7 +15,7 @@ Diagrams-as-code:
 
 ## Compiling
 
-[PyInstaller](https://pyinstaller.org/en/stable/)
+[PyInstaller](https://pyinstaller.org/)
 
 ## Text Conversion
 

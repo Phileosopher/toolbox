@@ -5,19 +5,26 @@
 Visual novels:  
 [Ren'Py](https://www.renpy.org/)
 
-Web games:  
-[Taro(JS)](https://www.echou.xyz/taro/)
+Web game engine - JS:  
+[Taro](https://www.echou.xyz/taro/)
 
-2D engines:  
-[Construct(JS)](https://www.construct.net/en),
-[LÖVE(Lua)](https://love2d.org/),
-[Pygame(Python)](https://www.pygame.org/)
+Web game engine - HTML5:  
+[Phaser](https://phaser.io/),
+[PlayCanvas](https://playcanvas.com/)
+
+2D engine - JS:  
+[Construct](https://www.construct.net/en)
+
+2D engine - Lua:  
+[LÖVE](https://love2d.org/) (with [awesome-love2d](https://github.com/love2d-community/awesome-love2d))
+
+2D engine - Python:  
+[Pygame](https://www.pygame.org/)
 
 3D engines:  
 [Flax🆓](https://flaxengine.com/),
-[Godot Engine](https://godotengine.org/),
+[Godot Engine🆓](https://godotengine.org/) (with [awesome-godot](https://github.com/godotengine/awesome-godot)),
 [Source SDK🆓](https://developer.valvesoftware.com/wiki/SDK_Installation),
-[Unreal Engine](https://www.unrealengine.com/)
 
 RTS:  
 [permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine)
@@ -31,25 +38,16 @@ RPG:
 [PhysicsEditor](https://www.codeandweb.com/physicseditor)
 
 GPU API:  
-[Vulkan🔌](https://www.khronos.org/vulkan/)
-
-Game engine - HTML5:  
-[PlayCanvas](https://playcanvas.com/)
+[Vulkan🔌](https://www.khronos.org/vulkan/) (with [Vulkan Guide](https://github.com/mikeroyal/Vulkan-Guide))
 
 ## Specific Elements
 
 Dungeon generator:  
 [DunGen☁](https://dungen.app/dungen/)
 
-Photorealistic humans (Unreal Engine only):  
-[MetaHumans](https://www.unrealengine.com/en-US/digital-humans)
-
 Sprite downscaling:  
 [TexturePacker⊞⌘🐧](https://www.codeandweb.com/texturepacker),
 [TexturePacker3D⊞⌘🐧](https://www.codeandweb.com/texturepacker3d)
-
-Foraging:  
-[OpenGameArt.org](https://opengameart.org/)
 
 ## Publishing
 

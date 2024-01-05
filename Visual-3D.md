@@ -7,7 +7,12 @@
 [Spline☁](https://spline.design/),
 [VTK🐧](https://vtk.org/)
 
-Advanced modeling:  
+3D creation and integration:  
+[Unreal Engine](https://www.unrealengine.com/) (with [Unreal Engine Guide](https://github.com/mikeroyal/Unreal-Engine-Guide))
+
+## Specific Modeling
+
+Advanced CAD modeling:  
 [BRL-CAD](https://brlcad.org/),
 [DesignSpark Mechanical](https://www.rs-online.com/designspark/home),
 [OpenSCAD](https://openscad.org/),
@@ -22,6 +27,9 @@ Voxel art renderer:
 
 Block patterns (by manipulating shadows):  
 [Sombras.app☁](https://sombras.app/)
+
+Photorealistic humans (Unreal Engine only):  
+[MetaHumans](https://www.unrealengine.com/en-US/digital-humans)
 
 VR environments:  
 [LÖVR⊞⌘🐧🍎](https://lovr.org/)
