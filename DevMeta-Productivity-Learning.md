@@ -1,11 +1,5 @@
 # Software Development: Productivity Improvement - Learning
 
-Broad piles of CS/tech learning resources💩:  
-[best-of-generator□](https://github.com/best-of-lists/best-of-generator), [best-of-lists](https://github.com/best-of-lists/best-of),
-[curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources),
-[Helpful-Tech-Resources](https://github.com/lovelacecoding/Helpful-Tech-Resources),
-[Resources](https://github.com/birdbee44/Resources), [resources](https://bycorsanchez.github.io/resources/), [resources](https://codechefvit.github.io/resources/), [Resources](https://progdisc.club/resources/), [resources](https://github.com/IEEE-VIT/resources), [resources](https://iiitv.github.io/resources/), [resources](https://github.com/kewishfagoe/resources), [Resources](https://github.com/lzhbrian/Resources)
-
 Coding tests/certifications:  
 [CodeSignal☁](https://codesignal.com/),
 [freeCodeCamp☁](https://www.freecodecamp.org/)

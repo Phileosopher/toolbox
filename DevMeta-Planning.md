@@ -32,10 +32,17 @@ Researching software:
 [Free for developers](https://free-for.dev/),
 [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)
 
-## Piles of Dev Tools💩
+## Broad Piles of Dev Tools💩
 
-[awesome](https://github.com/sindresorhus/awesome)
-[Awesome Resources](https://shahednasser.github.io/awesome-resources/)
+[awesome](https://github.com/sindresorhus/awesome) (with [Awesome Search](https://awesomelists.top/) and [GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)),
+[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness),
+[Awesome Resources](https://shahednasser.github.io/awesome-resources/),
+[best-of-generator□](https://github.com/best-of-lists/best-of-generator), [best-of-lists](https://github.com/best-of-lists/best-of),
+[curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources),
+[generated-awesomeness](https://github.com/orsinium-labs/generated-awesomeness),
+[Helpful-Tech-Resources](https://github.com/lovelacecoding/Helpful-Tech-Resources),
+[lists](https://github.com/jnv/lists),
+[Resources](https://github.com/birdbee44/Resources), [resources](https://bycorsanchez.github.io/resources/), [resources](https://codechefvit.github.io/resources/), [Resources](https://progdisc.club/resources/), [resources](https://github.com/IEEE-VIT/resources), [resources](https://iiitv.github.io/resources/), [resources](https://github.com/kewishfagoe/resources), [Resources](https://github.com/lzhbrian/Resources)
 
 Zero-config tools:  
 [awesome-toolkits](https://github.com/reyronald/awesome-toolkits)

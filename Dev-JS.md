@@ -1,7 +1,14 @@
 # Software Development - JavaScript
 
-Node package manager:  
+## Package Manager
+
+Node:  
 [npm](https://www.npmjs.com/)
+
+## Optimization - Dependencies
+
+Pre-configured dependency management:  
+[scaffy](https://www.npmjs.com/package/@olaolum/scaffy)
 
 ## Optimization - Syntactic Sugar
 
@@ -16,7 +23,19 @@ JSON:
 
 ## TypeScript
 
-[Dev resources](https://github.com/dzharii/awesome-typescript)
+Syntax-based types:  
+[TypeScript](https://www.typescriptlang.org/)
+
+Quick editor:  
+[TS Playground](https://www.typescriptlang.org/play)
+
+Ideas💩:  
+[awesome-typescript-projects](https://github.com/brookshi/awesome-typescript-projects)
+
+TypeScript resources💩:  
+[awesome-typescript](https://github.com/dzharii/awesome-typescript),
+[awesome-typescript](https://github.com/lauris/awesome-typescript),
+[awesome-typescript-ecosystem](https://github.com/itsdouges/awesome-typescript-ecosystem)
 
 ## Testing/Debugging
 

@@ -7,6 +7,10 @@ Network emulation:
 [Cisco's Packet Tracer](https://learningnetwork.cisco.com/s/packet-tracer-alternative-lab-solutions),
 [SolarWinds' GNS3 Network Emulator](https://www.solarwinds.com/free-tools/gns3-network-emulator)
 
+## L1 Physical
+
+[FCC National Broadband Map](https://broadbandmap.fcc.gov/)
+
 ## L1 Physical - Hardware
 
 IP camera:  
@@ -21,26 +25,35 @@ WLAN adapter - tracking:
 WLAN adapter - history:  
 [WifiHistoryView⊞■](https://www.nirsoft.net/utils/wifi_history_view.html)
 
-Mobile bandwidth reference:  
-[FCC Online Table of Frequency Allocations*](https://transition.fcc.gov/oet/spectrum/table/fcctable.pdf),
-[United States Frequency Allocation Chart*](https://www.ntia.doc.gov/page/2011/united-states-frequency-allocation-chart)
+Mobile bandwidth reference*:  
+[FCC Online Table of Frequency Allocations](https://transition.fcc.gov/oet/spectrum/table/fcctable.pdf),
+[United States Frequency Allocation Chart](https://www.ntia.doc.gov/page/2011/united-states-frequency-allocation-chart)
 
-Mobile network monitoring:  
+Datacenter/infrastructure - map:  
+[Infrapedia](https://www.infrapedia.com/)
+
+Mobile networks - monitoring:  
 [MobileAtlas](https://mobileatlas.eu/)
 
 Mobile networks - MNO location:  
 [CellMapper](https://www.cellmapper.net/Index),
+[API mylnikov.org🔌](https://www.mylnikov.org/),
+[nPerf 3G/4G/5G coverage in United States](https://www.nperf.com/en/map/),
+[Unwired Labs' OpenCelliD](https://opencellid.org/),
 [OpenSignal🍎🤖](https://www.opensignal.com/apps),
 [SCADACore's Cell Tower Map - Canada](https://www.scadacore.com/tools/rf-path/cell-tower-map-canada/),
-[SCADACore's Cell Tower Map - United States](https://www.scadacore.com/tools/rf-path/cell-tower-map-united-states/)
+[SCADACore's Cell Tower Map - United States](https://www.scadacore.com/tools/rf-path/cell-tower-map-united-states/),
+[Spectrum Omega - US](https://specmap.sequence-omega.net/)
 
 Mobile networks - MVNO parent networks:
 [MVNO List](https://bestmvno.com/mvnos/)
 
-WLAN map:  
+WLAN - map:  
+[geowifi□](https://github.com/GONZOsint/geowifi),
+[Vistumbler WiFiDB](https://wifidb.net/wifidb/index.php),
 [WiGLE☁](https://wigle.net/)
 
-WLAN scanner:  
+WLAN - scanner:  
 [inSSIDer](https://www.metageek.com/inssider/),
 [Kismet](https://www.kismetwireless.net/),
 [NetSpot⊞⌘🤖](https://www.netspotapp.com/),
