@@ -80,6 +80,12 @@ Strip HTML from a file:
 HTML to Markdown:  
 [HTML To MD☁](https://htmltomd.com/)
 
+Swap out synonyms:  
+[text-regenerator🐍](https://github.com/jddunn/text-regenerator)
+
+Add typgraphical errors:  
+[typoer🐍](https://github.com/georgetian3/typoer)
+
 ## Text File Conversion
 
 [Convertio's Ebook Converter☁](https://convertio.co/ebook-converter/),

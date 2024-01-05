@@ -60,7 +60,8 @@ Search - public domain books:
 [The Project Gutenberg Open Audiobook Collection](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)
 
 Audiobook management:  
-[audiobookshelf💾](https://www.audiobookshelf.org/)
+[audiobookshelf💾](https://www.audiobookshelf.org/),
+[Booksonic](https://booksonic.org/)
 
 Audible AAX file conversion:  
 [AAXtoMP3](https://krumpetpirate.github.io/AAXtoMP3/)

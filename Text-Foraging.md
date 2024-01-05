@@ -9,13 +9,15 @@ Book search/archive:
 [Google Books🧛](https://books.google.com/),
 [Google Play Free Books🧛](https://play.google.com/store/books/collection/topselling_free),
 [HathiTrust Digital Library](https://www.hathitrust.org/),
+[Memory of the World Library](https://library.memoryoftheworld.org/),
 [OceanofPDF](https://oceanofpdf.com/),
 [PDF Room](https://pdfroom.com/),
 [UPenn's The Online Books Page](https://onlinebooks.library.upenn.edu/)
 
 Public domain content:  
 [Authorama](http://authorama.com/),
-[Bibliomania](http://www.bibliomania.com/)
+[Bibliomania](http://www.bibliomania.com/),
+[Global Grey ebooks](https://www.globalgreyebooks.com/)
 
 Religion/philosophy:  
 [isidore](https://isidore.co/)
@@ -25,12 +27,6 @@ Short stories:
 
 Sci-fi/fantasy stories:  
 [Free Speculative Fiction Online](https://www.freesfonline.net/)
-
-Academic search engine:  
-[Google Scholar🧛](https://scholar.google.com/),
-[iSEEK Education (old)](https://education.iseek.com/iseek/home.page),
-[iSEEK Education (new)](https://education.iseek.com/),
-[RefSeek](https://www.refseek.com/)
 
 Blogs:  
 [Blogarama](https://www.blogarama.com/),
@@ -45,11 +41,6 @@ Regional outlets:
 Publications generally excluded from American mainstream media:  
 [The Unz Review☁](https://www.unz.com/print/All/)
 
-Journalistic investigation:  
-[OCCRP Aleph☁](https://aleph.occrp.org/),
-[Poliscoops☁](https://poliscoops.eu/),
-[ProCon.org](https://www.procon.org/)
-
 ## History
 
 Formal libraries:  
@@ -62,8 +53,7 @@ Formal libraries:
 
 Informal libraries:  
 [Free Online Library](https://www.thefreelibrary.com/),
-[Library Genesis](https://libgen.is/),
-[Open Library](https://openlibrary.org/)
+[Open Library🔌](https://openlibrary.org/)
 
 Genealogical archives:  
 [Forebears](https://forebears.io/),
@@ -114,6 +104,9 @@ Research papers/data - search engine:
 [Dimensions](https://app.dimensions.ai/discover/publication),
 [Dissertation.com](https://dissertation.com/),
 [Get The Research](https://gettheresearch.org/),
+[Google Scholar🧛](https://scholar.google.com/),
+[iSEEK Education (old)](https://education.iseek.com/iseek/home.page),
+[iSEEK Education (new)](https://education.iseek.com/),
 [RefSeek](https://www.refseek.com/),
 [ResearchGate Search](https://www.researchgate.net/search/),
 [Scilit](https://www.scilit.net/)

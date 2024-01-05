@@ -1,10 +1,17 @@
 # Text: Automation/NLP
 
+Generator💩:  
+[Cool Generator](https://www.coolgenerator.com/),
+[DataFakeGenerator](https://datafakegenerator.com/)
+[Random ize](https://random-ize.com/),
+[Random Lists](https://www.randomlists.com/)
+
 ## Name Generators
 
 [Chaotic Shiny☁](https://www.chaoticshiny.com/),
 [Cult of Squid's Random Name Generator☁](https://squid.org/rpg-random-generator),
 [Darkest of Nights☁](https://www.darkestofnights.com/gens.php),
+[donjon☁](https://donjon.bin.sh/),
 [Eposic Generators☁](https://www.trollmystic.com/pub/category/generators/),
 [Fantasy name generators☁](https://www.fantasynamegenerators.com/),
 [Fantasy Name Generator☁](https://donjon.bin.sh/fantasy/name/),
@@ -52,17 +59,6 @@ Document data:
 
 Document data - invoices:  
 [InvoiceNet](https://github.com/naiveHobo/InvoiceNet)
-
-## Text Placeholder APIs
-
-Quotes:  
-[Quotes API from They Said So🔌](https://theysaidso.com/api/)
-
-Jokes:  
-[JokeAPI🔌](https://jokeapi.dev/)
-
-Chuck Norris jokes:  
-[Chuck Norris Jokes Api🔌](https://api.chucknorris.io/)
 
 ## Content Auto-Migration
 

@@ -4,8 +4,8 @@ Cheatsheets:
 [DevDocs API Documentation](https://devdocs.io/)
 
 Public-access APIs💩:  
-[Public-APIs](https://github.com/n0shake/Public-APIs)
-[public-apis⦿](https://github.com/public-apis/public-apis)
+[Public-APIs](https://github.com/n0shake/Public-APIs),
+[public-apis⦿](https://github.com/public-apis/public-apis),
 [Public APIs⦿](https://public-apis.io/),
 
 Unofficial APIs💩:  
@@ -13,3 +13,15 @@ Unofficial APIs💩:
 
 Video calling:  
 [Whereby](https://whereby.com/)
+
+## Placeholders
+
+Quotations:  
+[quotable](https://github.com/lukePeavey/quotable#get-random-quotes),
+[They Said So](https://theysaidso.com/api)
+
+Jokes:  
+[JokeAPI](https://jokeapi.dev/)
+
+Chuck Norris jokes:  
+[Chuck Norris Jokes Api](https://api.chucknorris.io/)

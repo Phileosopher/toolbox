@@ -24,7 +24,6 @@ DjVu:
 [WinDjView/MacDjView⊞■⌘](https://windjview.sourceforge.io/)
 
 PDF/ePub/MOBI:  
-[Alexandria⊞■⌘🐧](https://github.com/btpf/Alexandria),
 [Foliate🐧](https://johnfactotum.github.io/foliate/),
 [Sumatra⊞■](https://www.sumatrapdfreader.org/free-pdf-reader.html),
 [TUI Ebook Reader□](https://github.com/wustho/baca)
@@ -38,8 +37,8 @@ MOBI reader:
 ## Media Managers
 
 Ebooks:  
-[Alexandria⊞■⌘🐧](https://github.com/btpf/Alexandria)
-[calibre⊞■⌘🐧🍎🤖💾](https://calibre-ebook.com/),
+[Alexandria⊞■⌘🐧](https://github.com/btpf/Alexandria),
+[calibre⊞■⌘🐧🍎🤖💾](https://calibre-ebook.com/) (with [calibre-web](https://github.com/janeczku/calibre-web) for web-based viewing or [COPS](https://blog.slucas.fr/projects/calibre-opds-php-server/) for PHP server),
 [Kavita💾](https://www.kavitareader.com/),
 [Librum](https://librumreader.com/)
 

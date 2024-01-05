@@ -2,6 +2,9 @@
 
 ## AWS🧛
 
+Learning and certifications:  
+[awesome-aws-certifications💩](https://github.com/ptcodes/awesome-aws-certifications)
+
 Services explained:  
 [Amazon Web Services (explained on one line each)*](https://adayinthelifeof.nl/2020/05/20/aws.html),
 [Amazon Web Services In Plain English*](https://expeditedsecurity.com/aws-in-plain-english/)
