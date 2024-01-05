@@ -1,4 +1,4 @@
-# Front-End Development: Planning
+# Front-End Software Development: Planning
 
 Checklist:  
 [Front-End Checklist☁](https://frontendchecklist.io/),

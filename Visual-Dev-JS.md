@@ -1,4 +1,4 @@
-# Software Development: JavaScript Front-End
+# Front-End Software Development: JavaScript
 
 ## Foraging/Inspiration
 

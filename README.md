@@ -75,7 +75,7 @@ Of course, that's not _always_ true:
 
 However, the largest mental wall for most people is knowing a tool even _exists_. If someone knows another human already did it, we know it's possible. It's much harder accomplishing what everyone thinks is impossible.
 
-For brevity's sake, I try to gloss over a few groups:
+For brevity's sake, I try to bias against a few groups:
 
 - The built-in tools. If I need them, they're in the computer already, and if it's that important I'll reference them on [my tech essays](https://trendless.tech).
 - Most [mega-corp](https://gainedin.site/groups-large) tools. They already pay for plenty of [advertising](https://notageni.us/marketing/) and are _literally_ the first thing on a search engine.

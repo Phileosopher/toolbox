@@ -2,9 +2,10 @@
 
 ## Font Inspiration
 
-Font search:  
+Font search/identification:  
 [Fontspring Matcherator☁](https://www.fontspring.com/matcherator),
-[Font Squirrel's Font Identifier☁](https://www.fontsquirrel.com/matcherator)
+[Font Squirrel's Font Identifier☁](https://www.fontsquirrel.com/matcherator),
+[Identifont](http://www.identifont.com/)
 
 Font search (from a file):  
 [FontDrop!☁](https://fontdrop.info/)
@@ -15,8 +16,8 @@ Font pairing:
 Formatting:  
 [Archetype☁](https://archetypeapp.com)
 
-Examples:  
-[FontSpark*](https://fontspark.app/), [Font Flipper*](https://fontflipper.com/upload), [Fonts In Use*](https://fontsinuse.com/),
+Font Examples:  
+[FontSpark*](https://fontspark.app/), [Font Flipper*](https://fontflipper.com/), [Fonts In Use*](https://fontsinuse.com/),
 [Type Anything☁](https://app.typeanything.io/)
 
 Pairing:  

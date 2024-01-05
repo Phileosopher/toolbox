@@ -1,4 +1,4 @@
-# Visual: Software Development - Foraging
+# Front-End Software Development: Foraging
 
 ## User Interface
 

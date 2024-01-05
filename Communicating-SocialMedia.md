@@ -1,10 +1,10 @@
-# Communicating: Social Media
+# Communicating: Social Media☁
 
 ## Removing Paywalls
 
 Articles:  
-[Wayback Machine☁](https://archive.org/web/) (quickly save with [the official plugin⇉](https://github.com/internetarchive/wayback-machine-webextension) or a [third-party one⇉](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine)),
-[Webpage archive☁](https://archive.today/),
+[Wayback Machine](https://archive.org/web/) (quickly save with [the official plugin⇉](https://github.com/internetarchive/wayback-machine-webextension) or a [third-party one⇉](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine)),
+[Webpage archive](https://archive.today/),
 [Web Archives⇉](https://github.com/dessant/web-archives)
 
 ## Media-Based
@@ -14,27 +14,31 @@ Everything-at-once:
 [Gab](https://gab.com/)
 
 Text/post feed:  
-[Mastodon☁🍎🤖🕵️](https://joinmastodon.org/),
+[Mastodon🍎🤖🕵️](https://joinmastodon.org/),
 [Minds](https://www.minds.com/)
 
 Topical forums:  
 [Reddit🧛](https://reddit.com),
-[Lemmy☁🍎🤖](https://join-lemmy.org/),
+[Lemmy🍎🤖](https://join-lemmy.org/),
 [The Something Awful Forums](https://forums.somethingawful.com/)
 
+Topical forums - CS-based:  
+[awesome-subreddits💩](https://github.com/iCHAIT/awesome-subreddits)
+
 Videos/images:  
-[Pixelfed☁🍎🤖🕵️](https://pixelfed.org/)
+[Pixelfed🍎🤖🕵️](https://pixelfed.org/)
 
 Videos:  
-[BitChute☁](https://www.bitchute.com/),
-[Odysee☁](https://odysee.com/),
-[PeerTube☁](https://joinpeertube.org/),
-[Vimeo☁](https://vimeo.com/watch)
+[BitChute](https://www.bitchute.com/),
+[Dailymotion](https://www.dailymotion.com/),
+[Odysee](https://odysee.com/),
+[PeerTube](https://joinpeertube.org/),
+[Vimeo](https://vimeo.com/watch)
 
 Images:  
 [9GAG](https://9gag.com/),
 [Flickr](https://www.flickr.com/),
-[Pinterest☁🍎🤖](https://pinterest.com)
+[Pinterest🍎🤖](https://pinterest.com)
 
 Blog posts/articles:  
 [Medium](https://medium.com/)
@@ -58,14 +62,14 @@ Simultaneous chat - topic search:
 
 ## Creator-Based
 
-[Behance☁🍎](https://www.behance.net/),
-[Dribbble☁🍎🤖](https://dribbble.com/)
+[Behance🍎](https://www.behance.net/),
+[Dribbble🍎🤖](https://dribbble.com/)
 
 Video multicast:  
-[Restream☁⇉](https://restream.io/)
+[Restream⇉](https://restream.io/)
 
 Shared screen experience:  
-[Kosmi☁](https://kosmi.io/)
+[Kosmi](https://kosmi.io/)
 
 Cross-platform influencer following:  
 [Fraidycat⇉⊞⌘🐧](https://fraidyc.at/)
@@ -79,8 +83,8 @@ Films:
 [Letterboxd](https://letterboxd.com/)
 
 Board games:  
-[BoardGameGeek☁](https://www.boardgamegeek.com/),
-[DriveThruCards.com☁](https://www.drivethrucards.com/)
+[BoardGameGeek](https://www.boardgamegeek.com/),
+[DriveThruCards.com](https://www.drivethrucards.com/)
 
 Scientific research:  
 [ResearchGate](https://www.researchgate.net/)
@@ -136,7 +140,7 @@ Quora:
 
 Reddit:  
 [Geddit🤖](https://kaangiray26.github.io/geddit-app/),
-[Teddit☁](https://teddit.net/)
+[Teddit](https://teddit.net/)
 
 Reddit - map:  
 [Map of Reddit](https://www.mapofreddit.com/)
@@ -195,7 +199,7 @@ Private data tracking:
 [Rita🍎🤖](https://ritapersonaldata.com/)
 
 Automatic data opt-out:  
-[incogni☁](https://incogni.com/)
+[incogni](https://incogni.com/)
 
 ## Social Media Tracking/Saving
 

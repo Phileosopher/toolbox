@@ -1,7 +1,8 @@
 # Files/OS: Mac-Specific⌘
 
 Piles of everything💩:  
-[awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
+[awesome-macOS](https://github.com/iCHAIT/awesome-macOS),
+[awesome-macos](https://github.com/phmullins/awesome-macos)
 
 Mac-based cybersecurity:  
 [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome),

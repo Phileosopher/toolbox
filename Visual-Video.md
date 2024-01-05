@@ -34,8 +34,6 @@ Machine-learning-enhanced editing:
 Team editing:  
 [Motionbox☁](https://motionbox.io/)
 
-File conversion/recording:  
-[FFmpeg⊞⌘🐧□🆓](https://www.ffmpeg.org/)
 
 Synchronize subtitles with video:  
 [FFsubsync🐧□](https://github.com/smacke/ffsubsync)
@@ -71,7 +69,7 @@ Math animations:
 
 [Hybrid](https://www.selur.de/)
 
-Convert video:  
+Video transcoder:  
 [DamnVid⊞■](https://damnvid.en.softonic.com/),
 [HandBrake⊞⌘🐧](https://handbrake.fr/),
 [TEncoder Video Converter⊞■](https://www.fosshub.com/TEncoder-Video-Converter.html),
