@@ -1,4 +1,4 @@
-# Software Development: Productivity Improvement - IDEs
+# Software Development & CS: Productivity Improvement - IDEs
 
 [Apache NetBeans⊞⌘🐧](https://netbeans.org/),
 [GNU Emacs⊞⌘🐧](https://www.gnu.org/software/emacs/),

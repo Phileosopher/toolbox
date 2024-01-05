@@ -1,4 +1,4 @@
-# Software Development: Planning
+# Software Development & CS: Planning
 
 ## Inspiration
 
@@ -36,6 +36,7 @@ Researching software:
 
 [awesome](https://github.com/sindresorhus/awesome) (with [Awesome Search](https://awesomelists.top/) and [GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)),
 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness),
+[awesome](https://github.com/cn-80/awesome),
 [Awesome Resources](https://shahednasser.github.io/awesome-resources/),
 [best-of-generator□](https://github.com/best-of-lists/best-of-generator), [best-of-lists](https://github.com/best-of-lists/best-of),
 [curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources),

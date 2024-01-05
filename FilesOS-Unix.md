@@ -8,6 +8,9 @@ New Linux installation:
 Microsoft-familiar Linux:  
 [Zorin🐧](https://zorin.com/)
 
+Most stable everyday distro:  
+[Fedora Linux Workstation](https://fedoraproject.org/workstation/)
+
 ## Process Issues
 
 Process monitor:  

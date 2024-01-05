@@ -1,4 +1,4 @@
-# Software Development: Miscellaneous APIs 🔌
+# Software Development & CS: Miscellaneous APIs 🔌
 
 Cheatsheets:  
 [DevDocs API Documentation](https://devdocs.io/)

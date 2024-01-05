@@ -8,6 +8,7 @@ Book search/archive:
 [Anna’s Archive](https://annas-archive.org/),
 [Google Books🧛](https://books.google.com/),
 [Google Play Free Books🧛](https://play.google.com/store/books/collection/topselling_free),
+[HathiTrust Digital Library](https://www.hathitrust.org/),
 [OceanofPDF](https://oceanofpdf.com/),
 [PDF Room](https://pdfroom.com/),
 [UPenn's The Online Books Page](https://onlinebooks.library.upenn.edu/)

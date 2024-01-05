@@ -1,4 +1,4 @@
-# Software Development: Miscellaneous AI/Machine Learning
+# Software Development & CS: Miscellaneous AI/Machine Learning
 
 [Awesome-Imitation-Learning](https://github.com/kristery/Awesome-Imitation-Learning)
 

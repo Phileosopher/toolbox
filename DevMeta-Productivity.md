@@ -1,4 +1,4 @@
-# Software Development: Productivity Improvement
+# Software Development & CS: Productivity Improvement
 
 Gigantic lists of tools💩:  
 [andou tech-resources](https://andou.github.io/tech-resources/)

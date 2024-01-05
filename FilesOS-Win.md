@@ -262,6 +262,9 @@ Update automation:
 
 ## Cleanup
 
+Startup programs:  
+[Autoruns■](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
+
 Disk usage:  
 [WinDirStat■](https://windirstat.net/),
 [WizTree■](https://wiztreefree.com/)

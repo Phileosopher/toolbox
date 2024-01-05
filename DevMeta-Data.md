@@ -1,4 +1,4 @@
-# Software Development: Data Management
+# Software Development & CS: Data Management
 
 [data-tools💩](https://github.com/victorcouste/data-tools)
 
