@@ -31,6 +31,7 @@ Videos/images:
 Videos:  
 [BitChute](https://www.bitchute.com/),
 [Dailymotion](https://www.dailymotion.com/),
+[Facebook Live🧛](https://www.facebook.com/watch/live/),
 [Odysee](https://odysee.com/),
 [PeerTube](https://joinpeertube.org/),
 [Vimeo](https://vimeo.com/watch)

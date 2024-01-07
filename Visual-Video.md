@@ -8,32 +8,25 @@ Recording/streaming video:
 [Video Recorder☁](https://webbrowsertools.com/video-recorder/),
 [VirtualDub⊞■](https://sourceforge.net/projects/virtualdub/)
 
-Church events:  
-[OpenLP⊞⌘🐧](https://openlp.org/)
-
 Ideal video cameras:  
 [Netflix's approved cameras*](https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture)
-
-Camera search:  
-[EarthCam](https://www.earthcam.com/)
 
 ## Editing
 
 [DaVinci Resolve⊞⌘🐧](https://www.blackmagicdesign.com/products/davinciresolve/),
 [Kdenlive⊞■⌘🐧](https://kdenlive.org/),
-[Motionbox☁](https://motionbox.io/),
 [Shotcut🐧](https://www.shotcut.org/),
 [Story Creator☁](https://storycreatorapp.com/)
 
 Lossless editing:  
 [lossless-cut](https://github.com/mifi/lossless-cut)
 
-Machine-learning-enhanced editing:  
-[Runway☁](https://runwayml.com/)
-
 Team editing:  
-[Motionbox☁](https://motionbox.io/)
+[Motionbox☁🤝](https://motionbox.io/)
 
+Subtitles download:  
+[Bazarr (for Sonarr and Radarr)💾](https://www.bazarr.media/),
+[vlsub⇉](https://github.com/exebetche/vlsub)
 
 Synchronize subtitles with video:  
 [FFsubsync🐧□](https://github.com/smacke/ffsubsync)

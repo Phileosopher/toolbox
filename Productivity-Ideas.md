@@ -51,6 +51,10 @@ Venn Diagrams:
 [Good Calculators' Venn Diagram Maker☁](https://goodcalculators.com/venn-diagram-maker/),
 [Venngage☁](https://venngage.com/features/venn-diagram-maker)
 
+Collaborative note-taking🤝:  
+[Etherpad⊞](https://etherpad.org/),
+[Firepad](https://firepad.io/)
+
 ## Text Notes
 
 Quick notes/sporadic:  

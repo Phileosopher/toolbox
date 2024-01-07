@@ -42,6 +42,12 @@ Word processor:
 Distraction-free writing:  
 [Cold Turkey Writer⊞](https://getcoldturkey.com/writer/)
 
+Academic needs🤝:  
+[Fidus Writer](https://www.fiduswriter.org/)
+
+LaTeX🤝:  
+[Overleaf](https://www.overleaf.com/)
+
 ## Specific Word Processing
 
 Simplified language:  

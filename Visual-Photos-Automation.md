@@ -14,11 +14,7 @@ AI-generated faces:
 [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 
 AI-generated movie posters:  
-[This Movie Does Not Exist](https://thismoviedoesnotexist.org/movie/unique-presence-1)
-
-AI photo editing:  
-[Hotpot.ai](https://hotpot.ai/tools),
-[Lunacy⊞⌘🐧](https://icons8.com/lunacy)
+[This Movie Does Not Exist](https://thismoviedoesnotexist.org/)
 
 AI emoji generator:  
 [AI Emojis☁](https://emoji.fly.dev/)

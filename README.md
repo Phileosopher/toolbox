@@ -122,6 +122,7 @@ It sometimes makes sense to clarify for context how something is used.
 - 🐍 - runs in Python
 - 🕵️ - helps with [trust issues](https://gainedin.site/trust/)
 - 🆓 - [FLOSS](https://trendless.tech/floss/)
+- 🤝 - designed for synergistically actualizing collaboratively (i.e., teamwork)
 - $ - requires paying at least some money
 - 🧛 - [FAANG](https://trendless.tech/faang) website (i.e., Amazon, Facebook, Microsoft)
 - 💩 - a recursed pile of stuff, curated by someone else

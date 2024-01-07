@@ -91,12 +91,3 @@ SMS messaging on PC:
 
 SMS breach notifications:  
 [Okey Monitor☁](https://okeymonitor.com/)
-
-## Collaboration/Productivity
-
-Project management:  
-[Zenkit☁](https://zenkit.com)
-
-Project management + collaboration:  
-[Focalboard⊞⌘🐧](https://www.focalboard.com/) (part of [Mattermost](https://mattermost.com/)),
-[Slack☁](https://slack.com/)

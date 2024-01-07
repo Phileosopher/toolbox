@@ -34,24 +34,10 @@ Email-based chat:
 Type when someone else is typing:  
 [slacktyping□](https://github.com/will/slacktyping)
 
-## Collaborative Office Suite
-
+Collaborative Office Suite:  
 [CryptPad.fr](https://cryptpad.fr/),
 [Nextcloud Office](https://nextcloud.com/office/),
 [ONLYOFFICE⊞🐧💾](https://www.onlyoffice.com/)
-
-Note-taking:  
-[Etherpad⊞](https://etherpad.org/),
-[Firepad](https://firepad.io/)
-
-Word processing - academic needs:  
-[Fidus Writer](https://www.fiduswriter.org/)
-
-Word processing - LaTeX:  
-[Overleaf](https://www.overleaf.com/)
-
-Spreadsheets:  
-[Framacalc](https://framacalc.org/),
 
 ## Meetings
 

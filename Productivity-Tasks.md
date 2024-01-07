@@ -104,3 +104,11 @@ Porn distraction:
 Memorization/flashcards:  
 [Mnemosyne⊞■⌘🐧🤖](https://mnemosyne-proj.org/),
 [Anki⊞⌘🐧🍎🤖](https://apps.ankiweb.net/)
+
+## Project Management
+
+[Zenkit☁](https://zenkit.com)
+
+Emphasis on collaboration:  
+[Focalboard⊞⌘🐧](https://www.focalboard.com/) (part of [Mattermost](https://mattermost.com/)),
+[Slack☁](https://slack.com/)

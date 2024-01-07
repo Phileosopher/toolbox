@@ -111,7 +111,7 @@ Minimalist DAW:
 [helio.fm⊞■⌘🐧](https://helio.fm/)
 [Composer's Sketchpad⌘🍎](http://composerssketchpad.com/)
 
-Collaborative works:  
+Collaborative works🤝:  
 [MusicMessages!🍎](http://musicmessages.io/)
 
 Chiptune - NES-style:  

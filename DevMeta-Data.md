@@ -51,6 +51,9 @@ Spreadsheets:
 Approximate Spreadsheets:  
 [Guesstimate☁](https://www.getguesstimate.com/)
 
+Collaborative spreadsheets🤝:  
+[Framacalc](https://framacalc.org/),
+
 ## Time Series Analysis
 
 [Demographic Analysis & Population Projection System (DAPPS) Software](https://www.census.gov/data/software/dapps.html),

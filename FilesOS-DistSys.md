@@ -83,6 +83,3 @@ Decentralized hosting:
 Indexing internet content:  
 [Jackett](https://github.com/Jackett/Jackett),
 [Prowlarr](https://prowlarr.com/)
-
-Subtitles:  
-[Bazarr (for Sonarr and Radarr)💾](https://www.bazarr.media/)
