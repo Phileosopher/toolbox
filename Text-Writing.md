@@ -27,7 +27,6 @@ Lorem ipsum placeholders:
 
 Text editor:  
 [Notepad++⊞■](https://notepad-plus-plus.org/) (cross-platform as [NotepadNext⊞⌘🐧](https://github.com/dail8859/NotepadNext)),
-[Vim⊞■⌘🐧🤖](https://www.vim.org/),
 [WebBrowserTools' Text Editor☁](https://webbrowsertools.com/text-editor/)
 
 Markdown editor:  
@@ -37,7 +36,8 @@ Markdown editor:
 
 Word processor:  
 [Bear App⌘🍎](https://bear.app)
-[LibreOffice Writer⊞■⌘🐧🆓](https://www.libreoffice.org/)
+[LibreOffice Writer⊞■⌘🐧🆓](https://www.libreoffice.org/),
+[Emacs Muse⇉](https://www.gnu.org/software/emacs-muse/)
 
 Distraction-free writing:  
 [Cold Turkey Writer⊞](https://getcoldturkey.com/writer/)

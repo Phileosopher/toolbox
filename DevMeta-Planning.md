@@ -1,17 +1,21 @@
 # Software Development & CS: Planning
 
-## Inspiration
+## Inspiration - Possible Projects/Practice💩
 
-Possible projects/practice💩:  
 [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners),
 [awesome-katas](https://github.com/gamontal/awesome-katas),
 [Mega Projects List*](https://github.com/karan/Projects/)
 
-Possible projects/practice - Rust💩:  
+Rust:  
 [not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust)
 
-Possible projects/practice - FLOSS💩:  
+FLOSS:  
 [best-of-open-source-projects](https://github.com/nicohaenggi/best-of-open-source-projects)
+
+IDE improvement:  
+[emacs-ideas](https://github.com/rememberYou/emacs-ideas)
+
+## Inspiration - Learning/Research
 
 Tutorials:  
 [Build Your Own X*](https://github.com/codecrafters-io/build-your-own-x)

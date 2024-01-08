@@ -1,5 +1,8 @@
 # Software Development & CS: Productivity Improvement - Learning
 
+Games for learning CS:  
+[awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding)
+
 Coding tests/certifications:  
 [CodeSignal☁](https://codesignal.com/),
 [freeCodeCamp☁](https://www.freecodecamp.org/)

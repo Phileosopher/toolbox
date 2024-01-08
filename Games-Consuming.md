@@ -20,21 +20,26 @@ Electronic games database:
 [IGDB.com](https://www.igdb.com/)
 
 Mods:  
+[CurseForge](https://www.curseforge.com/),
 [Nexus mods](https://www.nexusmods.com/) (with [Vortex Mod Manager](https://www.nexusmods.com/about/vortex/))
 
 ## Virtual gaming platforms
+
+[Emulator files](https://emulation.gametechwiki.com/index.php/Emulator_files)
 
 ROM management:
 [RomM💾](https://github.com/zurdi15/romm)
 
 Multi-platform:  
-[higan⊞⌘🐧🍎🤖](https://higan.dev/)
+[higan⊞⌘🐧🍎🤖](https://bsnes.org/higan/),
+[Lemuroid🤖](https://github.com/Swordfish90/Lemuroid),
 [Mednafen□](https://mednafen.github.io/),
 [OpenEmu⌘](https://openemu.org/),
 [RetroArch⊞🐧🤖](https://www.retroarch.com/)
+[RetroArch Web Player☁](https://web.libretro.com/)
 
 Multi-platform - arcade games:  
-[MAME⊞⌘🐧](https://www.mamedev.org/)
+[MAME⊞⌘🐧](https://www.mamedev.org/) (and [MAME4iOS🍎](https://github.com/yoshisuga/MAME4iOS))
 
 Atari 2600:  
 [Stella⊞■⌘🐧](https://stella-emu.github.io/)
@@ -43,7 +48,7 @@ Atari ST/STE/TT/Falcon:
 [Hatari⊞⌘🐧](https://hatari.tuxfamily.org/)
 
 MS-DOS:  
-[DOSBox⊞■🐧](https://www.dosbox.com/)
+[DOSBox⊞■🐧](https://www.dosbox.com/) (and [dospad🍎](https://github.com/litchie/dospad))
 
 90's PC graphical adventure games:  
 [ScummVM⊞⌘🐧🍎🤖](https://www.scummvm.org/)
@@ -52,11 +57,12 @@ Sony PlayStation:
 [PCSXR⊞⌘🐧🤖](https://ps1emulator.com/download)
 
 Nintendo 64:  
-[mupen64plus⊞⌘🐧](https://www.mupen64plus.org/),
+[1964js](https://github.com/schibo/1964js),
+[mupen64plus⊞⌘🐧](https://www.mupen64plus.org/) (enhanced to [parallel-n64](https://github.com/libretro/parallel-n64)),
 [Project64⊞🐧](https://www.pj64-emu.com/)
 
 Gamecube/Wii:  
-[Dolphin⊞⌘🐧](https://dolphin-emu.org/)
+[Dolphin⊞⌘🐧🤖](https://dolphin-emu.org/)
 
 PlayStation 2:  
 [PCSX2⊞⌘🐧](https://pcsx2.net/)
@@ -80,6 +86,15 @@ Battle.net/Westwood Multiplayer Server:
 [PvPGN](https://github.com/pvpgn/)
 
 ## Legacy general-purpose computer platforms
+
+Online emulator sites☁:  
+[RetroMania.gg](https://retromania.gg/),
+[ROMSFUN.COM](https://romsfun.com/),
+[ROMSPURE.CC](https://romspure.cc/),
+[Vimm's Lair](https://vimm.net/)
+
+Online emulator sites - MS-DOS:  
+[DOS_deck](https://dosdeck.com/)
 
 Very, very old computers:  
 [simh🐧](https://github.com/simh/simh)
@@ -108,10 +123,13 @@ Intel x86 computers:
 [JPC⊞⌘🐧](https://github.com/ianopolous/JPC),
 [PCem⊞🐧](https://github.com/sarah-walker-pcem/pcem/)
 
-Texas Instruments TI-73 through TI-86 calculators:  
+Texas Instruments calculators:  
+[TIRoms](https://tiroms.weebly.com/)
+
+Texas Instruments calculators - TI-73 through TI-86:  
 [TilEm🐧](http://lpg.ticalc.org/prj_tilem/)
 
-Texas Instruments TI-89 onward:  
+Texas Instruments calculators - TI-89 onward:  
 [TiEmu⊞⌘🐧](http://lpg.ticalc.org/prj_tiemu/)
 
 Flash Player:  
