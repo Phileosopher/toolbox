@@ -4,18 +4,23 @@
 
 [VirusTotal☁](https://www.virustotal.com/)
 
-Malware scan:  
-[Jotti's malware scan☁](https://virusscan.jotti.org/)
+Malware file scan:  
+[Jotti's malware scan☁](https://virusscan.jotti.org/),
+[VirusTotal upload](https://www.virustotal.com/gui/home/upload)
 
 Antivirus software:  
 [ClamAV⊞⌘🐧□](https://www.clamav.net/)
 [ClamWin⊞■](http://www.clamwin.com/)
 
-Website scan:  
+Network asset scan:  
+[VirusTotal search](https://www.virustotal.com/gui/home/search),
+
+Network asset scan - websites:  
+[Norton Safeweb](https://safeweb.norton.com/),
 [Unmask Parasites☁](https://unmask.sucuri.net/),
 [Zscaler☁](https://zulu.zscaler.com/)
 
-Website scan - trackers:  
+Network asset scan - user tracking:  
 [The Markup's Blacklight☁](https://themarkup.org/blacklight)
 
 Browser/plugins scan:  

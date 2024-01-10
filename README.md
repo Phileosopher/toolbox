@@ -71,7 +71,7 @@ Of course, that's not _always_ true:
 - Some software developers reinvent the wheel or [reverse-engineer something](https://trendless.tech/hacking), just for fun.
 - Reinventing the wheel is very educational, even if its results aren't always useful.
 - An existing tool might become obsolete, jammed behind a paywall, merged into some bloated software suite, or the software's owner [became tyrannical](https://gainedin.site/bad-systems/) over [their IP](https://notageni.us/ip).
-- For any reason whatsoever, a developer may start distrusting software and will make a lobotomized or [https://trendless.tech/floss/](open-source) version of it.
+- For any reason whatsoever, a developer may start distrusting software and will make a lobotomized or [open-source](https://trendless.tech/floss/) version of it.
 
 However, the largest mental wall for most people is knowing a tool even _exists_. If someone knows another human already did it, we know it's possible. It's much harder accomplishing what everyone thinks is impossible.
 
