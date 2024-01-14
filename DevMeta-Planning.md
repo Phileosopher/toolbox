@@ -29,7 +29,7 @@ Unused GitHub usernames:
 Researching software:  
 [Business Software Reviews from Software Advice](https://www.softwareadvice.com/)
 
-## Free-Tier Assets💩
+## Free Resources💩
 
 [Free Developer Stuff](https://freestuff.dev/),
 [FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev),

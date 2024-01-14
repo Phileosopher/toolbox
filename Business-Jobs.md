@@ -1,13 +1,17 @@
 # Productivity: Jobs☁
 
 Long-Term Planning:  
-[Wil Robots Take My Job?☁](https://www.replacedbyrobot.info/)
+[Will Robots Take My Job?☁](https://www.replacedbyrobot.info/)
 
 Job roles that tend to marry:  
 [Jobs that Marry Together the Most](https://flowingdata.com/2021/05/26/jobs-that-marry-together/)
 
-Salary data:  
+## Salary Data
+
 [Monster.com Salary Comparison and Salary Estimator](https://www.monster.com/salary)
+
+Salary data from skills-based tests:  
+[Toggl Hire](https://toggl.com/hire/)
 
 Salary data - tech industry:  
 [Bonsai's Freelance rates explorer](https://www.hellobonsai.com/rates/freelance),

@@ -104,28 +104,34 @@ If there are lots of tools to choose from, I try to prioritize:
 3. Affordably-priced, if possible
 4. Whatever happens to work
 
-It sometimes makes sense to clarify for context how something is used.
+I also leave earmarks for reference.
 
-- _*_ - reference sheet or copy/paste.
-- ☁ - browser-based
-- ⇉ - browser/software plugin or extension
-- ⊞ - Windows
-- ⌘ - Mac OS X
-- 🐧 - Unix and friends
-- 🤖 - Android
-- 🍎 - iOS
-- ■ - standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/))
-- □ - CLI-based without GUI (often requires [programming experience](https://trendless.tech/prog-basics))
-- 🔌 - an API, or has API documentation
-- ⦿ - data-intensive tool
-- 💾 - self-hostable, or runs easily in a container
-- 🐍 - runs in Python
-- 🕵️ - helps with [trust issues](https://gainedin.site/trust/)
-- 🆓 - [FLOSS](https://trendless.tech/floss/)
-- 🤝 - designed for synergistically actualizing collaboratively (i.e., teamwork)
-- $ - requires paying at least some money
-- 🧛 - [FAANG](https://trendless.tech/faang) website (i.e., Amazon, Facebook, Microsoft)
-- 💩 - a recursed pile of stuff, curated by someone else
+- Its starting platform:  
+    - _*_ - reference sheet or copy/paste.
+    - ☁ - browser-based
+    - ⇉ - browser/software plugin or extension
+    - ⊞ - Windows
+    - ⌘ - Mac OS X
+    - 🐧 - Unix and friends
+    - 🤖 - Android
+    - 🍎 - iOS
+- Its safety:  
+    - 🕵️ - helps with [trust issues](https://gainedin.site/trust/)
+- Its convenience:  
+    - ■ - standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/))
+    - □ - CLI-based without GUI (often requires [programming experience](https://trendless.tech/prog-basics))
+    - 💾 - self-hostable, or runs easily in a container
+    - 🤝 - designed for synergistically actualizing collaboratively (i.e., teamwork)
+- Its scalability:  
+    - 🔌 - an API, or has API documentation
+    - ⦿ - data-intensive tool
+    - 🐍 - runs in Python
+- Its business model:  
+    - 🆓 - [FLOSS](https://trendless.tech/floss/)
+    - ⬆️ - freemium model
+    - $ - requires paying at least some money
+    - 🧛 - [FAANG](https://trendless.tech/faang) website (i.e., Amazon, Facebook, Microsoft)
+- 💩 - it's a recursed pile of stuff, curated by someone else
 
 These icons are volatile out-of-the-box guesstimates, for several reasons:
 

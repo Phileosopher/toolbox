@@ -44,7 +44,8 @@ Payment processor:
 ## Personal Finance
 
 Barebones income/expense tracking:  
-[GNU Pem🐧](https://www.gnu.org/software/pem/pem-nano.html)
+[GNU Pem🐧](https://www.gnu.org/software/pem/pem-nano.html),
+[MyExpenses🤖](https://github.com/mtotschnig/MyExpenses)
 
 Accounting all-in-one:  
 [GNU Accounting Utilities🐧](https://www.gnu.org/software/acct/),
