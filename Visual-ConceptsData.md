@@ -34,9 +34,7 @@ Wireframe kits:
 [Cleanmock☁](https://cleanmock.com/),
 [Facebook Design's Virtual Hands🧛](https://facebook.design/virtual-hands),
 [Free Mockups](https://www.ls.graphics/free-mockups),
-[KK Ui Store's Vector Mockups Library](https://mockups.kkuistore.com/),
 [Lstore Graphics' Free Mockups](https://www.ls.graphics/free-mockups),
-[Mockup World](https://www.ls.graphics/free-mockups)
 [morflax things☁](https://things.morflax.com/),
 [Screely☁](https://www.screely.com/),
 [Web App Mockups (Figma)⇉](https://www.figma.com/community/file/945035983482109746)

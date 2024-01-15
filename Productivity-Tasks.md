@@ -37,17 +37,17 @@ Time tracking:
 [Emergent Task Timer*](https://davidseah.com/node/the-emergent-task-timer/),
 [ProcrastiTracker⊞](http://strlen.com/procrastitracker/),
 [TMetric☁](https://tmetric.com/),
-[Toggl Track☁](https://toggl.com/track/)
+[Toggl Track☁⬆️](https://toggl.com/track/)
 
 Gantt charts:  
 [Manual Gantt Charting in Excel*](https://davidseah.com/node/manual-gantt-charting-in-excel/)
-[TeamGantt☁](https://www.teamgantt.com/)
+[TeamGantt☁⬆️](https://www.teamgantt.com/)
 
 Calendar - small:  
 [The Compact Calendar*](https://davidseah.com/node/compact-calendar/)
 
 Calendar - scheduling:  
-[Cal.com☁](https://cal.com/)
+[Cal.com☁⬆️](https://cal.com/)
 
 Work-life balance:  
 [Day Grid Balancer*](https://davidseah.com/node/the-day-grid-balancer/)

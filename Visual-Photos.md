@@ -116,8 +116,7 @@ NPM Icons API:
 [Holder.js🔌](http://holderjs.com/),
 [Lorem Picsum🔌](https://picsum.photos/),
 [lorempixel🔌](https://lorempixel.com/),
-[PlaceIMG🔌](https://placeimg.com/),
-[Unsplash Developers🔌](https://unsplash.com/developers)
+[PlaceIMG🔌](https://placeimg.com/)
 
 Blurred images:  
 [BlurHash](https://blurha.sh/)

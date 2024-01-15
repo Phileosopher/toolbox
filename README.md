@@ -123,7 +123,7 @@ I also leave earmarks for reference.
     - 💾 - self-hostable, or runs easily in a container
     - 🤝 - designed for synergistically actualizing collaboratively (i.e., teamwork)
 - Its scalability:  
-    - 🔌 - an API, or has API documentation
+    - 🔌 - an affordable/free API, or has API documentation
     - ⦿ - data-intensive tool
     - 🐍 - runs in Python
 - Its business model:  
@@ -146,5 +146,7 @@ You can usually tell how much I use it by how much I've earmarked an individual 
 I cannot attest to the validity of the software, so [caveat emptor](https://notageni.us/legal-doctrines). I trust the software developer wasn't lying. Trust no one, and validate the software for yourself.
 
 I also can't attest to the _current_ validity or comparative quality of the software. This is hand-curated by me, so it won't quickly change if something new comes along.
+
+And, further further, I am not legally responsible for anything that happens from any software, data, or misuse of that data or software. I'm literally volunteering my time to manually scrape things for free, so everyone is already getting the royalties of whatever you'd want to sue me over.
 
 I also [make other useful things as well](https://stucky.tech/creations).

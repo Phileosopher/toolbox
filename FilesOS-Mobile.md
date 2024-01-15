@@ -29,6 +29,11 @@ Email:
 [FairEmail](https://email.faircode.eu/),
 [K-9 Mail](https://k9mail.app/)
 
+Wallpapers:  
+[GalleryWall](https://github.com/bossly/gallerywall),
+[Prism](https://github.com/Hash-Studios/Prism),
+[WallFlow](https://github.com/ammargitham/WallFlow)
+
 ## iOS
 
 File Management/Jailbreaking:  

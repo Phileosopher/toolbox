@@ -1,7 +1,7 @@
 # Audio: Consuming
 
 Music recognition:  
-[AudioTag.info](https://audiotag.info/),
+[AudioTag.info🔌](https://audiotag.info/),
 [SoundHound🍎🤖](https://www.soundhound.com/soundhound)
 
 Music recognition - singing association:  

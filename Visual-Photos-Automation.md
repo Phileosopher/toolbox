@@ -99,6 +99,7 @@ Fix image blur:
 
 Remove backgrounds:  
 [Clipping Magic☁](https://clippingmagic.com/),
+[Depositphotos Free Image Background Remover](https://depositphotos.com/bgremover.html),
 [removal.ai](https://removal.ai),
 [remove bg☁](https://www.remove.bg/),
 [SocialBook's Background Remover☁](https://socialbook.io/remove-background)

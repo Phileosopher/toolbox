@@ -60,6 +60,9 @@ Quick files - WebRTC:
 [Send☁](https://send.vis.ee/)
 [WEBWORMHOLE☁](https://webwormhole.io/)
 
+Videos:  
+[Streamable](https://streamable.com/)
+
 Large files:  
 [WeTransfer☁](https://wetransfer.com/)
 

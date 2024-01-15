@@ -17,6 +17,9 @@ Image viewers:
 Watch videos together remotely:  
 [Binge Together☁](https://bingetogether.com/)
 
+Watch YouTube video repeatedly:  
+[TubeReplay☁](https://www.tubereplay.com/)
+
 TL;DW YouTube:  
 [you-tldr](https://www.you-tldr.com/)
 

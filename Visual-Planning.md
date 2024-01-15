@@ -41,3 +41,6 @@ Device metrics:
 Design principles:  
 [Checklist Design*](https://www.checklist.design/),
 [Design Principles*](https://principles.design/)
+
+Vintage cameras and lenses:  
+[Shutteroo$](https://shutteroo.com/)

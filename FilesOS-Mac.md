@@ -11,6 +11,9 @@ Mac-based cybersecurity:
 Serial code generator:  
 [osx-serial-generator](https://github.com/sickcodes/osx-serial-generator)
 
+Account management:  
+[Manage your Apple ID](https://appleid.apple.com/)
+
 ## Search Enhancement
 
 [Alfred](https://www.alfredapp.com/)
