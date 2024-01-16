@@ -3,25 +3,23 @@
 Pausing any game:  
 [Universal Pause Button⊞](https://github.com/ryanries/UniversalPauseButton)
 
-Split peripheral use on same device:  
-[Universal Split Screen⊞](https://universalsplitscreen.github.io/)
-
-Save file tweaking:  
-[Cheat Engine](https://cheatengine.org/)
-
-Playtime - planning:  
-[HowLongToBeat.com☁](https://howlongtobeat.com/)
-
-Playtime - Steam game tracking:  
+Steam game tracking:  
 [Steam Gauge☁](https://www.mysteamgauge.com/),
 [Wasted hours on Steam☁](https://steamtime.info/)
 
 Electronic games database:  
 [IGDB.com](https://www.igdb.com/)
 
-Mods:  
-[CurseForge](https://www.curseforge.com/),
-[Nexus mods](https://www.nexusmods.com/) (with [Vortex Mod Manager](https://www.nexusmods.com/about/vortex/))
+## Planning
+
+Premature strategies:  
+[Before I Play*](https://beforeiplay.com/)
+
+Time estimation:  
+[HowLongToBeat.com☁](https://howlongtobeat.com/)
+
+Strategy guides:  
+[Gamespot's GameFAQs](https://gamefaqs.gamespot.com/)
 
 ## Virtual gaming platforms
 
@@ -134,3 +132,15 @@ Texas Instruments calculators - TI-89 onward:
 
 Flash Player:  
 [Ruffle⊞⌘🐧⇉](https://ruffle.rs/)
+
+## Expanding the Experience
+
+Split peripheral use on same device:  
+[Universal Split Screen⊞](https://universalsplitscreen.github.io/)
+
+Save file tweaking:  
+[Cheat Engine](https://cheatengine.org/)
+
+Mods:  
+[CurseForge](https://www.curseforge.com/),
+[Nexus mods](https://www.nexusmods.com/) (with [Vortex Mod Manager](https://www.nexusmods.com/about/vortex/))
