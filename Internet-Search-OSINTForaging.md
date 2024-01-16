@@ -5,6 +5,9 @@ Journalistic investigation:
 [Poliscoops☁](https://poliscoops.eu/),
 [ProCon.org](https://www.procon.org/)
 
+Reverse phone number lookup:  
+[USPhoneBook](https://www.usphonebook.com/)
+
 ## Social Media Searches
 
 [Buzzglobe.com](https://buzzglobe.com/),
@@ -59,14 +62,23 @@ Address search:
 
 ## Pulling Social Media IDs
 
+Facebook - user ID from link:  
 [FB Profile ID, Page ID & Group ID Finder](https://commentpicker.com/find-facebook-id.php),
-[Instagram User ID & Follower Count](https://commentpicker.com/instagram-user-id.php),
-[TikTok User ID, Follower count & Fans count](https://commentpicker.com/tiktok-id.php),
-[Twitter user ID & follower count](https://commentpicker.com/twitter-id.php),
-[YouTube Channel ID](https://commentpicker.com/youtube-channel-id.php)
 
-Pulling usernames:  
+Instagram - user ID from username/link:  
+[Instagram User ID & Follower Count](https://commentpicker.com/instagram-user-id.php),
+
+Instagram - username from ID:  
 [Find Instagram Username from IG User ID](https://commentpicker.com/instagram-username.php)
+
+TikTok - user ID from username:  
+[TikTok User ID, Follower count & Fans count](https://commentpicker.com/tiktok-id.php),
+
+Twitter - user ID from username/link:  
+[Twitter user ID & follower count](https://commentpicker.com/twitter-id.php),
+
+YouTube - user ID from username/link:  
+[YouTube Channel ID](https://commentpicker.com/youtube-channel-id.php)
 
 ## Government Search
 

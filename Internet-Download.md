@@ -6,6 +6,9 @@ Direct file search:
 Streaming content library:  
 [NewPipeExtractor🔌](https://github.com/TeamNewPipe/NewPipeExtractor)
 
+Wiki archiving:  
+[XOWA](http://xowa.org/)
+
 YouTube video archiving:  
 [Tube Archivist💾](https://www.tubearchivist.com/),
 [yark💾🐍](https://pypi.org/project/yark/)

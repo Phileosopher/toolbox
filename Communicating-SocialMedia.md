@@ -13,6 +13,10 @@ Everything-at-once:
 [Facebook🧛](https://www.facebook.com/),
 [Gab](https://gab.com/)
 
+Wikis:  
+[Fandom🧛](https://www.fandom.com/),
+[Wikipedia🧛](https://www.wikipedia.org/)
+
 Text/post feed:  
 [Mastodon🍎🤖🕵️](https://joinmastodon.org/),
 [Minds](https://www.minds.com/)
@@ -40,6 +44,9 @@ Images:
 [9GAG](https://9gag.com/),
 [Flickr🔌🧛](https://www.flickr.com/),
 [Pinterest🍎🤖](https://pinterest.com)
+
+Images feed:  
+[Instagram](https://www.instagram.com/)
 
 Blog posts/articles:  
 [Medium](https://medium.com/)

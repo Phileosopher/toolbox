@@ -41,7 +41,7 @@ Collaborative Office Suite:
 
 ## Meetings
 
-[Nextcloud Talk💾](https://nextcloud.com/talk/)
+[Nextcloud Talk💾🍎](https://nextcloud.com/talk/)
 
 Screen-sharing:  
 [CoScreen](https://www.coscreen.co/)

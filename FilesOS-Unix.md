@@ -23,6 +23,14 @@ Package manager:
 [DNF🐧](https://rpm-software-management.github.io/),
 [Homebrew⌘🐧](https://brew.sh/)
 
+## Specific Software
+
+Emulated games:  
+[Lutris](https://lutris.net/)
+
+Modern games launcher:  
+[Heroic Games Launcher](https://heroicgameslauncher.com/)
+
 ## Cleanup
 
 Disk usage:  

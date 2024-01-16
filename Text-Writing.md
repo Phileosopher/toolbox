@@ -59,10 +59,6 @@ Journaling:
 [Ponder⇉](https://getponder.app/),
 [RedNotebook⊞■⌘🐧](https://rednotebook.sourceforge.io/)
 
-Wikis:  
-[Fandom☁](https://www.fandom.com/),
-[Wiki.js⊞⌘🐧🍎🤖](https://wiki.js.org/)
-
 Prompts - Smithsonian Open Access photos:  
 [Curaturae☁](https://curaturae.com/)
 

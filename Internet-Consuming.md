@@ -23,6 +23,8 @@ Encyclopedic skimming:
 
 ## News☁
 
+[Nextcloud News💾🤖](https://apps.nextcloud.com/apps/news)
+
 TL;DR News:  
 [News Minimalist](https://www.newsminimalist.com/)
 [[INSIDE]](https://inside.com/)
@@ -41,7 +43,7 @@ Less sensationalized news:
 
 [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS)
 
-All-in-one readers:  
+RSS feed generator:  
 [FetchRSS☁](https://fetchrss.com/),
 [GetRSSFeed☁](https://getrssfeed.com/),
 [rssbox💾](https://github.com/stefansundin/rssbox)
@@ -53,6 +55,7 @@ Self-made RSS feeds:
 RSS feed manager:  
 [FreshRSS💾](https://freshrss.org/) (with [extensions](https://github.com/harleypig/FreshRSS-extensions), [more extensions](https://github.com/cn-tools/cntools_FreshRssExtensions) and [demo](https://demo.freshrss.org/i/?rid=65834a6431fb4)),
 [NetNewsWire⌘🍎](https://netnewswire.com/),
+[News🤖](https://f-droid.org/packages/co.appreactor.news/),
 [QuiteRSS⊞■⌘🐧](https://quiterss.org/),
 [RSS Guard⊞■⌘🐧](https://github.com/martinrotter/rssguard),
 [RSSOwl⊞⌘🐧](https://www.rssowl.org/)

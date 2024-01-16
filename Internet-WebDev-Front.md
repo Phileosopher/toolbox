@@ -98,6 +98,10 @@ QR codes:
 [10015 Tools' QR Code Generator☁](https://10015.io/tools/qr-code-generator),
 [QR picture☁](https://www.qrpicture.com/)
 
+## GUI Elements
+
+[Jotform](https://www.jotform.com/)
+
 ## Team Feedback
 
 Website feedback:  

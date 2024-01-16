@@ -50,6 +50,21 @@ WordPress backup/migration:
 Static sites:  
 [Zola](https://www.getzola.org/)
 
+Static sites - wiki compiler:  
+[ikiwiki](https://ikiwiki.info/)
+
+Wikis:  
+[BookStack](https://www.bookstackapp.com/),
+[DokuWiki](https://www.dokuwiki.org/),
+[Gitit](https://github.com/jgm/gitit),
+[Gollum](https://github.com/gollum/gollum),
+[MediaWiki](https://www.mediawiki.org/), [Miraheze](https://miraheze.org/), [MoinMoin](https://moinmo.in/),
+[TiddlyWiki](https://tiddlywiki.com),
+[TWiki](https://twiki.org/),
+[Wiki.js⊞⌘🐧🍎🤖](https://wiki.js.org/),
+[XWiki](https://www.xwiki.org/),
+[Zim](https://zim-wiki.org)
+
 ## Domains
 
 Recently expired domain search:  

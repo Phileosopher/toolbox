@@ -14,7 +14,7 @@ Photo downloading:
 [Apple Design Resources](https://developer.apple.com/design/resources/),
 [Bootsnipp](https://bootsnipp.com/),
 [Colors and Fonts](https://www.colorsandfonts.com/),
-[Depositphotos Free Media](https://depositphotos.com/free-images.html),
+[Depositphotos Free Media](https://depositphotos.com/free-images.html), [Design-Resources](https://github.com/SARAH-HADDAD/Design-Resources),
 [FOCA](https://https://focastock.com/), [Freebie Supply](https://freebiesupply.com/), [Freebiesbug](https://freebiesbug.com/), [Freebiesketch](https://freebiesketch.com/), [freepik](https://www.freepik.com/), [FreeStockPhotos.com](https://freestockphotos.com/), [Free Nature Stock](https://freenaturestock.com/), [FreeDigitalPhotos.net](https://www.freedigitalphotos.net/), [Freerange Stock](https://freerangestock.com/), [Fotolia](https://www.fotolia.com/),
 [Getty Images](https://www.gettyimages.com/),
 [Icons8](https://icons8.com/), [ISO Republic](https://isorepublic.com/), [Interfacer](https://interfacer.xyz/),

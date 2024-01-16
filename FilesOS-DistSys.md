@@ -15,7 +15,7 @@ File hosting:
 
 File synchronization:  
 [FreeFileSync⊞⌘🐧](https://freefilesync.org/),
-[ownCloud💾🆓](https://owncloud.com/),
+[ownCloud💾🆓🍎🤖](https://owncloud.com/),
 [Syncthing⊞⌘🐧🤖](https://syncthing.net/)
 
 Automatic folder synchronization:  
