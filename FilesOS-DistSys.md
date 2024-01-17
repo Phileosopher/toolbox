@@ -80,6 +80,9 @@ Decentralized hosting:
 [Gerbera](https://gerbera.io/),
 [Servarr💾](https://wiki.servarr.com/)
 
+Wikis:  
+[WikiSuite](https://wikisuite.org/)
+
 Indexing internet content:  
 [Jackett](https://github.com/Jackett/Jackett),
 [Prowlarr](https://prowlarr.com/)

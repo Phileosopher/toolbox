@@ -14,6 +14,12 @@ Banking:
 
 ## Research & Ideas
 
+Existing successful startups:  
+[Profit Hunt](https://profithunt.co/)
+
+Existing patents:  
+[Google Patents🧛](https://patents.google.com/)
+
 Expiring patents:  
 [PatentsExpiringToday.com☁](https://patentsexpiringtoday.com/)
 
@@ -23,3 +29,7 @@ Regional businesses:
 Amazon ASIN lookup:  
 [Amazon Asin Lookup](https://amazon-asin.com/)
 [sellerapp's Reverse Asin Lookup](https://www.sellerapp.com/amazon-reverse-asin.html)
+
+## Social Networking
+
+[Startups.com](https://www.startups.com/)

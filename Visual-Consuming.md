@@ -90,7 +90,7 @@ Comics/Manga-based:
 
 [Jellyfin🐧](https://jellyfin.org/) (with [Gelli🤖](https://github.com/dkanada/gelli)),
 [OSMC](https://osmc.tv/),
-[Plex](https://www.plex.tv/)
+[Plex](https://www.plex.tv/) (with [Plex Plug-ins](https://github.com/plexinc-plugins))
 
 Low-profile:  
 [Myflix](https://github.com/farfalleflickan/Myflix)

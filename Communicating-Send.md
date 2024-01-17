@@ -67,7 +67,8 @@ Large files:
 [WeTransfer☁](https://wetransfer.com/)
 
 Images:  
-[Imgur](https://imgur.com/) (with [MyImgur](https://myimgur.eden.fm/) to assist)
+[Imgur](https://imgur.com/) (with [MyImgur](https://myimgur.eden.fm/) to assist),
+[TinyPix](https://tinypix.co.uk/)
 
 Faxes:  
 [faxZERO.com☁](https://faxzero.com/)

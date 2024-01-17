@@ -57,6 +57,9 @@ Hands:
 [Printables 3D models database](https://www.printables.com/model),
 [Thangs$](https://thangs.com/)
 
+3D body information:  
+[awesome-3dbody-papers](https://github.com/3DFaceBody/awesome-3dbody-papers)
+
 ## Validation
 
 3D asset validation (.glb files):  

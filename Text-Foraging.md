@@ -72,6 +72,9 @@ Newspaper archives:
 Magazine archives:  
 [Internet Archive's The Magazine Rack](https://archive.org/details/magazine_rack)
 
+Ancient cuneiform content:  
+[Cuneiform Digital Library Initiative](https://cdli.mpiwg-berlin.mpg.de/)
+
 ## Religion
 
 [Internet Sacred Text Archive](https://sacred-texts.com/)

@@ -25,7 +25,7 @@ ESP8266/32 projects:
 
 ## Simulations
 
-[SimPy🐍⇉🐧](https://pypi.org/project/simpy/)
+[SimPy🐍⇉🐧](https://simpy.readthedocs.io/)
 
 Mechanical experimentation:  
 [MockMechanics⊞■](https://mockmechanics.com/)
