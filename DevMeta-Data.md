@@ -2,8 +2,16 @@
 
 [data-tools💩](https://github.com/victorcouste/data-tools)
 
-Receipt photo data:  
-[awesome-receipt-data-extraction💩](https://github.com/VictorAtPL/awesome-receipt-data-extraction)
+## Existing Datasets💩
+
+Receipt photos:  
+[awesome-receipt-data-extraction](https://github.com/VictorAtPL/awesome-receipt-data-extraction)
+
+Barcodes and QR codes:  
+[barcode-datasets](https://github.com/BenSouchet/barcode-datasets)
+
+Medical data:  
+[medical-datasets](https://github.com/adalca/medical-datasets)
 
 ## SQL databases
 
