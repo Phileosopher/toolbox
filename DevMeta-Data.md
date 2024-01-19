@@ -10,6 +10,9 @@ Receipt photos:
 Barcodes and QR codes:  
 [barcode-datasets](https://github.com/BenSouchet/barcode-datasets)
 
+GitHub repositories:  
+[gh-repos](https://github.com/a2u/gh-repos)
+
 Medical data:  
 [medical-datasets](https://github.com/adalca/medical-datasets)
 
