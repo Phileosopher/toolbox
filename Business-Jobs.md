@@ -219,7 +219,7 @@ Software development:
 [Pesto](https://pesto.tech/),
 [Turing](https://turing.com/),
 [YouTeam](https://youteam.io/)
-[Storetasker (for Shopify)](https://www.storetasker.com/)
+[Storetasker (for Shopify)🧛](https://www.storetasker.com/)
 
 Freelancing/mentorship:  
 [Codementor](https://www.codementor.io/)

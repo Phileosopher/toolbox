@@ -96,7 +96,7 @@ Research papers/data:
 [Academic Journals](https://academicjournals.org/),
 [arXiv.org](https://arxiv.org/),
 [Internet Archive Scholar](https://scholar.archive.org/),
-[Library Genesis](https://libgen.is/) (alternate mirror [here](https://libgen.fun/), [here](https://libgen.rs/), [here](https://libgen.gs/) and [here](https://libgen.st/) with a [mobile client here🤖](https://f-droid.org/packages/com.manuelvargastapia.libgen/) and [desktop client here⊞■](https://wiki.mhut.org/software:libgen_desktop)
+[Library Genesis](https://libgen.is/) (alternate mirror [here](https://libgen.fun/), [here](https://libgen.rs/), [here](https://libgen.gs/) and [here](https://libgen.st/) with a [mobile client here🤖](https://f-droid.org/packages/com.manuelvargastapia.libgen/), [here🍎](https://github.com/MartinStamenkovski/LibraryGenesis) and [desktop client here⊞■](https://wiki.mhut.org/software:libgen_desktop)
 ),
 [Sci-Hub](https://sci-hub.se/) (mirror [here](https://sci-hub.st/)),
 [The General Index](https://archive.org/details/GeneralIndex)

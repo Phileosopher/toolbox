@@ -21,7 +21,7 @@ Laptops/PCs:
 [ClockworkPi DevTerm](https://www.clockworkpi.com/home-devterm)
 
 [RISC-V](https://riscv.org/) hardware:  
-[BeagleV®-Ahead](https://www.beagleboard.org/boards/beaglev-ahead),
+[BeagleV-Ahead](https://www.beagleboard.org/boards/beaglev-ahead),
 [Milk-V Duo](https://milkv.io/duo),
 [Pineapple ONE](https://pineapple-one.github.io/)
 
