@@ -83,8 +83,12 @@ TV-based for Torrent/Usenet:
 [SickChill](https://sickchill.github.io/)
 
 Comics/Manga-based:  
-[YACReader](https://www.yacreader.com/)
+[Free Manga Downloader](https://sourceforge.net/projects/fmd/),
+[HakuNeko](https://hakuneko.download/),
+[Kotatsu🤖](https://kotatsu.app/),
+[Nekome](https://github.com/Chesire/Nekome),
 [Tachiyomi🤖](https://tachiyomi.org/)
+[YACReader](https://www.yacreader.com/)
 
 ## Media Libraries
 

@@ -15,11 +15,6 @@ Antivirus software:
 Network asset scan:  
 [VirusTotal search](https://www.virustotal.com/gui/home/search),
 
-Network asset scan - websites:  
-[Norton Safeweb](https://safeweb.norton.com/),
-[Unmask Parasites☁](https://unmask.sucuri.net/),
-[Zscaler☁](https://zulu.zscaler.com/)
-
 Network asset scan - user tracking:  
 [The Markup's Blacklight☁](https://themarkup.org/blacklight)
 

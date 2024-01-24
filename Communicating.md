@@ -38,8 +38,10 @@ Short link scan/unshortener☁:
 Website verification☁:  
 [Domain Dossier](https://centralops.net/co/DomainDossier.aspx)
 [Norton Safe Web](https://safeweb.norton.com/),
+[Unmask Parasites](https://unmask.sucuri.net/),
 [URLVoid](https://www.urlvoid.com/),
-[Web of Trust](https://mywot.com/)
+[Web of Trust](https://mywot.com/),
+[Zscaler](https://zulu.zscaler.com/)
 
 Phone number (via site crawling):  
 [Ampare Phone Number Crawler🐧](https://snapcraft.io/amparephonenumbercrawler)

@@ -73,9 +73,6 @@ Flash content:
 
 ## Specific Search Engines (Not Categorizable Elsewhere)
 
-Comparisons and alternatives:  
-[Slant](https://www.slant.co/)
-
 Similar websites:  
 [Similarsites.com](https://www.similarsites.com/)
 

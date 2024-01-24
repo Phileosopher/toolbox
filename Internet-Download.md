@@ -67,17 +67,6 @@ Image galleries:
 FTP client:  
 [FileZilla⊞■⌘🐧](https://filezilla-project.org/)
 
-Anime/Manga:  
-[Free Manga Downloader](https://sourceforge.net/projects/fmd/),
-[HakuNeko](https://hakuneko.download/),
-[Kotatsu🤖](https://kotatsu.app/)
-
-Comic books:  
-[mylar3](https://github.com/mylar3/mylar3)
-
-Lightnovels:  
-[lightnovel-crawler🐍](https://pypi.org/project/lightnovel-crawler/)
-
 ## Torrents
 
 BitTorrent client:  

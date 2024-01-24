@@ -34,6 +34,12 @@ ePub reader:
 MOBI reader:  
 [WebBrowserTools MOBI reader☁](https://webbrowsertools.com/mobi-reader/)
 
+Comic books:  
+[mylar3](https://github.com/mylar3/mylar3)
+
+Lightnovels:  
+[lightnovel-crawler🐍](https://pypi.org/project/lightnovel-crawler/)
+
 ## Media Managers
 
 Ebooks:  
