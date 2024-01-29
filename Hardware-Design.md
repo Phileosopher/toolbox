@@ -59,7 +59,8 @@ Home design:
 [LibrEDA](https://libreda.org/)
 
 HDL:  
-[SpinalHDL](https://github.com/SpinalHDL)
+[SpinalHDL](https://github.com/SpinalHDL),
+[awesome-hdl💩](https://github.com/drom/awesome-hdl)
 
 Circuit simulator:  
 [Circuitjs.html☁](https://www.falstad.com/circuit/circuitjs.html),

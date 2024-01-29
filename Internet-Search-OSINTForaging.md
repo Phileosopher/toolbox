@@ -1,5 +1,25 @@
 # Internet: Search Engines - OSINT/People Foraging☁💩
 
+[OSINT INCEPTION](https://start.me/p/Pwy0X4/osint-inception)
+
+OSINT people/organization searches:  
+[A.R.P. Syndicate's OSINT Resources](https://asm.arpsyndicate.io/intelligence.html),
+[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)
+[awesome-osint](https://github.com/jivoi/awesome-osint),
+[FBI-tools](https://github.com/danieldurnea/FBI-tools)
+[OSINT All](https://start.me/p/0PwOGl/osint-all),
+[OSINT_Collection](https://github.com/Ph055a/OSINT_Collection),
+[OSINT Essentials](https://www.osintessentials.com/),
+[#OSINT Research](https://start.me/p/rxekAP/osint-research),
+[OSINT Resource Tools](https://start.me/p/ELkYYQ/osint-resource-tools)
+[OSINT Tools and Resources](https://start.me/p/gy1BgY/osint-tools-and-resources?locale=en)
+
+Verification:  
+[Verification Toolset](https://start.me/p/ZGAzN7/verification-toolset)
+
+Search engines:  
+[Search engines](https://start.me/p/b56G5Q/search-engines)
+
 Journalistic investigation:  
 [OCCRP Aleph☁](https://aleph.occrp.org/),
 [Poliscoops☁](https://poliscoops.eu/),

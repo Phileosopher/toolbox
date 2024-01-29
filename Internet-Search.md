@@ -39,8 +39,9 @@ Search by image:
 Blacklist specific websites from web search:  
 [Wiper⇉](https://github.com/davidahmed/wiper)
 
-Military activities:  
+Military/terrorist activities:  
 [liveuamap.com](https://liveuamap.com/)
+[Mapping & Monitoring💩](https://start.me/p/7k4BnY/mapping-monitoring)
 
 Abbreviations/acronyms:  
 [Abbreviations.com](https://www.abbreviations.com/),

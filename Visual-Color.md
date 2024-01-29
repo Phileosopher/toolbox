@@ -108,7 +108,6 @@ Color wheels:
 
 ## Prototyping
 
-[Cloudflare Design's Color*](https://color.cloudflare.design/),
 [Happy Hues*](https://www.happyhues.co/),
 [Material Design's Color Tool*](https://material.io/resources/color/)
 

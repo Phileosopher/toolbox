@@ -2,7 +2,9 @@
 
 ## Inspiration - Ideas
 
-[Masterpiece Generator☁](https://www.plot-generator.org.uk/)
+Fill-in-the-blanks stories☁:  
+[Masterpiece Generator](https://www.plot-generator.org.uk/),
+[Word Blanks](https://www.wordblanks.com/)
 
 Illustrations:  
 [Sermon Illustrations*](http://www.moreillustrations.com/),

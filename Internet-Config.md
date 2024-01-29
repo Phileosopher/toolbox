@@ -14,6 +14,7 @@ DNS probe:
 [Dnsutils🐧](https://pkgs.org/download/dnsutils),
 [getdns🔌](https://getdnsapi.net/)
 [Google's Dig☁🧛](https://toolbox.googleapps.com/apps/dig/),
+[Leaf DNS](http://leafdns.com/),
 [whatsmydns.net☁](https://www.whatsmydns.net/)
 
 Domain configuration check:  
@@ -88,6 +89,7 @@ Site status:
 Site probe:  
 [builtWith☁⇉](https://builtwith.com/),
 [DNSimple WHOIS Search☁](https://dnsimple.com/whois),
+[Netcraft's What's that site running?](https://sitereport.netcraft.com/),
 [WhatRuns⇉](https://www.whatruns.com/),
 [WhoIsHostingThis☁](https://www.whoishostingthis.com/),
 [Whois Lookup☁](https://whois.domaintools.com/)

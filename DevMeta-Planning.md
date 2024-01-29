@@ -6,6 +6,9 @@
 [awesome-katas](https://github.com/gamontal/awesome-katas),
 [Mega Projects List*](https://github.com/karan/Projects/)
 
+JS Katas:  
+[js-assignments: Javascript assignments, tasks and katas](https://github.com/it-shark-pro/js-assignments)
+
 Rust:  
 [not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust)
 
