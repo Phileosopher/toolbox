@@ -1,5 +1,9 @@
 # Business: Marketing
 
+[awesome-adtech💩](https://github.com/AirGrid/awesome-adtech),
+[awesome-digital-marketing💩](https://github.com/paulbradish/awesome-digital-marketing),
+[Awesome-Marketing-Resources💩](https://github.com/theepiccode/Awesome-Marketing-Resources)
+
 Avatars:  
 [Gravatar☁](https://en.gravatar.com/)
 
