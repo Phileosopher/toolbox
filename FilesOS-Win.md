@@ -158,7 +158,7 @@ Installed Win10 apps:
 [InstalledAppView■](https://www.nirsoft.net/utils/installed_app_view.html)
 
 Package dependencies:  
-[Dependency Walker](https://dependencywalker.com/),
+[Dependency Walker](https://dependencywalker.com/) (updated with [Dependencies](https://github.com/lucasg/Dependencies)),
 [InstalledPackagesView■](https://www.nirsoft.net/utils/installed_packages_view.html)
 
 Recover Microsoft product keys:  

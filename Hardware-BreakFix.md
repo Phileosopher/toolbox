@@ -58,7 +58,8 @@ Configuration:
 [ControlMyMonitor⊞■](https://www.nirsoft.net/utils/control_my_monitor.html)
 
 Direct monitor test:  
-[EIZO monitor test☁](https://www.eizo.be/monitor-test/)
+[EIZO monitor test☁](https://www.eizo.be/monitor-test/),
+[LCDTech Online Tests☁](https://lcdtech.info/en/tests/),
 [IsMyLcdOK⊞■](https://softwareok.com/?seite=Microsoft%2FIsMyLcdOK)
 
 GPU/Graphics Card:  

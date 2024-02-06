@@ -2,18 +2,13 @@
 
 ## Virus Scans
 
-[VirusTotal☁](https://www.virustotal.com/)
-
 Malware file scan:  
-[Jotti's malware scan☁](https://virusscan.jotti.org/),
-[VirusTotal upload](https://www.virustotal.com/gui/home/upload)
+[Joe Sandbox Cloud](https://www.joesandbox.com/)
+[Jotti's malware scan☁](https://virusscan.jotti.org/)
 
 Antivirus software:  
 [ClamAV⊞⌘🐧□](https://www.clamav.net/)
 [ClamWin⊞■](http://www.clamwin.com/)
-
-Network asset scan:  
-[VirusTotal search](https://www.virustotal.com/gui/home/search),
 
 Network asset scan - user tracking:  
 [The Markup's Blacklight☁](https://themarkup.org/blacklight)
