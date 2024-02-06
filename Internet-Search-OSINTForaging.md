@@ -6,7 +6,7 @@ OSINT people/organization searches:
 [A.R.P. Syndicate's OSINT Resources](https://asm.arpsyndicate.io/intelligence.html),
 [AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)
 [awesome-osint](https://github.com/jivoi/awesome-osint),
-[FBI-tools](https://github.com/danieldurnea/FBI-tools)
+[FBI-tools](https://github.com/danieldurnea/FBI-tools),
 [OSINT All](https://start.me/p/0PwOGl/osint-all),
 [OSINT_Collection](https://github.com/Ph055a/OSINT_Collection),
 [OSINT Essentials](https://www.osintessentials.com/),
