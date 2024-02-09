@@ -133,8 +133,6 @@ Market research experts$:
 
 ## Trends
 
-[Social Searcher](https://www.social-searcher.com/)
-
 Popular trends:  
 [Google Trends - Hot Searches visualization🧛](https://trends.google.com/trends/hottrends/visualize)
 [Exploding Topics☁](https://explodingtopics.com/),

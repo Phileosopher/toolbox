@@ -87,4 +87,4 @@ Hosting - music:
 
 Hosting - podcast:  
 [Castopod💾](https://castopod.org/),
-[Podbean](https://www.podbean.com/podcast-hosting-pricing)
+[Podbean](https://www.podbean.com/)

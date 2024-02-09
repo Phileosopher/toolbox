@@ -35,7 +35,7 @@ Search engine:
 
 Search engine - from available food:  
 [MyFridgeFood☁🤖](https://myfridgefood.com/),
-[Supercook☁](https://www.supercook.com/#/recipes)
+[Supercook☁](https://www.supercook.com/)
 
 Recipe database:  
 [Nextcloud Cookbook](https://apps.nextcloud.com/apps/cookbook) with [Android client🤖](https://lneugebauer.github.io/nextcloud-cookbook/)
