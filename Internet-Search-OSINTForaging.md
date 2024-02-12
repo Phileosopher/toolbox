@@ -12,7 +12,7 @@ OSINT people/organization searches:
 [OSINT Essentials](https://www.osintessentials.com/),
 [#OSINT Research](https://start.me/p/rxekAP/osint-research),
 [OSINT Resource Tools](https://start.me/p/ELkYYQ/osint-resource-tools)
-[OSINT Tools and Resources](https://start.me/p/gy1BgY/osint-tools-and-resources?locale=en)
+[OSINT Tools and Resources](https://start.me/p/gy1BgY/osint-tools-and-resources)
 
 Verification:  
 [Verification Toolset](https://start.me/p/ZGAzN7/verification-toolset)
@@ -31,7 +31,7 @@ Reverse phone number lookup:
 ## Social Media Searches
 
 [Buzzglobe.com](https://buzzglobe.com/),
-[Namechk](https://namechk.com/),
+[Namech_k☁](https://namechk.com/),
 [Search People](https://www.search-people.online/),
 [Social Searcher](https://www.social-searcher.com/)
 

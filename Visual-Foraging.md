@@ -247,7 +247,7 @@ Payment methods:
 [Open Doodles](https://www.opendoodles.com/), [Open Peeps](https://www.openpeeps.com/),
 [Paaatterns!](https://products.ls.graphics/paaatterns/), [PIMPMYDRAWING](https://pimpmydrawing.com/),
 [Reddit's Resources for Free Illustrations](https://www.reddit.com/r/FreeIllustrations/),
-[Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations), [Shape](https://shape.so/), [sketchvalley](https://sketchvalley.com/), [Smash Illustrations](https://usesmash.com/), [Storyset](https://storyset.com/), [SVGDevs.com](https://svgdevs.com/), [Storyset by Freepik](https://storyset.com/), [Streamline Labs](https://www.streamlinehq.com/illustrations/free-illustrations-bundle), [SVG Repo](https://www.svgrepo.com),
+[Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations), [Shape](https://shape.so/), [sketchvalley](https://sketchvalley.com/), [Smash Illustrations](https://usesmash.com/), [Storyset by Freepik](https://storyset.com/), [SVGDevs.com](https://svgdevs.com/), [Streamline Labs](https://www.streamlinehq.com/illustrations/free-illustrations-bundle), [SVG Repo](https://www.svgrepo.com),
 [unDraw](https://undraw.co/illustrations), [useAnimations](https://useanimations.com/),
 [WOOBRO.design](https://woobro.design/)
 
