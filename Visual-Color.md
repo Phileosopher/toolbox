@@ -56,7 +56,7 @@ Tailored palettes:
 [Pigment by ShapeFactory*](https://pigment.shapefactory.co/)
 
 Brand colors:  
-[Brand Palettes*](https://brandpalettes.com/all-brands/), [BrandColors*](https://brandcolors.net/),
+[Brand Palettes*](https://brandpalettes.com/), [BrandColors*](https://brandcolors.net/),
 [Instant Logo Search☁](http://instantlogosearch.com/),
 [U.S. Team Colors*](https://usteamcolors.com/), [U.S. Brand Colors*](https://usbrandcolors.com/)
 

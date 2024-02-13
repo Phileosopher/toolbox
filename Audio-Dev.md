@@ -46,7 +46,7 @@ API:
 
 Interoperability framework:  
 [Jovo](https://www.jovo.tech/),
-[JUCE](https://juce.com/)
+[JUCE](https://juce.com/) (with [awesome-juce💩](https://github.com/sudara/awesome-juce))
 
 Audio networking:  
 [VB-Audio Network](https://vb-audio.com/Voicemeeter/vban.htm)
