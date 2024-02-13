@@ -39,7 +39,7 @@ Extracting vocals from music:
 Stripping vocals:  
 [AI Vocal Remover](https://aivocalremover.com/),
 [AudioStrip☁](https://audiostrip.co.uk/),
-[Remove Vocals☁](https://www.remove-vocals.com/en/)
+[Remove Vocals☁](https://www.remove-vocals.com/)
 
 Stripping instrumentals:  
 [Acapella Extractor](https://www.acapella-extractor.com/en/)
