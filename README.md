@@ -41,8 +41,7 @@ Since someone can use a computer for _many_ things, and people are constantly in
 - Audio: to work with sound for some intended aesthetic
 - Communicating: to communicate with other people, directly or indirectly
 - Files/OS: to manage computer files or operating systems
-- Games: to work and play with games
-- Hardware: to make or manage physical things, which includes computer hardware
+- Hardware: to make or manage physical things, which typically includes computer hardware
 - Internet: a sub-division of computer networking that has its own subdomains
 - Math: for calculation-specific needs
 - Money: for lucre-specific needs
@@ -52,7 +51,9 @@ Since someone can use a computer for _many_ things, and people are constantly in
 
 There are other "fallback" spork groups if it's too meta to fit into any one of the above categories:
 
+- Business: to somehow conduct [business](https://notageni.us/business/) with others (e.g., [marketing](https://notageni.us/marketing/), [accounting](https://notageni.us/accounting/))
 - Dev: to broadly make or manage computer code, which may refer to front-end or back-end, be language-specific, and may simply be a more nuanced version of any of the above
+- Games: to create and play games
 - Internet: sorta networking, sorta Everything Else
 - Productivity: to broadly streamline doing any of the above
 
