@@ -22,7 +22,8 @@ Desktop icon positions:
 [SwiftBar⌘](https://swiftbar.app/)
 
 Automated actions:  
-[Macro Recorder - No more repetitive tasks - Mouse and Keyboard Capture](https://www.macrorecorder.com/)
+[AutoIt⊞](https://www.autoitscript.com/) (with [Awesome AutoIt](https://j2team.github.io/awesome-AutoIt/)),
+[Macro Recorder](https://www.macrorecorder.com/)
 
 File preview:  
 [QuickLook⊞🧛](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S)

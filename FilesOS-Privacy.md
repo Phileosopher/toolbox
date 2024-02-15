@@ -34,6 +34,7 @@ File deletion:
 [BleachBit⊞■⌘🐧](https://www.bleachbit.org/),
 [DBAN (Darik's Boot & Nuke)⊞⌘🐧🍎🤖](https://dban.org/),
 [Eraser](https://eraser.heidi.ie/),
+[KillDisk](https://www.killdisk.com/),
 [nwipe](https://github.com/martijnvanbrummelen/nwipe/)
 
 Drive encryption:  

@@ -1,5 +1,8 @@
 # Files/OS: Files
 
+Filetype test:  
+[File Examples☁](https://file-examples.com/)
+
 ## File Search
 
 Text in files:  
@@ -49,14 +52,15 @@ File Splitting:
 
 ## File Analysis - Individual
 
-Filetype data:  
-[FileInfo*](https://fileinfo.com/),
+Filetype data*:  
+[File-Extensions.org](https://www.file-extensions.org/),
+[FileInfo](https://fileinfo.com/)
 
 Specific file information:  
 [FileAlyzer⊞■](https://www.safer-networking.org/products/filealyzer/)
 
 Metadata analysis:  
-[MediaInfo⊞■⌘🐧🍎🤖](https://mediaarea.net/en/MediaInfo),
+[MediaInfo⊞■⌘🐧🍎🤖](https://mediaarea.net/en/MediaInfo) (or its [online version☁](https://mediaarea.net/MediaInfoOnline)),
 [Get-Metadata.com☁](https://www.get-metadata.com/)
 
 CHM(winhelp) viewer:  
