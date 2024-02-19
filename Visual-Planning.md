@@ -10,7 +10,6 @@ Quick drawing:
 
 Consuming:  
 [Sharpen☁](https://sharpen.design/),
-[Evernote.Design☁](https://www.evernote.design/),
 [Geof☁](https://www.geofcrowl.com/blog/articles/2020/2/17/collection-higs/)
 
 Emojis:  

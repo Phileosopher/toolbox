@@ -2,12 +2,15 @@
 
 [Tool Finder](https://toolfinder.co/)
 
+Inspiration:  
+[Oblique Strategies](https://stoney.sb.org/eno/oblique.html)
+
 Daily tasks:  
 [Concrete Goals Tracker*](https://davidseah.com/node/the-concrete-goals-tracker/),
 [Emergent Task Planner*](https://davidseah.com/node/the-emergent-task-planner/)
 
 Daily tasks - micro habits:  
-[Loop Habit Tracker🤖](https://github.com/iSoron/uhabits),
+[Loop Habit Tracker🤖](https://f-droid.org/packages/org.isoron.uhabits/),
 [Table Habit🤖](https://github.com/FriesI23/mhabit)
 
 Kanban boards:  
@@ -78,7 +81,7 @@ Ambient noise:
 [freeCodeCamp.org Code Radio](https://coderadio.freecodecamp.org/),
 [generative.fm☁](https://generative.fm/),
 [lofi.cafe☁](https://lofi.cafe/),
-[musicForProgramming☁);](https://www.musicforprogramming.net/),
+[musicForProgramming();☁](https://www.musicforprogramming.net/),
 [myNoise☁](https://mynoise.net/),
 [Noisli☁🍎🤖⇉](https://www.noisli.com/),
 [SomaFM☁](https://somafm.com/)

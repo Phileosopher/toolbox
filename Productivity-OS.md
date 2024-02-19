@@ -18,7 +18,6 @@ Interface config:
 Desktop icon positions:  
 [DesktopOK⊞](https://www.softwareok.com/?seite=Freeware/DesktopOK),
 [Dozer⌘](https://github.com/Mortennn/Dozer),
-[SensibleSideButtons⌘](https://sensible-side-buttons.archagon.net/),
 [SwiftBar⌘](https://swiftbar.app/)
 
 Automated actions:  

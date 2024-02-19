@@ -10,6 +10,9 @@ Web browser:
 
 ## Optimizations
 
+Start and new tab page:  
+[Momentum☁](https://momentumdash.com/)
+
 Automatic reader mode:  
 [Automatic Reader View⇉](https://addons.mozilla.org/en-US/firefox/addon/automatic-reader-view/)
 

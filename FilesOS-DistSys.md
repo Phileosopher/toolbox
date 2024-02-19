@@ -13,14 +13,19 @@ File hosting:
 [File Hosting Wiki💩](https://filehostlist.miraheze.org/wiki/Main_Page),
 [Free cloud storage providers spreadsheet💩](https://nafanz.github.io/)
 
+Cloud synchronization - general use:  
+[Box](https://www.box.com/),
+[Google Drive🧛](https://www.google.com/drive/),
+[MEGA☁⊞■⌘🐧🍎🤖□](https://mega.nz/) (with [Megatools□](https://megatools.megous.com/)),
+[Microsoft OneDrive🧛](https://www.onedrive.com/),
+[pCloud](https://www.pcloud.com/)
+
 File synchronization:  
 [FreeFileSync⊞⌘🐧](https://freefilesync.org/),
 [ownCloud💾🆓🍎🤖](https://owncloud.com/),
 [Syncthing⊞⌘🐧🤖](https://syncthing.net/)
 
 Automatic folder synchronization:  
-[Box](https://www.box.com/),
-[MEGA☁⊞■⌘🐧🍎🤖□](https://mega.nz/) (with [Megatools□](https://megatools.megous.com/)),
 [Nextcloud⊞■⌘🐧🍎🤖⇉💾](https://nextcloud.com/) (with [App Store](https://apps.nextcloud.com/))
 
 Cloud-to-cloud synchronization:  

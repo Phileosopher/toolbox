@@ -50,7 +50,7 @@ Academic needs🤝:
 LaTeX🤝:  
 [Overleaf](https://www.overleaf.com/)
 
-## Specific Word Processing
+## Word Processing - Specific Needs
 
 Simplified language:  
 [xkcd Simple Writer](https://xkcd.com/simplewriter/)

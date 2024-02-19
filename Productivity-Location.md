@@ -173,7 +173,7 @@ Nuclear detonation estimation:
 ## Other Regional Needs
 
 Bird detection (by sound):  
-[BirdNET☁🍎🤖](https://birdnet.cornell.edu/)
+[BirdNET☁🍎🤖](https://birdnet.cornell.edu/) (self-hosted with [BirdNET-PI](https://www.birdweather.com/birdnetpi))
 
 Power outages:  
 [United States Power Outage Map](https://poweroutage.us/)
