@@ -5,7 +5,7 @@ General-purpose maps:
 [OpenStreetMap🔌](https://www.openstreetmap.org/about)
 
 Offline maps:  
-[OsmAnd](https://osmand.net/)
+[OsmAnd🤖](https://osmand.net/)
 
 High-quality imaging:  
 [Copernicus Data Space Ecosystem☁](https://dataspace.copernicus.eu/),
@@ -195,7 +195,7 @@ Google Earth regional tiles API:
 [Google Maps Platform Coverage Details🧛](https://developers.google.com/maps/coverage)
 
 OSM data visualization:  
-[prettymaps](https://github.com/marceloprates/prettymaps) (optimized with [prettymapp](https://github.com/chrieke/prettymapp))
+[prettymaps🐍](https://github.com/marceloprates/prettymaps) (optimized with [prettymapp](https://github.com/chrieke/prettymapp))
 
 Aerial data:  
 [DroneDB](https://docs.dronedb.app/)

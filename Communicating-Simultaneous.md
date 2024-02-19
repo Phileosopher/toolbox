@@ -71,7 +71,7 @@ Annotations:
 [Briefing🕵️](https://brie.fi/ng),
 [Jitsi Meet☁🍎🤖](https://meet.jit.si/) (with [awesome-jitsi](https://github.com/xceejay/awesome-jitsi)),
 [Noysi Meet](https://meet.noysi.com/),
-[TWAKE☁](https://twake.app/),
+[TWAKE☁⊞🐧⌘🍎🤖](https://twake.app/),
 [Videolink2me](https://videolink2me.com/)
 
 Facial tracking:  
