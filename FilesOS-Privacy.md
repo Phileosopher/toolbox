@@ -69,8 +69,8 @@ Google Play Services:
 Alternative app store:  
 [Appraw☁](https://appraw.com/)
 
-Tracker/permissions search - Android OS:  
-[εxodus☁(for🤖)](https://reports.exodus-privacy.eu.org/en/)
+Tracker/permissions search - Android OS🤖:  
+[εxodus☁](https://reports.exodus-privacy.eu.org/en/)
 
 ## Liberated Apple
 
