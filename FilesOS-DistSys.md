@@ -73,7 +73,7 @@ Websites:
 [HTTrack Website Copier⊞⌘🐧🤖](https://www.httrack.com/)
 
 CalDAV/CardDAV (email's calendar/contacts):  
-[DAVx⁵🤖](https://f-droid.org/packages/at.bitfire.davdroid/),
+[DAVx⁵🤖](https://www.davx5.com/),
 [TbSync⇉](https://addons.thunderbird.net/en-us/thunderbird/addon/tbsync/)
 
 Decentralized hosting:  
