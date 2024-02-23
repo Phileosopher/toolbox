@@ -58,7 +58,7 @@ Email hosting☁🕵️:
 [Fastmail](https://www.fastmail.com/),
 [mail.com](https://www.mail.com/),
 [ProtonMail](https://protonmail.com/),
-[Tutanota](https://tutanota.com/)
+[Tuta🤖](https://tuta.com/)
 
 Temporary email🕵️:  
 [Maildrop☁](https://maildrop.cc/),
