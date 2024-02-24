@@ -28,6 +28,9 @@ Journalistic investigation:
 Reverse phone number lookup:  
 [USPhoneBook](https://www.usphonebook.com/)
 
+Google email inspection:  
+[GHunt](https://github.com/mxrch/GHunt)
+
 ## Social Media Searches
 
 [Buzzglobe.com](https://buzzglobe.com/),
