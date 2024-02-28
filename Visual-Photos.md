@@ -111,31 +111,31 @@ Stippling:
 NPM Icons API:  
 [unplugin icons](https://www.npmjs.com/package/unplugin-icons)
 
-## Placeholder Photos API:  
+## Placeholder Photos API🔌:  
 
-[Holder.js🔌](http://holderjs.com/),
-[Lorem Picsum🔌](https://picsum.photos/),
-[lorempixel🔌](https://lorempixel.com/),
-[PlaceIMG🔌](https://placeimg.com/)
+[Holder.js](http://holderjs.com/),
+[Lorem Picsum](https://picsum.photos/),
+[lorempixel](https://lorempixel.com/),
+[PlaceIMG](https://placeimg.com/)
 
 Blurred images:  
 [BlurHash](https://blurha.sh/)
 
 Blank photos:  
-[Placeholder.com🔌](https://placeholder.com/)
+[Placeholder.com](https://placeholder.com/)
 
 Animal photos:  
-[Dog API🔌](https://dog.ceo/dog-api/),
-[{placebear}🔌](https://placebear.com/),
-[placedog.net🔌](https://placedog.net/),
-[{placekitten}🔌](https://placekitten.com/)
+[Dog API](https://dog.ceo/dog-api/),
+[{placebear}](https://placebear.com/),
+[placedog.net](https://placedog.net/),
+[{placekitten}](https://placekitten.com/)
 
 Food photos:  
-[baconmockup🔌](https://baconmockup.com/),
-[placebeer.com🔌](http://placebeer.com/)
+[baconmockup](https://baconmockup.com/),
+[placebeer.com](http://placebeer.com/)
 
 Actor photos:  
-[Fill Murray🔌](https://www.fillmurray.com/)
-[PlaceCage🔌](https://www.placecage.com/),
-[PlaceKeanu.com🔌](https://placekeanu.com/),
-[Steven SeGALLERY🔌](https://www.stevensegallery.com/)
+[Fill Murray](https://www.fillmurray.com/)
+[PlaceCage](https://www.placecage.com/),
+[PlaceKeanu.com](https://placekeanu.com/),
+[Steven SeGALLERY](https://www.stevensegallery.com/)

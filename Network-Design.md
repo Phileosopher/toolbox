@@ -25,7 +25,7 @@ E2E encryption:
 ## Messaging Stack
 
 Messaging interface platform:  
-[Mattermost💾](https://mattermost.com/) (simplified with [mattermost-cookbook](https://github.com/ist-dsi/mattermost-cookbook))
+[Mattermost💾🤖](https://mattermost.com/) (simplified with [mattermost-cookbook](https://github.com/ist-dsi/mattermost-cookbook))
 
 REST API bridge:  
 [Matterbridge](https://mattermost.com/marketplace/matterbridge/)

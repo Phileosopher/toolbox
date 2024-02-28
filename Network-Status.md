@@ -224,7 +224,7 @@ IP address scanner:
 [FastResolver⊞■](https://www.nirsoft.net/utils/fastresolver.html),
 
 Network discovery/scanning:  
-[Nmap⊞⌘🐧□](https://nmap.org/) (with [Zenmap for GUI](https://nmap.org/zenmap/))
+[Nmap⊞⌘🐧□](https://nmap.org/) (and a GUI with [Zenmap](https://nmap.org/zenmap/))
 
 IP scan - NetBIOS:  
 [NetBScanner⊞■](https://www.nirsoft.net/utils/netbios_scanner.html)

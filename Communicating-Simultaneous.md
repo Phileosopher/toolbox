@@ -29,7 +29,7 @@ IRC client:
 [mIRC⊞](https://www.mirc.com/)
 
 Email-based chat:  
-[Delta Chat](https://delta.chat/) (with [Bots](https://bots.delta.chat))
+[Delta Chat⊞■🐧⌘🍎🤖](https://delta.chat/) (with [Bots](https://bots.delta.chat))
 
 Type when someone else is typing:  
 [slacktyping□](https://github.com/will/slacktyping)

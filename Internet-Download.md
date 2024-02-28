@@ -77,7 +77,7 @@ BitTorrent - hash to magnet link:
 [Hash to Magnet link☁](https://www.hashtomagnet.com/)
 
 BitTorrent client - web-based:  
-[WebTorrent☁](https://webtorrent.io/)
+[WebTorrent☁⊞⌘🐧](https://webtorrent.io/)
 
 Torrent search sites (URLs change all the time):  
 123movies,
