@@ -171,8 +171,7 @@ Copywriting:
 [Who Pays Writers?](http://whopayswriters.com)
 
 Localization/translation:  
-[Crowdin](https://crowdin.com/),
-[Simply Translate](https://www.simplytranslate.com/)
+[Crowdin](https://crowdin.com/)
 
 Journalism:  
 [Cision's Help A Reporter](https://www.helpareporter.com/)

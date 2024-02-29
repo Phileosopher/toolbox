@@ -2,9 +2,10 @@
 
 Language translation☁:  
 [DeepL](https://www.deepl.com/translator),
+[Google Translate🧛](https://translate.google.com/),
 [LibreTranslate](https://libretranslate.com/),
 [Lingva Translate](https://lingva.ml/),
-[PROMT.One Translator](https://www.online-translator.com/translation)
+[PROMT.One Translator](https://www.online-translator.com/)
 
 Language translation - browser plugin🔌:  
 [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/),
