@@ -11,7 +11,7 @@ SEO checker:
 [Ahrefs☁$](https://ahrefs.com/),
 [BuzzSumo☁$](https://buzzsumo.com/),
 [SiteGuru☁$](https://www.siteguru.co/),
-[woorank☁$](https://www.woorank.com/)
+[woorank☁⇉$](https://www.woorank.com/)
 
 Google ad preview:  
 [Anonymous Ad Preview Tool🧛](https://ads.google.com/anon/AdPreview)

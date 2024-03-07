@@ -27,11 +27,6 @@ Support tables:
 
 ## IDEs
 
-[CodePen☁](https://codepen.io/),
-[CodeSandbox☁](https://codesandbox.io/)
-[JSFiddle☁](https://jsfiddle.net/)
-[repl.it☁](https://repl.it/)
-
 Browser:  
 [Responsively⊞⌘🐧](https://responsively.app/)
 

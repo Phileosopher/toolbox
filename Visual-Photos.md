@@ -55,14 +55,16 @@ Drawing/painting:
 Icons/cursors:  
 [GFIE Pro⊞■🐧](http://greenfishsoftware.org/)
 
-Avatar generators:  
-[Avataaars Generator☁](https://getavataaars.com/),
-[Big Heads☁](https://bigheads.io/),
+Avatar generators☁:  
+[Avataaars Generator](https://getavataaars.com/),
+[Big Heads](https://bigheads.io/),
 [DiceBear](https://www.dicebear.com/),
-[Draftbit's Personas☁](https://personas.draftbit.com/),
-[hashicon☁](https://github.com/emeraldpay/hashicon),
-[Multiavatar☁](https://multiavatar.com/),
-[RoboHash☁](https://robohash.org/)
+[Draftbit's Personas](https://personas.draftbit.com/),
+[Multiavatar](https://multiavatar.com/),
+[RoboHash](https://robohash.org/)
+
+Avatar generator - hash representation☁:  
+[hashicon](https://github.com/emeraldpay/hashicon)
 
 Avatar extraction:  
 [unavatar.io☁](https://unavatar.io/)

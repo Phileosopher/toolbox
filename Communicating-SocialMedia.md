@@ -100,6 +100,12 @@ Scientific research:
 Short stories:  
 [Writing Atlas](https://writingatlas.com/)
 
+Computer code:  
+[CodePen☁](https://codepen.io/),
+[CodeSandbox☁](https://codesandbox.io/)
+[JSFiddle☁](https://jsfiddle.net/)
+[replit☁](https://replit.com/)
+
 ## Third-Party Front-Ends☁
 
 [alternative-front-ends💩](https://github.com/mendel5/alternative-front-ends),

@@ -59,7 +59,7 @@ Webpage markups:
 [Marker.to⇉](http://marker.to/)
 
 Using software:  
-[Moonlight](https://moonlight-stream.org/)
+[Moonlight🤖](https://moonlight-stream.org/)
 
 Annotations:  
 [Annotate](https://annotate.net/),
