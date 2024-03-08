@@ -46,11 +46,13 @@ Animations:
 [SVGator](https://www.svgator.com/)
 
 Drawing/painting:  
-[Krita⊞■⌘🐧](https://krita.org/en/)
 [Autodesk SketchBook⊞⌘🍎🤖](https://www.autodesk.com/products/sketchbook/overview),
 [Paintstorm Studio⊞⌘🐧](https://www.paintstormstudio.com/buy.html),
 [Photopea☁](https://www.photopea.com/),
 [Procreate🍎](https://procreate.com/)
+
+Drawing/painting - bitmap graphics:  
+[Krita⊞■⌘🐧](https://krita.org/en/)
 
 Icons/cursors:  
 [GFIE Pro⊞■🐧](http://greenfishsoftware.org/)
