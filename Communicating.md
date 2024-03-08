@@ -30,7 +30,7 @@ Short link scan/unshortener☁:
 [CheckShortURL](https://checkshorturl.com/),
 [GetLinkInfo](https://www.getlinkinfo.com/),
 [Unshorten.It](https://unshorten.it/),
-[Unshorten.link](https://unshorten.link/),
+[Unshorten.link⇉](https://unshorten.link/),
 [unshorten.me🔌](https://unshorten.me/),
 [URL Expander](https://urlex.org/),
 [URL X-ray](https://urlxray.com/),

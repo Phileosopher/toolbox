@@ -6,7 +6,7 @@ Reviews:
 
 Alternatives:  
 [Ethical Alternatives & Resources☁](https://ethical.net/resources/),
-[PRISM Break](https://prism-break.org/en/)
+[PRISM Break](https://prism-break.org/)
 
 Anti-FAANG alternatives:  
 [switching.software☁](https://switching.software/)
