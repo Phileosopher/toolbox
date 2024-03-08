@@ -6,7 +6,7 @@ This is not an exhaustive list. I recommend one of the following for that:
 - One of the hundreds of AWESOME LISTS OF EVERYTHING EVER MADE TO DO A THING that jockey for a top 100 position on [Product Hunt](https://www.producthunt.com/).
 - Piles of curated search content such as [Curlie](https://curlie.org/), run by many passionate people at once.
 
-This is my quick-reference, a link-based [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book), made for several purposes.
+This is my quick-reference knowledge base, a link-based [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book), made for several purposes.
 
 ## 1. Understanding
 
