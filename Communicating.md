@@ -36,7 +36,7 @@ Short link scan/unshortener☁:
 [URL X-ray](https://urlxray.com/),
 [WhereGoes](https://wheregoes.com/)
 
-Website verification☁:  
+Website verification☁🕵️:  
 [Domain Dossier](https://centralops.net/co/DomainDossier.aspx)
 [Norton Safe Web](https://safeweb.norton.com/),
 [Unmask Parasites](https://unmask.sucuri.net/),
