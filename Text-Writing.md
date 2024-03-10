@@ -72,8 +72,9 @@ Word/phrase frequency counter:
 [Text Analyzer](https://www.online-utility.org/text/analyzer.jsp),
 [Word Frequency Counter](http://www.writewords.org.uk/word_count.asp)
 
-Star Wars intro style:  
-[Star Wars Intro Generator☁](https://starwarsintrogenerator.com/)
+Star Wars intro style☁:  
+[Star Wars Intro Creator](https://starwarsintrocreator.kassellabs.io/),
+[Star Wars Intro Generator](https://starwarsintrogenerator.com/)
 
 ## Editing - Transcript
 

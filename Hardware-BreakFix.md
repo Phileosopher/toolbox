@@ -149,7 +149,7 @@ Memory latency:
 ## Testing: Other
 
 RGB control:  
-[OpenRGB⊞⌘🐧](https://gitlab.com/CalcProgrammer1/OpenRGB)
+[OpenRGB⊞⌘🐧](https://openrgb.org/)
 
 Laptop Battery:  
 [BATExpert⊞](https://kcsoftwares.com/?batexpert)

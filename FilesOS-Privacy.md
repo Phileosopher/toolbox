@@ -80,7 +80,7 @@ Bootloader:
 [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
 
 App store:  
-[AltStore🍎](https://github.com/rileytestut/AltStore),
+[AltStore🍎](https://altstore.io/),
 [AppPure🍎](https://iphone.apkpure.com/)
 
 ## Liberated Facebook
