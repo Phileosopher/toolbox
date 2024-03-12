@@ -99,7 +99,7 @@ Pastebin☁:
 [Hardbin🕵️](https://hardbin.com/),
 [JustPaste.it](https://justpaste.it/),
 [paste.gg](https://paste.gg/),
-[Pastebin.com](https://pastebin.com/),
+[Pastebin.com](https://pastebin.com/) (with [iOS app🍎](https://github.com/jonluca/PasteBinApp)),
 [PrivateBin🕵️💾](https://privatebin.info/),
 [Shrib.com](https://shrib.com/),
 [Telegraph](https://telegra.ph/),
