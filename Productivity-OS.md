@@ -53,7 +53,7 @@ Existing hotkeys (for assigning others):
 
 Keyboard macros:  
 [AutoHotkey⊞](https://www.autohotkey.com/),
-[AutoKey🐧](https://autokey.github.io/index.html),
+[AutoKey🐧](https://autokey.github.io/),
 [espanso⊞⌘🐧](https://espanso.org/),
 [TinyTask⊞■](https://thetinytask.com/)
 
