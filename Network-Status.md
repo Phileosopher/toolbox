@@ -202,10 +202,6 @@ IPMI:
 Router traffic analysis:  
 [MRTG (Multi Router Traffic Grapher)⊞⌘🐧](https://oss.oetiker.ch/mrtg/)
 
-IoT server:  
-[Home Assistant⊞⌘🐧🍎🤖](https://www.home-assistant.io/) (with [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant)),
-[openHAB](https://www.openhab.org/)
-
 Network inventory:  
 [Network Inventory Advisor$](https://www.network-inventory-advisor.com/)
 
