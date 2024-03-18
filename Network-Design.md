@@ -35,5 +35,5 @@ REST API bridge:
 Diagramming:  
 [Cloudcraft☁](https://www.cloudcraft.co/)
 
-Locally hosted:  
+Locally hosted AWS emulator:  
 [LocalStack💾](https://localstack.cloud/)
