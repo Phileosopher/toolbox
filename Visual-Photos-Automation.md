@@ -17,9 +17,6 @@ AI-generated movie posters:
 AI emoji generator:  
 [AI Emojis☁](https://emoji.fly.dev/)
 
-AI text-to-image:  
-[Dezgo](https://dezgo.com/txt2img)
-
 Blob generator:  
 [SVG Blob Generator☁](https://10015.io/tools/svg-blob-generator),
 [MagicPattern's Doodle Backgrounds☁](https://www.magicpattern.design/tools/doodle-backgrounds)
@@ -97,7 +94,6 @@ Fix image blur:
 Remove backgrounds:  
 [Clipping Magic☁](https://clippingmagic.com/),
 [Depositphotos Free Image Background Remover](https://depositphotos.com/bgremover.html),
-[removal.ai](https://removal.ai),
 [remove bg☁](https://www.remove.bg/),
 [SocialBook's Background Remover☁](https://socialbook.io/remove-background)
 

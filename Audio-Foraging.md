@@ -53,7 +53,7 @@ Stock music:
 [Transistor's free podcast intro theme music](https://transistor.fm/free-podcast-intro-music/),
 [Unminus](https://www.unminus.com/),
 [Videvo's Royalty Free Music](https://www.videvo.net/royalty-free-music/),
-[whatfunk (SoundCloud)](https://soundcloud.com/whatfunk), [Wistia’s Music Collection](https://wistia.com/resources/music)
+[whatfunk (SoundCloud)](https://soundcloud.com/whatfunk), [Wistia's Music Collection](https://wistia.com/resources/music)
 
 Stock music - electronic game remixes:  
 [OverClocked ReMix](https://ocremix.org/)
