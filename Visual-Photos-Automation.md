@@ -18,8 +18,7 @@ AI emoji generator:
 [AI Emojis☁](https://emoji.fly.dev/)
 
 AI text-to-image:  
-[Dezgo](https://dezgo.com/txt2img),
-[NightCafe Creator](https://creator.nightcafe.studio/)
+[Dezgo](https://dezgo.com/txt2img)
 
 Blob generator:  
 [SVG Blob Generator☁](https://10015.io/tools/svg-blob-generator),
