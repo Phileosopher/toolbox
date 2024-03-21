@@ -55,7 +55,7 @@ Text output to image:
 ## Tweaking/Filters
 
 [FotoSketcher⊞■⌘](https://fotosketcher.com/),
-[GIMP⊞■⌘🐧](https://www.gimp.org/),
+[GIMP⊞■⌘🐧](https://www.gimp.org/) (with [awesome-gimp](https://github.com/marekpistorius/awesome-gimp)),
 [Paint.NET⊞](https://www.getpaint.net/),
 [RawTherapee⊞■⌘🐧](http://www.rawtherapee.com/)
 
