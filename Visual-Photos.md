@@ -82,7 +82,7 @@ Logos:
 [Logo by ShapeFactory☁](https://logo.shapefactory.co/),
 [LogoHub☁](https://logohub.io/),
 [Namecheap's Free Logo Maker☁](https://www.namecheap.com/logo-maker/app/new),
-[Shopify's Hatchful☁](https://hatchful.shopify.com/),
+[Shopify's Hatchful☁🧛](https://hatchful.shopify.com/),
 [Squarespace's Free Logo Maker☁](https://www.squarespace.com/logo)
 
 Screenshot editing:  
