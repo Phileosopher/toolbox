@@ -133,9 +133,6 @@ Fandom:
 Goodreads:  
 [BiblioReads](https://biblioreads.eu.org/)
 
-Google search:  
-[Whoogle Search](https://www.whoogle.click/)
-
 iMDb:  
 [libremdb](https://libremdb.iket.me/)
 
