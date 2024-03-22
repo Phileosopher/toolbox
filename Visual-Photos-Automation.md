@@ -123,7 +123,7 @@ Optimize images - lossy:
 
 To SVG:  
 [Free SVG Converter](https://picsvg.com/),
-[Svgurt](https://svgurt.com/#/)
+[Svgurt](https://svgurt.com/)
 
 BMP to SVG:  
 [Potrace](http://potrace.sourceforge.net/)
