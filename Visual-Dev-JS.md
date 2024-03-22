@@ -12,7 +12,7 @@ Cheatsheets:
 ## UI Libraries
 
 Material design:
-[Material Design Lite(no framework dependencies)](https://getmdl.io/index.html),
+[Material Design Lite(no framework dependencies)](https://getmdl.io/),
 [MUI(React)](https://mui.com/)
 
 Guiding users through elements:  
@@ -42,7 +42,7 @@ Interactive maps:
  for existin
 
 React components - icons:  
-[React Icons](https://react-icons.github.io/react-icons/#/icons/fa),
+[React Icons](https://react-icons.github.io/react-icons/),
 [React SVG Icons](https://reactsvgicons.com/)
 
 Vue components - icons:  

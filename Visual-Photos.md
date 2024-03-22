@@ -81,7 +81,7 @@ Logos:
 [Hipster Logo Generator☁](https://hipsterlogogenerator.com/),
 [Logo by ShapeFactory☁](https://logo.shapefactory.co/),
 [LogoHub☁](https://logohub.io/),
-[Namecheap's Free Logo Maker☁](https://www.namecheap.com/logo-maker/app/new),
+[Namecheap's Free Logo Maker☁](https://www.namecheap.com/logo-maker/),
 [Shopify's Hatchful☁🧛](https://hatchful.shopify.com/),
 [Squarespace's Free Logo Maker☁](https://www.squarespace.com/logo)
 

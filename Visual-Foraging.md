@@ -156,7 +156,7 @@ German webcams:
 [Game-icons.net](https://game-icons.net/), [Google Fonts' Material Symbols and Icons🧛](https://fonts.google.com/icons),
 [Heroicons](https://heroicons.com/), [Heroicons](https://heroicons.dev/), [Hotpot.ai](https://hotpot.ai/free-icons),
 [Icons8 Icons](https://icons8.com/icons/set/undefined), [Icons8's Free Icons](https://icons8.com/icons), [Iconbolt](https://www.iconbolt.com/), [IconBros](https://www.iconbros.com/), [Iconbuddy](https://iconbuddy.app/), [Iconduck](https://iconduck.com/),
-[Iconic](https://iconic.app/), [IconSearch](https://iconsear.ch/), [Icon Store](https://iconstore.co/), [iconmonstr](https://iconmonstr.com/), [Iconoir](https://iconoir.com/), [Ikonate](https://ikonate.com/), [Ionicons](https://ionicons.com/),
+[Iconic](https://iconic.app/), [iconscout's Unicons](https://iconscout.com/unicons), [IconSearch](https://iconsear.ch/), [Icon Store](https://iconstore.co/), [iconmonstr](https://iconmonstr.com/), [Iconoir](https://iconoir.com/), [Ikonate](https://ikonate.com/), [Ionicons](https://ionicons.com/),
 [Linearicons](https://linearicons.com/free), [Line Awesome](https://icons8.com/line-awesome), [Lordicon](https://lordicon.com/icons#free),
 [Material Design Icons](https://materialdesignicons.com/), [Material Design Icons](https://www.materialpalette.com/icons), [Material Design Icons](https://material.io/resources/icons/?style=baseline),
 [Mono Icons](https://icons.mono.company/), [Myiconfinder](http://www.myiconfinder.com/),
@@ -166,7 +166,7 @@ German webcams:
 [Remix Icon](https://remixicon.com/), [Rough Font Awesome](https://djamshed.github.io/rough-awesome-font/dist/),
 [Simple Icons](https://simpleicons.org/), [Streamline Icons](https://www.streamlinehq.com/icons?tab=free), [Studyum 3D icons](https://studyum.store/), [SVG Icons](http://svgicons.sparkk.fr/), [System UIcons](https://systemuicons.com/),
 [Tabler Icons](https://tablericons.com/), [Typicons](https://www.s-ings.com/typicons/),
-[Unicons by iconscout](https://iconscout.com/unicons), [UXWing](https://uxwing.com/),
+[UXWing](https://uxwing.com/),
 [vivid.js](https://webkul.github.io/vivid/),
 [Zondicons](https://www.zondicons.com/)
 

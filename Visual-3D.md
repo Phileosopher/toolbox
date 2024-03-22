@@ -42,7 +42,6 @@ Modeling/form material:
 [Shapefest](https://www.shapefest.com/)
 
 3D Illustrations:  
-[IsoFlat](https://isoflat.com/), [Isometric](https://isometric.online/), [Isometriclove](https://www.isometriclove.com/),
 [Kukla Kit](https://www.greeneyeweb.com/kukla-kit-3d-elements/)
 
 Isometric models:  

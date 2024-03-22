@@ -137,7 +137,7 @@ Frosted glass:
 
 Shadows:  
 [10015's CSS Box Shadow Generator☁](https://10015.io/tools/css-box-shadow-generator),
-[brumm.af's SmoothShadows☁](https://brumm.af/shadows),
+[brumm.af's SmoothShadows☁](https://shadows.brumm.af),
 [Keyframes.app's Animate☁](https://keyframes.app/shadows/),
 [Trendy CSS Text Shadows by Mixfont☁](https://www.mixfont.com/shadows)
 
