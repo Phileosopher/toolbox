@@ -6,7 +6,7 @@ By comparison to another color:
 [Accessible Color Generator](https://learnui.design/tools/accessible-color-generator.html)
 
 By color name:  
-[Color-Names☁](https://meodai.github.io/color-names/)
+[Color-Names☁](https://meodai.github.io/color-names/) (with [Meodai's Color Names🔌](https://github.com/meodai/color-names))
 
 By associated object:  
 [Picular☁](https://picular.co/)
@@ -117,9 +117,6 @@ Color filters:
 ## Developer-specific
 
 [HTML Color Codes' Color Picker☁](https://htmlcolorcodes.com/color-picker/)
-
-Color names:  
-[Meodai's Color Names](https://github.com/meodai/color-names)
 
 Photo color filters:  
 [filters.css](https://bansal.io/filters-css)

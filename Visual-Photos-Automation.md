@@ -79,9 +79,6 @@ Filter effects:
 [Image Filters☁](https://10015.io/tools/image-filters),
 [PhotoMosh☁](https://photomosh.com/)
 
-Icon transition:  
-[Icon transition generator☁](https://nucleoapp.com/tool/icon-transition)
-
 Histograms of chaotic functions:  
 [Fyre🐧](http://fyre.navi.cx/)
 
