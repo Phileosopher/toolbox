@@ -38,8 +38,7 @@ Sprites - animations/panning:
 [Motio](https://darsa.in/motio/)
 
 Interactive maps:  
-[Leaflet](https://leafletjs.com/) (with [Leaflet Provider Demo](https://leaflet-extras.github.io/leaflet-providers/preview/)
- for existin
+[Leaflet](https://leafletjs.com/) (with [Leaflet Provider Demo](https://leaflet-extras.github.io/leaflet-providers/preview/))
 
 React components - icons:  
 [React Icons](https://react-icons.github.io/react-icons/),

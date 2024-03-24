@@ -12,7 +12,6 @@ NGINX:
 [nginx](https://nginx.org/)
 
 Configuration and guides:  
-[NGINXConfig](https://www.digitalocean.com/community/tools/nginx),
 [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook)
 
 Cybersecurity:  
