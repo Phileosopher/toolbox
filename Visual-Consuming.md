@@ -124,4 +124,4 @@ Content tracking/synchronization:
 ## Other Visual
 
 Astronomy:  
-[Stellarium⊞⌘🐧](https://stellarium.org/), (with [Stellarium Web☁](https://stellarium-web.org/) online)
+[Stellarium⊞⌘🐧](https://stellarium.org/) (with [Stellarium Web☁](https://stellarium-web.org/) online)
