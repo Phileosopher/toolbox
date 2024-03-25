@@ -1,6 +1,11 @@
 # Internet: Search Engines ☁
 
-Non-Google search engine:  
+Search engine🧛:  
+[Bing](https://www.bing.com/),
+[DuckDuckGo](https://duckduckgo.com/) (with [!bang operators*](https://mosermichael.github.io/duckduckbang/html/main.html)),
+[Google](https://www.google.com/) (with [Supple's*](https://supple.com.au/tools/google-advanced-search-operators/) or [ahrefs' List*](https://ahrefs.com/blog/google-advanced-search-operators/) advanced search operators)
+
+Privacy-respecting search engine:  
 [100 Search Engines](https://www.100searchengines.com/huge-list-search-engines.htm),
 [Brave Search](https://search.brave.com/),
 [Golgozar](https://golgozar.org/),
@@ -21,13 +26,6 @@ Open content:
 
 Reddit search engine:  
 [Redditle](https://redditle.com/)
-
-Google's advanced search operators🧛:  
-[ahrefs' List*](https://ahrefs.com/blog/google-advanced-search-operators/),
-[Supple's List*](https://supple.com.au/tools/google-advanced-search-operators/)
-
-DuckDuckGo's !bang operators:  
-[DuckDuckGo !bang operators*](https://mosermichael.github.io/duckduckbang/html/main.html)
 
 Overlooked searches:  
 [Marginalia Search☁](https://search.marginalia.nu/),

@@ -44,16 +44,16 @@ Less sensationalized news:
 [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS)
 
 RSS feed generator:  
-[FetchRSS☁](https://fetchrss.com/),
-[GetRSSFeed☁](https://getrssfeed.com/),
-[rssbox💾](https://github.com/stefansundin/rssbox)
+[FetchRSS☁⬆️](https://fetchrss.com/),
+[GetRSSFeed☁](https://getrssfeed.com/)
 
 Self-made RSS feeds:  
+[rssbox💾](https://github.com/stefansundin/rssbox),
 [RSS-Bridge](https://rss-bridge.org/bridge01/),
 [RSSHub](https://docs.rsshub.app/)
 
 RSS feed manager:  
-[FreshRSS💾](https://freshrss.org/) (with [extensions](https://github.com/harleypig/FreshRSS-extensions), [more extensions](https://github.com/cn-tools/cntools_FreshRssExtensions) and [demo](https://demo.freshrss.org/i/?rid=65834a6431fb4)),
+[FreshRSS💾🤖](https://freshrss.org/) (with [extensions](https://github.com/harleypig/FreshRSS-extensions), [more extensions](https://github.com/cn-tools/cntools_FreshRssExtensions) and [demo](https://demo.freshrss.org/i/?rid=65834a6431fb4)),
 [NetNewsWire⌘🍎](https://netnewswire.com/),
 [News🤖](https://f-droid.org/packages/co.appreactor.news/),
 [QuiteRSS⊞■⌘🐧](https://quiterss.org/),
