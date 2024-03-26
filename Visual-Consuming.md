@@ -107,7 +107,7 @@ Comics/Manga-based:
 
 ## Media Libraries
 
-[Jellyfin🐧](https://jellyfin.org/) (with [Gelli🤖](https://github.com/dkanada/gelli)),
+[Jellyfin🐧](https://jellyfin.org/) (with [awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) and [jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim)),
 [OSMC](https://osmc.tv/),
 [Plex](https://www.plex.tv/) (with [Plex Plug-ins](https://github.com/plexinc-plugins))
 

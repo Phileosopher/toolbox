@@ -34,7 +34,7 @@ The internet has created a strange trend:
 4. Months or years later, they need to do that thing again.
 5. Recurse to Step 1.
 
-I often find neat things, but I don't trust my memory, so I add them here to avoid re-researching.
+I often find neat things, but I don't trust my memory, so I add them here to avoid re-researching. **MOST OF THIS IS NOT TESTED. I AM NOT LIABLE IF YOU DOWNLOAD A VIRUS. DO YOUR OWN DUE DILIGENCE**
 
 Since someone can use a computer for _many_ things, and people are constantly inventing new things, everything is broken into malleable and somewhat arbitrary groupings:
 

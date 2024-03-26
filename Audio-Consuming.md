@@ -31,7 +31,8 @@ Podcast management:
 
 [beets](https://beets.io/)
 [MusicBee⊞■](https://getmusicbee.com/),
-[Quod Libet⊞⌘🐧](https://quodlibet.readthedocs.io/)
+[Quod Libet⊞⌘🐧](https://quodlibet.readthedocs.io/),
+[Strawberry Music Player⊞⌘🐧](https://www.strawberrymusicplayer.org/)
 
 Torrent/Usenet tracking client:  
 [Lidarr](https://lidarr.audio/)
