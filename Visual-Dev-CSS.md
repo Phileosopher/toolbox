@@ -37,7 +37,6 @@ Automatic theme generation:
 
 CSS reset:  
 [a11y-css-reset](https://github.com/mike-engel/a11y-css-reset),
-[CSS Bed](https://www.cssbed.com/)
 
 ## General Visual Effects
 
@@ -63,6 +62,7 @@ Minimalism:
 ## Classless CSS Frameworks
 
 [Almond.css](https://github.com/alvaromontoro/almond.css),
+[CSS Bed](https://www.cssbed.com/),
 [Simple.css](https://simplecss.org/)
 
 ## Specific Elements
