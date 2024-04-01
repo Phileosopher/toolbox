@@ -265,5 +265,4 @@ Content creator graphics:
 ## Piles of stock resources💩
 
 [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources),
-[fucking-awesome-stock-resources](https://github.com/Correia-jpv/fucking-awesome-stock-resources),
 [The Mega List Of Free Image Sites For Blogging](https://www.mattcrampton.com/blog/mega_list_of_free_image_sites_for_blogging/)

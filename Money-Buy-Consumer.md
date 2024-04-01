@@ -5,7 +5,7 @@
 [Product Chart☁](https://www.productchart.com/)
 
 Card and ticket management:  
-[Catima🤖](https://catima.app/)
+[Catima🤖🆓](https://catima.app/)
 
 Price tracking:  
 [Slice☁](https://www.slice.com/)

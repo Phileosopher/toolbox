@@ -131,8 +131,7 @@ VS Code:
 ## IDE Enhancement - GitHub Improvement
 
 GitHub actions:  
-[awesome-actions💩](https://github.com/sdras/awesome-actions),
-[fucking-awesome-actions](https://github.com/Correia-jpv/fucking-awesome-actions)
+[awesome-actions💩](https://github.com/sdras/awesome-actions)
 
 ## IDE Enhancement - Keybindings Elsewhere
 
