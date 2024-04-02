@@ -7,7 +7,7 @@ Themes/templates:
 [Wicked Templates*](https://www.wickedtemplates.com/demos)
 
 Cheatsheets:  
-[modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+[Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
 
 ## UI Libraries
 
