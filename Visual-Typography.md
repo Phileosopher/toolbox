@@ -50,9 +50,6 @@ Testing:
 
 [FontForge⊞■⌘🐧](https://fontforge.github.io/)
 
-Handwritten style:  
-[handwritten.js](https://alias-rahil.github.io/handwritten.js/)
-
 ## Calculators
 
 PX to EM conversion:  

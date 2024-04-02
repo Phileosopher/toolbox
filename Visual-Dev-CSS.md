@@ -157,7 +157,7 @@ Live backgrounds:
 [makebackground.io☁](https://makebackground.io/)
 
 Triangle patterns:  
-[Trianglify.io☁](https://trianglify.io/)
+[Trianglify.io☁](https://trianglify.io/) (with [🔌Trianglify JS library](https://qrohlf.com/trianglify/))
 
 ## Testing/Debugging
 
