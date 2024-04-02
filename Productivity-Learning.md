@@ -45,7 +45,7 @@ Insert SciHub links:
 [Wikiwand⇉](https://www.wikiwand.com/)
 
 Simplified Wikipedia:  
-[Simple Wikipedia](https://simple.wikipedia.org)
+[Simple Wikipedia🧛](https://simple.wikipedia.org)
 
 Wikipedia 3D map:  
 [WikiGalaxy](https://wiki.polyfra.me/)
