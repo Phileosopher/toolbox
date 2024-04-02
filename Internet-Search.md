@@ -3,7 +3,8 @@
 Search engine🧛:  
 [Bing](https://www.bing.com/),
 [DuckDuckGo](https://duckduckgo.com/) (with [!bang operators*](https://mosermichael.github.io/duckduckbang/html/main.html)),
-[Google](https://www.google.com/) (with [Supple's*](https://supple.com.au/tools/google-advanced-search-operators/) or [ahrefs' List*](https://ahrefs.com/blog/google-advanced-search-operators/) advanced search operators)
+[Google](https://www.google.com/) (with [Supple's*](https://supple.com.au/tools/google-advanced-search-operators/) or [ahrefs' List*](https://ahrefs.com/blog/google-advanced-search-operators/) advanced search operators),
+[Yandex](https://yandex.com/)
 
 Privacy-respecting search engine:  
 [100 Search Engines](https://www.100searchengines.com/huge-list-search-engines.htm),
@@ -13,8 +14,7 @@ Privacy-respecting search engine:
 [Qwant](https://www.qwant.com/),
 [searx](https://searx.space/),
 [Search Encrypt](https://www.searchencrypt.com/),
-[Startpage](https://www.startpage.com/),
-[Yandex](https://yandex.com/)
+[Startpage](https://www.startpage.com/)
 
 Human-curated search:  
 [Curlie](https://curlie.org/)

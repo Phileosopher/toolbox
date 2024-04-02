@@ -139,7 +139,4 @@ Food photos:
 [placebeer.com](http://placebeer.com/)
 
 Actor photos:  
-[Fill Murray](https://www.fillmurray.com/)
-[PlaceCage](https://www.placecage.com/),
-[PlaceKeanu.com](https://placekeanu.com/),
-[Steven SeGALLERY](https://www.stevensegallery.com/)
+[PlaceKeanu.com](https://placekeanu.com/)
