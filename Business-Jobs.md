@@ -19,7 +19,7 @@ Salary data - tech industry:
 ## Profile Management
 
 Social networks:  
-[LinkedIn](https://linkedin.com)
+[LinkedIn🧛](https://linkedin.com)
 
 Web profile pages:  
 [about.me](https://about.me),

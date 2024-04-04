@@ -121,10 +121,10 @@ Influencer search - by location:
 [Google Trends for locations🧛](https://mashups.appb.in/google-trend-mashup),
 [Klear influencer by location](https://klear.com/free-tools/find-influencers-by-location)
 
-Influencer search - Twitter:  
+Influencer search - Twitter🧛:  
 [Klear Twitter influencer search](https://klear.com/free-tools/find-twitter-influencers)
 
-Twitter list search:  
+Twitter list search🧛:  
 [ScoutZen Search for Twitter Lists](https://www.scoutzen.com/twitter-lists/search)
 
 Market research experts$:  
