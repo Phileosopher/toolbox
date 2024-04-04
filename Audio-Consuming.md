@@ -1,5 +1,7 @@
 # Audio: Consuming
 
+[awesome-music-listening💩](https://github.com/ybayle/awesome-music-listening)
+
 Music recognition:  
 [AudioTag.info🔌](https://audiotag.info/),
 [SoundHound🍎🤖](https://www.soundhound.com/soundhound)

@@ -1,5 +1,7 @@
 # Audio: Software Development
 
+[awesome-music💩](https://github.com/ciconia/awesome-music)
+
 ## Live Events
 
 [Waasabi](https://waasabi.org/)
