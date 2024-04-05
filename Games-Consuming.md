@@ -36,8 +36,20 @@ Multi-platform:
 [RetroArch⊞🐧🤖](https://www.retroarch.com/)
 [RetroArch Web Player☁](https://web.libretro.com/)
 
+Multi-platform - web-based☁:  
+[RetroMania.gg](https://retromania.gg/),
+[ROMSFUN.COM](https://romsfun.com/),
+[ROMSPURE.CC](https://romspure.cc/),
+[Vimm's Lair](https://vimm.net/)
+
 Multi-platform - arcade games:  
 [MAME⊞⌘🐧](https://www.mamedev.org/) (and [MAME4iOS🍎](https://github.com/yoshisuga/MAME4iOS))
+
+90's PC graphical adventure games:  
+[ScummVM⊞⌘🐧🍎🤖](https://www.scummvm.org/)
+
+Battle.net/Westwood Multiplayer Server:  
+[PvPGN](https://github.com/pvpgn/)
 
 Atari 2600:  
 [Stella⊞■⌘🐧](https://stella-emu.github.io/)
@@ -45,31 +57,46 @@ Atari 2600:
 Atari ST/STE/TT/Falcon:  
 [Hatari⊞⌘🐧](https://hatari.tuxfamily.org/)
 
-MS-DOS:  
+Microsoft MSX:  
+[openMSX⊞⌘🐧🤖](https://openmsx.org/)
+
+Microsoft MS-DOS:  
 [DOSBox⊞■🐧](https://www.dosbox.com/) (and [dospad🍎](https://github.com/litchie/dospad))
+[DOS_deck☁](https://dosdeck.com/)
 
-90's PC graphical adventure games:  
-[ScummVM⊞⌘🐧🍎🤖](https://www.scummvm.org/)
+Microsoft Xbox:  
+[xemu](https://xemu.app/)
 
-Sony PlayStation:  
-[PCSXR⊞⌘🐧🤖](https://ps1emulator.com/download)
+Nintendo Entertainment System (NES):  
+[FCEUX](https://fceux.com/),
+[fogleman's nes](https://github.com/fogleman/nes),
+[JSNES (JS)](https://jsnes.org/)
+
+Super Nintendo Entertainment System (SNES):  
+[Snes9X.COM](https://www.snes9x.com/),
+[Mesen2](https://github.com/SourMesen/Mesen2/),
+[ZSNES](https://www.zsnes.com/)
+
+Nintendo Game Boy / Game Boy Color / Super Game Boy:  
+[SameBoy](https://sameboy.github.io/)
 
 Nintendo 64:  
 [1964js](https://github.com/schibo/1964js),
 [mupen64plus⊞⌘🐧](https://www.mupen64plus.org/) (enhanced to [parallel-n64](https://github.com/libretro/parallel-n64)),
 [Project64⊞🐧](https://www.pj64-emu.com/)
 
-Gamecube/Wii:  
+Nintendo Game Boy Advance:  
+[mGBA](https://mgba.io/)
+[Visual Boy Advance⊞⌘🐧🍎🤖](https://visualboyadvance.org/)
+[GBA4iOS🍎](http://www.gba4iosapp.com/)
+
+Nintendo DS:  
+[DeSmuME](https://github.com/TASEmulators/desmume),
+[melonDS](https://melonds.kuribo64.net/),
+[No$GBA](https://www.nogba.com/)
+
+Nintendo Gamecube/Wii:  
 [Dolphin⊞⌘🐧🤖](https://dolphin-emu.org/)
-
-PlayStation 2:  
-[PCSX2⊞⌘🐧](https://pcsx2.net/)
-
-PSP:  
-[PPSSPP⊞⌘🐧🍎🤖](https://ppsspp.org/)
-
-PlayStation 3:  
-[RPCS3⊞🐧](https://rpcs3.net/)
 
 Nintendo 3DS:  
 [Citra⊞⌘🐧🤖](https://citra-emu.org/)
@@ -80,22 +107,27 @@ Nintendo Wii U:
 Nintendo Switch:  
 [yuzu⊞🐧](https://yuzu-emu.org/)
 
-Battle.net/Westwood Multiplayer Server:  
-[PvPGN](https://github.com/pvpgn/)
+SNK Neo Geo:  
+[NeoCD/SDL](http://pacifi3d.retrogames.com/neocdsdl/)
 
-## Legacy general-purpose computer platforms
+Sony PlayStation:  
+[PCSXR⊞⌘🐧🤖](https://ps1emulator.com/),
+[DuckStation⊞⌘🤖](https://www.duckstation.org/),
+[ePSXe⊞⌘🐧🤖](https://www.epsxe.com/)
 
-Online emulator sites☁:  
-[RetroMania.gg](https://retromania.gg/),
-[ROMSFUN.COM](https://romsfun.com/),
-[ROMSPURE.CC](https://romspure.cc/),
-[Vimm's Lair](https://vimm.net/)
+Sony PlayStation 2:  
+[PCSX2⊞⌘🐧](https://pcsx2.net/)
 
-Online emulator sites - MS-DOS:  
-[DOS_deck](https://dosdeck.com/)
+Sony PSP:  
+[PPSSPP⊞⌘🐧🍎🤖](https://ppsspp.org/)
+
+Sony PlayStation 3:  
+[RPCS3⊞🐧](https://rpcs3.net/)
+
+## Legacy computer systems
 
 Very, very old computers:  
-[simh🐧](https://github.com/simh/simh)
+[SimH🐧](http://simh.trailing-edge.com/)
 
 ZX Spectrum:  
 [Fuse⌘🐧](http://fuse-emulator.sourceforge.net/)
@@ -103,11 +135,10 @@ ZX Spectrum:
 Commodore computers:  
 [VICE⊞⌘🐧](https://vice-emu.sourceforge.io/)
 
-MSX:  
-[openMSX⊞⌘🐧🤖](https://openmsx.org/)
-
 Commodore Amiga:  
-[FS-UAE⊞⌘🐧](https://fs-uae.net/)
+[FS-UAE⊞⌘🐧](https://fs-uae.net/),
+[UAE](https://amiga.technology/uae/),
+[iAmiga](https://github.com/emufreak/iAmiga)
 
 68k Macintosh:  
 [AppleWin⊞](https://github.com/AppleWin/AppleWin),

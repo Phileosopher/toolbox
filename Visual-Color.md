@@ -6,7 +6,8 @@ By comparison to another color:
 [Accessible Color Generator](https://learnui.design/tools/accessible-color-generator.html)
 
 By color name:  
-[Color-Names☁](https://meodai.github.io/color-names/) (with [Meodai's Color Names🔌](https://github.com/meodai/color-names))
+[Color-Names☁](https://meodai.github.io/color-names/) (with [Meodai's Color Names🔌](https://github.com/meodai/color-names)),
+[colornames.org☁](https://colornames.org/)
 
 By associated object:  
 [Picular☁](https://picular.co/)
