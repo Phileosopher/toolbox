@@ -54,6 +54,7 @@ Online videos:
 YouTube videos:  
 [youtube-dlp⊞□🐧](https://github.com/yt-dlp/yt-dlp) (with frontends with [youtube-dl-gui⊞⌘🐧(GUI)](https://github.com/jely2002/youtube-dl-gui) and [Videomass](https://jeanslack.github.io/Videomass/)),
 [Ymp4 Youtube To Mp4 Video Downloader](https://ymp4.download/)
+[YTOFFLINE](https://ytoffline.net/)
 
 TikTok content:  
 [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper)
