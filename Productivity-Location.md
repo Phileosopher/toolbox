@@ -129,6 +129,7 @@ Airline research:
 [SeatGuru☁](https://www.seatguru.com/)
 
 Travel discounts:  
+[Booking.com](https://www.booking.com/),
 [Hotwire☁](https://www.hotwire.com/),
 [momondo☁](https://www.momondo.com/),
 [Priceline☁](https://www.priceline.com),
@@ -153,6 +154,9 @@ Cabs:
 Hiking/trails:  
 [KT companion](https://github.com/jamealg/KT-companion),
 [Organic Maps🤖🍎](https://organicmaps.app/)
+
+Local food:  
+[World Food Atlas](https://www.tasteatlas.com/)
 
 ## Itinerary/Planning
 

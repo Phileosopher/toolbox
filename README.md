@@ -133,6 +133,7 @@ I also leave earmarks for reference.
     - $ - requires paying at least some money
     - 🧛 - [FAANG](https://trendless.tech/faang) website (i.e., Amazon, Facebook, Microsoft)
 - 💩 - it's a recursed pile of stuff, curated by someone else
+- ~~strikethrough~~ for bad tools, with a clear explanation
 
 These icons are volatile out-of-the-box guesstimates, for several reasons:
 

@@ -16,6 +16,13 @@ Scam research:
 [Moody's*](https://www.moodys.com/),
 [Standard & Poor's*](https://www.standardandpoors.com/)
 
+Financial visualizations:  
+[FINVIZ.com☁](https://finviz.com/),
+[TradingView☁](https://www.tradingview.com/)
+
+Financial visualizations - meme stocks:  
+[Stocktwits](https://stocktwits.com/)
+
 Business information:  
 [Crunchbase☁](https://www.crunchbase.com/)
 
@@ -140,7 +147,8 @@ Entrepreneurship - tech:
 
 Christian/NPO:  
 [GiveSendGo☁](https://www.givesendgo.com/),
-[Mightycause☁](https://www.mightycause.com/)
+[Mightycause☁](https://www.mightycause.com/),
+~~[GoFundMe](https://www.gofundme.com/)~~ stifles political views they don't like
 
 Creatives:  
 [Patreon☁](https://www.patreon.com/)

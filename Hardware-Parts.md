@@ -36,6 +36,9 @@ Housing:
 [LOUQE](https://www.louqe.com/),
 [teenage engineering](https://teenage.engineering/)
 
+Cables:  
+[Monoprice.com](https://www.monoprice.com/)
+
 PC builds:  
 [Pangoly's PC configurator☁](https://pangoly.com/en/pc-configurator)
 [PCPartPicker's System Builder☁](https://pcpartpicker.com/list/)
@@ -45,6 +48,9 @@ PC builds - 3DMark score:
 
 Hardware upgrade:  
 [Crucial by Micron☁](https://www.crucial.com/)
+
+PC parts:  
+[Newegg](https://www.newegg.com/)
 
 ## Peripherals
 

@@ -39,7 +39,8 @@ Banking for teens:
 [Step☁](https://step.com/)
 
 Payment processor:  
-[Parallel☁](https://gabpay.live/)
+[Parallel☁](https://gabpay.live/),
+~~[Paypal](https://www.paypal.com/)~~ has debatable practices in many domains
 
 ## Personal Finance
 
