@@ -8,6 +8,7 @@ Tech support basic information:
 ## Probes
 
 DNS probe:  
+[Dig web interface](https://www.digwebinterface.com/),
 [DNS Checker☁](https://dnschecker.org/),
 [DNSdumpster.com☁](https://dnsdumpster.com/),
 [DNS-Lookup☁](https://dns-lookup.com/),
@@ -17,7 +18,7 @@ DNS probe:
 [Leaf DNS](http://leafdns.com/),
 [whatsmydns.net☁](https://www.whatsmydns.net/)
 
-DNS configuration check:  
+Advanced DNS configuration tests:  
 [DNS Tools' Domain Configuration Check☁](http://webdnstools.com/dnstools/domain_check),
 [Zone Vision☁](https://zone.vision/)
 

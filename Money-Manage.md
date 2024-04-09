@@ -42,6 +42,9 @@ Payment processor:
 [Parallel☁](https://gabpay.live/),
 ~~[Paypal](https://www.paypal.com/)~~ has debatable practices in many domains
 
+Payment processor - donations-based:  
+[Donation-Tracker](https://www.donation-tracker.de/)
+
 ## Personal Finance
 
 Barebones income/expense tracking:  

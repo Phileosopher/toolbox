@@ -40,6 +40,7 @@ Emails reserved for other use:
 
 [WordPress](https://wordpress.org/) templates/themes/plugins:  
 [Colorlib■⇉](https://colorlib.com/wp/templates/),
+[GPLDL](https://gpldl.com/),
 [WordPress Plugins Library■⇉](https://wordpress.org/plugins/),
 [UnderStrap (Bootstrap+WordPress)](https://understrap.com/)
 

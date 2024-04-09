@@ -13,7 +13,8 @@ Web browser:
 [awesome-browser-automation💩](https://github.com/angrykoala/awesome-browser-automation)
 
 Start and new tab page:  
-[Momentum☁](https://momentumdash.com/)
+[Momentum☁](https://momentumdash.com/),
+[nightTab⇉](https://github.com/zombieFox/nightTab)
 
 Automatic reader mode:  
 [Automatic Reader View⇉](https://addons.mozilla.org/en-US/firefox/addon/automatic-reader-view/)

@@ -15,12 +15,14 @@ Sound effects:
 [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/),
 [BBC Sound Effects (licensed)](http://bbcsfx.acropolis.org.uk/),
 [Free SFX](https://www.freesfx.co.uk/), [Freesound](https://freesound.org/), [Free Sound Effects](https://www.freesoundeffects.com/), [Free Sounds Library](https://www.freesoundslibrary.com/),
+[Free to Use Sounds](https://www.freetousesounds.com/sfx?category=Free%20Sounds),
 [MediaCollege.com Free Sound Effects](https://www.mediacollege.com/downloads/sound-effects/), [Meowpad](https://meowpad.me/),
 [Noizable](https://noizable.media/),
 [Myinstants](https://www.myinstants.com/),
 [Orange Free Sounds](https://orangefreesounds.com/),
 [Pianobook](https://www.pianobook.co.uk/), [PacDV Free Sound Effects](https://www.pacdv.com/sounds/),
 [SONNISS Royalty Free Sound Effects](https://sonniss.com/gameaudiogdc), [SoundBible.com](https://soundbible.com/), [Sound-Fishing](https://www.soundfishing.eu/), [Soundboard.com](https://www.soundboard.com/), [SoundBoardGuy](https://soundboardguy.com/), [SoundGator.com](https://www.soundgator.com/), [SoundJay.com](https://www.soundjay.com/), [Sounds-MP3.com](https://sounds-mp3.com/),
+[Soundsnap (limited license)](https://www.soundsnap.com/),
 [Videvo's Royalty Free Sound Effects](https://www.videvo.net/royalty-free-sound-effects/),
 [ZapSplat](https://www.zapsplat.com/)
 
@@ -68,6 +70,9 @@ Live music - bootleg recordings:
 Sheet music:  
 [Walter Cosand](http://www.waltercosand.com/CosandScores/)
 [Sheet-Music.xyz](https://sheet-music.xyz/)
+
+MIDI voices:  
+[HEDSound](https://www.hedsound.com/)
 
 Software:  
 [AudioLove](https://audiolove.me/),

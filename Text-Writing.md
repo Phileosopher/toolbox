@@ -1,5 +1,10 @@
 # Text: Writing
 
+Plaintext editor:  
+[markor🤖](https://github.com/gsantner/markor),
+[Notepad++⊞■](https://notepad-plus-plus.org/) (cross-platform as [NotepadNext⊞⌘🐧](https://github.com/dail8859/NotepadNext)),
+[WebBrowserTools' Text Editor☁](https://webbrowsertools.com/text-editor/)
+
 ## Inspiration - Ideas
 
 Fill-in-the-blanks stories☁:  
@@ -27,10 +32,6 @@ Titling:
 Lorem ipsum placeholders:  
 [Ultimate List of Lorem Ipsum Generators☁](https://loremipsum.io/ultimate-list-of-lorem-ipsum-generators/)
 
-Text editor:  
-[Notepad++⊞■](https://notepad-plus-plus.org/) (cross-platform as [NotepadNext⊞⌘🐧](https://github.com/dail8859/NotepadNext)),
-[WebBrowserTools' Text Editor☁](https://webbrowsertools.com/text-editor/)
-
 Markdown editor:  
 [Dillinger☁](https://dillinger.io/),
 [Milkdown☁](https://milkdown.dev/),
@@ -54,12 +55,6 @@ LaTeX🤝:
 
 Simplified language:  
 [xkcd Simple Writer](https://xkcd.com/simplewriter/)
-
-Journaling:  
-[Day One⌘🍎🤖](https://dayoneapp.com/),
-[Diary Email☁](https://diaryemail.com/),
-[Ponder⇉](https://getponder.app/),
-[RedNotebook⊞■⌘🐧](https://rednotebook.sourceforge.io/)
 
 Prompts - Smithsonian Open Access photos:  
 [Curaturae☁](https://curaturae.com/)

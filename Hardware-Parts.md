@@ -20,6 +20,8 @@ Fasteners:
 
 ## Microcontrollers/Minicomputers
 
+[ODROID](https://www.hardkernel.com/)
+
 Raspberry Pi:  
 [RPi Hub*](https://elinux.org/RPi_Hub)
 

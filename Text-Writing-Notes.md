@@ -1,11 +1,17 @@
 # Text: Writing - Note-Taking
 
-Quick notes/sporadic:  
-[KeepNote⊞⌘🐧](https://keepnote.org/)
-[notes.io☁](http://notes.io/),
-[Simplenote☁⊞⌘🐧🍎🤖](https://simplenote.com/),
-[Standard Notes☁🐧](https://standardnotes.com/),
+Quick/sticky notes:  
+[Jotify🍎](https://www.jotifyapp.com/),
+[notes.io☁](http://notes.io/)
 [Tomboy⊞⌘🐧](https://wiki.gnome.org/Apps/Tomboy)
+
+Basic text notes:  
+[Simplenote☁⊞⌘🐧🍎🤖](https://simplenote.com/),
+[Standard Notes☁🐧](https://standardnotes.com/) (with [awesome-standard-notes](https://github.com/jonhadfield/awesome-standard-notes))
+
+Quick/sticky notes - notification area🤖:  
+[pinnit](https://github.com/msasikanth/pinnit),
+[pin](https://github.com/nproth/pin)
 
 Categorized note pages:  
 [Evernote🧛](https://evernote.com/) (converts to website with [Postach.io](https://postach.io/)),
@@ -13,6 +19,8 @@ Categorized note pages:
 
 Hierarchical notebooks:  
 [cherrytree⊞■⌘🐧](https://www.giuspen.com/cherrytree/),
+[Joplin⊞⌘🐧🍎🤖💾](https://joplinapp.org/),
+[KeepNote⊞⌘🐧](https://keepnote.org/),
 [Laverna⊞⌘🐧](https://laverna.cc/),
 [Obsidian⊞⌘🐧](https://obsidian.md/),
 [Outlinely⌘🍎](https://glamdevelopment.com/outlinely),
@@ -24,6 +32,9 @@ Obsidian plugins:
 Number counter - [obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker),
 Backup - [obsidian-git](https://github.com/denolehov/obsidian-git),
 Templates - [Templater](https://silentvoid13.github.io/Templater/)
+
+Handwritten notes:  
+[Saber](https://saber.adil.hanney.org/)
 
 Public notes:  
 [Collected Notes⌘🍎🤖☁](https://collectednotes.com/),
@@ -85,3 +96,13 @@ Audio-based:
 Multimedia:  
 [TagSpaces](https://www.tagspaces.org/),
 [Zoho Notebook](https://www.zoho.com/notebook/)
+
+Journaling/diary:  
+[Day One⌘🍎🤖](https://dayoneapp.com/),
+[Diary🤖](https://billthefarmer.github.io/diary/),
+[Diary Email☁](https://diaryemail.com/),
+[Ponder⇉](https://getponder.app/),
+[RedNotebook⊞■⌘🐧](https://rednotebook.sourceforge.io/)
+
+Journaling/diary - 1-10 second videos:  
+[one_second_diary](https://github.com/KyleKun/one_second_diary/)

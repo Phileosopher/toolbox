@@ -15,6 +15,13 @@ Media codecs:
 Volume configuration:  
 [SoundVolumeView⊞■□](https://www.nirsoft.net/utils/sound_volume_view.html)
 
+## Streaming Music
+
+[iHeart](https://www.iheart.com/)
+
+Classical music:  
+[Your Classical](https://www.yourclassical.org/listen)
+
 ## Podcasts
 
 Podcast search engine:  

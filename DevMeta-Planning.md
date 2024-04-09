@@ -54,3 +54,6 @@ Researching software:
 
 Zero-config tools:  
 [awesome-toolkits](https://github.com/reyronald/awesome-toolkits)
+
+Library/framework search:  
+[Libraries.io🆓](https://libraries.io/)

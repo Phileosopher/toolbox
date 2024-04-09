@@ -45,6 +45,9 @@ Screenshots:
 From Office files:  
 [Office.Files.Images⊞](https://www.softwareok.com/?seite=Freeware/Office.Files.Images)
 
+Thumbnail generator:  
+[thumbnail.ws🔌](https://thumbnail.ws/)
+
 Text output to image:  
 [WebBrowserTools' Text to Image☁](https://webbrowsertools.com/text-to-image/)
 
