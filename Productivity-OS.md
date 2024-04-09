@@ -22,6 +22,7 @@ Desktop icon positions:
 
 Automated actions:  
 [AutoIt⊞](https://www.autoitscript.com/) (with [Awesome AutoIt](https://j2team.github.io/awesome-AutoIt/)),
+[Automation🤖](https://server47.de/automation/),
 [Macro Recorder](https://www.macrorecorder.com/)
 
 File preview:  
@@ -41,7 +42,7 @@ Context menu - Open with:
 Additional screen:  
 [Deskreen⊞⌘🐧](https://deskreen.com/lang-en)
 
-## OS Tweaking - Keyboard Shortcuts
+## Keyboard Shortcuts
 
 Built-in:
 [Universal Shortcuts*](https://stucky.tech/toolbox/u),

@@ -17,8 +17,9 @@ DNS probe:
 [Leaf DNS](http://leafdns.com/),
 [whatsmydns.net☁](https://www.whatsmydns.net/)
 
-Domain configuration check:  
-[DNS Tools' Domain Configuration Check☁](http://webdnstools.com/dnstools/domain_check)
+DNS configuration check:  
+[DNS Tools' Domain Configuration Check☁](http://webdnstools.com/dnstools/domain_check),
+[Zone Vision☁](https://zone.vision/)
 
 WHOIS data:  
 [jwhois□](https://github.com/jonasob/jwhois),

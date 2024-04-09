@@ -10,6 +10,8 @@ Web browser:
 
 ## Optimizations
 
+[awesome-browser-automation💩](https://github.com/angrykoala/awesome-browser-automation)
+
 Start and new tab page:  
 [Momentum☁](https://momentumdash.com/)
 

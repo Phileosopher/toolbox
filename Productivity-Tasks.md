@@ -20,7 +20,13 @@ Progress tracking:
 [Trask Progress Tracker*](https://davidseah.com/node/the-task-progress-tracker/)
 
 To do lists:  
+[Minimal-Todo🆓](https://github.com/avjinder/Minimal-Todo),
+[Super Productivity☁⊞⌘🐧🍎🤖🆓](https://super-productivity.com/),
+[Taskwarrior□🆓](https://taskwarrior.org/) (with [foreground🤖](https://github.com/bgregos/foreground)),
 [Todoist☁⊞⌘🐧🍎🤖⇉](https://todoist.com/)
+
+Vice list:  
+[To Don't🤖](https://crazymarvin.com/to-dont/)
 
 ## Indecision
 
@@ -68,9 +74,12 @@ Generate geographical heatmap:
 ## Focus
 
 Timer:  
+[Focus Productivity Timer🍎⌘](https://meaningful-things.com/focus)
 [Online Timer☁](http://www.timer-tab.com/)
 
 Pomodoro timer:  
+[PomodoroTimers☁](https://pro-modoro.xyz/)
+[Tempus⊞⌘🐧](https://tempus.keziahmoselle.fr/)
 [YAPA 2⊞■](https://github.com/YetAnotherPomodoroApp/YAPA-2)
 
 Website timer:  

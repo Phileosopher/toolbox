@@ -1,5 +1,7 @@
 # Productivity: Automation
 
+[awesome-automation💩](https://github.com/croqaz/awesome-automation)
+
 Service synchronization:  
 [IFTTT☁](https://ifttt.com),
 [Zapier☁](https://zapier.com/)
