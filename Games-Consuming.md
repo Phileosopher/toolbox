@@ -93,7 +93,7 @@ Nintendo Game Boy Advance:
 Nintendo DS:  
 [DeSmuME](https://github.com/TASEmulators/desmume),
 [melonDS](https://melonds.kuribo64.net/),
-[No$GBA](https://www.nogba.com/)
+[No$GBA](https://problemkaputt.de/gba.htm)
 
 Nintendo Gamecube/Wii:  
 [Dolphin⊞⌘🐧🤖](https://dolphin-emu.org/)
