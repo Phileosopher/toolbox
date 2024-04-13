@@ -33,7 +33,7 @@ Photo downloading:
 
 [1 million free pictures](https://www.1millionfreepictures.com/),
 [AltPhotos](https://altphotos.com/), [Aurel Manea Photo archive](http://aurelm.com/portfolio/aurel-manea-photo-archive/), [Avopix.com](https://avopix.com/),
-[Barnimages](https://barnimages.com/), [British Museum Collection](https://www.britishmuseum.org/collection), [BucketListly Blog's Photos](https://www.bucketlistly.blog/photos/),
+[Barnimages](https://barnimages.com/), [British Museum Collection](https://www.britishmuseum.org/collection),
 [Canva's Free Stock Photos](https://www.canva.com/photos/free/), [cc0.photo](https://cc0.photo/), [Chamber of Commerce FindAPhoto](https://www.chamberofcommerce.org/findaphoto/), [Cupcake](https://cupcake.nilssonlee.se/),
 [Dreamstime](https://www.dreamstime.com/free-photos),
 [Flickr: British Library](https://www.flickr.com/photos/britishlibrary/), [Flickr: Biodiversity Heritage Library](https://www.flickr.com/photos/biodivlibrary/), [Flickr: Creative Commons](https://www.flickr.com/creativecommons/), [Flickr: The Library of Congress](https://www.flickr.com/photos/library_of_congress/), 
