@@ -138,6 +138,13 @@ Travel discounts:
 [Priceline☁](https://www.priceline.com),
 [Skiplagged☁](https://skiplagged.com/)
 
+Taxis:  
+[Lyft☁](https://www.lyft.com/),
+[Uber☁](https://www.uber.com/)
+
+Taxi fare:  
+[World Taximeter](https://www.worldtaximeter.com/)
+
 Travel alternatives:  
 [Couchsurfing☁](https://www.couchsurfing.com/),
 [Uhotw☁](https://www.unusualhotelsoftheworld.com/home),
@@ -149,10 +156,6 @@ Camping:
 
 Camping - California co-op:  
 [Land Camp](https://www.landcamp.org/)
-
-Cabs:  
-[Lyft☁](https://www.lyft.com/),
-[Uber☁](https://www.uber.com/)
 
 Hiking/trails:  
 [KT companion](https://github.com/jamealg/KT-companion),

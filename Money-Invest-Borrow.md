@@ -1,64 +1,85 @@
 # Money: Investing & Borrowing
 
-## Learning
+## Learning Platforms
 
 [Investopedia](https://www.investopedia.com/)
 
 Blockchain & cryptocurrency:  
 [IQ.wiki](https://iq.wiki/)
 
-Scam research:  
+## Researching Organizations☁
+
+[Crunchbase](https://www.crunchbase.com/)
+
+Corporations (10-K):  
+[Last10K](https://last10k.com/)
+
+Charities/NPO (Form 990):  
+[Charity Navigator](https://www.charitynavigator.org/)
+[GuideStar$](https://www.guidestar.org/)
+
+Scams:  
 [Better Business Bureau Scam Tracker](https://www.bbb.org/scamtracker)
 
-## Research
+Financial institutions:  
+[FINRA](https://www.finra.org/)
 
-[Fitch Ratings*](https://www.fitchratings.com/),
-[Moody's*](https://www.moodys.com/),
-[Standard & Poor's*](https://www.standardandpoors.com/)
+Class action lawsuits:  
+[SCAC](https://securities.stanford.edu/)
 
-Financial visualizations:  
-[FINVIZ.com☁](https://finviz.com/),
-[TradingView☁](https://www.tradingview.com/)
+SEC enforcement:  
+[SEC's Enforcement Actions](https://www.sec.gov/divisions/enforce/enforceactions.shtml),
+[SEC EDGAR Full Text Search](https://www.sec.gov/edgar/search/),
+[SEC EDGAR Company Search (legacy)](https://www.sec.gov/edgar/searchedgar/legacy/companysearch.html),
+[SEC Filings & Forms](https://www.sec.gov/edgar),
+[SEC Info](https://www.secinfo.com/)
+
+Central and Eastern European Business Directory:  
+[Central and Eastern European Business Directory (CEEBD)](https://globaledge.msu.edu/global-resources/resource/1274💩)
+
+## Researching Financial Advisors☁
+
+Financial advisor matching:  
+[SmartAdvisor Match](https://smartadvisormatch.com/)
+
+Financial advisor information - US:  
+[Investor.gov search](https://www.investor.gov/search),
+[FINRA BrokerCheck](https://brokercheck.finra.org/),
+[SEC's IAPD Investment Adviser Public Disclosure](https://adviserinfo.sec.gov/)
+
+Financial advisor information - CA:  
+[CSA/ACVM National Registration Search](https://info.securities-administrators.ca/nrsmobile/nrssearch.aspx)
+
+## Movements
+
+Ratings*:  
+[Fitch Ratings](https://www.fitchratings.com/),
+[Moody's](https://www.moodys.com/),
+[Standard & Poor's](https://www.standardandpoors.com/)
+
+Ratings - insurance*:  
+[AM Best](https://web.ambest.com/home)
+
+Financial visualizations☁:  
+[FINVIZ.com](https://finviz.com/),
+[TradingView](https://www.tradingview.com/)
 
 Financial visualizations - meme stocks:  
 [Stocktwits](https://stocktwits.com/)
 
-Business information:  
-[Crunchbase☁](https://www.crunchbase.com/)
+Whale movements☁:  
+[Unusual Whales](https://unusualwhales.com/),
 
-Financial advisor matching:  
-[SmartAdvisor Match☁](https://smartadvisormatch.com/)
+Government movements - US☁:  
+[Behind The Curtain](https://www.quiverquant.com/sources/behind-the-curtain/),
+[Congress Trading](https://www.quiverquant.com/congresstrading/),
+[DC Insider Score](https://www.quiverquant.com/scores/dcinsider)
 
-Financial advisor vetting:  
-[Investor.gov search☁](https://www.investor.gov/search),
-[FINRA BrokerCheck☁](https://brokercheck.finra.org/)
+Government movements - EU☁:  
+[LobbyFacts.eu](https://www.lobbyfacts.eu/)
 
-Corporations (10-K):  
-[Last10K☁](https://last10k.com/)
-
-Charities/NPO (Form 990):  
-[Charity Navigator☁](https://www.charitynavigator.org/)
-[GuideStar☁$](https://www.guidestar.org/)
-
-Financial institutions:  
-[FINRA☁](https://www.finra.org/)
-
-Insurance:  
-[AM Best☁](https://web.ambest.com/home)
-
-Whale movements:  
-[Unusual Whales☁](https://unusualwhales.com/),
-
-Government movements - USA:  
-[Behind The Curtain☁](https://www.quiverquant.com/sources/behind-the-curtain/),
-[Congress Trading☁](https://www.quiverquant.com/congresstrading/),
-[DC Insider Score☁](https://www.quiverquant.com/scores/dcinsider)
-
-Government movements - EU:  
-[LobbyFacts.eu☁](https://www.lobbyfacts.eu/)
-
-Blockchain movements:  
-[Blockchain Whispers☁](https://blockchainwhispers.com/)
+Blockchain movements☁:  
+[Blockchain Whispers](https://blockchainwhispers.com/)
 
 Individual stocks:  
 [tstock□](https://github.com/Gbox4/tstock)

@@ -11,7 +11,8 @@ Cost of living comparison - historical:
 
 Currency exchange:  
 [Travelex](https://www.travelex.co.uk/),
-[X-Rates](https://www.x-rates.com/)
+[X-Rates](https://www.x-rates.com/),
+[Valuta EX](https://valuta.exchange/)
 
 Currency exchange - current:  
 [OANDA Currency Converter](https://www.oanda.com/currency-converter/),
@@ -40,7 +41,9 @@ Banking for teens:
 
 Payment processor:  
 [Parallel☁](https://gabpay.live/),
-~~[Paypal](https://www.paypal.com/)~~ has debatable practices in many domains
+~~[Paypal](https://www.paypal.com/)~~ has debatable practices in many domains,
+[Skrill](https://www.skrill.com/),
+[Wise](https://wise.com/)
 
 Payment processor - donations-based:  
 [Donation-Tracker](https://www.donation-tracker.de/)
@@ -48,8 +51,10 @@ Payment processor - donations-based:
 ## Personal Finance
 
 Barebones income/expense tracking:  
+[Dime🍎](https://apps.apple.com/sg/app/dime-budget-expense-tracker/id1635280255),
 [GNU Pem🐧](https://www.gnu.org/software/pem/pem-nano.html),
-[MyExpenses🤖](https://www.myexpenses.mobi/en/MyExpenses)
+[MyExpenses🤖](https://www.myexpenses.mobi/en/MyExpenses),
+[Smart Wallet🍎](https://apps.apple.com/us/app/smart-wallet/id1378013954)
 
 Accounting all-in-one:  
 [GNU Accounting Utilities🐧](https://www.gnu.org/software/acct/),

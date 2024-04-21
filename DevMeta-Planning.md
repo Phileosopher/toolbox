@@ -52,6 +52,9 @@ Researching software:
 [lists](https://github.com/jnv/lists),
 [Resource Gallery](https://resourcegallery.live/), [Resources](https://github.com/birdbee44/Resources), [resources](https://bycorsanchez.github.io/resources/), [resources](https://codechefvit.github.io/resources/), [Resources](https://progdisc.club/resources/), [resources](https://github.com/IEEE-VIT/resources), [resources](https://iiitv.github.io/resources/), [resources](https://github.com/kewishfagoe/resources), [Resources](https://github.com/lzhbrian/Resources)
 
+Alternative FLOSS projects:  
+[LibHunt](https://www.libhunt.com/)
+
 Zero-config tools:  
 [awesome-toolkits](https://github.com/reyronald/awesome-toolkits)
 

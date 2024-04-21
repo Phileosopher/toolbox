@@ -40,12 +40,15 @@ Time zones:
 [Pole Clock☁](https://poleclock.com/),
 [World Time Zone Map☁](https://24timezones.com/timezone-map)
 
-Time tracking:  
+Time tracking/metrics:  
 [ActivityWatch⊞⌘🐧🍎🤖⇉](https://activitywatch.net/),
+[arbtt🆓](https://arbtt.nomeata.de/),
 [Emergent Task Timer*](https://davidseah.com/node/the-emergent-task-timer/),
+[Heedy🆓](https://heedy.org/),
 [ProcrastiTracker⊞](http://strlen.com/procrastitracker/),
 [TMetric☁](https://tmetric.com/),
-[Toggl Track☁⬆️](https://toggl.com/track/)
+[Toggl Track☁⬆️](https://toggl.com/track/),
+[WhatPulse](https://whatpulse.org/)
 
 Gantt charts:  
 [Manual Gantt Charting in Excel*](https://davidseah.com/node/manual-gantt-charting-in-excel/)

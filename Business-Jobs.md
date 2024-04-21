@@ -68,12 +68,7 @@ Volunteering:
 [Glassdoor](https://www.glassdoor.com/Community/index.htm),
 [Indeed Company Reviews](https://www.indeed.com/companies)
 
-USA-specific:  
-[SEC EDGAR Full Text Search](https://www.sec.gov/edgar/search/),
-[SEC EDGAR Company Search (legacy)](https://www.sec.gov/edgar/searchedgar/legacy/companysearch.html),
-
-Europe-specific:  
-[Central and Eastern European Business Directory (CEEBD)](https://globaledge.msu.edu/global-resources/resource/1274💩)
+more research at Money-Invest-Borrow.md
 
 ## Employee Search
 

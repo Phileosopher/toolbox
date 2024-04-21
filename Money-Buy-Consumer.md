@@ -50,6 +50,9 @@ Rebates and cash back services:
 
 [Reddit's Favorite Products*](https://www.looria.com/reddit)
 
+In-stock status:  
+[Stock Informer](https://www.stockinformer.com/)
+
 Gift cards:  
 [eGifter](https://www.egifter.com/)
 
@@ -98,6 +101,7 @@ Eyewear:
 [Zenni Optical☁](https://www.zennioptical.com/)
 
 Fuel:  
+[AAA Gas Prices](https://gasprices.aaa.com/)
 [GasBuddy☁🍎🤖](https://www.gasbuddy.com/)
 
 Heart rate sensor:  
@@ -116,3 +120,21 @@ Roadside assistance services:
 Classified ads:  
 [craigslist☁](https://craigslist.org/),
 [OfferUp☁🍎🤖](https://offerup.com/)
+
+Classified ads - CA:  
+[Kijiji](https://www.kijiji.ca/),
+[Used.ca](https://www.used.ca/)
+
+Classified ads - DE:  
+[markt.de](https://www.markt.de/),
+[Quoka.de](https://www.quoka.de/)
+
+Classified ads - NL:  
+[Marktplaats](https://www.marktplaats.nl/),
+[Speurders](https://www.speurders.nl/)
+
+Classified ads - UK:  
+[Gumtree](https://www.gumtree.com/)
+
+Classified ads - US:  
+[AmericanListed.com](https://www.americanlisted.com/)
