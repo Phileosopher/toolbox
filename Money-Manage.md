@@ -53,6 +53,8 @@ Payment processor - donations-based:
 Barebones income/expense tracking:  
 [Dime🍎](https://apps.apple.com/sg/app/dime-budget-expense-tracker/id1635280255),
 [GNU Pem🐧](https://www.gnu.org/software/pem/pem-nano.html),
+[HomeBank](https://www.gethomebank.org/),
+[MoneyManager Ex⊞⌘🐧](https://moneymanagerex.org/),
 [MyExpenses🤖](https://www.myexpenses.mobi/en/MyExpenses),
 [Smart Wallet🍎](https://apps.apple.com/us/app/smart-wallet/id1378013954)
 

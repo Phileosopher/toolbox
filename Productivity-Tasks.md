@@ -45,6 +45,7 @@ Time tracking/metrics:
 [arbtt🆓](https://arbtt.nomeata.de/),
 [Emergent Task Timer*](https://davidseah.com/node/the-emergent-task-timer/),
 [Heedy🆓](https://heedy.org/),
+[Kimai💾](https://www.kimai.org/),
 [ProcrastiTracker⊞](http://strlen.com/procrastitracker/),
 [TMetric☁](https://tmetric.com/),
 [Toggl Track☁⬆️](https://toggl.com/track/),

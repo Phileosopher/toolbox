@@ -1,95 +1,11 @@
-# Productivity: Jobs☁
+# Money: Job Boards☁
 
-Long-Term Planning:  
-[Will Robots Take My Job?☁](https://www.replacedbyrobot.info/)
-
-Job roles that tend to marry:  
-[Jobs that Marry Together the Most](https://flowingdata.com/2021/05/26/jobs-that-marry-together/)
-
-## Salary Data
-
-[Monster.com Salary Comparison and Salary Estimator](https://www.monster.com/salary)
-
-Salary data from skills-based tests:  
-[Toggl Hire](https://toggl.com/hire/)
-
-Salary data - tech industry:  
-[Bonsai's Freelance rates explorer](https://www.hellobonsai.com/rates/freelance),
-
-## Profile Management
-
-Social networks:  
-[LinkedIn🧛](https://linkedin.com)
-
-Web profile pages:  
-[about.me](https://about.me),
-[Read.cv](https://read.cv/),
-[The Creative Passport](https://www.creativepassport.net/),
-[urspace](https://urspace.io/),
-[YourChamp](https://www.yourchamp.io/)
-
-Publishing profile:  
-[Books2Read.com](https://books2read.com/)
-
-Business card - GitHub:  
-[GitHub Business Card](https://scastiel.dev/github-card)
-
-## Resumé Enhancement
-
-Resumé templates:  
-[ResumGO](https://www.resumgo.com/)
-
-Resumé builder/parser:  
-[OpenResume☁](https://www.open-resume.com/),
-[Reactive Resume](https://rxresu.me/),
-[Resumake☁](https://latexresu.me/),
-[ResumeMaker.Online](https://www.resumemaker.online/),
-[Resume Nation](https://resume-nation.github.io/),
-[wtfresume☁](https://wtfresume.com/)
-
-Resumé builder - software engineers:  
-[gitconnected Software Engineer Resume Builder☁](https://gitconnected.com/resume-builder)
-
-Resumé builder - ATS keyword matching:  
-[Resume Matcher🐍](https://www.resumematcher.fyi/)
-
-Resumé editor - BibTeX integration:  
-[CVservant](https://cvservant.com/cv/)
-
-Cover letters:  
-[Covered](https://covered.works/)
-
-Volunteering:  
-[Catchafire](https://www.catchafire.org)
-
-## Business Research
-
-[Better Business Bureau](https://www.bbb.org/),
-[Glassdoor](https://www.glassdoor.com/Community/index.htm),
-[Indeed Company Reviews](https://www.indeed.com/companies)
-
-more research at Money-Invest-Borrow.md
-
-## Employee Search
-
-ATS:  
-[CareerBuilder for Employers](https://hiring.careerbuilder.com/)
-[Indeed Resume](https://resumes.indeed.com/),
-[Jobvertise$](https://www.jobvertise.com/),
-[MightyRecruiter](https://www.mightyrecruiter.com/)
-
-Developer search:  
-[GitHunt](https://githunt.dev/)
-
-Employee salary data:  
-[The Work Number](https://theworknumber.com/) (with [one for employees and consumers](https://employees.theworknumber.com/))
-
-## Job Boards (Employer/Employee)
-
+[CareerBliss](https://www.careerbliss.com/),
 [CareerBuilder.com](https://www.careerbuilder.com/),
 [Hired](https://hired.com/),
 [Indeed](https://www.indeed.com/),
 [SimplyHired](https://www.simplyhired.com/),
+[XING](https://www.xing.com/) (with [XingDumper🔌](https://github.com/l4rm4nd/XingDumper)),
 [ZipRecruiter](https://www.ziprecruiter.com/)
 
 Middle East-specific:  
@@ -98,13 +14,16 @@ Middle East-specific:
 Entrepreneurship-specific:  
 [AngelList Talent](https://angel.co/)
 
+Executive-specific:  
+[Experteer.com](https://experteer.com/)
+
 Short work weeks:  
 [4 day week](https://4dayweek.io/)
 
 Criminal record:  
 [Felony Record Hub](https://www.felonyrecordhub.com/)
 
-## Job Boards (Freelancing)
+## Freelancing
 
 [Andela](https://andela.com/),
 [Fiverr](https://www.fiverr.com/),
@@ -118,7 +37,13 @@ Criminal record:
 Entire teams at once:  
 [Huddle](https://www.huddle.works/)
 
-## Job Boards (Freelancing) - Logistics
+Remote work:  
+[Himalayas](https://himalayas.app/),
+[Remote.co](https://remote.co/),
+[Remotive](https://remotive.com/),
+[RemoteOK](https://remoteok.com/)
+
+## Freelancing - Logistics
 
 Taxi service:  
 [Lyft](https://www.lyft.com/),
@@ -128,7 +53,7 @@ Food delivery:
 [DoorDash](https://www.doordash.com/),
 [Uber Eats](https://www.ubereats.com/)
 
-## Job Boards (Freelancing) - Creative Work
+## Freelancing - Creative Work
 
 [Etsy](https://www.etsy.com/),
 [Flexiple](https://flexiple.com/)
@@ -144,7 +69,7 @@ Book publishing:
 [Lulu](https://www.lulu.com/),
 [Smashwords](https://www.smashwords.com/)
 
-## Job Boards (Freelancing) - Speaking
+## Freelancing - Speaking
 
 Audio book speakers:  
 [ACX](https://www.acx.com/),
@@ -158,7 +83,7 @@ Public speaking:
 [SpeakInc](https://www.speakinc.com/),
 [SpeakerMatch](https://speakermatch.com/)
 
-## Job Boards (Freelancing) - Writing
+## Freelancing - Writing
 
 Copywriting:  
 [Contentfly](https://contentfly.com/),
@@ -179,7 +104,7 @@ Book reviews:
 Handwritten messages:  
 [Handwriting.io☁](https://handwriting.io/)
 
-## Job Boards (Freelancing) - Labor
+## Freelancing - Labor
 
 [Angi](https://www.angi.com/)
 
@@ -195,15 +120,9 @@ Moving:
 Roadside assistance:  
 [HONK](https://www.honkmobile.com/)
 
-## Job Boards (Freelancing) - Remote Work
+## Technology Industry
 
-[Himalayas](https://himalayas.app/),
-[Remote.co](https://remote.co/),
-[Remotive](https://remotive.com/),
-[RemoteOK](https://remoteok.com/)
-
-## Job Boards - Technology Industry
-
+[awesome-job-boards](https://github.com/tramcar/awesome-job-boards),
 [Dice](https://www.dice.com/)
 
 Geographically-based:  
@@ -218,7 +137,10 @@ Software development:
 Freelancing/mentorship:  
 [Codementor](https://www.codementor.io/)
 
-## Job Boards -  Mindless Tasks
+Easy to apply online:  
+[easy-application](https://github.com/j-delaney/easy-application)
+
+## Mindless Tasks
 
 [Chequity](https://chequity.io/),
 [Freeward](https://freeward.net/),
@@ -237,7 +159,7 @@ Installing apps:
 Games:  
 [GG2U.org](https://www.gg2u.org/)
 
-## Job Boards -  Misc
+## Misc
 
 Professional advice and specialized information:  
 [Coursera's Expert Network](https://experts.coursera.org/),

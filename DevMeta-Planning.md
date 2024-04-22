@@ -30,7 +30,8 @@ Unused GitHub usernames:
 [terror/usernames: rare inactive github usernames!](https://github.com/terror/usernames)
 
 Researching software:  
-[Business Software Reviews from Software Advice](https://www.softwareadvice.com/)
+[G2](https://www.g2.com/),
+[Software Advice](https://www.softwareadvice.com/)
 
 ## Free Resources💩
 
