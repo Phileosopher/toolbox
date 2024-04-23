@@ -126,6 +126,7 @@ Optimize images - lossy:
 
 To SVG:  
 [Free SVG Converter](https://picsvg.com/),
+[Online Image Vectorizer](https://www.vectorizer.io/),
 [Svgurt](https://svgurt.com/)
 
 BMP to SVG:  

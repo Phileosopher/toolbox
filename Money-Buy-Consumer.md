@@ -33,7 +33,8 @@ Coupon codes:
 [Honey⇉](https://www.joinhoney.com/)
 
 Computer parts:  
-[ByteBucket☁](https://www.bytebucket.co/?)
+[ByteBucket☁](https://www.bytebucket.co),
+[TechBargains](https://www.techbargains.com/)
 
 Restaurants:  
 [Restaurant.com☁](https://www.restaurant.com/)
@@ -45,6 +46,9 @@ Rebates and cash back services:
 [Rakuten⇉](https://www.rakuten.com/),
 [Swagbucks☁](https://www.swagbucks.com/),
 [TopCashback☁](https://www.topcashback.com/)
+
+Limited-time specials:  
+[Woot](https://www.woot.com/)
 
 ## Shopping
 

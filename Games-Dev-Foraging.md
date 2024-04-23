@@ -29,6 +29,7 @@ Open-source game lists:
 [Unix ASCII games](https://github.com/ligurio/awesome-ttygames)
 
 Specific open-source game clones:  
+[The Dark Mod](https://www.thedarkmod.com/),
 [Freeciv](https://www.freeciv.org/),
 [OpenMW](https://gitlab.com/OpenMW/openmw),
 [Widelands](https://www.widelands.org/)
