@@ -119,6 +119,11 @@ Philosophy papers visualization:
 Latin-to-English dictionary:  
 [Glosbe Dictionary](https://glosbe.com/)
 
+## Engineering Learning
+
+Notes:  
+[LearnEngineering.in](https://learnengineering.in/)
+
 ## Teaching
 
 Quizzes:  

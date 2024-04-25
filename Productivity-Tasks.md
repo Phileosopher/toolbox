@@ -2,9 +2,6 @@
 
 [Tool Finder](https://toolfinder.co/)
 
-Inspiration:  
-[Oblique Strategies](https://stoney.sb.org/eno/oblique.html)
-
 Daily tasks:  
 [Concrete Goals Tracker*](https://davidseah.com/node/the-concrete-goals-tracker/),
 [Emergent Task Planner*](https://davidseah.com/node/the-emergent-task-planner/)

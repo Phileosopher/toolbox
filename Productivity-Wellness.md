@@ -8,6 +8,9 @@ Emotional identification:
 Memory:  
 [Lumosity Brain Training☁](https://www.lumosity.com/en/)
 
+Self-identification:  
+[Self Authoring](https://www.selfauthoring.com/)
+
 Personality Test:
 [Understand Myself](https://understandmyself.com/)
 

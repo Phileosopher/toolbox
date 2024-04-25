@@ -26,8 +26,7 @@ Managed hosting - dirt-cheap:
 
 Static hosting:  
 [Pancake☁](https://www.pancake.io/),
-[Netlify☁](https://app.netlify.com/),
-[GitHub Pages☁](https://pages.github.com/),
+[Netlify☁🧛](https://app.netlify.com/),
 [1MB☁](https://1mb.site/)
 
 Decentralized storage:  

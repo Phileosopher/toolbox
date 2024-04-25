@@ -37,6 +37,7 @@ Researching software:
 
 [Free Developer Stuff](https://freestuff.dev/),
 [FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev),
+[free-for-dev](https://github.com/jixserver/free-for-dev),
 [Free for developers](https://free-for.dev/),
 [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)
 

@@ -2,6 +2,9 @@
 
 [awesome-food](https://github.com/jzarca01/awesome-food)
 
+Groceries and recipes:  
+[KitchenOwl🐧🍎🤖](https://kitchenowl.org/)
+
 Education:  
 [Cooking For Engineers](https://www.cookingforengineers.com/),
 [The Cooking Inn](https://www.thecookinginn.com/)
