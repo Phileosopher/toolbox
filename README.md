@@ -8,7 +8,7 @@ This is not an exhaustive list. I recommend one of the following for that:
 
 This is my quick-reference knowledge base, a link-based [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book).
 
-I've left earmarks for reference. You can usually tell how much I use it by how much I've earmarked an individual tool.
+I've left earmarks for reference, and my frequency of use approximately correlates to how many earmarks I've placed on it.
 
 - Its starting platform:  
     - _*_ - reference sheet or copy/paste.
