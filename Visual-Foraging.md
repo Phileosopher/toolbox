@@ -208,6 +208,7 @@ React icons:
 ## Logos
 
 [LogoSearch](https://logosear.ch/),
+[Logo Taco](https://www.logotaco.com/),
 [Open Logos](https://openlogos.org/),
 [seeklogo](https://seeklogo.com/),
 [Worldvectorlogo](https://worldvectorlogo.com/)

@@ -16,6 +16,9 @@ Video calling:
 
 ## Placeholders
 
+Images:  
+[Lorem.space](https://lorem.space/)
+
 Quotations:  
 [quotable](https://github.com/lukePeavey/quotable#get-random-quotes),
 [They Said So](https://theysaidso.com/api)
