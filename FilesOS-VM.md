@@ -11,7 +11,7 @@ Type 1 hypervisors (bare-metal):
 [KVM🐧](https://www.linux-kvm.org/page/Main_Page)
 
 Type 2 hypervisors (OS-based):  
-[QEMU⊞⌘🐧](https://www.qemu.org/),
+[QEMU⊞⌘🐧](https://www.qemu.org/) (and [Limbo🤖](https://f-droid.org/packages/com.limbo.emu.main/)),
 [VMware Workstation Player⊞🐧](https://www.vmware.com/products/workstation-player.html)
 
 Browser-based virtualization:  
