@@ -1,6 +1,12 @@
 # toolbox
 
-NOTE: THIS IS BEING UPDATED [ACCORDING TO MY ESSAY CONVENTION](https://stucky.tech/2024-08-02/)
+NOTE: THIS IS BEING UPDATED [ACCORDING TO MY ESSAY CONVENTION](https://stucky.tech/2024-08-02/). THE FOLLOWING INFORMATION ISN'T UP TO DATE.
+
+The new syntax is as follows:
+
+1. The initials are a reference to [one of my essay pages](https://stucky.tech/creations/), separated by an underscore.
+2. The lowercase reference is the URL slug: e.g., AL_memory becomes https://adequate.life/memory
+3. Additional parenthesis if the slug doesn't give enough context: e.g., AL_success-4(Productivity)
 
 This is not an exhaustive list. I recommend one of the following for that:
 
@@ -36,7 +42,7 @@ I've left earmarks for reference, and my frequency of use approximately correlat
     - 🆓 - [FLOSS](https://trendless.tech/floss/)
     - ⬆️ - freemium model
     - $ - requires paying at least some money
-    - 🧛 - [FAANG](https://trendless.tech/faang) website (i.e., Amazon, Facebook, Microsoft)
+    - 🧛 - [FAANG](https://trendless.tech/faang) website or FAANG-dependent (i.e., Amazon, Facebook, Microsoft)
 - 💩 - it's a recursed pile of stuff, curated by someone else
 - ~~strikethrough~~ for bad tools, with a clear explanation
 
