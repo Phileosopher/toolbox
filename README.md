@@ -1,5 +1,7 @@
 # toolbox
 
+NOTE: THIS IS BEING UPDATED [ACCORDING TO MY ESSAY CONVENTION](https://stucky.tech/2024-08-02/)
+
 This is not an exhaustive list. I recommend one of the following for that:
 
 - Websites that give gigantic piles of alternatives like [Slant](https://www.slant.co/) or [AlternativeTo](https://alternativeto.net/)
