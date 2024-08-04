@@ -1,4 +1,6 @@
 
+# Tools for [persevering](https://adequate.life/success-5/)
+
 Procrastination diagnosis:  
 [Why do I procrastinate?](https://whydoiprocrastinate.com/)
 

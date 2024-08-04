@@ -1,5 +1,5 @@
 
-## Tools for [enhancing productivity](https://adequate.life/success-4/)
+# Tools for [enhancing productivity](https://adequate.life/success-4/)
 
 [Tool Finder](https://toolfinder.co/)
 

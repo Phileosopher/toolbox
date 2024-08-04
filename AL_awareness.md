@@ -1,5 +1,5 @@
 
-## Tools for [awareness](https://adequate.life/awareness/)
+# Tools for [awareness](https://adequate.life/awareness/)
 
 Self-identification:  
 [Self Authoring](https://www.selfauthoring.com/)

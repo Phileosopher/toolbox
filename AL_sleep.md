@@ -1,5 +1,5 @@
 
-## Tools for [sleep](https://adequate.life/sleep/)
+# Tools for [sleep](https://adequate.life/sleep/)
 
 Sleep calculator:  
 [Sleepytime](https://sleepopolis.com/calculators/sleep/)

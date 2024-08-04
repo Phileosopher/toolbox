@@ -1,5 +1,5 @@
 
-## Tools for [memory](https://adequate.life/memory/)
+# Tools for [memory](https://adequate.life/memory/)
 
 Memory training:  
 [Lumosity Brain Training☁](https://www.lumosity.com/en/)

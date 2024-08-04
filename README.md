@@ -2,22 +2,26 @@
 
 NOTE: THIS IS BEING UPDATED [ACCORDING TO MY ESSAY CONVENTION](https://stucky.tech/2024-08-02/). THE FOLLOWING INFORMATION ISN'T UP TO DATE.
 
-The new syntax is as follows:
-
-1. The initials are a reference to [one of my essay pages](https://stucky.tech/creations/), separated by an underscore.
-2. The lowercase reference is the URL slug: e.g., AL_memory becomes https://adequate.life/memory
-3. Additional parenthesis if the slug doesn't give enough context: e.g., AL_success-4(Productivity)
-
-This is not an exhaustive list. I recommend one of the following for that:
-
+This is not an exhaustive list. I recommend one of the following for that:  
 - Websites that give gigantic piles of alternatives like [Slant](https://www.slant.co/) or [AlternativeTo](https://alternativeto.net/)
 - One of the hundreds of AWESOME LISTS OF EVERYTHING EVER MADE TO DO A THING that jockey for a top 100 position on [Product Hunt](https://www.producthunt.com/).
 - Piles of curated search content such as [Curlie](https://curlie.org/), run by many passionate people at once.
 
-This is my quick-reference knowledge base, a link-based [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book).
+I often find neat things, but I don't trust my memory, so I add them here to avoid re-researching. But, I couldn't tell you what I want to do several years from now. Since I have been a data hoarder in the past, so it's either this collection or terabytes' worth of hypothetically useful software.
 
-I've left earmarks for reference, and my frequency of use approximately correlates to how many earmarks I've placed on it.
+This is my quick-reference knowledge base, a link-based [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book). I aim for things I anticipate will be around in 5-10 years, which omits many candidates:  
+1. If the site is interpreted as suspicious by government authorities (e.g., [for piracy](https://trendless.tech/torrent/)), it won't likely stick around, though some future iteration of it will float out there somewhere.
+2. When the tool is bleeding-edge technology, a few years from now it'll likely get shoved behind a vastly overpriced paywall, with an open-source iteration floating out there somewhere.
+3. Many [tech startups](https://trendless.tech/entrepreneur/) curate "kitchen sink" tools that do many things, but in a few years that tool will be repurposed several times over once they've found their market or were acquired by a [FAANG corporation](https://trendless.tech/faang/).
+4. Quick-reference sheets are great, but should _still_ be useful later on. Some [protocols](https://trendless.tech/protocols/) move around, others stay nearly the same or simply get more features.
+5. Large-scale [enterprise-grade](https://trendless.tech/enterprise/) software must be maintained by [large-scale entities](https://gainedin.site/groups-large/), so their service is counter-intuitively _more_ likely to fall apart if they don't provide [an open-source implementation](https://trendless.tech/floss/).
 
+Someone can use a computer for _many_ things, and people are constantly inventing new things, so I've broken everything into conventions that conform to my existing essays:  
+1. The initials are a reference to [one of my essay pages](https://stucky.tech/creations/), separated by an underscore.
+2. The lowercase reference is the URL slug: e.g., AL_memory becomes https://adequate.life/memory
+3. Additional parenthesis if the slug doesn't give enough context: e.g., AL_success-4(Productivity)
+
+I've left earmarks for reference, and my frequency of use approximately correlates to how many earmarks I've placed on it:  
 - Its starting platform:  
     - _*_ - reference sheet or copy/paste.
     - ☁ - browser-based
@@ -43,7 +47,7 @@ I've left earmarks for reference, and my frequency of use approximately correlat
     - ⬆️ - freemium model
     - $ - requires paying at least some money
     - 🧛 - [FAANG](https://trendless.tech/faang) website or FAANG-dependent (i.e., Amazon, Facebook, Microsoft)
-- 💩 - it's a recursed pile of stuff, curated by someone else
+- 💩 - it's a recursed pile of stuff, (presumably) curated by someone else
 - ~~strikethrough~~ for bad tools, with a clear explanation
 
 These icons are volatile out-of-the-box guesstimates, for several reasons:  
@@ -68,26 +72,6 @@ The internet has created a strange trend:
 4. Months or years later, they need to do that thing again.
 5. Recurse to Step 1.
 
-I often find neat things, but I don't trust my memory, so I add them here to avoid re-researching. But, I couldn't tell you what I want to do several years from now. Since I have been a data hoarder in the past, so it's either this collection or terabytes' worth of hypothetically useful software.
-
-I only aim for things I anticipate will be around in 5-10 years, which omits many candidates:  
-1. If the site is interpreted as suspicious by government authorities (e.g., [for piracy](https://trendless.tech/torrent/)), it won't likely stick around, though some future iteration of it will float out there somewhere.
-2. When the tool is bleeding-edge technology, a few years from now it'll likely get shoved behind a vastly overpriced paywall, with an open-source iteration floating out there somewhere.
-3. Many [tech startups](https://trendless.tech/entrepreneur/) curate "kitchen sink" tools that do many things, but in a few years that tool will be repurposed several times over once they've found their market or were acquired by a [FAANG corporation](https://trendless.tech/faang/).
-4. Quick-reference sheets are great, but should _still_ be useful later on. Some [protocols](https://trendless.tech/protocols/) move around, others stay nearly the same or simply get more features.
-5. Large-scale [enterprise-grade](https://trendless.tech/enterprise/) software must be maintained by [large-scale entities](https://gainedin.site/groups-large/), so their service is counter-intuitively _more_ likely to fall apart if they don't provide [an open-source implementation](https://trendless.tech/floss/).
-
-Someone can use a computer for _many_ things, and people are constantly inventing new things, so everything is broken into malleable and somewhat arbitrary groupings:  
-- Audio: to work with sound for some intended aesthetic
-- Communicating: to communicate with other people, directly or indirectly
-- Files/OS: to manage computer files or operating systems
-- Hardware: to make or manage physical things, which typically includes computer hardware
-- Math: for calculation-specific needs
-- Money: for lucre-specific needs
-- Network: for computers across a network
-- Text: to work with language for some intended aesthetic
-- Visual: to visually design or adapt things which contain some intended aesthetic
-
 Further, some patterns keep cropping up in each domain, and sometimes take on a life of their own:  
 - Business: to somehow conduct [business](https://notageni.us/business/) with others (e.g., [marketing](https://notageni.us/marketing/), [accounting](https://notageni.us/accounting/))
 - Consuming: human consumption only, without modification to it
@@ -104,7 +88,7 @@ For brevity's sake, I try to bias against a few groups:
 - Most courses and courseware, which describe how to manipulate a specific tool more than what that tool does.
 - Anything [associated with a scandal](https://trendless.tech/faang), [highly politicized](https://gainedin.site/conservative-liberal), [debatably close to illegal](https://notageni.us/legally-safe), or [was hacked](https://trendless.tech/hacking). I've got enough drama in my life without looking for more.
 
-## 2. Understanding
+## B. Understanding
 
 The definition of "tool" is more complex than first impulses may dictate:  
 1. Every tool revolves around [human purpose](https://gainedin.site/purpose/), which is a concept created as a [relative human value](https://gainedin.site/values/) derived as the difference between [perceived reality](https://gainedin.site/reality/) and [what is imagined to be possible](https://gainedin.site/imagination/).
@@ -115,7 +99,7 @@ When we're familiar with computers, we often forget it can do more than we expec
 
 Extra [information management](https://notageni.us/information/) tools can create extra [understanding](https://gainedin.site/understanding/) and [effectiveness](https://gainedin.site/results/), which spills into the world beyond computers.
 
-## 3. Awareness
+## C. Awareness
 
 There are quite a few occasions for rebuilding an already-present tool:  
 - It's often hard to find _precisely_ what you want, and refactoring can be complicated.
