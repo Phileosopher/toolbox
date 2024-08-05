@@ -15,3 +15,8 @@ Indecision:
 [Flip A Coin☁](https://commentpicker.com/flip-a-coin.php),
 [Wheel Decide☁](https://commentpicker.com/wheel-decide.php),
 [Random Decision Maker☁](https://commentpicker.com/decision-maker.php)
+
+## Mundane Task Improvement
+
+Lacing shoes:  
+[Ian's Shoelace Site](https://www.fieggen.com/shoelace/)

@@ -1,4 +1,5 @@
-# Files/OS: Files
+
+# Tools for [computer files](https://trendless.tech/files/)
 
 Filetype research:  
 [File.org](https://file.org/)

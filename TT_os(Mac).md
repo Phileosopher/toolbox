@@ -1,4 +1,5 @@
-# Files/OS: Mac-Specific⌘
+
+# Tools for [operating systems](https://trendless.tech/os/) with respect to Mac⌘
 
 Piles of everything💩:  
 [awesome-macOS](https://github.com/iCHAIT/awesome-macOS),

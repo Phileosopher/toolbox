@@ -27,6 +27,10 @@ Interface config:
 [Magnet⌘](https://magnet.crowdcafe.com/),
 [Microsoft PowerToys⊞🧛](https://docs.microsoft.com/en-us/windows/powertoys/)
 
+Power tools⊞:  
+[NirLauncher](https://launcher.nirsoft.net/),
+[Windows Sysinternals■🧛](https://docs.microsoft.com/en-us/sysinternals/)
+
 Desktop icon positions:  
 [DesktopOK⊞](https://www.softwareok.com/?seite=Freeware/DesktopOK),
 [Dozer⌘](https://github.com/Mortennn/Dozer),

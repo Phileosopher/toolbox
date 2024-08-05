@@ -1,4 +1,5 @@
-# Visual: Consuming
+
+# Tools for [consuming lots of information](https://notageni.us/information), specifically visual
 
 Audio/video player:  
 [VLC⊞■⌘🐧🍎🤖](https://www.videolan.org/vlc/),
@@ -25,25 +26,6 @@ TL;DW YouTube:
 
 TL;DW YouTube - Transcript:  
 [YouTube Transcript](https://youtubetranscript.com/)
-
-## Streaming Video Search Engine☁
-
-[JustWatch](https://www.justwatch.com/),
-[Movie of the Night](https://www.movieofthenight.com/),
-[Movieo](https://movieo.me/)
-
-Search engine - fuzzy AI search:  
-[What is my movie?](https://www.whatismymovie.com/)
-
-Search engine - grayweb (URLs change all the time):  
-Movies123,
-Kimcartoon,
-Kisscartoon,
-Popcorntime
-
-Tracking new releases:  
-[Simkl](https://simkl.com/),
-[Trakt](https://trakt.tv/)
 
 ## Video Information
 
@@ -72,12 +54,6 @@ Database - Disney+:
 
 Availability by country:  
 [Streaming Availability API🔌⦿](https://www.movieofthenight.com/about/api)
-
-YouTube - channel reviews:  
-[Favoree](https://www.favoree.io/)
-
-YouTube - ad blocking:  
-[SponsorBlock🔌](https://sponsor.ajay.app/)
 
 P2P movie sharing:  
 [watchIT](https://github.com/ZorrillosDev/watchit-app)

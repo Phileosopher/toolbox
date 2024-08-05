@@ -1,30 +1,5 @@
-# Files/OS: Windows-Specific Software ⊞
 
-Power tools:  
-[NirLauncher](https://launcher.nirsoft.net/),
-[Windows Sysinternals■🧛](https://docs.microsoft.com/en-us/sysinternals/)
-
-CMD alternative:  
-[NirCmd■□](https://www.nirsoft.net/utils/nircmd.html)
-
-Package manager:  
-[winget🧛](https://docs.microsoft.com/en-us/windows/package-manager/winget/)
-
-Linux integration:  
-[WSL🧛](https://docs.microsoft.com/en-us/windows/wsl/install)
-
-Activation codes:  
-[CrackSerialCodes](https://www.crackserialcodes.com/),
-[SerialShack](https://www.serialshack.com/),
-[Smart Serials](https://smartserials.com/)
-
-## Windows Search
-
-Windows Search alternative:  
-[SearchMyFiles■](https://www.nirsoft.net/utils/search_my_files.html)
-
-IFilter plugins:  
-[SearchFilterView■](https://www.nirsoft.net/utils/search_filter_view.html)
+# Tools for [fixing computer things](https://trendless.tech/fix/) with respect to Windows⊞
 
 ## File/Folder Issues
 
@@ -237,57 +212,6 @@ Windows 11 issues:
 
 Bad network drivers:  
 [3DP Chip](https://www.3dpchip.com/3dpchip/index_eng.html)
-
-## System Updates
-
-Installation media:  
-[Windows 10🧛](https://www.microsoft.com/en-us/software-download/windows10)
-
-Software update:  
-[Ninite](https://ninite.com/),
-[Patch My PC](https://patchmypc.com/home-updater),
-[SUMo■](https://kcsoftwares.com/?sumo)
-
-.NET framework status:  
-[dotNETInspector■](https://firedancer-software.com/software/dotnetinspector/)
-
-Update history:  
-[WinUpdatesView■](https://www.nirsoft.net/utils/windows_updates_history_viewer.html)
-
-SFC /scannow issues:  
-[SFCFix](https://www.sysnative.com/forums/downloads/sfcfix/)
-
-Update automation:  
-[WinNTSetup](https://www.softpedia.com/get/System/OS-Enhancements/WinNTSetup.shtml),
-
-## Cleanup
-
-Startup programs:  
-[Autoruns■](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
-
-Disk usage:  
-[WinDirStat■](https://windirstat.net/),
-[WizTree■](https://wiztreefree.com/)
-
-Batch cleanup/repair:  
-[Tron](https://www.reddit.com/r/TronScript/comments/oqe6qg/tron_v1200_20210723_completely_remove_support_for/)
-
-Default apps:  
-[Windows 10 App Remover](https://www.majorgeeks.com/files/details/windows_10_app_remover.html)
-
-PC junk:  
-[Glary Utilities](https://www.glarysoft.com/glary-utilities/),
-[HDCleaner](https://www.kurtzimmermann.com/hdcleanerext_en.html),
-[System Ninja](https://singularlabs.com/software/system-ninja/)
-
-PC junk - list:  
-[Winapp2*](https://github.com/MoscaDotTo/Winapp2)
-
-Empty file directories:  
-[RmEDir■□](http://www.pazera-software.com/products/rmedir/)
-
-SQLite databases (Firefox, Chrome, et al):  
-[SpeedyFox⊞■](https://www.crystalidea.com/speedyfox)
 
 ## User Issues
 

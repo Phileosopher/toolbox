@@ -28,9 +28,6 @@ Cheat sheets💩:
 Cheat sheets - MATLAB/Python/Julia:  
 [MATLAB--Python--Julia cheatsheet](https://cheatsheets.quantecon.org/)
 
-Time standards:  
-[RFC 3339 vs ISO 8601*](https://ijmacd.github.io/rfc3339-iso8601/)
-
 Regex:  
 [i Hate Regex](https://ihateregex.io/),
 [Regex Cheat Sheet](https://www.rexegg.com/regex-quickstart.html)

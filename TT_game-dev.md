@@ -1,6 +1,6 @@
-# Games: Development
+# Tools for [game development](https://trendless.tech/game-dev/)
 
-## Specific Game Engines
+## Game Engines
 
 Visual novels:  
 [Ren'Py](https://www.renpy.org/)
@@ -32,24 +32,7 @@ RTS:
 RPG:  
 [EasyRPG](https://easyrpg.org/)
 
-## Front-End Engines
-
-2D Physics:  
-[PhysicsEditor](https://www.codeandweb.com/physicseditor)
-
-GPU API:  
-[Vulkan🔌](https://www.khronos.org/vulkan/) (with [Vulkan Guide](https://github.com/mikeroyal/Vulkan-Guide))
-
-## Specific Elements
-
-Dungeon generator:  
-[DunGen☁](https://dungen.app/dungen/)
-
-Sprite downscaling:  
-[TexturePacker⊞⌘🐧](https://www.codeandweb.com/texturepacker),
-[TexturePacker3D⊞⌘🐧](https://www.codeandweb.com/texturepacker3d)
-
-## Publishing
+## Game Publishing
 
 [itch.io☁](https://itch.io/)
 

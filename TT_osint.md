@@ -1,4 +1,5 @@
-# Internet: Search Engines - OSINT/People Foraging☁💩
+
+# Tools for [OSINT](https://trendless.tech/osint/)☁💩
 
 [OSINT INCEPTION](https://start.me/p/Pwy0X4/osint-inception)
 
@@ -78,10 +79,6 @@ YouTube - channel ID:
 
 Address search:  
 [People Search Now's Address Lookup](https://www.peoplesearchnow.com/address)
-
-## Corporation Search
-
-
 
 ## Pulling Social Media IDs
 

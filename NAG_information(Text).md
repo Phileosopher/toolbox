@@ -1,4 +1,5 @@
-# Text: Consuming
+
+# Tools for [consuming lots of information](https://notageni.us/information), specifically text
 
 Book reading estimation:  
 [How Long to Read☁](https://www.howlongtoread.com/)
@@ -50,11 +51,3 @@ Ebooks:
 
 Books:  
 [Inventaire☁](https://inventaire.io/)
-
-## Other Text Needs
-
-Torrent/Usenet tracking client:  
-[Readarr](https://readarr.com/)
-
-Torah/Bible:  
-[The SWORD Project☁⊞■⌘🐧🍎🤖⇉](https://crosswire.org/sword/index.jsp)

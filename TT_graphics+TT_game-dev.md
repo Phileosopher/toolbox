@@ -1,10 +1,6 @@
 
 # Tools for [graphical elements](https://trendless.tech/graphics/) with respect to [game development](https://trendless.tech/game-dev/)
 
-Assets:  
-[OpenGameArt.org](https://opengameart.org/),
-[Kenney](https://kenney.nl/)
-
 ## Inspiration
 
 UI/UX:  
@@ -16,3 +12,24 @@ UI/UX:
 
 Game environment:  
 [noclip](https://noclip.website/)
+
+## Front-End Game Engines
+
+2D Physics:  
+[PhysicsEditor](https://www.codeandweb.com/physicseditor)
+
+GPU API:  
+[Vulkan🔌](https://www.khronos.org/vulkan/) (with [Vulkan Guide](https://github.com/mikeroyal/Vulkan-Guide))
+
+## Specific Elements
+
+Assets:  
+[OpenGameArt.org](https://opengameart.org/),
+[Kenney](https://kenney.nl/)
+
+Dungeon generator:  
+[DunGen☁](https://dungen.app/dungen/)
+
+Sprite downscaling:  
+[TexturePacker⊞⌘🐧](https://www.codeandweb.com/texturepacker),
+[TexturePacker3D⊞⌘🐧](https://www.codeandweb.com/texturepacker3d)

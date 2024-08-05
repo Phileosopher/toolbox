@@ -1,4 +1,5 @@
-# Files/OS: Windows-Specific - Software Development ⊞
+
+# Tools for [operating systems](https://trendless.tech/social-network/) and [software design](https://trendless.tech/software-design/) with respect to Windows⊞
 
 Installer framework:  
 [NSIS■](https://nsis.sourceforge.io/Main_Page)

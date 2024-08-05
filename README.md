@@ -19,16 +19,25 @@ When we're familiar with computers, we often forget it can do more than we expec
 
 I'm convinced this toolbox is a critical part of [my life's purpose](https://stucky.tech/tech/purpose/). Extra [information management](https://notageni.us/information/) tools are necessary to more deeply stay [effective](https://gainedin.site/results/) in the Over-Information Age.
 
+Even if the tools are no longer valid, I'm convinced someone will build a replacement. Please feel free to PR or notify any updates.
+
 ## Convention
 
-Since I'm building this for myself and the people who read my essays, all of the tools are grouped by essays I've drafted:  
-1. The initials are a reference to [one of my essay pages](https://stucky.tech/creations/), separated by an underscore.
-2. The lowercase reference is the URL slug.
-  - e.g., AL_memory becomes https://adequate.life/memory.
-3. Additional parenthesis if the slug doesn't give enough context.
-  - e.g., AL_success-4(Productivity) is https://adequate.life/success-4, but the slug needed clarification.
-4. When it applies to multiple domains, I combine them in the file name.
-  - e.g., AL_writing+TT_fast(Text Automation) refers to _both_ writing and using computers quickly.
+Since I'm building this for myself and the people who read my essays, all of the tools are grouped by essays I've drafted:
+
+A. The initials are a reference to [one of my essay pages](https://stucky.tech/creations/), separated by an underscore.
+
+B. The lowercase reference is the URL slug.
+- e.g., AL_memory becomes https://adequate.life/memory.
+
+C. Additional parenthesis if the slug doesn't give enough context.
+- e.g., AL_success-4(Productivity) is https://adequate.life/success-4, but the slug needed clarification.
+
+D. When it applies to multiple domains, I combine them in the file name.
+- e.g., AL_writing+TT_fast(Text Automation) refers to _both_ writing and using computers quickly.
+
+E. For brevity's sake, I constrain it to 2 essays max.
+- e.g., The widely popular VLC media player fits into NAG_information and TT_speakers-mic with plugins that make it TT_torrent, TT_os, and TT_social-media, but I'll just put it under NAG_information and roll up the rest of the red string for later.
 
 ## Omissions
 
@@ -42,7 +51,7 @@ I also try to bias against a few groups:
 - Most [mega-corp](https://gainedin.site/groups-large) tools. They already pay for plenty of [advertising](https://notageni.us/marketing/) and are _literally_ the first thing on a search engine.
 - Paid tools when they cost enough that it makes me pause to consider [my budget](https://adequate.life/money-3/). I'm a big proponent of [free licensing](https://trendless.tech/floss/) whenever possible, and I've made it my priority to never forget that some people people don't have much money.
 - Most courses and courseware, which describe how to manipulate a specific tool more than what that tool does.
-- Anything [associated with a scandal](https://trendless.tech/faang), [highly politicized](https://gainedin.site/conservative-liberal), [debatably close to illegal](https://notageni.us/legally-safe), or [was hacked](https://trendless.tech/hacking). I've got enough drama in my life without looking for more.
+- Anything [associated with a scandal](https://trendless.tech/faang), [highly politicized](https://gainedin.site/conservative-liberal), [debatably illegal](https://notageni.us/legally-safe), or [was hacked](https://trendless.tech/hacking). I've got enough drama in my life without looking for more.
 
 If there are many tools to choose from, I try to prioritize:  
 1. Free-as-in-freedom [FLOSS](https://trendless.tech/floss), if possible
@@ -59,9 +68,9 @@ I make the following disclaimer:
 4. I'm giving you the means to find things. I'm not legally responsible for what you decide to do with those things.
 5. If you want to sue me, I'll give you royalties of all the money I make on this. We'll just have to calculate that percentage by $0.
 
-## Additional notes
+## Earmarks
 
-I've left earmarks for reference, and my frequency of use approximately correlates to how many earmarks I've placed on it:  
+I've left emoji earmarks for reference, and my frequency of use approximately correlates to how many earmarks I've placed on it:  
 - Its starting platform:  
     - _*_ - reference sheet or copy/paste.
     - ☁ - browser-based
@@ -91,6 +100,6 @@ I've left earmarks for reference, and my frequency of use approximately correlat
 - ~~strikethrough~~ for bad tools, with a clear explanation
 
 These icons are volatile out-of-the-box guesstimates, for several reasons:  
-- If the specs on a computer are high enough (and they often are if the software is >5 years old), a multipurpose OS can run almost any software, even if it's an unlocked fridge running a sideloaded Linux on an SD card to run Windows 98 to run MS-DOS.
+- If the specs on a computer are high enough (and they often are if the software is >5 years old), a multipurpose OS can run almost any software, even if it's an unlocked fridge running a sideloaded SD card Linux in a Windows 98 container running MS-DOS.
 - Developers keep making new things for new technologies, so this is constantly becoming obsolete or adapting to new standards. From the time you read this, most of this toolbox is good for about 10 years.
 - Addon features have a funny way of becoming built-in features as everyone uses it, and built-in features will often become lobotomized to make something more efficient or profitable. Nothing is permanent.

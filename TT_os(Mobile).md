@@ -1,4 +1,5 @@
-# Files/OS: Mobile OS
+
+# Tools for [operating systems](https://trendless.tech/os/) with respect to mobile devices
 
 ## Kindle/Kobo
 
@@ -38,8 +39,3 @@ Wallpapers:
 
 File Management/Jailbreaking:  
 [3uTools](https://www.3u.com/)
-
-## Pi/Arduino
-
-Camera firmware:  
-[OpenIPC](https://github.com/OpenIPC)

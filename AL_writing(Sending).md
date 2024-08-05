@@ -1,4 +1,5 @@
-# Communicating: Sending
+
+# Tools for sending information via [writing](https://adequate.life/writing/)
 
 ## Sending Web Links
 
@@ -141,6 +142,9 @@ Scam reporting:
 [econsumer.gov☁](https://econsumer.gov/#crnt),
 [FBI's Submit a Tip☁ (USA)](https://www.fbi.gov/tips),
 [ReportFraud.ftc.gov☁ (USA)](https://reportfraud.ftc.gov/#/)
+
+Emergency response quick-connect:  
+[Noonlight🕵️🔌](https://www.noonlight.com/)
 
 ## Specific Message Needs - Email
 

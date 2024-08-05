@@ -1,5 +1,5 @@
 
-# Tools for [speakers and microphone](https://trendless.tech/speakers-mic/), specifically for audio post-production
+# Tools for [speakers and microphone](https://trendless.tech/speakers-mic/) regarding audio post-production
 
 ## Processing
 

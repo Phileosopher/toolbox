@@ -107,7 +107,7 @@ Computer code:
 [JSFiddle☁](https://jsfiddle.net/)
 [replit☁](https://replit.com/)
 
-## Third-Party Front-Ends☁
+## Third-Party Front-Ends and Enhancements☁
 
 [alternative-front-ends💩](https://github.com/mendel5/alternative-front-ends),
 [alternative-frontends💩](https://github.com/digitalblossom/alternative-frontends),
@@ -183,7 +183,10 @@ YouTube:
 [Piped☁](https://piped.video/),
 [yattee⌘🍎](https://github.com/yattee/yattee)
 
-YouTube - reviewed content:  
+YouTube - ad blocking:  
+[SponsorBlock🔌](https://sponsor.ajay.app/)
+
+YouTube - channel reviews:  
 [Favoree☁](https://www.favoree.io/)
 
 YouTube - restricted content:  

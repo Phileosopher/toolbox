@@ -1,4 +1,5 @@
-# Communicating: Sending - Development
+
+# Tools for sending information via [writing](https://adequate.life/writing/) for [web developers](https://trendless.tech/web-dev/)
 
 Computer code pastebin:  
 [bpaste](https://bpa.st/),

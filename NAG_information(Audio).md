@@ -1,5 +1,5 @@
 
-# Tools for [speakers and microphone](https://trendless.tech/speakers-mic/), specifically for consuming
+# Tools for [consuming lots of information](https://notageni.us/information), specifically audio
 
 [awesome-music-listening💩](https://github.com/ybayle/awesome-music-listening)
 

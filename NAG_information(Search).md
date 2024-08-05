@@ -1,9 +1,10 @@
-# Internet: Search Engines ☁
+
+# Tools for [acquiring lots of information](https://notageni.us/information) via search
 
 Search engine🧛:  
 [Bing](https://www.bing.com/),
 [DuckDuckGo](https://duckduckgo.com/) (with [!bang operators*](https://mosermichael.github.io/duckduckbang/html/main.html)),
-[Google](https://www.google.com/) (with [Supple's*](https://supple.com.au/tools/google-advanced-search-operators/) or [ahrefs' List*](https://ahrefs.com/blog/google-advanced-search-operators/) advanced search operators),
+[Google](https://www.google.com/) (with [Supple's*](https://supple.com.au/tools/google-advanced-search-operators/) or [ahrefs'*](https://ahrefs.com/blog/google-advanced-search-operators/) advanced search operators),
 [Yandex](https://yandex.com/)
 
 Privacy-respecting search engine:  
@@ -70,7 +71,26 @@ Flash content:
 [Flashpoint Archive](https://flashpointarchive.org/),
 [FlashMuseum](https://flashmuseum.org/)
 
-## Specific Search Engines (Not Categorizable Elsewhere)
+## Streaming Video Search Engine☁
+
+[JustWatch](https://www.justwatch.com/),
+[Movie of the Night](https://www.movieofthenight.com/),
+[Movieo](https://movieo.me/)
+
+Search engine - fuzzy AI search:  
+[What is my movie?](https://www.whatismymovie.com/)
+
+Search engine - grayweb (URLs change all the time):  
+Movies123,
+Kimcartoon,
+Kisscartoon,
+Popcorntime
+
+Tracking new releases:  
+[Simkl](https://simkl.com/),
+[Trakt](https://trakt.tv/)
+
+## Specific Other Search Engines☁
 
 Similar websites:  
 [Similarsites.com](https://www.similarsites.com/)
@@ -80,14 +100,3 @@ Sports information:
 
 European surnames:  
 [Surname Map](https://www.surnamemap.eu/)
-
-## Data Scraping
-
-[Apify💩](https://apify.com/)
-
-URLs in an HTML page:  
-[Link Gopher🧛](https://sites.google.com/site/linkgopher/),
-[AddrView⊞■](https://www.nirsoft.net/utils/addrview.html)
-
-Amazon product data🧛:  
-[amazon-scraper](https://github.com/scrapehero-code/amazon-scraper)

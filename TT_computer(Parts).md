@@ -1,35 +1,11 @@
-## Hardware: Parts
 
-Factory parts:  
-[McMaster-Carr☁](https://www.mcmaster.com/),
+# Tools for [computer](https://trendless.tech/database/) parts
 
 Electronics parts:  
 [Octopart☁](https://octopart.com/)
 
 Electronics parts - development boards:  
 [HackerBoards☁](https://hackerboards.com/)
-
-Auto parts:  
-[RockAuto☁](https://www.rockauto.com/)
-
-Noiseproofing:  
-[Green Glue](https://www.greengluecompany.com/)
-
-Fasteners:  
-[Bolt Depot - Nuts and Bolts, Screws and Fasteners online](https://www.boltdepot.com/)
-
-## Microcontrollers/Minicomputers
-
-[ODROID](https://www.hardkernel.com/)
-
-Raspberry Pi:  
-[RPi Hub*](https://elinux.org/RPi_Hub)
-
-Raspberry Pi - verified peripherals:  
-[RPi Verified Peripherals*](https://elinux.org/RPi_VerifiedPeripherals)
-
-Other PCB:  
-[smoothieboard](https://smoothieware.org/smoothieboard)
 
 ## General-Purpose Computers
 

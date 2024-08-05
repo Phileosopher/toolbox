@@ -1,5 +1,5 @@
 
-# Tools for [speakers and microphone](https://trendless.tech/speakers-mic/), specifically for software development
+# Tools for [speakers and microphone](https://trendless.tech/speakers-mic/) regarding [software development](https://trendless.tech/software-design)
 
 ## Live Events
 

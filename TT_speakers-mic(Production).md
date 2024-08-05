@@ -1,5 +1,5 @@
 
-# Tools for [speakers and microphone](https://trendless.tech/speakers-mic/), specifically for live music production
+# Tools for [speakers and microphone](https://trendless.tech/speakers-mic/) regarding live music production
 
 ## Testing
 
