@@ -1,6 +1,5 @@
-# Games: Front-End Design
 
-## Foraging
+# Tools for [graphical elements](https://trendless.tech/graphics/) with respect to [game development](https://trendless.tech/game-dev/)
 
 Assets:  
 [OpenGameArt.org](https://opengameart.org/),

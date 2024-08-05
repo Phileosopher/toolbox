@@ -1,4 +1,5 @@
-# Math
+
+# Tools for [math](https://notageni.us/math/)
 
 Lightweight calculators:  
 [Calculator.net☁](https://www.calculator.net/),

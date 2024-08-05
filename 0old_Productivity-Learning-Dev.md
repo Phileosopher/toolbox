@@ -9,7 +9,7 @@ Open CS books:
 
 Coding tests/certifications:  
 [CodeSignal☁](https://codesignal.com/),
-[freeCodeCamp☁](https://www.freecodecamp.org/)
+[freeCodeCamp☁](https://www.freecodecamp.org/),
 [HackerRank☁](https://www.hackerrank.com/)
 
 Games for learning CS:  

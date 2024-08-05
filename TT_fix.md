@@ -1,7 +1,5 @@
-# Hardware: Break-Fix
 
-Instructions:  
-[Fix-It Club☁](https://fixitclub.com/)
+# Tools for [fixing computer things](https://trendless.tech/fix/)
 
 All-in-one break-fix:  
 [HWiNFO⊞■](https://www.hwinfo.com/),
