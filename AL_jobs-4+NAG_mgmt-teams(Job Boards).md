@@ -24,6 +24,9 @@ Short work weeks:
 Criminal record:  
 [Felony Record Hub](https://www.felonyrecordhub.com/)
 
+Remote work:  
+[Nomad List](https://nomadlist.com/)
+
 ## Freelancing
 
 [Andela](https://andela.com/),

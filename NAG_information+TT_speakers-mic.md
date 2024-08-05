@@ -1,7 +1,5 @@
 
-# Tools for [consuming lots of information](https://notageni.us/information), specifically [audio-based](https://trendless.tech/speakers-mic/)
-
-## Foraging💩
+# Tools for [acquiring lots of information](https://notageni.us/information), specifically [audio-based](https://trendless.tech/speakers-mic/)💩
 
 [Internet Archive Audio Archive](https://archive.org/details/audio)
 

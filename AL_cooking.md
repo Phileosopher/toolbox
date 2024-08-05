@@ -5,7 +5,8 @@
 
 Learning:  
 [Cooking For Engineers](https://www.cookingforengineers.com/),
-[The Cooking Inn](https://www.thecookinginn.com/)
+[The Cooking Inn](https://www.thecookinginn.com/),
+[Parsnip🤖🍎](https://www.parsnip.ai/)
 
 Groceries and recipes:  
 [KitchenOwl🐧🍎🤖](https://kitchenowl.org/)

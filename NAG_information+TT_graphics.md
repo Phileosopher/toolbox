@@ -1,7 +1,5 @@
 
-# Tools for [consuming lots of information](https://notageni.us/information), specifically [graphically-based](https://trendless.tech/graphics/)
-
-## Foraging💩☁
+# Tools for [acquiring lots of information](https://notageni.us/information), specifically [graphics-based](https://trendless.tech/graphics/)💩
 
 [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources),
 [The Mega List Of Free Image Sites For Blogging](https://www.mattcrampton.com/blog/mega_list_of_free_image_sites_for_blogging/)
