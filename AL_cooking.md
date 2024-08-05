@@ -10,6 +10,10 @@ Learning:
 Groceries and recipes:  
 [KitchenOwl🐧🍎🤖](https://kitchenowl.org/)
 
+Grocery shopping lists:  
+[grocy☁⊞🍎🤖](https://grocy.info/),
+[ListEase☁🍎🤖](https://www.shoppinglistapp.com/)
+
 ## Recipes☁
 
 [Allrecipes*](https://www.allrecipes.com/),

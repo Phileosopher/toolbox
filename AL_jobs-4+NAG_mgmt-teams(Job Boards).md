@@ -1,4 +1,5 @@
-# Money: Job Boards☁
+
+# Tools for [job-hunting](https://adequate.life/jobs-4/) and [building teams](https://notageni.us/mgmt-teams/) with respect to job boards
 
 [CareerBliss](https://www.careerbliss.com/),
 [CareerBuilder.com](https://www.careerbuilder.com/),
