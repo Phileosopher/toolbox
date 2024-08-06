@@ -1,4 +1,5 @@
-# Software Development & CS: Mobile-Specific
+
+# Tools for [software development](https://trendless.tech/software-design) regarding mobile devices
 
 ## Android
 
@@ -30,13 +31,3 @@ Networking:
 UI/UX:  
 [awesome-android-ui](https://github.com/thanhtoan1196/awesome-android-ui),
 [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
-
-### Android - Kotlin
-
-[Kotlin Programming Language](https://kotlinlang.org/)
-
-Open-source projects:  
-[awesome-android-kotlin-apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
-
-Testing:  
-[kotlinx-resources](https://github.com/goncalossilva/kotlinx-resources)

@@ -1,4 +1,5 @@
-# Business: Marketing - SEO
+
+# Tools for [search engine optimization](https://trendless.tech/seo/)
 
 [WebNots SEO Tools💩](https://www.webnots.com/seo-tools/)
 

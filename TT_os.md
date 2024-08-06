@@ -1,4 +1,5 @@
-# Files/OS: Foraging
+
+# General tools for [operating systems](https://trendless.tech/os/)💩
 
 Alternative software:  
 [Alternative.me](https://alternative.me/),
