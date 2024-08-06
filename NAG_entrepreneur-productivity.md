@@ -1,4 +1,5 @@
-# Money: Management
+
+# Tools for [entrepreneurship productivity](https://notageni.us/entrepreneur-productivity/)
 
 ## Banking
 

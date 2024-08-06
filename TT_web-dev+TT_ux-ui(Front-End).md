@@ -1,16 +1,11 @@
-# Front-End Software Development: Planning
+
+# Tools for [web developers](https://trendless.tech/web-dev/) for the [front-end](https://trendless.tech/ux-ui/)
 
 Checklist:  
 [Front-End Checklist☁](https://frontendchecklist.io/),
 
 User flow tracking:  
 [Wireflow](https://wireflow.co/)
-
-Open-source projects💩:  
-[awesome-oss](https://github.com/sereneblue/awesome-oss)
-[GNOME Projects](https://wiki.gnome.org/Projects),
-[LibreOffice - Get Involved](https://www.libreoffice.org/community/get-involved),
-[Open Source Hub](https://opensourcehub.io/)
 
 ## Front-End Frameworks
 
@@ -42,8 +37,3 @@ Cross-platform webapps:
 [Electron](https://www.electronjs.org/),
 [NW.js](https://nwjs.io/),
 [Photino](https://www.tryphotino.io/)
-
-## Terminal Design
-
-Style definitions:  
-[lipgloss](https://github.com/charmbracelet/lipgloss)

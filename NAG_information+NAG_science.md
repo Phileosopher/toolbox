@@ -1,18 +1,20 @@
 
 # Tools for [acquiring lots of information](https://notageni.us/information), specifically [science-based](https://notageni.us/science/)💩
 
-Journal reviews:  
+## Journal Reviews
+
 [Eigenfactor Index of Open Access Fees](http://eigenfactor.org/projects/openAccess/oa.php),
 [SciRev](https://scirev.org/),
 [SJR](https://www.scimagojr.com/journalrank.php)
 
-Journal reviews - find abstract:  
+Find abstract:  
 [Journal/Author Name Estimator](https://jane.biosemantics.org/)
 
-Journal reviews - predatory journals and publishers:  
+Predatory journals and publishers:  
 [Beall's List](https://beallslist.net/)
 
-Research papers/data:  
+## Research Papers/Data
+
 [Academic Journals](https://academicjournals.org/),
 [arXiv.org](https://arxiv.org/),
 [Internet Archive Scholar](https://scholar.archive.org/),
@@ -21,7 +23,7 @@ Research papers/data:
 [Sci-Hub](https://sci-hub.se/) ([DOI redirect⇉](https://greasyfork.org/en/scripts/412498-doi-to-sci-hub) mirrors [here](https://sci-hub.st/), [here](https://sci-hub.41610.org/), and [here](https://sci-hub.hkvisa.net/)),
 [The General Index](https://archive.org/details/GeneralIndex)
 
-Research papers/data - search engine:  
+Search engine:  
 [Bielefeld Academic Search Engine](https://www.base-search.net/),
 [CiteSeerX](https://citeseerx.ist.psu.edu/),
 [Dimensions](https://app.dimensions.ai/discover/publication),
@@ -34,11 +36,11 @@ Research papers/data - search engine:
 [ResearchGate Search](https://www.researchgate.net/search/),
 [Scilit](https://www.scilit.net/)
 
-Research papers/data - open access:  
+Open access:  
 [OA.mg](https://oa.mg/),
 [Unpaywall](https://unpaywall.org/)
 
-Research papers/data - specific entities:  
+Specific entities:  
 [African Journals Online](https://www.ajol.info/),
 [Europe PMC](https://europepmc.org/),
 [OMICS International](https://research.omicsgroup.org/)

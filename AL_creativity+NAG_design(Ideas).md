@@ -1,21 +1,5 @@
-# Visual: Concepts and Data Visualizations
 
-ASCII prototyping:  
-[Archetype](https://fatiherikli.github.io/archetype/),
-[ASCIIFlow](https://asciiflow.com/#/),
-[Textik](https://textik.com/#a4ec12a68785f25f=)
-
-## Diagrams
-
-[draw.io☁⊞⌘🐧](https://www.drawio.com/),
-[Ilograph⊞⌘🐧](https://www.ilograph.com/),
-[yEd Live⊞⌘🐧☁](https://www.yworks.com/products/yed)
-
-Text-to-diagram:  
-[XOSH.ORG's text to diagram tools](https://xosh.org/text-to-diagram/)
-
-Diagrams-as-code:  
-[Structurizr☁](https://structurizr.com/)
+# Tools for [creativity](https://adequate.life/creativity/) with [visual design](https://notageni.us/design/) regarding idea generation
 
 ## Prototyping/Wireframing
 
@@ -24,6 +8,11 @@ Diagrams-as-code:
 [InVision☁](https://www.invisionapp.com/),
 [Marvel☁](https://marvelapp.com/),
 [Pencil Project⊞■⌘🐧](https://pencil.evolus.vn/)
+
+ASCII prototyping:  
+[Archetype](https://fatiherikli.github.io/archetype/),
+[ASCIIFlow](https://asciiflow.com/#/),
+[Textik](https://textik.com/#a4ec12a68785f25f=)
 
 Wireframe kits:  
 [Contra Wireframe Kit⇉](https://contrauikit.com/)
@@ -55,19 +44,6 @@ Macbook:
 
 Book covers:  
 [DIY Book Cover's 3D Book Cover Creator☁](https://diybookcovers.com/3Dmockups/)
-
-## Chart/Graph Generators
-
-Infographics:  
-[Infogram☁](https://infogram.com/),
-[Piktochart☁](https://piktochart.com/)
-
-Timelines and time series:  
-[PlotJuggler(Github)⊞🐧](https://github.com/facontidavide/PlotJuggler),
-[TimeGraphics☁](https://time.graphics/)
-
-Word clouds:  
-[WordClouds.com☁](https://www.wordclouds.com/)
 
 ## Environment Generators☁
 
@@ -106,8 +82,3 @@ Treasure maps:
 
 Islands:  
 [Island Garden](https://watabou.itch.io/island-garden)
-
-## Large-Scale Data Visualizations
-
-[Graphviz⊞⌘🐧](https://www.graphviz.org/),
-[Paraview⊞⌘🐧](https://www.paraview.org/)

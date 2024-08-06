@@ -28,6 +28,9 @@ Unblockit
 [uGet⊞■⌘🐧](https://ugetdm.com/),
 [WinWGet+ Portable⊞■](https://portableapps.com/apps/internet/winwget_portable)
 
+RTMP streams:  
+[RTMPDumpHelper⊞■](https://www.nirsoft.net/utils/rtmp_dump_helper.html)
+
 Temporary cloud/debrid:  
 [AllDebrid](https://alldebrid.com/),
 [Bitport.io](https://bitport.io/),

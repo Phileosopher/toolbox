@@ -93,6 +93,9 @@ Indexing internet content:
 [Jackett](https://github.com/Jackett/Jackett),
 [Prowlarr](https://prowlarr.com/)
 
+Streaming servers:  
+[Icecast](https://icecast.org/)
+
 ## AWS🧛
 
 Learning and certifications:  

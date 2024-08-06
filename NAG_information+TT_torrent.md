@@ -1,25 +1,12 @@
 
-# Tools for [consuming lots of information](https://notageni.us/information) with respect to [peer-to-peer downloading](https://trendless.tech/torrent/)
+# Tools for [acquiring lots of information](https://notageni.us/information) with respect to [peer-to-peer downloading](https://trendless.tech/torrent/)
 
-FTP client:  
-[FileZilla⊞■⌘🐧](https://filezilla-project.org/)
+[Awesome Piracy](https://whoisdsmith.gitbook.io/new-sites-list/awesome-piracy/awesome-piracy)
+[Piracy Index](https://piracy.vercel.app/)
 
 ## Torrents
 
-Torrent/Usenet tracking client:  
-[Readarr](https://readarr.com/)
-
-BitTorrent client:  
-[qBittorrent⊞■⌘🐧](https://www.qbittorrent.org/),
-[Transmission⊞⌘🐧](https://transmissionbt.com/)
-
-BitTorrent - hash to magnet link:  
-[Hash to Magnet link☁](https://www.hashtomagnet.com/)
-
-BitTorrent client - web-based:  
-[WebTorrent☁⊞⌘🐧](https://webtorrent.io/)
-
-Torrent search sites (URLs change all the time):  
+Search sites (URLs change all the time):  
 123movies,
 1337X,
 Bitsearch,
@@ -31,11 +18,11 @@ limetorrents,
 [MagnetDL](https://www.magnetdl.com/),
 ThePirateBay
 
-Torrents - private trackers:  
+Private trackers:  
 [Private Trackers Spreadsheet](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/)
 
-Torrents - streaming:  
+Streaming:  
 [Popcorn Time⊞⌘🐧🤖](https://github.com/popcorn-official)
 
-Torrents - alternate proxy:  
+Alternate proxy:  
 [Knaben's Proxy List](https://knaben.info/)
