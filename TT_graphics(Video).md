@@ -14,6 +14,10 @@ Ideal video cameras:
 
 ## Editing
 
+[editly□](https://github.com/mifi/editly),
+[MoviePy🐍](https://zulko.github.io/moviepy/),
+[VidPy🐍](https://antiboredom.github.io/vidpy/)
+
 [DaVinci Resolve⊞⌘🐧](https://www.blackmagicdesign.com/products/davinciresolve/),
 [Kdenlive⊞■⌘🐧](https://kdenlive.org/),
 [Shotcut🐧](https://www.shotcut.org/),

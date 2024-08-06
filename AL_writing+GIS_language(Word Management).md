@@ -11,6 +11,9 @@ Text character Reference:
 [TypeIt☁](https://www.typeit.org/),
 [Unicode Character Table☁](https://unicode-table.com)
 
+Jargon filter:  
+[Bullshit.js⇉](https://mourner.github.io/bullshit.js/)
+
 ## Dictionary
 
 [Ninjawords☁](https://ninjawords.com/),

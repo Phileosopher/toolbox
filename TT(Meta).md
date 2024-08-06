@@ -7,6 +7,22 @@ Educational programming languages - kid-friendly:
 Old computers:  
 [Rich Cini's Classic Computing Main Page](http://cini.classiccmp.org/) (with [PDFs](http://cini.classiccmp.org/pdf/))
 
+## Quick-Reference
+
+Cheat sheets💩:  
+[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/),
+[cheat.sh□](https://cheat.sh/),
+[Cheat Sheets](https://lzone.de/cheat-sheet.html),
+[Cheat Sheet](https://www.cheat-sheets.org/),
+[Code House☁](https://codehouse.vercel.app/),
+[Devhints.io](https://devhints.io/) (from [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)),
+[GNU/Linux.guru🐧](https://gnulinux.guru/),
+[OverAPI.com*](http://overapi.com/),
+[QuickRef.ME](https://quickref.me/)
+
+Cheat sheets - MATLAB/Python/Julia:  
+[MATLAB--Python--Julia cheatsheet](https://cheatsheets.quantecon.org/)
+
 ## Tests/Certifications/Courses
 
 Open CS courses:  
@@ -59,3 +75,6 @@ Blogs:
 [Awesome Blogs](https://github.com/learn-anything/blogs),
 [Awesome Tech Blogs](https://tech-blogs.dev/),
 [tech-blogs](https://github.com/amitmerchant1990/tech-blogs)
+
+Distraction-free coding videos:  
+[CodeOnVideo☁](https://codeonvideo.com/)

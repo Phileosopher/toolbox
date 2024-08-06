@@ -61,6 +61,7 @@ Xcode - sample Core Data/CloudKit config:
 emacs:  
 [Org mode](https://orgmode.org/) for productivity enhancement,
 [awesome-emacs](https://github.com/emacs-tw/awesome-emacs),
+[emacs-ideas](https://github.com/rememberYou/emacs-ideas),
 [MELPA](https://melpa.org/),
 completion UI via [vertico](https://github.com/minad/vertico)
 

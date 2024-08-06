@@ -1,7 +1,7 @@
 
 # Tools for [graphics](https://trendless.tech/graphics/)
 
-[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools💩),
+[Awesome Design Tools💩](https://github.com/goabstract/Awesome-Design-Tools),
 [Evernote.Design](https://www.evernote.design/),
 [Stark's Public Library](https://www.getstark.co/library/),
 [Undesign](https://undesign.learn.uno/),

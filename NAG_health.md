@@ -9,3 +9,8 @@ Medical papers - clinical publication search:
 
 Medical papers - health research papers:  
 [EQUATOR Network](https://www.equator-network.org/)
+
+## Disability Assistance
+
+Human guides:  
+[Be My Eyes🍎🤖](https://www.bemyeyes.com/)

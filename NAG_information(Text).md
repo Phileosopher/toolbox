@@ -1,53 +1,31 @@
 
-# Tools for [consuming lots of information](https://notageni.us/information), specifically text
+# Tools for [acquiring lots of information](https://notageni.us/information), specifically text
 
-Book reading estimation:  
-[How Long to Read☁](https://www.howlongtoread.com/)
+Written media API:  
+[Twingly🔌](https://www.twingly.com/)
 
-Speed-reading:  
-[BeeLine Reader🍎🤖⇉](https://www.beelinereader.com/)
+Book search/archive:  
+[Amazon.com Free Kindle Books🧛](https://www.amazon.com/b?node=20102661011),
+[Anna's Archive](https://annas-archive.org/),
+[Google Books🧛](https://books.google.com/),
+[Google Play Free Books🧛](https://play.google.com/store/books/collection/topselling_free),
+[HathiTrust Digital Library](https://www.hathitrust.org/),
+[Memory of the World Library](https://library.memoryoftheworld.org/),
+[OceanofPDF](https://oceanofpdf.com/),
+[PDF Room](https://pdfroom.com/),
+[UPenn's The Online Books Page](https://onlinebooks.library.upenn.edu/)
 
-Jargon filter:  
-[Bullshit.js⇉](https://mourner.github.io/bullshit.js/)
+Public domain content:  
+[Authorama](http://authorama.com/),
+[Bibliomania](http://www.bibliomania.com/),
+[Global Grey ebooks](https://www.globalgreyebooks.com/)
 
-TL;DR websites:  
-[Kagi's Universal Summarizer☁](https://kagi.com/summarizer/index.html)
+Short stories:  
+[Writing Atlas](https://writingatlas.com/)
 
-TL;DR PDFs:  
-[pdf2gpt☁](https://pdf2gpt.com/)
+Sci-fi/fantasy stories:  
+[Free Speculative Fiction Online](https://www.freesfonline.net/)
 
-QR code reader:  
-[Qreader☁](https://qreader.online/)
-
-## Media Viewers
-
-DjVu:  
-[WinDjView/MacDjView⊞■⌘](https://windjview.sourceforge.io/)
-
-PDF/ePub/MOBI:  
-[Foliate🐧](https://johnfactotum.github.io/foliate/),
-[Sumatra⊞■](https://www.sumatrapdfreader.org/free-pdf-reader.html),
-[TUI Ebook Reader□](https://github.com/wustho/baca)
-
-ePub reader:  
-[WebBrowserTools ePub reader☁](https://webbrowsertools.com/epub-reader/)
-
-MOBI reader:  
-[WebBrowserTools MOBI reader☁](https://webbrowsertools.com/mobi-reader/)
-
-Comic books:  
-[mylar3](https://github.com/mylar3/mylar3)
-
-Lightnovels:  
-[lightnovel-crawler🐍](https://pypi.org/project/lightnovel-crawler/)
-
-## Media Managers
-
-Ebooks:  
-[Alexandria⊞■⌘🐧](https://github.com/btpf/Alexandria),
-[calibre⊞■⌘🐧🍎🤖💾](https://calibre-ebook.com/) (with [calibre-web](https://github.com/janeczku/calibre-web) for web-based viewing or [COPS](https://blog.slucas.fr/projects/calibre-opds-php-server/) for PHP server),
-[Kavita💾](https://www.kavitareader.com/),
-[Librum](https://librumreader.com/)
-
-Books:  
-[Inventaire☁](https://inventaire.io/)
+Blogs:  
+[Blogarama](https://www.blogarama.com/),
+[Blog Search Engine](https://www.blogsearchengine.com/)

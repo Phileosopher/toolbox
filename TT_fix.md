@@ -6,6 +6,9 @@ All-in-one break-fix:
 [Open Hardware Monitor⊞](https://openhardwaremonitor.org/),
 [StressMyPC⊞■](https://www.softwareok.com/?seite=Microsoft/StressMyPC)
 
+Raspberry Pi network monitor:  
+[internet-pi](https://github.com/geerlingguy/internet-pi)
+
 ## Monitoring
 
 Resource monitoring:  

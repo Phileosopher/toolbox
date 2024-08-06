@@ -37,3 +37,7 @@ Metadata export:
 
 Audible AAX file conversion:  
 [AAXtoMP3](https://krumpetpirate.github.io/AAXtoMP3/)
+
+## Audio Interface
+
+[Jasper](https://jasperproject.github.io/#about)

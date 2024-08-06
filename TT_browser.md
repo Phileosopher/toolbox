@@ -1,0 +1,101 @@
+
+# Tools for [web browsers](https://trendless.tech/browser/)
+
+Web browser:  
+[Brave🧛](https://brave.com/) (with [awesome-brave-filters](https://github.com/astariul/awesome-brave-filters)),
+[Falkon](https://www.falkon.org/),
+[Firefox Browser⊞■⌘🐧🍎🤖](https://www.mozilla.org/en-US/firefox/new/) (with [Firefox Profilemaker](https://ffprofile.com/) or [user.js template](https://github.com/arkenfox/user.js)/[alternate](https://github.com/pyllyukko/user.js/) that uses [Firefox tweaks](https://github.com/loganmarchione/Firefox-tweaks/blob/master/user.js)),
+[Iridium Browser⊞⌘🐧](https://iridiumbrowser.de/),
+[Tor Browser⊞⌘🐧🤖](https://www.torproject.org/),
+[Ungoogled Chromium🧛](https://ungoogled-software.github.io/) (With [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store))
+
+Web bookmarks:  
+[Every bookmark manager ever made*💩](https://bookmarkos.com/every-bookmark-manager-ever-made),
+[OneKeep☁](https://onekeep.com/),
+[Pocket⇉](https://getpocket.com/),
+[Raindrop.io☁⇉⊞⌘🐧🍎🤖](https://raindrop.io/)
+
+## Optimizations
+
+[awesome-browser-automation💩](https://github.com/angrykoala/awesome-browser-automation)
+
+Start and new tab page:  
+[Momentum☁](https://momentumdash.com/),
+[nightTab⇉](https://github.com/zombieFox/nightTab)
+
+Automatic reader mode:  
+[Automatic Reader View⇉](https://addons.mozilla.org/en-US/firefox/addon/automatic-reader-view/)
+
+Open multiple URLs:  
+[Multiple URL Opener☁](https://www.websiteplanet.com/webtools/multiple-url/)
+
+Save open web browser tabs:  
+[tabs2txt⇉](https://addons.mozilla.org/en-US/firefox/addon/tabs2txt/)
+
+Advanced tab management:  
+[FoxTab⇉](https://www.foxtab.com/)
+
+## Self-Scan & Diagnostics
+
+[Browser Capabilities Test Page☁](https://www.cyscape.com/showbrow.asp)
+
+Browser fingerprint check🕵️:  
+[AmIUnique☁](https://amiunique.org/),
+[Cover Your Tracks☁](https://coveryourtracks.eff.org/),
+[Google's Browserinfo☁🧛](https://toolbox.googleapps.com/apps/browserinfo/),
+[Detect WebGL Fingerprint☁](https://webbrowsertools.com/webgl-fingerprint/),
+[What every Browser knows about you☁](https://webkay.robinlinus.com/)
+
+Java test:  
+[Java Test Page☁](https://www.math.uh.edu/mathonline/JavaTest/JavaTestPage.htm)
+
+JavaScript test:  
+[Java Tester's JavaScript Tester☁](https://javatester.org/javascript.html)
+
+JS eval() test:  
+[Test Eval☁](https://webbrowsertools.com/test-eval/)
+
+JS eval() plugin:  
+[NoEval](https://mybrowseraddon.com/noeval.html)
+
+JavaScript details:  
+[JavaScript Inspector☁](https://webbrowsertools.com/javascript/)
+
+Browser plugins:  
+[BrowserAddonsView⊞](https://www.nirsoft.net/utils/web_browser_addons_view.html)
+
+## History
+
+Internet history:  
+[BrowsingHistoryView⊞](https://www.nirsoft.net/utils/browsing_history_view.html),
+[ChromeHistoryView⊞](https://www.nirsoft.net/utils/chrome_history_view.html),
+[MZHistoryView⊞](https://www.nirsoft.net/utils/mozilla_history_view.html),
+[SafariHistoryView⊞](https://www.nirsoft.net/utils/safari_history_view.html)
+
+Cookies:  
+[WebCookiesSniffer⊞](https://www.nirsoft.net/utils/web_cookies_sniffer.html),
+[ChromeCookiesView⊞](https://www.nirsoft.net/utils/chrome_cookies_view.html),
+[EdgeCookiesView⊞](https://www.nirsoft.net/utils/edge_cookies_view.html),
+[MZCookiesView⊞](https://www.nirsoft.net/utils/mzcv.html)
+
+Cached files/images:  
+[ImageCacheViewer⊞](https://www.nirsoft.net/utils/image_cache_viewer.html),
+[WebCacheImageInfo⊞](https://www.nirsoft.net/utils/web_cache_image_info.html),
+[ChromeCacheView⊞](https://www.nirsoft.net/utils/chrome_cache_view.html),
+[FBCacheView⊞](https://www.nirsoft.net/utils/facebook_cache_viewer.html),
+[MZCacheView⊞](https://www.nirsoft.net/utils/mozilla_cache_viewer.html),
+[OperaCacheView⊞](https://www.nirsoft.net/utils/opera_cache_view.html),
+[SafariCacheView⊞](https://www.nirsoft.net/utils/safari_cache_view.html)
+
+Favorites/bookmarks:  
+[FavoritesView⊞](https://www.nirsoft.net/utils/faview.html)
+
+Download history - Chrome/Firefox:  
+[BrowserDownloadsView⊞](https://www.nirsoft.net/utils/web_browser_downloads_view.html),
+[FirefoxDownloadsView⊞](https://www.nirsoft.net/utils/firefox_downloads_view.html)
+
+Search history:  
+[MyLastSearch⊞](https://www.nirsoft.net/utils/my_last_search.html)
+
+All downloaded websites:  
+[WebSiteSniffer⊞](https://www.nirsoft.net/utils/web_site_sniffer.html)

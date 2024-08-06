@@ -18,3 +18,16 @@ Other PCB:
 
 Camera firmware:  
 [OpenIPC](https://github.com/OpenIPC)
+
+## CNC
+
+Arduino - flashing code:  
+[xLoader](https://github.com/xinabox/xLoader)
+
+G-code sending:  
+[cncjs](https://cnc.js.org/),
+[UGS](https://winder.github.io/ugs_website/)
+
+G-code parsing:  
+[grbl (for Arduino flashing)](https://github.com/grbl/grbl),
+[TinyG](https://github.com/synthetos/TinyG/wiki)

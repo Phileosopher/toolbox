@@ -1,5 +1,5 @@
 
-# Tools for [consuming lots of information](https://notageni.us/information), specifically audio
+# Tools for [acquiring lots of information](https://notageni.us/information), specifically audio
 
 [awesome-music-listening💩](https://github.com/ybayle/awesome-music-listening)
 

@@ -4,6 +4,9 @@
 Piles of everything💩:
 [Terminals Are Sexy](https://terminalsare.sexy/)
 
+Terminal-to-SVG animations:  
+[termtosvg](https://nbedos.github.io/termtosvg/)
+
 ## Terminal Design
 
 Style definitions:  

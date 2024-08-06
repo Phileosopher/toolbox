@@ -34,12 +34,6 @@ Support tables:
 
 ## Usability Testing
 
-Color contrast test:  
-[Check My Colours☁](http://www.checkmycolours.com/),
-
-Colorblindness test:  
-[Toptal Color Blind Filter☁](https://www.toptal.com/designers/colorfilter),
-
 Multi-browser testing:  
 [Browser Shots☁](http://browsershots.org/),
 [Browserling☁](https://www.browserling.com/),

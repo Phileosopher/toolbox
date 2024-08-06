@@ -1,6 +1,10 @@
 
 # Tools for [social networks](https://trendless.tech/social-network/)☁
 
+Social media fingerprint🕵️:  
+[Social Network Login Status Detector Demo☁](https://www.tomanthony.co.uk/tools/detect-social-network-logins/),
+[Your Social Media Fingerprint☁](https://robinlinus.github.io/socialmedia-leak/)
+
 ## Removing Paywalls
 
 Articles:  

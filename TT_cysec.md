@@ -1,6 +1,12 @@
 
 # Tools for [general cybersecurity](https://trendless.tech/cysec/)
 
+Shut down when unplugging USB device:  
+[usbkill🐧](https://github.com/hephaest0s/usbkill)
+
+Hide windows:  
+[Clicky Gone⊞■](http://clickygone.sourceforge.net/)
+
 ## Virus Scans
 
 Malware file scan:  

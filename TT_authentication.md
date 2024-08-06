@@ -17,3 +17,16 @@ Two-factor authentication:
 
 Distributed file encryption (requires several copies to decrypt):  
 [horcrux□](https://github.com/jesseduffield/horcrux)
+
+## Credentials
+
+Default credentials:  
+[DefaultCreds cheat sheet*](https://github.com/ihebski/DefaultCreds-cheat-sheet)
+
+Captcha solvers:  
+[Bypass Captcha☁](https://www.bypasscaptcha.com/),
+[Captcha Sniper☁](https://www.captchasniper.com/),
+[DeCaptcher☁](https://de-captcher.com/),
+[Death By Captcha☁](https://www.deathbycaptcha.com/),
+[EndCaptcha☁](https://www.endcaptcha.com/),
+[Imagetyperz☁](https://www.imagetyperz.com/)

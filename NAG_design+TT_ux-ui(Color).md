@@ -142,6 +142,10 @@ Color pairing:
 A11y check:  
 [A11y accessibility check (text on color)☁](https://www.brandwood.com/a11y/),
 
+Color contrast test:  
+[Check My Colours☁](http://www.checkmycolours.com/),
+
 Colorblindness testing:  
 [Coblis - Color Blindness Simulator☁](https://www.color-blindness.com/coblis-color-blindness-simulator/),
-[Color Oracle⊞⌘🐧](https://colororacle.org/)
+[Color Oracle⊞⌘🐧](https://colororacle.org/),
+[Toptal Color Blind Filter☁](https://www.toptal.com/designers/colorfilter),

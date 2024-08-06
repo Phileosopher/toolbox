@@ -1,6 +1,12 @@
 
 # Tools for [cryptography/encryption](https://trendless.tech/encryption/)
 
+Drive encryption:  
+[eCryptfs🐧](https://www.ecryptfs.org/)
+
+Password decryption:  
+[Ciphey](https://github.com/Ciphey/Ciphey)
+
 Caesar cipher:  
 [rot13.com](https://rot13.com/)
 

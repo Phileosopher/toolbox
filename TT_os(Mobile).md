@@ -35,7 +35,7 @@ Wallpapers:
 [Prism](https://github.com/Hash-Studios/Prism),
 [WallFlow](https://github.com/ammargitham/WallFlow)
 
-## iOS
+## iOS🍎
 
 File Management/Jailbreaking:  
 [3uTools](https://www.3u.com/)

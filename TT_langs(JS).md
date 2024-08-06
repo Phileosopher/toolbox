@@ -1,6 +1,13 @@
 
 # Tools for the [computer language](https://trendless.tech/langs) JavaScript
 
+JS katas:  
+[js-assignments: Javascript assignments, tasks and katas](https://github.com/it-shark-pro/js-assignments)
+
+Dynamic instrumentation toolkit:  
+[Frida](https://frida.re/) (enhanced with [awesome-frida💩](https://github.com/dweinstein/awesome-frida)),
+[gulp.js](https://gulpjs.com/) (enhanced with [Awesome gulp💩](https://alferov.github.io/awesome-gulp/))
+
 ## Package Manager
 
 Node:  
