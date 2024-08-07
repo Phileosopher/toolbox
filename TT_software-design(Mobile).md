@@ -1,7 +1,7 @@
 
 # Tools for [software development](https://trendless.tech/software-design) regarding mobile devices
 
-## Android
+## Android🤖
 
 [awesome-android](https://github.com/JStumpp/awesome-android)
 
