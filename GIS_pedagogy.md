@@ -9,6 +9,9 @@ Quizzes:
 Performance arts:  
 [Collabra](https://www.collabramusic.com/)
 
+Classroom behavior training:  
+[Conscious Discipline](https://consciousdiscipline.com/)
+
 ## Students
 
 [LearnAwesome](https://learnawesome.org/)
