@@ -8,7 +8,7 @@ Meditation:
 Self-identification:  
 [Keepin' it Feel☁](https://www.keepinitfeel.com/),
 [Self Authoring☁$](https://www.selfauthoring.com/),
-[You feel like shit.☁](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html)
+[You feel like shit☁](https://youfeellikeshit.com/)
 
 White noise:  
 [Ambie⊞](https://ambieapp.com/)
@@ -22,8 +22,8 @@ Binaural beats:
 [Gnaural⊞🐧⬇️](https://sourceforge.net/projects/gnaural/)
 
 Emotional identification:  
-[Feelings Wheel](https://feelingswheel.com/),
-[feeels](https://feelu.vercel.app/)
+[Feelings Wheel*](https://feelingswheel.com/),
+[feeels☁](https://feelu.vercel.app/),
 
 Feelings journal:  
 [deskspace](https://npckc.itch.io/deskspace),

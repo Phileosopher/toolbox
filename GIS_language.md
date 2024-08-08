@@ -1,5 +1,10 @@
 
-# Tools for [language](https://gainedin.site/language/) learning
+# Tools for [language](https://gainedin.site/language/) translation
+
+Language translation:  
+[OmegaT](https://omegat.org/)
+
+## Language Learning
 
 English standards:  
 [Plain English Campaign*](https://www.plainenglish.co.uk/)
