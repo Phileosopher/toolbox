@@ -1,6 +1,8 @@
 
 # Tools for [acquiring lots of information](https://notageni.us/information), specifically [science-based](https://notageni.us/science/)💩
 
+[awesome-PhD💩](https://github.com/helenahartmann/awesome-PhD)
+
 ## Journal Reviews
 
 [Eigenfactor Index of Open Access Fees](http://eigenfactor.org/projects/openAccess/oa.php),

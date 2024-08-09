@@ -10,7 +10,8 @@ To do lists:
 Kanban boards:  
 [Trello☁⊞⌘🍎🤖⇉](https://trello.com/)
 
-Progress tracking:  
+Goal and progress tracking:  
+[Strides🍎](https://www.stridesapp.com/),
 [Trask Progress Tracker*](https://davidseah.com/node/the-task-progress-tracker/)
 
 Gantt charts:  

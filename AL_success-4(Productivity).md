@@ -16,6 +16,11 @@ Indecision:
 [Wheel Decide☁](https://commentpicker.com/wheel-decide.php),
 [Random Decision Maker☁](https://commentpicker.com/decision-maker.php)
 
+## Incentives
+
+Pay if you fail:  
+[Go Fucking Do It](https://gofuckingdoit.com/)
+
 ## Mundane Task Improvement
 
 Lacing shoes:  

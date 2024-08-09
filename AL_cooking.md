@@ -45,3 +45,12 @@ Search engine - from available food:
 
 Recipe database:  
 [Nextcloud Cookbook](https://apps.nextcloud.com/apps/cookbook) with [Android client🤖](https://lneugebauer.github.io/nextcloud-cookbook/)
+
+## Cooking Culture
+
+Recipe blogs and news:  
+[Delishably](https://delishably.com/),
+[Serious Eats](https://www.seriouseats.com/)
+
+Dining blogs and news:  
+[NoGarlicNoOnions](https://www.nogarlicnoonions.com/)
