@@ -11,3 +11,8 @@ Payment processor:
 
 Payment processor - donations-based:  
 [Donation-Tracker](https://www.donation-tracker.de/)
+
+## Specific industries
+
+Food trucks:  
+[FoodTrux](https://foodtrux.co/)
