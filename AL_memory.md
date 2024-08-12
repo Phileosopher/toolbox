@@ -8,3 +8,6 @@ Memory training:
 Memorization/flashcards:  
 [Mnemosyne⊞■⌘🐧🤖](https://mnemosyne-proj.org/),
 [Anki⊞⌘🐧🍎🤖](https://apps.ankiweb.net/) (with [awesome-anki](https://github.com/tianshanghong/awesome-anki?tab=readme-ov-file))
+
+Exam notes:  
+[All Free Dumps💩](https://allfreedumps.com/)

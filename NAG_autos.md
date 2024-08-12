@@ -2,6 +2,7 @@
 # Tools for [automotive ownership](https://notageni.us/autos/)
 
 Auto lookup:  
+[carVertical](https://www.carvertical.com/),
 [VIN Decoder & Lookup](https://driving-tests.org/vin-decoder/)
 
 Auto accidents:  
@@ -17,4 +18,5 @@ Automotives in popular visual media:
 [IMCDb.org](https://imcdb.org/)
 
 Auto parts:  
+[PartSouq](https://partsouq.com/),
 [RockAuto☁](https://www.rockauto.com/)

@@ -6,6 +6,10 @@ Language translation:
 
 ## Language Learning
 
+English learning:  
+[awesome-english💩](https://github.com/yvoronoy/awesome-english),
+[Learning-English💩](https://github.com/Ventsislav-Yordanov/Learning-English)
+
 English standards:  
 [Plain English Campaign*](https://www.plainenglish.co.uk/)
 
