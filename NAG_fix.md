@@ -19,4 +19,5 @@ Testing/measurement:
 [EEZ](https://www.envox.eu/)
 
 Instructions:  
-[Fix-It Club☁](https://fixitclub.com/)
+[Fix-It Club☁](https://fixitclub.com/),
+[Repair Wiki](https://repair.wiki/w/Main_Page)

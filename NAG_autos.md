@@ -20,3 +20,6 @@ Automotives in popular visual media:
 Auto parts:  
 [PartSouq](https://partsouq.com/),
 [RockAuto☁](https://www.rockauto.com/)
+
+Auto maintenance blogs:  
+[My Car Makes Noise](https://mycarmakesnoise.com/)

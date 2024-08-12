@@ -19,7 +19,10 @@ Math reference:
 Computational heavy lifting:  
 [Wolfram Engine🔌⦿](https://www.wolfram.com/engine/)
 
-## Conversions
+Computer screen ruler:  
+[iRuler.net](https://iruler.net/)
+
+## Conversions/Comparisons
 
 Measurement conversion:  
 [Online Conversion☁](http://www.onlineconversion.com/),
@@ -29,6 +32,12 @@ Measurement conversion:
 
 Country size conversion:  
 [The True Size Of...☁](https://thetruesize.com/)
+
+Height comparison:  
+[hikaku sitatter](https://hikaku-sitatter.com/en/)
+
+Weight comparison:  
+[Plum-O-Meter🍎](https://github.com/FlexMonkey/Plum-O-Meter)
 
 ## Random Generators
 
@@ -47,13 +56,11 @@ Specific generators:
 [Dice☁](https://www.random.org/dice/)
 [Jazz Scales☁](https://www.random.org/jazz-scales/),
 [Letters☁](https://commentpicker.com/random-letter-generator.php),
-[Lottery Numbers☁](https://commentpicker.com/lottery-number-generator.php)
+[Lottery Numbers☁](https://commentpicker.com/lottery-number-generator.php),
 [Numbers☁](https://commentpicker.com/random-number-generator.php)
 
 Specific generators - names:  
-[Baby Name Generator☁](https://commentpicker.com/baby-name-generator.php),
 [Deck of Names☁](https://deckofnames.com/),
-[Pet Name Generator☁](https://commentpicker.com/pet-name-generator.php),
 [Name Generator☁](https://commentpicker.com/random-name-generator.php)
 
 Specific generators - geographic:  

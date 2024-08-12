@@ -16,6 +16,10 @@ Indecision:
 [Wheel Decide☁](https://commentpicker.com/wheel-decide.php),
 [Random Decision Maker☁](https://commentpicker.com/decision-maker.php)
 
+Break timer:  
+[Stretchly](https://hovancik.net/stretchly/),
+[Workrave⊞■⌘🐧](http://www.workrave.org/)
+
 ## Incentives
 
 Pay if you fail:  

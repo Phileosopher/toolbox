@@ -2,6 +2,7 @@
 # Tools for [enhancing productivity](https://adequate.life/success-4/), specifically through [focus](https://adequate.life/awareness/)
 
 Ambient noise:  
+[ambiphone☁](https://ambiph.one/),
 [Ambient Chaos☁](https://neal.fun/ambient-chaos/),
 [freeCodeCamp.org Code Radio](https://coderadio.freecodecamp.org/),
 [generative.fm☁](https://generative.fm/),
@@ -22,3 +23,6 @@ VR work:
 
 Porn distraction:  
 [Covenant Eyes$](https://www.covenanteyes.com/)
+
+Computer mindfulness:  
+[Mindfulness at the Computer](https://fswb.codeberg.page/mindfulness-at-the-computer/)
