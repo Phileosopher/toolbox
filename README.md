@@ -1,7 +1,5 @@
 # toolbox
 
-NOTE: THIS IS BEING UPDATED [ACCORDING TO MY ESSAY CONVENTION](https://stucky.tech/2024-08-02/). THE FOLLOWING INFORMATION ISN'T UP TO DATE.
-
 I have a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) hobby of [writing essays](https://stucky.tech/creations/). I often find neat things in the process, but they can't fit on that essay for several reasons:
 1. My essays are designed to be as "evergreen" as possible, meaning that neat software tool will effectively date it, so I don't want to put it on there.
 2. The tool will often permute or devolve into something else. I don't want to be associated with a high-ranking [technical idiot](https://notageni.us/idiot/) who made a few terrible decisions.
@@ -45,9 +43,11 @@ For brevity, I've tried to omit some things.
 1. If the site is interpreted as suspicious by government authorities (e.g., [for piracy](https://trendless.tech/torrent/)), it won't likely stick around, though some future iteration of it will float out there somewhere.
 2. Many [tech startups](https://trendless.tech/entrepreneur/) curate "kitchen sink" tools that do many things, but that tool will be repurposed a few times once they've found their market or were acquired by a [FAANG corporation](https://trendless.tech/faang/).
 3. Quick-reference sheets are great, but should _still_ be useful later on. Some [protocols](https://trendless.tech/protocols/) move around constantly, while others stay nearly the same and simply accrue more features.
+4. Independent developers make stuff all the time, sometimes simply to learn. If I find it somewhere and it's not very popular, it's likely not [mature enough](https://gainedin.site/trends/) to add to the toolbox. There may be exceptions to this if there's nothing else in that space.
 
 I also try to bias against a few groups:  
 - The built-in tools. If I need them, they're in the computer already, and if it's that important I'll reference them on [my tech essays](https://trendless.tech).
+- Software that's basically a variety of the built-in tools. A simple checklist app, for example, is basically a proprietary text editor minus the built-in features or portability of Microsoft's Notepad.
 - Most [mega-corp](https://gainedin.site/groups-large) tools. They already pay for plenty of [advertising](https://notageni.us/marketing/) and are _literally_ the first thing on a search engine.
 - Paid tools when they cost enough that it makes me pause to consider [my budget](https://adequate.life/money-3/). I'm a big proponent of [free licensing](https://trendless.tech/floss/) whenever possible, and I've made it my priority to never forget that some people people don't have much money.
 - Most courses and courseware, which describe how to manipulate a specific tool more than what that tool does.
