@@ -64,6 +64,7 @@ Keyboard macros:
 [AutoHotkey⊞](https://www.autohotkey.com/),
 [AutoKey🐧](https://autokey.github.io/),
 [espanso⊞⌘🐧](https://espanso.org/),
+[Keyboard Maestro⌘](https://www.keyboardmaestro.com/main/),
 [TinyTask⊞■](https://thetinytask.com/)
 
 Keyboard macros - auto-detect typing patterns:  
