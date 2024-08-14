@@ -38,6 +38,9 @@ Market terminal:
 [OpenBB Terminal□](https://openbb.co/)
 [TD Ameritrade's thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/desktop.html)
 
+Derivatives trade processing:  
+[jFin🆓](https://sourceforge.net/projects/jfin/)
+
 Intellectual properties:  
 [Flippa☁](https://flippa.com/)
 

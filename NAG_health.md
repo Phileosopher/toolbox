@@ -1,9 +1,6 @@
 
 # Tools for [modern health problems](https://notageni.us/health/)
 
-Drug shortages:  
-[FDA Drug Shortages](https://www.accessdata.fda.gov/scripts/drugshortages/default.cfm)
-
 CPAP data:  
 [OSCAR](https://www.sleepfiles.com/OSCAR/)
 
@@ -11,6 +8,10 @@ Vision Test:
 [WebBrowserTools' Vision Test☁](https://webbrowsertools.com/vision-test/)
 
 ## Medical Research
+
+Medical search engine:  
+[Medical search](https://lookformedical.com/en),
+[SEENSO](https://www.seenso.com/)
 
 Anatomy visualization:  
 [Zygote Body](https://www.zygotebody.com/)
@@ -29,6 +30,19 @@ Medical papers - health research papers:
 
 Testing different results' variance:  
 [Your results may vary: the imprecision of medical measurements](https://www.bmj.com/content/368/bmj.m149/rr-8)
+
+## Drug Research
+
+Drug information:  
+[PDR.Net](https://www.pdr.net/)
+
+Drug shortages:  
+[FDA Drug Shortages](https://www.accessdata.fda.gov/scripts/drugshortages/default.cfm)
+
+## Medical Providers
+
+Doctor search:  
+[Zocdoc](https://www.zocdoc.com/)
 
 ## Disability Assistance
 
