@@ -9,7 +9,7 @@ Daily tasks:
 [Simple Todo⇉](https://chromewebstore.google.com/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf)
 
 Daily tasks - micro habits:  
-[Loop Habit Tracker🤖](https://f-droid.org/packages/org.isoron.uhabits/) ([Github](https://github.com/iSoron/uhabits)),
+[Loop Habit Tracker🤖](https://f-droid.org/packages/org.isoron.uhabits/) ([GitHub](https://github.com/iSoron/uhabits)),
 [Table Habit🤖](https://github.com/FriesI23/mhabit)
 
 Indecision:

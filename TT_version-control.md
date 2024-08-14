@@ -7,9 +7,9 @@
 [Git⊞■⌘🐧](https://git-scm.com/)
 
 Social network:  
-[Github☁](https://github.com/)
+[GitHub☁](https://github.com/)
 
-Github front-end:  
+GitHub front-end:  
 [GotHub](https://gh.akisblack.dev/)
 
 ## Versioning - Git

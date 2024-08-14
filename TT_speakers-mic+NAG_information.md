@@ -86,7 +86,8 @@ Piles of everything:
 
 ## Streaming Radio
 
-[iHeart](https://www.iheart.com/)
+[iHeart](https://www.iheart.com/),
+[SomaFM☁](https://somafm.com/)
 
 Classical music:  
 [Your Classical](https://www.yourclassical.org/listen)

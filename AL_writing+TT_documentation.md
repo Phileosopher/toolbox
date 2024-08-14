@@ -36,7 +36,7 @@ Network graphing:
 
 ## Converters
 
-Github wiki to PDF:  
+GitHub wiki to PDF:  
 [wikidoc](https://github.com/jobisoft/wikidoc)
 
 ## Documentation Platform

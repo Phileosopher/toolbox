@@ -6,9 +6,6 @@ TSA pre-check:
 
 ## Tourism
 
-Travel guides:  
-[Frommer's Travel Guides](https://www.frommers.com/)
-
 Food trucks:  
 [StreetFoodFinder☁](https://streetfoodfinder.com/),
 [Truckster](https://gotruckster.com/)

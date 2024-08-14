@@ -14,7 +14,7 @@ Unix-likes:
 [drgn](https://github.com/osandov/drgn)
 
 Unix-like terminal:  
-[fastmac (via Github Actions)](https://github.com/fastai/fastmac/)
+[fastmac (via GitHub Actions)](https://github.com/fastai/fastmac/)
 
 Test harness:  
 [DejaGnu](https://www.gnu.org/software/dejagnu/)

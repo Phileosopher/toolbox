@@ -2,7 +2,7 @@
 # Tools for [creativity](https://adequate.life/creativity/) with visual elements
 
 Quick drawing:  
-[Rnote⊞⌘](https://rnote.flxzt.net/) [Github](https://github.com/flxzt/rnote),
+[Rnote⊞⌘](https://rnote.flxzt.net/) [GitHub](https://github.com/flxzt/rnote),
 [tldraw☁](https://www.tldraw.com/)
 
 ## Inspiration - Visual

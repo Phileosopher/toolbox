@@ -6,7 +6,7 @@ Sleep calculator:
 [Sleepytime Sleep Calculator☁](https://sleepopolis.com/calculators/sleep/)
 
 Sleep tracker:  
-[Plees Tracker🤖](https://vmiklos.hu/plees-tracker/) ([Github](https://github.com/vmiklos/plees-tracker))
+[Plees Tracker🤖](https://vmiklos.hu/plees-tracker/) ([GitHub](https://github.com/vmiklos/plees-tracker))
 
 Circadian rhythm-based lighting:  
 [f.lux⊞⌘🐧](https://justgetflux.com/)

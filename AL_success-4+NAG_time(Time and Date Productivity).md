@@ -6,17 +6,17 @@ Timer:
 [Online Timer☁](http://www.timer-tab.com/)
 
 Pomodoro timer:  
-[PomodoroTimers☁](https://pro-modoro.xyz/)
-[Tempus⊞⌘🐧](https://tempus.keziahmoselle.fr/)
+[PomodoroTimers☁](https://pro-modoro.xyz/),
+[Tempus⊞⌘🐧](https://tempus.keziahmoselle.fr/) ([GitHub](https://github.com/KeziahMoselle/tempus)),
 [YAPA 2⊞■](https://github.com/YetAnotherPomodoroApp/YAPA-2)
 
 Time tracking/metrics:  
-[ActivityWatch⊞⌘🐧🍎🤖⇉](https://activitywatch.net/),
-[arbtt🆓](https://arbtt.nomeata.de/),
+[ActivityWatch⊞⌘🐧🍎🤖⇉](https://activitywatch.net/) ([GitHub](https://github.com/ActivityWatch/activitywatch)),
+[arbtt🆓](https://arbtt.nomeata.de/) ([GitHub](https://github.com/nomeata/arbtt)),
 [Emergent Task Timer*](https://davidseah.com/node/the-emergent-task-timer/),
-[Heedy🆓](https://heedy.org/),
+[Heedy🆓](https://heedy.org/) ([GitHub](https://github.com/heedy/heedy)),
 [Kimai💾](https://www.kimai.org/),
-[ProcrastiTracker⊞](http://strlen.com/procrastitracker/),
+[ProcrastiTracker⊞](http://strlen.com/procrastitracker/) ([GitHub](https://github.com/aardappel/procrastitracker)),
 [TMetric☁](https://tmetric.com/),
 [Toggl Track☁⬆️](https://toggl.com/track/),
 [WhatPulse](https://whatpulse.org/)
@@ -25,4 +25,4 @@ Calendar - small:
 [The Compact Calendar*](https://davidseah.com/node/compact-calendar/)
 
 Calendar - scheduling:  
-[Cal.com☁⬆️](https://cal.com/)
+[Cal.com☁⬆️](https://cal.com/) ([GitHub](https://github.com/calcom/cal.com))

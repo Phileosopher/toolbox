@@ -3,10 +3,10 @@
 
 General-purpose maps:  
 [FacilMap☁](https://facilmap.org/),
-[OpenStreetMap🔌](https://www.openstreetmap.org/about) (with [Nominatim🔌](https://nominatim.org/) as an API)
+[OpenStreetMap🔌](https://www.openstreetmap.org/about) (([GitHub](https://github.com/openstreetmap/openstreetmap-website)),API with [Nominatim🔌](https://nominatim.org/))
 
 Offline maps:  
-[OsmAnd🤖](https://osmand.net/)
+[OsmAnd🤖](https://osmand.net/) ([GitHub](https://github.com/osmandapp/OsmAnd))
 
 High-quality imaging:  
 [Copernicus Data Space Ecosystem☁](https://dataspace.copernicus.eu/),
@@ -47,10 +47,10 @@ Wind map:
 Year-round climate:  
 [Goldilocks Zone Finder☁](https://lukechampine.com/goldilocks/)
 
-Weather data API:  
+Weather data API🔌:  
 [AviationWeather Data API](https://aviationweather.gov/data/api/),
-[Open-Meteo.com🔌](https://open-meteo.com/en),
-[OpenWeatherMap API guide🔌](https://openweathermap.org/guide),
+[Open-Meteo.com](https://open-meteo.com/en),
+[OpenWeatherMap API guide](https://openweathermap.org/guide),
 
 ## Traveling
 
@@ -116,7 +116,7 @@ Flight tracking:
 Flight tracking - notification:  
 [plane-notify🐍](https://github.com/Jxck-S/plane-notify)
 
-Airline in-flight WiFi API - United Airlines:  
+Airline in-flight WiFi API - United Airlines🔌:  
 [United-In-Flight-Api](https://github.com/greatjack1/United-In-Flight-Api)
 
 Ship location:  

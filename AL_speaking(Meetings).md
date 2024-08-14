@@ -24,14 +24,14 @@ Webpage markups:
 
 Annotations:  
 [Annotate](https://annotate.net/),
-[Hypothesis](https://web.hypothes.is/) ([Github](https://github.com/hypothesis/h)),
+[Hypothesis](https://web.hypothes.is/) ([GitHub](https://github.com/hypothesis/h)),
 [Squid🤖](https://www.squidnotes.com/)
 
 ## Videoconferencing
 
-[Briefing🕵️](https://brie.fi/ng) ([Github](https://github.com/holtwick/briefing/)),
-[Jitsi Meet☁🍎🤖](https://meet.jit.si/) (([Github](https://github.com/jitsi/jitsi-meet)), with [awesome-jitsi](https://github.com/xceejay/awesome-jitsi)),
-[Nextcloud Talk💾🍎](https://nextcloud.com/talk/) ([Github](https://github.com/nextcloud/spreed)),
+[Briefing🕵️](https://brie.fi/ng) ([GitHub](https://github.com/holtwick/briefing/)),
+[Jitsi Meet☁🍎🤖](https://meet.jit.si/) (([GitHub](https://github.com/jitsi/jitsi-meet)), with [awesome-jitsi](https://github.com/xceejay/awesome-jitsi)),
+[Nextcloud Talk💾🍎](https://nextcloud.com/talk/) ([GitHub](https://github.com/nextcloud/spreed)),
 [Noysi Meet](https://meet.noysi.com/),
 [TWAKE☁⊞🐧⌘🍎🤖](https://twake.app/),
 [Videolink2me](https://videolink2me.com/)
@@ -43,7 +43,7 @@ Custom effects:
 [mmhmm⊞](https://www.mmhmm.app/)
 
 Large-scale videoconferencing:  
-[Jitsi Videobridge](https://jitsi.org/jitsi-videobridge/) ([Github](https://github.com/jitsi/jicofo))
+[Jitsi Videobridge](https://jitsi.org/jitsi-videobridge/) ([GitHub](https://github.com/jitsi/jicofo))
 
 Self-sabotage video meetings:  
 [Zoom Escaper](https://zoomescaper.com/)

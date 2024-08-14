@@ -6,10 +6,10 @@
 [Figma☁🍎🤖](https://www.figma.com/),
 [InVision☁](https://www.invisionapp.com/),
 [Marvel☁](https://marvelapp.com/),
-[Pencil Project⊞■⌘🐧](https://pencil.evolus.vn/) ([Github](https://github.com/evolus/pencil))
+[Pencil Project⊞■⌘🐧](https://pencil.evolus.vn/) ([GitHub](https://github.com/evolus/pencil))
 
 ASCII prototyping:  
-[ASCIIFlow](https://asciiflow.com/#/) ([Github](https://github.com/lewish/asciiflow)),
+[ASCIIFlow](https://asciiflow.com/#/) ([GitHub](https://github.com/lewish/asciiflow)),
 [Textik](https://textik.com/)
 
 Wireframe kits:  

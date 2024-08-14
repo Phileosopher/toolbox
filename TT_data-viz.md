@@ -20,7 +20,7 @@ Infographics:
 [Piktochart☁](https://piktochart.com/)
 
 Timelines and time series:  
-[PlotJuggler(Github)⊞🐧](https://github.com/facontidavide/PlotJuggler),
+[PlotJuggler(GitHub)⊞🐧](https://github.com/facontidavide/PlotJuggler),
 [TimeGraphics☁](https://time.graphics/)
 
 Word clouds:  

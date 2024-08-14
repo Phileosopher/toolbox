@@ -3,8 +3,8 @@
 
 To do lists:  
 [Minimal-Todo🆓](https://github.com/avjinder/Minimal-Todo),
-[Super Productivity☁⊞⌘🐧🍎🤖🆓](https://super-productivity.com/) ([Github](https://github.com/johannesjo/super-productivity)),
-[Taskwarrior□🆓](https://taskwarrior.org/) (([Github](https://github.com/GothenburgBitFactory/taskwarrior)), with [foreground🤖](https://github.com/bgregos/foreground)),
+[Super Productivity☁⊞⌘🐧🍎🤖🆓](https://super-productivity.com/) ([GitHub](https://github.com/johannesjo/super-productivity)),
+[Taskwarrior□🆓](https://taskwarrior.org/) (([GitHub](https://github.com/GothenburgBitFactory/taskwarrior)), with [foreground🤖](https://github.com/bgregos/foreground)),
 [Todoist☁⊞⌘🐧🍎🤖⇉](https://todoist.com/)
 
 Kanban boards:  

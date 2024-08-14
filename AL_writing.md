@@ -13,7 +13,7 @@ Lorem ipsum placeholders:
 
 Markdown editor:  
 [Dillinger☁](https://dillinger.io/),
-[Milkdown☁](https://milkdown.dev/),
+[Milkdown☁](https://milkdown.dev/) ([GitHub](https://github.com/Milkdown/milkdown)),
 [novelWriter⊞⌘🐧🆓](https://novelwriter.io/)
 
 Word processor:  
@@ -25,7 +25,7 @@ Distraction-free writing:
 [Cold Turkey Writer⊞](https://getcoldturkey.com/writer/)
 
 Academic needs🤝:  
-[Fidus Writer](https://www.fiduswriter.org/)
+[Fidus Writer](https://www.fiduswriter.org/) ([GitHub](https://github.com/fiduswriter/fiduswriter))
 
 LaTeX🤝:  
 [Overleaf](https://www.overleaf.com/)
@@ -54,8 +54,8 @@ Star Wars intro style☁:
 
 Grammar/Spelling/Style check:  
 [After the Deadline☁](https://www.polishmywriting.com/),
-[Bullshit.js■⇉](https://mourner.github.io/bullshit.js/),
-[:anguage Tool⇉☁🆓](https://languagetool.org/),
+[Bullshit.js■⇉](https://mourner.github.io/bullshit.js/) ([GitHub](https://github.com/mourner/bullshit.js)),
+[Language Tool⇉☁🆓](https://languagetool.org/) ([GitHub](https://github.com/languagetool-org/languagetool)),
 [Hemingway App☁](http://www.hemingwayapp.com/),
 [Spellcheck.net☁](https://www.spellcheck.net/)
 [Readable☁](https://app.readable.com/text/?demo)
@@ -89,9 +89,9 @@ Tech pay-what-you-want:
 
 ## Publishing - Quick Blogging Platforms
 
-[Bear Blog](https://bearblog.dev/),
-[Emanates](https://emanates-demo.netlify.app/),
+[Bear Blog](https://bearblog.dev/) ([GitHub](https://github.com/HermanMartinus/bearblog/)),
+[Emanates](https://emanates-demo.netlify.app/) ([GitHub](https://github.com/emanates/emanates-web)),
 [Haven🕵️](https://havenweb.org/),
 [Mataroa](https://mataroa.blog/),
-[twtxt💾](https://twtxt.readthedocs.io/en/stable/),
-[WriteFreely](https://writefreely.org/)
+[twtxt💾](https://twtxt.readthedocs.io/en/stable/) ([GitHub](https://github.com/buckket/twtxt)),
+[WriteFreely](https://writefreely.org/) ([GitHub](https://github.com/writefreely/writefreely))

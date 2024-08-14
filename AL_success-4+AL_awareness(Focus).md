@@ -9,8 +9,7 @@ Ambient noise:
 [lofi.cafe☁](https://lofi.cafe/),
 [musicForProgramming();☁](https://www.musicforprogramming.net/),
 [myNoise☁](https://mynoise.net/),
-[Noisli☁🍎🤖⇉](https://www.noisli.com/),
-[SomaFM☁](https://somafm.com/)
+[Noisli☁🍎🤖⇉](https://www.noisli.com/)
 
 Ambient noise - air traffic control:  
 [Lo-Fi ATC](https://www.lofiatc.com/)

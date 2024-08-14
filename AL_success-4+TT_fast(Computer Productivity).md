@@ -31,11 +31,11 @@ Power tools⊞:
 Desktop icon positions:  
 [DesktopOK⊞](https://www.softwareok.com/?seite=Freeware/DesktopOK),
 [Dozer⌘](https://github.com/Mortennn/Dozer),
-[SwiftBar⌘](https://swiftbar.app/)
+[SwiftBar⌘](https://swiftbar.app/) ([GitHub](https://github.com/swiftbar/SwiftBar))
 
 Automated actions:  
-[AutoIt⊞](https://www.autoitscript.com/) (with [Awesome AutoIt](https://j2team.github.io/awesome-AutoIt/)),
-[Automation🤖](https://server47.de/automation/),
+[AutoIt⊞🆓](https://www.autoitscript.com/) (with [Awesome AutoIt](https://j2team.github.io/awesome-AutoIt/)),
+[Automation🤖](https://server47.de/automation/) ([Git](https://git.server47.de/jens/Automation)),
 [Macro Recorder](https://www.macrorecorder.com/)
 
 File preview:  
@@ -53,7 +53,7 @@ Context menu - Open with:
 [ShellMenuView⊞](https://www.nirsoft.net/utils/shell_menu_view.html)
 
 Additional screen:  
-[Deskreen⊞⌘🐧](https://deskreen.com/lang-en)
+[Deskreen⊞⌘🐧](https://deskreen.com/) ([GitHub](https://github.com/pavlobu/deskreen))
 
 ## Keyboard Shortcuts
 
@@ -61,9 +61,9 @@ Existing hotkeys (for assigning others):
 [HotKeysList⊞](https://www.nirsoft.net/utils/hot_keys_list.html)
 
 Keyboard macros:  
-[AutoHotkey⊞](https://www.autohotkey.com/),
-[AutoKey🐧](https://autokey.github.io/),
-[espanso⊞⌘🐧](https://espanso.org/),
+[AutoHotkey⊞](https://www.autohotkey.com/) ([GitHub](https://github.com/AutoHotkey/AutoHotkey)),
+[AutoKey🐧](https://autokey.github.io/) ([GitHub](https://github.com/autokey/autokey)),
+[espanso⊞⌘🐧](https://espanso.org/) ([GitHub](https://github.com/espanso/espanso)),
 [Keyboard Maestro⌘](https://www.keyboardmaestro.com/main/),
 [TinyTask⊞■](https://thetinytask.com/)
 
@@ -71,13 +71,13 @@ Keyboard macros - auto-detect typing patterns:
 [Compress🐧🐍](https://github.com/eschluntz/compress)
 
 Facial movement tracking:  
-[Movement Tracking(Github)⊞■⌘🐧](https://github.com/surya-veer/movement-tracking),
+[Movement Tracking(GitHub)⊞■⌘🐧](https://github.com/surya-veer/movement-tracking),
 
 NumPad shortcuts:  
 [ControlPad⊞■](https://sector-seven.com/software/controlpad)
 
 Gamepad/controller mapping with keyboard:  
-[AntiMicro⊞■🐧](https://github.com/AntiMicro/antimicro)
+[AntiMicroX⊞■🐧](https://github.com/AntiMicroX/antimicrox/)
 
 Phone camera as wireless webcam:  
 [Iriun⊞⌘🐧🤖](https://iriun.com/)
@@ -89,10 +89,7 @@ Virtual desktops:
 [VirtuaWin⊞■](https://virtuawin.sourceforge.io/)
 
 Extra keypad:  
-[Razer Tartarus(buy)](https://www.razer.com/search/tartarus),
-10-key pad (for small laptops)
-
-USB extensions and hubs (to avoid constant swapping)
+[Razer Tartarus$](https://www.razer.com/search/tartarus)
 
 ## Automation
 
@@ -106,9 +103,9 @@ Service synchronization - enterprise:
 [Bonitasoft⊞⌘🐧](https://www.bonitasoft.com/)
 
 Home automation - IoT server:  
-[Domoticz💾](https://www.domoticz.com/),
-[Home Assistant⊞⌘🐧🍎🤖💾](https://www.home-assistant.io/) (with [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant)),
-[openHAB](https://www.openhab.org/)
+[Domoticz💾](https://www.domoticz.com/) ([GitHub](https://github.com/domoticz/domoticz)),
+[Home Assistant⊞⌘🐧🍎🤖💾](https://www.home-assistant.io/) (([GitHub](https://github.com/home-assistant/core)) with [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant)),
+[openHAB](https://www.openhab.org/) ([GitHub](https://github.com/openhab/openhab-core))
 
 Home automation - voice assistant:  
-[Willow💾](https://heywillow.io/)
+[Willow💾](https://heywillow.io/) ([GitHub](https://github.com/toverainc/willow))
