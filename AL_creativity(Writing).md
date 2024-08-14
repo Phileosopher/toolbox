@@ -6,7 +6,6 @@ Fill-in-the-blanks stories☁:
 [Word Blanks](https://www.wordblanks.com/)
 
 Illustrations:  
-[Sermon Illustrations*](http://www.moreillustrations.com/),
 [Sermon Illustrations*](http://www.sermonillustrations.com/)
 
 Microcopy prompts:  

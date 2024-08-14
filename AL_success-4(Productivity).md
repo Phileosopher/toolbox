@@ -5,10 +5,11 @@
 
 Daily tasks:  
 [Concrete Goals Tracker*](https://davidseah.com/node/the-concrete-goals-tracker/),
-[Emergent Task Planner*](https://davidseah.com/node/the-emergent-task-planner/)
+[Emergent Task Planner*](https://davidseah.com/node/the-emergent-task-planner/),
+[Simple Todo⇉](https://chromewebstore.google.com/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf)
 
 Daily tasks - micro habits:  
-[Loop Habit Tracker🤖](https://f-droid.org/packages/org.isoron.uhabits/),
+[Loop Habit Tracker🤖](https://f-droid.org/packages/org.isoron.uhabits/) ([Github](https://github.com/iSoron/uhabits)),
 [Table Habit🤖](https://github.com/FriesI23/mhabit)
 
 Indecision:

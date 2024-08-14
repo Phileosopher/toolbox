@@ -15,9 +15,6 @@ Unclaimed property:
 Card and ticket management:  
 [Catima🤖🆓](https://catima.app/)
 
-Price tracking:  
-[Slice☁](https://www.slice.com/)
-
 Price tracking - Amazon:  
 [camelcamelcamel.com☁](https://camelcamelcamel.com/)
 
@@ -29,13 +26,11 @@ Shrinkflation tracking:
 
 ## Discounts
 
-[Coupon Sherpa☁🍎🤖](https://www.couponsherpa.com/),
 [Entertainment Coupon Book☁](https://www.entertainment.com/),
 [Groupon☁](https://www.groupon.com/),
 [LivingSocial☁](https://www.livingsocial.com/),
 [LOZO☁](https://lozo.com/),
-[RetailMeNot☁](https://www.retailmenot.com/),
-[SnipSnap🍎🤖](https://www.snipsnap.it/)
+[RetailMeNot☁](https://www.retailmenot.com/)
 
 Coupon codes:  
 [Honey⇉](https://www.joinhoney.com/)

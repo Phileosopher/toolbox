@@ -13,11 +13,11 @@ Web profile pages:
 [urspace](https://urspace.io/),
 [YourChamp](https://www.yourchamp.io/)
 
-Publishing profile:  
+Book publishing profile:  
 [Books2Read.com](https://books2read.com/)
 
 Business card - GitHub:  
-[GitHub Business Card](https://scastiel.dev/github-card)
+[GitHub Business Card](https://scastiel.dev/github-card) ([Github](https://github.com/scastiel/github-business-card))
 
 ## Resumé Enhancement
 
@@ -30,16 +30,15 @@ Resumé/CV templates - LaTeX:
 Resumé builder/parser:  
 [Kickresume⬆️](https://www.kickresume.com/),
 [LiveCareer](https://www.livecareer.com/),
-[OpenResume☁](https://www.open-resume.com/),
+[OpenResume☁](https://www.open-resume.com/) ([Github](https://github.com/xitanggg/open-resume)),
 [Reactive Resume](https://rxresu.me/),
 [Resumake☁](https://latexresu.me/),
 [ResumeMaker.Online](https://www.resumemaker.online/),
-[Resume Nation](https://resume-nation.github.io/),
-[wtfresume☁](https://wtfresume.com/)
+[Resume Nation](https://resume-nation.github.io/) ([Github](https://github.com/resume-nation/resume-nation.github.io))
 
 Resumé builder - software engineers:  
 [gitconnected Software Engineer Resume Builder☁](https://gitconnected.com/resume-builder),
-[Github Resume Generator](https://resume-github.vercel.app/)
+[Github Resume Generator](https://resume-github.vercel.app/) ([Github](https://github.com/Satyam1203/resume-github))
 
 Resumé builder - ATS keyword matching:  
 [Resume Matcher🐍](https://www.resumematcher.fyi/)
@@ -48,7 +47,7 @@ Resumé editor - BibTeX integration:
 [CVservant](https://cvservant.com/cv/)
 
 Resumé editor - JSON-parsed:  
-[HackMyResume□](https://github.com/hacksalot/HackMyResume)
+[HackMyResume□](https://github.com/hacksalot/HackMyResume) ([Github](https://github.com/hacksalot/HackMyResume))
 
 Cover letter templates:  
 [Cover Page Templates](https://www.mswordcoverpages.com/)

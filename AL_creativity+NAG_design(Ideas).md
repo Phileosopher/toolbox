@@ -3,25 +3,21 @@
 
 ## Prototyping/Wireframing
 
-[Axure☁🍎](https://www.axure.com/),
 [Figma☁🍎🤖](https://www.figma.com/),
 [InVision☁](https://www.invisionapp.com/),
 [Marvel☁](https://marvelapp.com/),
-[Pencil Project⊞■⌘🐧](https://pencil.evolus.vn/)
+[Pencil Project⊞■⌘🐧](https://pencil.evolus.vn/) ([Github](https://github.com/evolus/pencil))
 
 ASCII prototyping:  
-[Archetype](https://fatiherikli.github.io/archetype/),
-[ASCIIFlow](https://asciiflow.com/#/),
-[Textik](https://textik.com/#a4ec12a68785f25f=)
+[ASCIIFlow](https://asciiflow.com/#/) ([Github](https://github.com/lewish/asciiflow)),
+[Textik](https://textik.com/)
 
 Wireframe kits:  
 [Contra Wireframe Kit⇉](https://contrauikit.com/)
 
 ## Mockups
 
-[Animockup☁](https://animockup.com/),
 [Cleanmock☁](https://cleanmock.com/),
-[Facebook Design's Virtual Hands🧛](https://facebook.design/virtual-hands),
 [Free Mockups](https://www.ls.graphics/free-mockups),
 [Lstore Graphics' Free Mockups](https://www.ls.graphics/free-mockups),
 [morflax things☁](https://things.morflax.com/),

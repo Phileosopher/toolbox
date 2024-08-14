@@ -3,20 +3,19 @@
 
 Barebones income/expense tracking:  
 [Dime🍎](https://apps.apple.com/sg/app/dime-budget-expense-tracker/id1635280255),
-[GNU Pem🐧](https://www.gnu.org/software/pem/pem-nano.html),
+[GNU Pem🐧□](https://www.gnu.org/software/pem/pem-nano.html),
 [HomeBank](https://www.gethomebank.org/),
 [MoneyManager Ex⊞⌘🐧](https://moneymanagerex.org/),
-[MyExpenses🤖](https://www.myexpenses.mobi/en/MyExpenses),
 [Smart Wallet🍎](https://apps.apple.com/us/app/smart-wallet/id1378013954)
 
 Accounting all-in-one:  
-[GNU Accounting Utilities🐧](https://www.gnu.org/software/acct/),
+[GNU Accounting Utilities🐧🆓](https://www.gnu.org/software/acct/),
 [Wave Financial☁](https://www.waveapps.com)
 
 Personal finance - positions:  
-[GnuCash⊞■⌘🐧](https://www.gnucash.org/),
-[KMyMoney⊞⌘🐧](https://kmymoney.org/),
-[Paisa⊞⌘□](https://paisa.fyi/)
+[GnuCash⊞■⌘🐧🆓](https://www.gnucash.org/),
+[KMyMoney⊞⌘🐧🆓](https://kmymoney.org/) ([GitLab](https://invent.kde.org/office/kmymoney)),
+[Paisa⊞⌘□](https://paisa.fyi/) ([Github](https://github.com/ananthakumaran/paisa))
 
 Personal finance - projections:  
 [ProjectionLab](https://projectionlab.com/)
@@ -42,9 +41,3 @@ Online checking account:
 
 Online savings account:  
 [Bask Bank☁](https://www.baskbank.com/)
-
-Credit cards:  
-[U.S. Bank☁](https://www.usbank.com/index.html)
-
-Banking for teens:  
-[Step☁](https://step.com/)

@@ -63,7 +63,7 @@ Textbooks:
 [University of Minnesota's Open Textbook Library](https://open.umn.edu/opentextbooks)
 
 Tutorials:  
-[masterWiki](https://masterwiki.how/,)
+[masterWiki](https://masterwiki.how/),
 [Wikiversity](https://www.wikiversity.org/)
 
 Lectures:  

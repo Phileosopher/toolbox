@@ -9,10 +9,10 @@ Learning:
 [Parsnip🤖🍎](https://www.parsnip.ai/)
 
 Groceries and recipes:  
-[KitchenOwl🐧🍎🤖](https://kitchenowl.org/)
+[KitchenOwl🐧🍎🤖](https://kitchenowl.org/) ([Github](https://github.com/TomBursch/kitchenowl))
 
 Grocery shopping lists:  
-[grocy☁⊞🍎🤖](https://grocy.info/),
+[grocy☁⊞🍎🤖](https://grocy.info/) [Github](https://github.com/grocy/grocy),
 [ListEase☁🍎🤖](https://www.shoppinglistapp.com/)
 
 ## Recipes☁
@@ -36,7 +36,6 @@ Base components:
 [Based Cooking*](https://based.cooking/)
 
 Search engine:  
-[Stovetop](https://stovetop.app/),
 [Munchy](https://joinmunchy.com/)
 
 Search engine - from available food:  
@@ -44,7 +43,7 @@ Search engine - from available food:
 [Supercook](https://www.supercook.com/)
 
 Recipe database:  
-[Nextcloud Cookbook](https://apps.nextcloud.com/apps/cookbook) with [Android client🤖](https://lneugebauer.github.io/nextcloud-cookbook/)
+[Nextcloud Cookbook](https://apps.nextcloud.com/apps/cookbook) with [Android client🤖](https://lneugebauer.github.io/nextcloud-cookbook/) [Github](https://github.com/lneugebauer/nextcloud-cookbook)
 
 ## Cooking Culture
 

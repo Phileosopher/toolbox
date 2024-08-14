@@ -8,24 +8,23 @@ Quick/sticky notes:
 
 Basic text notes:  
 [Simplenote☁⊞⌘🐧🍎🤖](https://simplenote.com/),
-[Standard Notes☁🐧](https://standardnotes.com/) (with [awesome-standard-notes](https://github.com/jonhadfield/awesome-standard-notes))
+[Standard Notes☁🐧](https://standardnotes.com/) (with [awesome-standard-notes](https://github.com/jonhadfield/awesome-standard-notes), converts to website with [Listed](https://listed.to/))
 
 Quick/sticky notes - notification area🤖:  
-[pinnit](https://github.com/msasikanth/pinnit),
 [pin](https://github.com/nproth/pin)
 
 Categorized note pages:  
 [Evernote🧛](https://evernote.com/) (converts to website with [Postach.io](https://postach.io/)),
+[Laverna⊞⌘🐧](https://laverna.cc/) ([Github](https://github.com/Laverna/laverna)),
 [Microsoft OneNote🧛](https://www.onenote.com/)
 
 Hierarchical notebooks:  
-[cherrytree⊞■⌘🐧](https://www.giuspen.com/cherrytree/),
-[Joplin⊞⌘🐧🍎🤖💾](https://joplinapp.org/),
-[KeepNote⊞⌘🐧](https://keepnote.org/),
-[Laverna⊞⌘🐧](https://laverna.cc/),
-[Obsidian⊞⌘🐧](https://obsidian.md/),
+[cherrytree⊞■⌘🐧](https://www.giuspen.com/cherrytree/) ([Github](https://github.com/giuspen/cherrytree)),
+[Joplin⊞⌘🐧🍎🤖💾](https://joplinapp.org/) ([Github](https://github.com/laurent22/joplin/)),
+[KeepNote⊞⌘🐧](https://keepnote.org/) ([Github](https://github.com/mdrasmus/keepnote)),
+[Obsidian⊞⌘🐧](https://obsidian.md/) ([Github](https://github.com/obsidianmd/obsidian-releases)),
 [Outlinely⌘🍎](https://glamdevelopment.com/outlinely),
-[QOwnNotes⊞■⌘🐧](https://www.qownnotes.org/),
+[QOwnNotes⊞■⌘🐧](https://www.qownnotes.org/) ([Github](https://github.com/pbek/QOwnNotes)),
 [Trilium](https://github.com/zadam/trilium)
 
 Obsidian plugins:  
@@ -35,11 +34,10 @@ Backup - [obsidian-git](https://github.com/denolehov/obsidian-git),
 Templates - [Templater](https://silentvoid13.github.io/Templater/)
 
 Handwritten notes:  
-[Saber](https://saber.adil.hanney.org/)
+[Saber](https://saber.adil.hanney.org/) ([Github](https://github.com/saber-notes/saber))
 
 Public notes:  
-[Collected Notes⌘🍎🤖☁](https://collectednotes.com/),
-[Listed☁](https://listed.to/) (pulls from [Standard Notes☁🐧🤖](https://standardnotes.com/))
+[Collected Notes⌘🍎☁](https://collectednotes.com/)
 
 Annotation:  
 [How to annotate literally everything💩](https://beepb00p.xyz/annotating.html)
@@ -49,7 +47,7 @@ Annotation - YouTube:
 
 ## Dynamic Notes
 
-Mind mapping/outlining:  
+Mind mapping, outlining, knowledge base:  
 [Bubbl.us☁](https://bubbl.us/)
 [coggle☁](https://coggle.it/),
 [Excalidraw☁](https://excalidraw.com/),
@@ -65,45 +63,45 @@ Hierarchical mind mapping:
 [Kinopio](https://kinopio.club/)
 
 Hierarchical spreadsheets:  
-[TreeSheets⊞⌘🐧](http://strlen.com/treesheets/)
+[TreeSheets⊞⌘🐧](http://strlen.com/treesheets/) ([Github](https://github.com/aardappel/treesheets))
 
 Reference images/visual boards:  
 [Eagle⊞⌘](https://eagle.cool/),
 [Milanote⊞⌘🍎🤖⇉](https://milanote.com/)
 
 All-in-one:  
-[Anytype⊞⌘☁🍎🤖](https://anytype.io/),
-[AppFlowy.IO](https://www.appflowy.io/)
+[Anytype⊞⌘☁🍎🤖](https://anytype.io/) [Github](https://github.com/anyproto/anytype-ts),
+[AppFlowy.IO](https://www.appflowy.io/) [Github](https://github.com/AppFlowy-IO/appflowy)
 
 Venn Diagrams:  
 [Good Calculators' Venn Diagram Maker☁](https://goodcalculators.com/venn-diagram-maker/),
 [Venngage☁](https://venngage.com/features/venn-diagram-maker)
 
 Collaborative note-taking🤝:  
-[Etherpad⊞](https://etherpad.org/),
-[Firepad](https://firepad.io/)
+[Etherpad⊞](https://etherpad.org/) [Github](https://github.com/ether/etherpad-lite),
+[Firepad](https://firepad.io/) ([Github](https://github.com/FirebaseExtended/firepad))
 
 ## Collection-Building and Knowledgebase
 
 Research-gathering:  
-[Zotero⊞■⌘🐧⇉🆓](https://www.zotero.org/)
+[Zotero⊞■⌘🐧⇉🆓](https://www.zotero.org/) ([Github](https://github.com/zotero/zotero))
 
 Creative writing:  
 [Scrivener⊞⌘🍎](https://www.literatureandlatte.com/scrivener/overview)
 
 Audio-based:  
-[Voiceliner🍎🤖](https://a9.io/voiceliner/)
+[Voiceliner🍎🤖](https://a9.io/voiceliner/) ([Github](https://github.com/maxkrieger/voiceliner))
 
 Multimedia:  
-[TagSpaces](https://www.tagspaces.org/),
+[TagSpaces](https://www.tagspaces.org/) ([Github](https://github.com/tagspaces/tagspaces)),
 [Zoho Notebook](https://www.zoho.com/notebook/)
 
 Journaling/diary:  
 [Day One⌘🍎🤖](https://dayoneapp.com/),
-[Diary🤖](https://billthefarmer.github.io/diary/),
+[Diary🤖](https://billthefarmer.github.io/diary/) ([Github](https://github.com/billthefarmer/diary)),
 [Diary Email☁](https://diaryemail.com/),
 [Ponder⇉](https://getponder.app/),
-[RedNotebook⊞■⌘🐧](https://rednotebook.sourceforge.io/)
+[RedNotebook⊞■⌘🐧](https://rednotebook.sourceforge.io/) ([Github](https://github.com/jendrikseipp/rednotebook))
 
 Journaling/diary - 1-10 second videos:  
 [one_second_diary](https://github.com/KyleKun/one_second_diary/)
