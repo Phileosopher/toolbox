@@ -2,17 +2,13 @@
 # Tools for [writing](https://adequate.life/writing/) and [language](https://gainedin.site/language/) (i.e., word management)
 
 Meta-search:  
-[lengusa](https://lengusa.com/),
-[OneLook Dictionary Search](https://onelook.com/) (from [all these sources](https://onelook.com/?d=all_))
+[OneLook Dictionary Search](https://onelook.com/) (from [all these sources💩](https://onelook.com/?d=all_))
 
 Text character Reference:  
 [BabelMap⊞■](http://www.babelstone.co.uk/Software/BabelMap.html),
 [Copy Paste Character☁](https://www.copypastecharacter.com/),
 [TypeIt☁](https://www.typeit.org/),
 [Unicode Character Table☁](https://unicode-table.com)
-
-Jargon filter:  
-[Bullshit.js⇉](https://mourner.github.io/bullshit.js/)
 
 ## Dictionary
 

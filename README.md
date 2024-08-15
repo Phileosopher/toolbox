@@ -87,6 +87,7 @@ I've left emoji earmarks for reference, and my frequency of use approximately co
     - □ - CLI-based without GUI (often requires [programming experience](https://trendless.tech/prog-basics))
     - 💾 - self-hostable, or runs easily in a container
     - 🤝 - designed for synergistically actualizing collaboratively (i.e., teamwork)
+    - 🎰 - [machine learning](https://trendless.tech/ml/)
 - Its scalability:  
     - 🔌 - an affordable/free API, or has API documentation
     - ⦿ - data-intensive tool

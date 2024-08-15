@@ -38,7 +38,7 @@ GPS visualization from GPX/TCX files:
 [GPS Visualizer☁](https://www.gpsvisualizer.com/)
 
 Geodetic surveying:  
-[GNU Gama](https://www.gnu.org/software/gama/)
+[GNU Gama🆓](https://www.gnu.org/software/gama/)
 
 IP address geolocation:  
 [ipapi.is Geolocation](https://ipapi.is/geolocation.html)

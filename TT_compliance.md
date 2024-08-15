@@ -41,7 +41,7 @@ Photo recovery - forensics:
 [Sherloq](https://github.com/GuidoBartoli/sherloq)
 
 Disk image recovery:  
-[Ddrescue🐧](https://www.gnu.org/software/ddrescue/)
+[Ddrescue🐧🆓](https://www.gnu.org/software/ddrescue/)
 
 Hard drive recovery - undelete files:
 [Foremost🐧](http://foremost.sourceforge.net/)

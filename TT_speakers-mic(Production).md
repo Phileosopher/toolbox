@@ -77,7 +77,7 @@ Keyboard:
 
 Synthesizer:  
 [Bespoke Synth⊞⌘🐧](https://www.bespokesynth.com/),
-[Cursynth□](https://www.gnu.org/software/cursynth/),
+[Cursynth□🆓](https://www.gnu.org/software/cursynth/),
 [SongWish reMIDI 2⌘](https://filecr.com/macos/songwish-remidi2/),
 [Synth1⊞](https://daichilab.sakura.ne.jp/softsynth/index.html),
 [XSound.app☁](https://xsound.app/),

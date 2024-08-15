@@ -3,7 +3,7 @@
 
 ## Sending Web Links
 
-[ShortURL-Services-List💩](https://github.com/sambokai/ShortURL-Services-List/blob/master/shorturl-services-list.csv)
+[ShortURL-Services-List💩](https://github.com/sambokai/ShortURL-Services-List)
 
 Delete-on-command links🕵️:  
 [keeplinks.org](https://www.keeplinks.org/)
@@ -52,14 +52,14 @@ Make link look suspicious:
 
 ## Data-Sending Platforms
 
-[Bitwarden Send⊞⌘🐧🍎🤖🕵️](https://bitwarden.com/products/send/)
+[Bitwarden Send⊞⌘🐧🍎🤖🕵️](https://bitwarden.com/products/send/) ([GitHub](https://github.com/bitwarden))
 
 Quick files:  
 [FilePizza](https://file.pizza/)
 
 Quick files - WebRTC:  
-[Send☁](https://send.vis.ee/)
-[WEBWORMHOLE☁](https://webwormhole.io/)
+[Send☁](https://send.vis.ee/) ([GitHub](https://github.com/timvisee/send))
+[WEBWORMHOLE☁](https://webwormhole.io/) ([GitHub](https://github.com/saljam/webwormhole))
 
 Videos:  
 [Streamable](https://streamable.com/)
@@ -83,7 +83,7 @@ Money:
 [FILE.re](https://file.re/)
 
 PDFs that look scanned:  
-[Scan Your PDF☁🕵️](https://www.scanyourpdf.com/)
+[Scan Your PDF☁🕵️](https://www.scanyourpdf.com/) ([GitHub](https://github.com/baicunko/scanyourpdf))
 
 PDFs that look signed:  
 [falsisign🕵️](https://gitlab.com/edouardklein/falsisign)
@@ -108,7 +108,7 @@ Pastebin☁:
 
 Pastebin - markdown☁:  
 [MarkdownPastebin](https://markdownpastebin.com/),
-[Rentry.co](https://rentry.co/) (mirror [here](https://rentry.org/))
+[Rentry.co](https://rentry.co/) ([Mirror](https://rentry.org/))
 
 Temporary text messages:  
 [tmpsms🕵️](https://github.com/sdushantha/tmpsms)
@@ -131,7 +131,7 @@ Tech support contact number:
 [GetHuman☁](https://gethuman.com/)
 
 Contact elected officials:  
-[5 Calls🍎](https://5calls.org/),
+[5 Calls](https://5calls.org/),
 [Resistbot](https://resist.bot/)
 
 Scam reporting:  

@@ -19,7 +19,7 @@ Markdown editor:
 Word processor:  
 [Bear App⌘🍎](https://bear.app)
 [LibreOffice Writer⊞■⌘🐧🆓](https://www.libreoffice.org/),
-[Emacs Muse⇉](https://www.gnu.org/software/emacs-muse/)
+[Emacs Muse⇉🆓](https://www.gnu.org/software/emacs-muse/)
 
 Distraction-free writing:  
 [Cold Turkey Writer⊞](https://getcoldturkey.com/writer/)
@@ -54,11 +54,13 @@ Star Wars intro style☁:
 
 Grammar/Spelling/Style check:  
 [After the Deadline☁](https://www.polishmywriting.com/),
-[Bullshit.js■⇉](https://mourner.github.io/bullshit.js/) ([GitHub](https://github.com/mourner/bullshit.js)),
 [Language Tool⇉☁🆓](https://languagetool.org/) ([GitHub](https://github.com/languagetool-org/languagetool)),
 [Hemingway App☁](http://www.hemingwayapp.com/),
 [Spellcheck.net☁](https://www.spellcheck.net/)
 [Readable☁](https://app.readable.com/text/?demo)
+
+Grammar check - jargon filter:  
+[Bullshit.js■⇉](https://mourner.github.io/bullshit.js/) ([GitHub](https://github.com/mourner/bullshit.js)),
 
 Word count:  
 [Comment Picker's Online Word & Characters Count Tool☁](https://commentpicker.com/word-counter.php),

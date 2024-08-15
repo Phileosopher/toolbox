@@ -96,7 +96,7 @@ Human models:
 [MakeHuman⊞⌘🐧](http://www.makehumancommunity.org/)
 
 Star-mapping:  
-[Spacechart🐧](https://www.gnu.org/software/spacechart/)
+[Spacechart🐧🆓](https://www.gnu.org/software/spacechart/)
 
 Ray tracing simulation:  
 [OpticSim.jl🧛](https://microsoft.github.io/OpticSim.jl/stable/)

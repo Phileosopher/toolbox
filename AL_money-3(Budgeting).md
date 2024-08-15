@@ -3,7 +3,7 @@
 
 Barebones income/expense tracking:  
 [Dime🍎](https://apps.apple.com/sg/app/dime-budget-expense-tracker/id1635280255),
-[GNU Pem🐧□](https://www.gnu.org/software/pem/pem-nano.html),
+[GNU Pem🐧□🆓](https://www.gnu.org/software/pem/pem-nano.html),
 [HomeBank](https://www.gethomebank.org/),
 [MoneyManager Ex⊞⌘🐧](https://moneymanagerex.org/),
 [Smart Wallet🍎](https://apps.apple.com/us/app/smart-wallet/id1378013954)

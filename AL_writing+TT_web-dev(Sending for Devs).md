@@ -15,7 +15,7 @@ Computer code pastebin - front-end:
 ## Terminal Pastebin□
 
 netcat-based:  
-[termbin.com](https://termbin.com/)
+[termbin.com](https://termbin.com/) ([GitHub](https://github.com/solusipse/fiche))
 
 curl-based:  
 [Temp.sh](https://temp.sh/)

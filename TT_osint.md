@@ -26,8 +26,26 @@ Journalistic investigation:
 [Poliscoops☁](https://poliscoops.eu/),
 [ProCon.org](https://www.procon.org/)
 
-Reverse phone number lookup:  
+## Public Information
+
+Public information☁:  
+[Truthfinder](https://www.truthfinder.com/)
+
+Phone number (via site crawling):  
+[Ampare Phone Number Crawler🐧](https://snapcraft.io/amparephonenumbercrawler)
+
+European surnames:  
+[Surname Map](https://www.surnamemap.eu/)
+
+## Researching Senders
+
+Reverse phone lookup☁:  
+[NumLookup](https://www.numlookup.com/),
 [USPhoneBook](https://www.usphonebook.com/)
+
+Email headers☁:  
+[Google's Messageheader🧛](https://toolbox.googleapps.com/apps/messageheader/)
+[WhatIsMyIPAddress' Trace Email](https://whatismyipaddress.com/trace-email)
 
 Google email inspection:  
 [GHunt](https://github.com/mxrch/GHunt)

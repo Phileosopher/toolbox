@@ -10,9 +10,9 @@
 
 [Chips4Makers](https://chips4makers.io/)
 [Cirkit Designer⊞⌘🐧](https://www.cirkitdesigner.com/index.html),
-[Electric🐧](https://www.gnu.org/software/electric/),
+[Electric🐧🆓](https://www.gnu.org/software/electric/),
 [Fritzing⊞⌘🐧](https://fritzing.org/),
-[GNU Archimedes](https://www.gnu.org/software/archimedes/),
+[GNU Archimedes🆓](https://www.gnu.org/software/archimedes/),
 [KiCad⊞⌘🐧](https://www.kicad.org/),
 [LibrEDA](https://libreda.org/)
 
@@ -39,7 +39,7 @@ VLSI design:
 [SkyWater SKY130 PDK](https://skywater-pdk.readthedocs.io/en/main/)
 
 Nanotechnology:  
-[Nano-Archimedes](https://www.gnu.org/software/nano-archimedes/)
+[Nano-Archimedes🆓](https://www.gnu.org/software/nano-archimedes/)
 
 PCB editor:  
 [pcb-rnd](http://repo.hu/projects/pcb-rnd/)

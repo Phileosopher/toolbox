@@ -45,6 +45,12 @@ Weight comparison:
 [Random Picker☁](https://commentpicker.com/random-picker.php),
 [GeneratorLand.com☁](https://www.generatorland.com/)
 
+Random generator💩:  
+[Cool Generator](https://www.coolgenerator.com/),
+[DataFakeGenerator](https://datafakegenerator.com/)
+[Random ize](https://random-ize.com/),
+[Random Lists](https://www.randomlists.com/)
+
 Randomizers:  
 [Combination Generator☁](https://commentpicker.com/combination-generator.php),
 [List Randomizer☁](https://commentpicker.com/list-randomizer.php),

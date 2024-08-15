@@ -9,7 +9,7 @@ Classic IDE - vim:
 [Neovim](https://neovim.io/)
 
 Classic IDE - emacs:  
-[GNU Emacs⊞⌘🐧](https://www.gnu.org/software/emacs/)
+[GNU Emacs⊞⌘🐧🆓](https://www.gnu.org/software/emacs/)
 
 emacs + vim:  
 [doomemacs⇉](https://github.com/doomemacs/doomemacs),

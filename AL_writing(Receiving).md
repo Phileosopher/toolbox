@@ -4,8 +4,8 @@
 Language translation☁:  
 [DeepL](https://www.deepl.com/translator),
 [Google Translate🧛](https://translate.google.com/),
-[LibreTranslate](https://libretranslate.com/),
-[Lingva Translate](https://lingva.ml/),
+[LibreTranslate](https://libretranslate.com/) [GitHub](https://github.com/LibreTranslate/LibreTranslate),
+[Lingva Translate](https://lingva.ml/) ([GitHub](https://github.com/thedaviddelta/lingva-translate)),
 [PROMT.One Translator](https://www.online-translator.com/)
 
 Language translation - browser plugin🔌:  
@@ -13,19 +13,6 @@ Language translation - browser plugin🔌:
 [TWP](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 
 ## Researching Senders🕵️
-
-Public information☁:  
-[Truthfinder](https://www.truthfinder.com/)
-
-Reverse phone lookup☁:  
-[NumLookup](https://www.numlookup.com/)
-
-Email headers☁:  
-[Google's Messageheader🧛](https://toolbox.googleapps.com/apps/messageheader/)
-[WhatIsMyIPAddress' Trace Email](https://whatismyipaddress.com/trace-email)
-
-Google email inspection:  
-[GHunt](https://github.com/mxrch/GHunt)
 
 Short link scan/unshortener☁:  
 [CheckShortURL](https://checkshorturl.com/),
@@ -45,22 +32,16 @@ Website verification☁🕵️:
 [Web of Trust](https://mywot.com/),
 [Zscaler](https://zulu.zscaler.com/)
 
-Phone number (via site crawling):  
-[Ampare Phone Number Crawler🐧](https://snapcraft.io/amparephonenumbercrawler)
-
-European surnames:  
-[Surname Map](https://www.surnamemap.eu/)
-
 ## Email
 
 Email/calendar/contacts client:  
-[Mozilla Thunderbird⊞🐧⌘■](https://www.thunderbird.net/)
+[Mozilla Thunderbird⊞🐧⌘■](https://www.thunderbird.net/) ([GitHub](https://github.com/thunderbird))
 
 Email hosting☁🕵️:  
 [Fastmail](https://www.fastmail.com/),
 [mail.com](https://www.mail.com/),
 [ProtonMail](https://protonmail.com/),
-[Tuta🤖](https://tuta.com/)
+[Tuta🤖](https://tuta.com/) ([GitHub](https://github.com/tutao/tutanota))
 
 Temporary email🕵️:  
 [Maildrop☁](https://maildrop.cc/),

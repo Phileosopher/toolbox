@@ -15,6 +15,7 @@ Goal and progress tracking:
 [Trask Progress Tracker*](https://davidseah.com/node/the-task-progress-tracker/)
 
 Gantt charts:  
+[GanttProject🆓](https://www.ganttproject.biz/),
 [Manual Gantt Charting in Excel*](https://davidseah.com/node/manual-gantt-charting-in-excel/),
 [ProjectLibre](https://sourceforge.net/projects/projectlibre/),
 [TeamGantt☁⬆️](https://www.teamgantt.com/)

@@ -176,7 +176,7 @@ Ping - multiple hostnames/IPs:
 [PingInfoView⊞■](https://www.nirsoft.net/utils/multiple_ping_tool.html)
 
 Ping - periodic repetition:  
-[Alive🐧](https://www.gnu.org/software/alive/)
+[Alive🐧🆓](https://www.gnu.org/software/alive/)
 
 Ping - visualization:  
 [gping](https://github.com/orf/gping)
@@ -198,7 +198,7 @@ Enterprise IP address info:
 [IPinfo.io☁🔌](https://ipinfo.io/)
 
 IPMI:  
-[FreeIPMI🐧](https://www.gnu.org/software/freeipmi/)
+[FreeIPMI🐧🆓](https://www.gnu.org/software/freeipmi/)
 
 Router traffic analysis:  
 [MRTG (Multi Router Traffic Grapher)⊞⌘🐧](https://oss.oetiker.ch/mrtg/)

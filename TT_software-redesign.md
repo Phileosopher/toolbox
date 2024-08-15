@@ -17,7 +17,7 @@ Unix-like terminal:
 [fastmac (via GitHub Actions)](https://github.com/fastai/fastmac/)
 
 Test harness:  
-[DejaGnu](https://www.gnu.org/software/dejagnu/)
+[DejaGnu🆓](https://www.gnu.org/software/dejagnu/)
 
 ## Fuzzing/Input Errors - Sample Data
 
@@ -42,7 +42,7 @@ Images:
 ## Bug Tracking
 
 [Bugzilla🐧](https://www.bugzilla.org/),
-[GNU GNATS🐧](https://www.gnu.org/software/gnats/)
+[GNU GNATS🐧🆓](https://www.gnu.org/software/gnats/)
 [Mantis Bug Tracker🐧](https://www.mantisbt.org/),
 [Redmine⊞🐧](https://www.redmine.org/),
 [The Trac Project⊞🐧](https://trac.edgewall.org/)
