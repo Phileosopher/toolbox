@@ -13,7 +13,8 @@ Book search/archive:
 [Memory of the World Library](https://library.memoryoftheworld.org/),
 [OceanofPDF](https://oceanofpdf.com/),
 [PDF Room](https://pdfroom.com/),
-[UPenn's The Online Books Page](https://onlinebooks.library.upenn.edu/)
+[UPenn's The Online Books Page](https://onlinebooks.library.upenn.edu/),
+[Wikibooks](https://en.wikibooks.org/wiki/Main_Page)
 
 Public domain content:  
 [Authorama](http://authorama.com/),

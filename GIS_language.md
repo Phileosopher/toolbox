@@ -2,7 +2,10 @@
 # Tools for [language](https://gainedin.site/language/) translation
 
 Language translation:  
-[OmegaT](https://omegat.org/)
+[OmegaT](https://omegat.org/) ([GitHub](https://github.com/omegat-org/omegat))
+
+Written language:  
+[Omniglot](https://www.omniglot.com/index.htm)
 
 ## Language Learning
 
@@ -23,13 +26,10 @@ Sign language:
 
 On-demand foreign language recordings:  
 [RhinoSpike](https://rhinospike.com/),
-[YouGlish](https://youglish.com/),
+[YouGlish🔌](https://youglish.com/),
 
 Language games:  
 [Online ESL Games](https://www.gamestolearnenglish.com/)
-
-Written language:  
-[Omniglot](https://www.omniglot.com/index.htm)
 
 Conversational messaging:  
 [italki](https://www.italki.com/)

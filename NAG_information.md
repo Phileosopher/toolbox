@@ -70,6 +70,7 @@ Self-made RSS feeds:
 RSS feed manager:  
 [FreshRSS💾🤖](https://freshrss.org/) (with [extensions](https://github.com/harleypig/FreshRSS-extensions), [more extensions](https://github.com/cn-tools/cntools_FreshRssExtensions) and [demo](https://demo.freshrss.org/i/?rid=65834a6431fb4)),
 [NetNewsWire⌘🍎](https://netnewswire.com/),
+[Nextcloud News💾🤖](https://apps.nextcloud.com/apps/news) ([GitHub](https://github.com/nextcloud/news)),
 [News🤖](https://f-droid.org/packages/co.appreactor.news/),
 [QuiteRSS⊞■⌘🐧](https://quiterss.org/),
 [RSS Guard⊞■⌘🐧](https://github.com/martinrotter/rssguard),

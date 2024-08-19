@@ -1,10 +1,6 @@
 
 # Tools for [acquiring lots of information](https://notageni.us/information), specifically [storytellers](https://gainedin.site/storytellers/)💩
 
-## News Readers
-
-[Nextcloud News💾🤖](https://apps.nextcloud.com/apps/news)
-
 ## News Outlets
 
 TL;DR News:  
@@ -13,10 +9,10 @@ TL;DR News:
 [68k.news](http://68k.news/)
 
 TL;DR News - Hacker News:  
-[Hacker News Confidence](http://hn.elijames.org/),
+[Hacker News Confidence](http://hn.elijames.org/) ([GitHub](https://github.com/ejamesc/go-hn-confidence)),
 [Hacker News Daily](https://www.daemonology.net/hn-daily/),
 [Hacker News Rankings](https://hnrankings.info/),
-[HackYourNews](https://hackyournews.com/)
+[HackYourNews🎰](https://hackyournews.com/)
 
 Less sensationalized news:  
 [Boring Report🍎](https://www.boringreport.org/)
@@ -32,18 +28,6 @@ Publications generally excluded from American mainstream media:
 [The Unz Review☁](https://www.unz.com/print/All/)
 
 ## History
-
-Formal libraries:  
-[Europeana](https://www.europeana.eu/),
-[Getty Research Institute Library](https://www.getty.edu/research/library/),
-[Internet Archive](https://archive.org/),
-[Library of Congress Digital Collections](https://www.loc.gov/collections/),
-[Project Gutenberg](https://www.gutenberg.org/),
-[WorldCat.org](https://www.worldcat.org/)
-
-Informal libraries:  
-[Free Online Library](https://www.thefreelibrary.com/),
-[Open Library🔌](https://openlibrary.org/)
 
 Genealogical archives:  
 [Forebears](https://forebears.io/),

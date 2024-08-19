@@ -26,4 +26,4 @@ Steam games without DRM:
 [The big list of DRM-free games on Steam*](https://www.pcgamingwiki.com/wiki/The_big_list_of_DRM-free_games_on_Steam)
 
 Great multiplayer games🤝:  
-[Awesome Multiplayer Games](https://multiplayer.page/)
+[Awesome Multiplayer Games](https://multiplayer.page/) ([GitHub](https://github.com/herrherrmann/awesome-multiplayer-games))
