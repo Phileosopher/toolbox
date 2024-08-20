@@ -17,4 +17,4 @@ Amazon ASIN lookup:
 [sellerapp's Reverse Asin Lookup](https://www.sellerapp.com/amazon-reverse-asin.html)
 
 Social network:  
-[Startups.com](https://www.st   artups.com/)
+[Startups.com](https://www.startups.com/)

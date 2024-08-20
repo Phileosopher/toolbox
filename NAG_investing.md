@@ -63,9 +63,6 @@ Blockchain:
 Micro-investing:  
 [M1☁](https://m1.com/)
 
-Software side projects:  
-[SideProjectors☁](https://www.sideprojectors.com/#/)
-
 ## Positions
 
 Inflation calculator (USD):  

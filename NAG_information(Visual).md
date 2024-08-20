@@ -3,27 +3,26 @@
 
 ## Media Libraries
 
-[Jellyfin🐧](https://jellyfin.org/) (with [awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) and [jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim)),
-[OSMC](https://osmc.tv/),
+[Jellyfin🐧](https://jellyfin.org/) (([GitHub](https://github.com/jellyfin/jellyfin))with [awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) and [jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim)),
+[OSMC](https://osmc.tv/) ([GitHub](https://github.com/osmc/osmc)),
 [Plex](https://www.plex.tv/) (with [Plex Plug-ins](https://github.com/plexinc-plugins))
 
 Low-profile:  
-[Myflix](https://github.com/farfalleflickan/Myflix)
+[cmyflix](https://github.com/farfalleflickan/cmyflix)
 
 10-foot UI:  
 [Kodi⊞■⌘🐧🍎🤖](https://kodi.tv/)
 
 Content tracking/synchronization:  
-[Aniyomi🤖](https://aniyomi.org/),
+[Aniyomi🤖](https://aniyomi.org/) ([GitHub](https://github.com/aniyomiorg/aniyomi)),
 [Trakt⊞🍎🤖](https://trakt.tv/)
 
 Comics/Manga:  
 [Free Manga Downloader](https://sourceforge.net/projects/fmd/),
-[HakuNeko](https://hakuneko.download/),
-[Kotatsu🤖](https://kotatsu.app/),
+[HakuNeko](https://hakuneko.download/) ([GitHub](https://github.com/manga-download/hakuneko)),
+[Kotatsu🤖](https://kotatsu.app/) ([GitHub](https://github.com/KotatsuApp/Kotatsu/) and [F-Droid](https://f-droid.org/packages/org.koitharu.kotatsu/)),
 [Nekome](https://github.com/Chesire/Nekome),
-[Tachiyomi🤖](https://tachiyomi.org/)
-[YACReader](https://www.yacreader.com/)
+[YACReader](https://www.yacreader.com/) ([GitHub](https://github.com/YACReader/yacreader))
 
 ## Image Viewers
 
@@ -44,34 +43,25 @@ Maximum-zoomed images:
 ## Video/Audio Player
 
 Audio/video player:  
-[VLC⊞■⌘🐧🍎🤖](https://www.videolan.org/vlc/),
-[SMPlayer⊞■🐧](https://www.smplayer.info/)
+[VLC⊞■⌘🐧🍎🤖](https://www.videolan.org/vlc/) ([GitHub](https://github.com/videolan/vlc)),
+[SMPlayer⊞■🐧](https://www.smplayer.info/) ([GitHub](https://github.com/smplayer-dev/smplayer))
 
 Audio/video player - plugin-friendly:  
 [WACUP⊞■](https://getwacup.com/)
 
-Video playback issues:  
-[VideoInspector⊞](https://kcsoftwares.com/?vtb)
-
-Watch videos together remotely:  
-[Binge Together☁](https://bingetogether.com/)
-
 P2P movie sharing:  
 [watchIT](https://github.com/ZorrillosDev/watchit-app)
-
-Watch YouTube video repeatedly:  
-[TubeReplay☁](https://www.tubereplay.com/)
 
 ## Video/Audio Download
 
 Online videos:  
 [KeepVid☁](https://keepvid.com/),
-[Ymp4☁](https://ymp4.download/en57/supported/)
-[youtube-dlp⊞□🐧](https://github.com/yt-dlp/yt-dlp) (frontends with [youtube-dl-gui⊞⌘🐧(GUI)](https://github.com/jely2002/youtube-dl-gui) and [Videomass](https://jeanslack.github.io/Videomass/)),
+[Ymp4☁](https://ymp4.download/)
+[youtube-dlp⊞□🐧](https://github.com/yt-dlp/yt-dlp) (frontends with [youtube-dl-gui⊞⌘🐧(GUI)](https://github.com/jely2002/youtube-dl-gui) and [Videomass](https://jeanslack.github.io/Videomass/) with ([GitHub](https://github.com/jeanslack/Videomass))),
 
 YouTube videos:  
 [Ymp4 Youtube To Mp4 Video Downloader](https://ymp4.download/),
-[Tube Archivist💾](https://www.tubearchivist.com/),
+[Tube Archivist💾](https://www.tubearchivist.com/) ([GitHub](https://github.com/tubearchivist/tubearchivist)),
 [yark💾🐍](https://pypi.org/project/yark/),
 [YTOFFLINE](https://ytoffline.net/)
 
@@ -81,10 +71,10 @@ TikTok content:
 ## Video/Audio Information
 
 TL;DW YouTube:  
-[you-tldr](https://www.you-tldr.com/)
+[you-tldr🎰](https://www.you-tldr.com/)
 
 TL;DW YouTube - Transcript:  
-[YouTube Transcript](https://youtubetranscript.com/)
+[YouTube Transcript🎰](https://youtubetranscript.com/)
 
 Database:  
 [IMDb](https://www.imdb.com/)
@@ -113,4 +103,4 @@ Availability by country:
 [Streaming Availability API🔌⦿](https://www.movieofthenight.com/about/api)
 
 Popular movies list API:  
-[popular-movies](https://github.com/sjlu/popular-movies)
+[popular-movies](https://github.com/sjlu/popular-movies) ([dataset](https://popular-movies-data.stevenlu.com/movies.json))

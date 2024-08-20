@@ -74,7 +74,7 @@ I've left emoji earmarks for reference, and my frequency of use approximately co
 - Its starting platform:  
     - _*_ - reference sheet or copy/paste.
     - ☁ - browser-based
-    - ⇉ - browser/software plugin or extension
+    - ⇉ - browser/software plugin, bookmarklet, or extension
     - ⊞ - Windows
     - ⌘ - Mac OS X
     - 🐧 - Unix and friends

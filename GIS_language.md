@@ -1,5 +1,5 @@
 
-# Tools for [language](https://gainedin.site/language/) translation
+# Tools for [language](https://gainedin.site/language/) names and translation
 
 Language translation:  
 [OmegaT](https://omegat.org/) ([GitHub](https://github.com/omegat-org/omegat))
@@ -49,3 +49,12 @@ Language conversion dictionary:
 English-to-sign-language:  
 [American Sign Language ASL Dictionary](https://www.signasl.org/),
 [British Sign Language BSL Dictionary](https://www.signbsl.com/)
+
+## Names
+
+Name generator:  
+[Deck of Names☁](https://deckofnames.com/),
+[Name Generator☁](https://commentpicker.com/random-name-generator.php)
+
+European surnames:  
+[Surname Map](https://www.surnamemap.eu/)

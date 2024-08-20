@@ -12,23 +12,17 @@ Font search (from a file):
 [FontDrop!☁](https://fontdrop.info/)
 
 Font pairing:  
-[Google Fonts Pair Finder☁🧛](https://10015.io/tools/google-fonts-pair-finder)
-
-Formatting:  
-[Archetype☁](https://archetypeapp.com)
+[10015's Google Fonts Pair Finder☁🧛](https://10015.io/tools/google-fonts-pair-finder)
 
 Font Examples:  
-[FontSpark*](https://fontspark.app/), [Font Flipper*](https://fontflipper.com/), [Fonts In Use*](https://fontsinuse.com/),
-[Type Anything☁](https://app.typeanything.io/)
+[Font Flipper*](https://fontflipper.com/),
+[Fonts In Use*](https://fontsinuse.com/)
 
 Pairing:  
 [Brandmark Font Generator*](https://brandmark.io/font-generator/),
 [Canva's Font Combinations*](https://www.canva.com/font-combinations/),
 [Fontjoy*](https://fontjoy.com/),
 [FontPair*](https://fontpair.co/)
-
-Testing:  
-[Fonty*](https://fonty.dizoo.bg/)
 
 ## Free Fonts
 
@@ -49,12 +43,9 @@ Testing:
 
 ## Design Interfaces
 
-[FontForge⊞■⌘🐧](https://fontforge.github.io/)
+[FontForge⊞■⌘🐧](https://fontforge.github.io/) ([GitHub](https://github.com/fontforge/fontforge))
 
 ## Calculators
-
-PX to EM conversion:  
-[PXtoEM.com☁](http://pxtoem.com/)
 
 Typographical size calculator:  
 [Type Scale☁](https://type-scale.com/)

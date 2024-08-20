@@ -1,6 +1,11 @@
 
 # Tools for [geolocation](https://trendless.tech/gps)
 
+Random geolocation generator:  
+[Country☁](https://commentpicker.com/random-country-generator.php)
+[Geographic Coordinates☁](https://www.random.org/geographic-coordinates/),
+[Capital Cities☁](https://commentpicker.com/random-capital-generator.php)
+
 ## GIS Data Management
 
 GIS data creation:  

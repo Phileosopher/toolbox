@@ -4,9 +4,6 @@
 Startup profitability calculator:  
 [Startup Growth Calculator☁](http://growth.tlb.org/#)
 
-Stock option outcome calculator:  
-[TLDR Stock Options☁](https://tldroptions.io/)
-
 Banking:  
 [Slash☁](https://www.joinslash.com/)
 

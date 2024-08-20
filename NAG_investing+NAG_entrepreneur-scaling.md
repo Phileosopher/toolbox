@@ -1,6 +1,9 @@
 
 # Tools for [investing](https://notageni.us/investing/) and [entrepreneurial financing](https://notageni.us/entrepreneur-scaling/)
 
+Software side projects:  
+[SideProjectors☁](https://www.sideprojectors.com/#/)
+
 ## Lending/Borrowing
 
 [Homepage | Accion](https://www.accion.org/),

@@ -12,7 +12,6 @@ Unblockit
 
 [Free Download Manager⊞⌘🐧](https://www.freedownloadmanager.org/),
 [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader),
-[uGet⊞■⌘🐧](https://ugetdm.com/),
 [WinWGet+ Portable⊞■](https://portableapps.com/apps/internet/winwget_portable)
 
 Temporary cloud/debrid:  
@@ -34,7 +33,7 @@ Wayback Machine archived sites:
 [wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)
 
 Wiki archiving:  
-[XOWA](http://xowa.org/)
+[XOWA](http://xowa.org/) ([GitHub](https://github.com/gnosygnu/xowa))
 
 ## Stream Downloads
 
@@ -42,11 +41,11 @@ Torrent-based streaming:
 [Webtor.io](https://webtor.io/)
 
 Movie-based for Torrent/Usenet:  
-[Radarr](https://radarr.video/)
+[Radarr](https://radarr.video/) ([GitHub](https://github.com/Radarr/Radarr))
 
 TV-based for Torrent/Usenet:  
-[Sonarr](https://sonarr.tv/),
-[SickChill](https://sickchill.github.io/)
+[Sonarr](https://sonarr.tv/) ([GitHub](https://github.com/Sonarr/Sonarr)),
+[SickChill](https://sickchill.github.io/) ([GitHub](https://github.com/SickChill/SickChill))
 
 RTMP streams:  
 [RTMPDumpHelper⊞■](https://www.nirsoft.net/utils/rtmp_dump_helper.html)
@@ -62,19 +61,18 @@ RSS feed generator:
 [FetchRSS☁⬆️](https://fetchrss.com/),
 [GetRSSFeed☁](https://getrssfeed.com/)
 
-Self-made RSS feeds:  
+Third-party RSS feeds:  
 [rssbox💾](https://github.com/stefansundin/rssbox),
-[RSS-Bridge](https://rss-bridge.org/bridge01/),
-[RSSHub](https://docs.rsshub.app/)
+[RSS-Bridge](https://rss-bridge.org/bridge01/) ([GitHub](https://github.com/RSS-Bridge/rss-bridge)),
+[RSSHub](https://docs.rsshub.app/) ([GitHub](https://github.com/DIYgod/RSSHub))
 
 RSS feed manager:  
-[FreshRSS💾🤖](https://freshrss.org/) (with [extensions](https://github.com/harleypig/FreshRSS-extensions), [more extensions](https://github.com/cn-tools/cntools_FreshRssExtensions) and [demo](https://demo.freshrss.org/i/?rid=65834a6431fb4)),
+[FreshRSS💾🤖](https://freshrss.org/) (([GitHub](https://github.com/FreshRSS/FreshRSS))with [extensions](https://github.com/cn-tools/cntools_FreshRssExtensions) and [demo](https://demo.freshrss.org/i/?rid=65834a6431fb4)),
 [NetNewsWire⌘🍎](https://netnewswire.com/),
 [Nextcloud News💾🤖](https://apps.nextcloud.com/apps/news) ([GitHub](https://github.com/nextcloud/news)),
-[News🤖](https://f-droid.org/packages/co.appreactor.news/),
-[QuiteRSS⊞■⌘🐧](https://quiterss.org/),
-[RSS Guard⊞■⌘🐧](https://github.com/martinrotter/rssguard),
-[RSSOwl⊞⌘🐧](https://www.rssowl.org/)
+[News🤖](https://f-droid.org/packages/co.appreactor.news/) ([GitHub](https://github.com/bubelov/news)),
+[QuiteRSS⊞■⌘🐧](https://quiterss.org/) ([GitHub](https://github.com/QuiteRSS/quiterss)),
+[RSS Guard⊞■⌘🐧](https://github.com/martinrotter/rssguard)
 
 RSS-to-email:  
 [Blogtrottr☁](https://blogtrottr.com)
@@ -84,7 +82,7 @@ Site status (updates on changed code on a site):
 
 iTunes:  
 [iTunes→RSS](https://podshows.fr/itunesrss),
-[itunesrss💾](https://github.com/gromnitsky/itunesrss),
+[itunesrss💾](https://github.com/gromnitsky/itunesrss) (with ([demo](https://gromnitsky.users.sourceforge.net/js/itunesrss/))),
 [RSS Builder](https://rss.applemarketingtools.com/)
 
 Twitch livestreams:  
@@ -92,5 +90,5 @@ Twitch livestreams:
 [TwitchRSS💾](https://github.com/lzeke0/TwitchRSS)
 
 YouTube video feeds:  
-[Podify](https://www.podify.org/),
-[YouCast](http://youcast.i3arnon.com/)
+[Podify](https://www.podify.org/) ([GitHub](https://github.com/podify-org/podify)),
+[YouCast](http://youcast.i3arnon.com/) ([GitHub](https://github.com/i3arnon/YouCast))

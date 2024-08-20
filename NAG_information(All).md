@@ -1,12 +1,15 @@
 
 # Tools for [acquiring lots of information](https://notageni.us/information)
 
+Similar websites:  
+[Similarsites.com](https://www.similarsites.com/)
+
 Open media💩:  
 [Open Culture](https://www.openculture.com/)
 
 Open media - piracy resources💩:  
-[freemediaheckyeah](https://fmhy.net/) (and on [reddit](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)),
-[Ripped](https://ripped.guide/),
+[freemediaheckyeah](https://fmhy.net/) (([GitHub](https://github.com/fmhy/FMHY))and [reddit](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)),
+[Ripped](https://ripped.guide/) ([GitHub](https://github.com/rippedpiracy/docs)),
 [GitLab piracy](https://gitlab.com/piracy/piracy),
 [The Pirate List](https://thepiratelist.com/)
 

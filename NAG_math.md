@@ -3,15 +3,10 @@
 
 Lightweight calculators:  
 [Calculator.net☁](https://www.calculator.net/),
-[SpeedCrunch⊞■⌘🐧](https://speedcrunch.org/)
+[SpeedCrunch⊞■⌘🐧](https://heldercorreia.bitbucket.io/speedcrunch/)
 
 Heavy-duty calculating:  
 [Wolfram|Alpha☁🍎🤖](https://www.wolframalpha.com/)
-
-Step-by-step explanations:  
-[BetterExplained*](https://betterexplained.com/),
-[Mathway☁](https://www.mathway.com/),
-[Symbolab☁](https://www.symbolab.com/)
 
 Math reference:  
 [Wumbo](https://wumbo.net/)
@@ -21,6 +16,15 @@ Computational heavy lifting:
 
 Computer screen ruler:  
 [iRuler.net](https://iruler.net/)
+
+## Learning
+
+[Math is Fun](https://www.mathsisfun.com/)
+
+Step-by-step explanations:  
+[BetterExplained*](https://betterexplained.com/),
+[Mathway☁](https://www.mathway.com/),
+[Symbolab☁](https://www.symbolab.com/)
 
 ## Conversions/Comparisons
 
@@ -65,15 +69,10 @@ Specific generators:
 [Lottery Numbers☁](https://commentpicker.com/lottery-number-generator.php),
 [Numbers☁](https://commentpicker.com/random-number-generator.php)
 
-Specific generators - names:  
-[Deck of Names☁](https://deckofnames.com/),
-[Name Generator☁](https://commentpicker.com/random-name-generator.php)
-
-Specific generators - geographic:  
-[Country☁](https://commentpicker.com/random-country-generator.php)
-[Geographic Coordinates☁](https://www.random.org/geographic-coordinates/),
-[Capital Cities☁](https://commentpicker.com/random-capital-generator.php)
-
 ## Mathematical Animations
 
-[Manim🐍](https://www.manim.community/)
+[Manim🐍](https://www.manim.community/) ([GitHub](https://github.com/ManimCommunity/manim))
+
+## Math Community
+
+[Mathematics Stack Exchange](https://math.stackexchange.com/)

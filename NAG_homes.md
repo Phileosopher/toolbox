@@ -13,7 +13,7 @@ Renting vs. Buying calculator:
 
 Housing plans:  
 [Earthship Biotecture](https://earthshipbiotecture.com/),
-Monolithic ([Monolithic Dome](https://www.monolithic.com/) and [Monolithic Dome Institute](https://monolithicdome.com/)),
+Monolithic ([Monolithic Dome](https://www.monolithic.com/) with [Monolithic Dome Institute](https://monolithicdome.com/)),
 [Open Building Institute](https://www.openbuildinginstitute.org/),
 [Seed Eco-Home](https://www.opensourceecology.org/extreme-build-of-the-seed-eco-home/),
 [Studiolada House Plan (Wayback Machine)](https://web.archive.org/web/20170918182346/http://www.studiolada.fr/docs/telechargement/maison/dossier-synthese.pdf)

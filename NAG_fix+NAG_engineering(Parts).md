@@ -11,4 +11,4 @@ Factory parts:
 [McMaster-Carr☁](https://www.mcmaster.com/),
 
 Fasteners:  
-[Bolt Depot - Nuts and Bolts, Screws and Fasteners online](https://www.boltdepot.com/)
+[Bolt Depot](https://www.boltdepot.com/)

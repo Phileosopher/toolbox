@@ -2,13 +2,13 @@
 # Tools for [acquiring lots of information](https://notageni.us/information) via search
 
 Search engine🧛:  
+[100 Search Engines💩](https://www.100searchengines.com/huge-list-search-engines.htm),
 [Bing](https://www.bing.com/),
 [DuckDuckGo](https://duckduckgo.com/) (with [!bang operators*](https://mosermichael.github.io/duckduckbang/html/main.html)),
 [Google](https://www.google.com/) (with [Supple's*](https://supple.com.au/tools/google-advanced-search-operators/) or [ahrefs'*](https://ahrefs.com/blog/google-advanced-search-operators/) advanced search operators),
 [Yandex](https://yandex.com/)
 
 Privacy-respecting search engine:  
-[100 Search Engines](https://www.100searchengines.com/huge-list-search-engines.htm),
 [Brave Search](https://search.brave.com/),
 [Golgozar](https://golgozar.org/),
 [Mojeek](https://www.mojeek.com/),
@@ -68,8 +68,8 @@ Archive downloader - books in PDF:
 [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader)
 
 Flash content:  
-[Flashpoint Archive](https://flashpointarchive.org/),
-[FlashMuseum](https://flashmuseum.org/)
+[Flashpoint Archive](https://flashpointarchive.org/) [GitHub](https://github.com/FlashpointProject?q=&type=all&language=&sort=stargazers),
+[FlashMuseum☁](https://flashmuseum.org/)
 
 ## Streaming Video Search Engine☁
 
@@ -84,19 +84,9 @@ Search engine - grayweb (URLs change all the time):
 Movies123,
 Kimcartoon,
 Kisscartoon,
-Popcorntime
+Popcorntime,
+Soap2Day
 
 Tracking new releases:  
 [Simkl](https://simkl.com/),
 [Trakt](https://trakt.tv/)
-
-## Specific Other Search Engines☁
-
-Similar websites:  
-[Similarsites.com](https://www.similarsites.com/)
-
-Sports information:  
-[TheSportsDB.com🔌](https://thesportsdb.com/)
-
-European surnames:  
-[Surname Map](https://www.surnamemap.eu/)

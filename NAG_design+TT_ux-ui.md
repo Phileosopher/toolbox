@@ -30,7 +30,7 @@ Practice:
 [Frontend Practice☁](https://www.frontendpractice.com/)
 
 Support tables:  
-[Can I use...☁](https://www.caniuse.com/)
+[Can I use...☁](https://www.caniuse.com/) ([GitHub](https://github.com/fyrd/caniuse))
 
 ## Usability Testing
 
@@ -52,6 +52,3 @@ Accessibility test:
 
 Worldwide test:  
 [W3C I18n Checker☁](https://validator.w3.org/i18n-checker/)
-
-Website feedback:  
-[Pagereview.io](https://pagereview.io/)

@@ -7,8 +7,8 @@ By comparison to another color:
 [Accessible Color Generator](https://learnui.design/tools/accessible-color-generator.html)
 
 By color name:  
-[Color-Names☁](https://meodai.github.io/color-names/) (with [Meodai's Color Names🔌](https://github.com/meodai/color-names)),
-[colornames.org☁](https://colornames.org/)
+[Color-Names☁](https://meodai.github.io/color-names/) ([GitHub🔌](https://github.com/meodai/color-names)),
+[colornames.org☁🆓](https://colornames.org/)
 
 By associated object:  
 [Picular☁](https://picular.co/)
@@ -20,23 +20,23 @@ By extraction from an image:
 [Tineye's Color extraction☁](https://labs.tineye.com/color/)
 
 By extraction from an image - average color:
-[Image Average Color Finder☁](https://10015.io/tools/image-average-color-finder)
+[10015's Image Average Color Finder☁](https://10015.io/tools/image-average-color-finder)
 
 Object search (by color):  
 [TinEye Labs' Multicolr Search Lab☁](https://labs.tineye.com/multicolr/)
 
 Color name search:  
-[Sorted CSS Colors](https://enes.in/sorted-colors/)
+[Sorted CSS Colors](https://enes.in/sorted-colors/) ([GitHub](https://github.com/scriptype/sorted-colors))
 
 Color code reference:  
-[HTML Color Codes☁](https://htmlcolorcodes.com/)
+[HTML Color Codes☁](https://htmlcolorcodes.com/) ([CodePen](https://codepen.io/htmlcolorcodes/))
 
 Color code conversion:  
-[HEX to RGBA Converter☁](https://10015.io/tools/hex-to-rgba-converter),
-[RGBA to HEX Converter☁](https://10015.io/tools/rgba-to-hex-converter)
+[10015's HEX to RGBA Converter☁](https://10015.io/tools/hex-to-rgba-converter),
+[10015's RGBA to HEX Converter☁](https://10015.io/tools/rgba-to-hex-converter)
 
 Random colors:  
-[Random Color Generator☁](https://commentpicker.com/random-color-generator.php),
+[Comment Picker's Random Color Generator☁](https://commentpicker.com/random-color-generator.php),
 [Random Color Picker☁](https://www.webfx.com/web-design/random-color-picker/),
 [Random Hex Color Code Generator☁](https://www.random.org/colors/hex)
 
@@ -58,9 +58,11 @@ Tailored palettes:
 [Pigment by ShapeFactory*](https://pigment.shapefactory.co/)
 
 Brand colors:  
-[Brand Palettes*](https://brandpalettes.com/), [BrandColors*](https://brandcolors.net/),
+[Brand Palettes*](https://brandpalettes.com/),
+[BrandColors*](https://brandcolors.net/),
 [Instant Logo Search☁](http://instantlogosearch.com/),
-[U.S. Team Colors*](https://usteamcolors.com/), [U.S. Brand Colors*](https://usbrandcolors.com/)
+[U.S. Team Colors*](https://usteamcolors.com/),
+[U.S. Brand Colors*](https://usbrandcolors.com/)
 
 Pickers:  
 [ColorSpace*](https://mycolor.space/),
@@ -73,7 +75,7 @@ Pickers:
 
 Picker from a color:  
 [Paletter☁](https://www.paletter.app/),
-[Tint and Shade Generator☁](https://maketintsandshades.com/#f54545)
+[Tint and Shade Generator☁](https://maketintsandshades.com/)
 
 Color wheels:  
 [Adobe Color Wheel☁](https://color.adobe.com/create/color-wheel),
@@ -86,7 +88,7 @@ Auto-adjusted palettes:
 ## Gradients
 
 Color mixer:  
-[Color Mixer☁](https://10015.io/tools/color-mixer)
+[10015's Color Mixer☁](https://10015.io/tools/color-mixer)
 
 Tailored gradients:  
 [Grabient*](https://www.grabient.com/),
@@ -111,7 +113,7 @@ Color wheels:
 ## Prototyping
 
 [Happy Hues*](https://www.happyhues.co/),
-[Material Design's Color Tool*](https://material.io/resources/color/)
+[Material Design's Color Tool*](https://material.io/resources/color/) ([GitHub](https://github.com/material-components/material-components))
 
 Color filters:  
 [Duotone by ShapeFactory☁](https://duotone.shapefactory.co/)
@@ -121,7 +123,7 @@ Color filters:
 [HTML Color Codes' Color Picker☁](https://htmlcolorcodes.com/color-picker/)
 
 Photo color filters:  
-[filters.css](https://bansal.io/filters-css)
+[filters.css](https://bansal.io/filters-css) ([GitHub](https://github.com/bansal/filters.css))
 
 Dynamic lighting/visuals for sprites:  
 [SpriteIlluminator](https://www.codeandweb.com/spriteilluminator)
@@ -132,11 +134,11 @@ Automated color system:
 ## Testing
 
 Color pairing:  
-[Colorable☁](https://colorable.jxnblk.com/),
+[Colorable☁](https://colorable.jxnblk.com/) ([GitHub](https://github.com/jxnblk/colorable)),
 [ColorShark☁](https://colorshark.io/),
 [Colour Contrast Analyzer⊞■⌘](https://developer.paciellogroup.com/resources/contrastanalyser/),
 [Hex Naw☁](https://hexnaw.com/),
-[WebAIM Contrast Checker☁](https://webaim.org/resources/contrastchecker/),
+[WebAIM Contrast Checker☁⇉](https://webaim.org/resources/contrastchecker/),
 [Who Can Use☁](https://whocanuse.com/)
 
 A11y check:  

@@ -5,16 +5,16 @@
 
 ## Music Library
 
-[beets](https://beets.io/)
+[beets](https://beets.io/) ([GitHub](https://github.com/beetbox/beets)),
 [MusicBee⊞■](https://getmusicbee.com/),
-[Quod Libet⊞⌘🐧](https://quodlibet.readthedocs.io/),
-[Strawberry Music Player⊞⌘🐧](https://www.strawberrymusicplayer.org/)
+[Quod Libet⊞⌘🐧](https://quodlibet.readthedocs.io/) ([GitHub](https://github.com/quodlibet/quodlibet)),
+[Strawberry Music Player⊞⌘🐧](https://www.strawberrymusicplayer.org/) ([GitHub](https://github.com/strawberrymusicplayer/strawberry))
 
 Music download:  
 [Download Music School☁](https://downloadmusicschool.com/)
 
 Streaming/hosting server💾:  
-[mStream](https://mstream.io/),
+[mStream](https://mstream.io/) ([GitHub](https://github.com/IrosTheBeggar/mStream)),
 [Plexamp](https://plexamp.com/)
 
 Quality detection:  
@@ -33,5 +33,5 @@ Podcast management:
 [Pocket Casts🍎🤖](https://pocketcasts.com/)
 
 Audiobook management:  
-[audiobookshelf💾](https://www.audiobookshelf.org/),
-[Booksonic](https://booksonic.org/)
+[audiobookshelf💾](https://www.audiobookshelf.org/) ([GitHub](https://github.com/advplyr/audiobookshelf)),
+[Booksonic](https://booksonic.org/) ([GitHub](https://github.com/popeen/Booksonic-App))
