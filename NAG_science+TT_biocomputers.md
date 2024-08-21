@@ -2,7 +2,6 @@
 # Tools for [science](https://notageni.us/science/) regarding [bioinformatics](https://trendless.tech/bio-computer)
 
 [Anduril](https://anduril.org/site/),
-[Bioclipse](https://www.bioclipse.net/),
 [Bioconductor](https://www.bioconductor.org/),
 [EMBOSS](http://emboss.open-bio.org/),
 [GenePattern](https://www.genepattern.org/),
@@ -11,6 +10,9 @@
 [GMOD](http://gmod.org/wiki/Main_Page),
 [.NET Bio](https://github.com/dotnetbio/bio),
 [Unipro UGENE](https://ugene.net/)
+
+Piles of genetic tools💩:  
+[awesome-CRISPR](https://github.com/davidliwei/awesome-CRISPR)
 
 Microbe-focused:  
 [mothur](https://mothur.org/)
@@ -31,6 +33,3 @@ Language libraries:
 [BioPHP](https://biophp.org/),
 [Biopython](https://biopython.org/),
 [BioRuby](http://bioruby.org/)
-
-Piles of genetic tools💩:  
-[awesome-CRISPR](https://github.com/davidliwei/awesome-CRISPR)

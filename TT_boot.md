@@ -4,7 +4,7 @@
 Firmware analysis:  
 [Binwalk](https://github.com/ReFirmLabs/binwalk)
 
-## Downloading☁
+## Firmware☁
 
 Samsung mobile devices:  
 [SamSony](https://samsony.net/en)

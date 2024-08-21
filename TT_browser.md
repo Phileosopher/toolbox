@@ -3,17 +3,22 @@
 
 Web browser:  
 [Brave🧛](https://brave.com/) (with [awesome-brave-filters](https://github.com/astariul/awesome-brave-filters)),
-[Falkon](https://www.falkon.org/),
-[Firefox Browser⊞■⌘🐧🍎🤖](https://www.mozilla.org/en-US/firefox/new/) (with [Firefox Profilemaker](https://ffprofile.com/) or [user.js template](https://github.com/arkenfox/user.js)/[alternate](https://github.com/pyllyukko/user.js/) that uses [Firefox tweaks](https://github.com/loganmarchione/Firefox-tweaks/blob/master/user.js)),
+[Falkon](https://www.falkon.org/) ([GitLab](https://invent.kde.org/network/falkon)),
+[Firefox Browser⊞■⌘🐧🍎🤖](https://www.mozilla.org/en-US/firefox/new/),
 [Iridium Browser⊞⌘🐧](https://iridiumbrowser.de/),
 [Tor Browser⊞⌘🐧🤖](https://www.torproject.org/),
 [Ungoogled Chromium🧛](https://ungoogled-software.github.io/) (With [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store))
+
+Web browser - Firefox profiles:  
+[Firefox Profilemaker](https://ffprofile.com/) ([GitHub](https://github.com/allo-/ffprofile)),
+[user.js template](https://github.com/arkenfox/user.js)/[alternate](https://github.com/pyllyukko/user.js/),
+[Firefox tweaks](https://github.com/loganmarchione/Firefox-tweaks/blob/master/user.js)
 
 Web bookmarks:  
 [Every bookmark manager ever made*💩](https://bookmarkos.com/every-bookmark-manager-ever-made),
 [OneKeep☁](https://onekeep.com/),
 [Pocket⇉](https://getpocket.com/),
-[Raindrop.io☁⇉⊞⌘🐧🍎🤖](https://raindrop.io/)
+[Raindrop.io☁⇉⊞⌘🐧🍎🤖🔌](https://raindrop.io/)
 
 ## Optimizations
 
@@ -21,7 +26,7 @@ Web bookmarks:
 
 Start and new tab page:  
 [Momentum☁](https://momentumdash.com/),
-[nightTab⇉](https://github.com/zombieFox/nightTab)
+[nightTab⇉](https://zombiefox.github.io/nightTab/) ([GitHub](https://github.com/zombieFox/nightTab))
 
 Automatic reader mode:  
 [Automatic Reader View⇉](https://addons.mozilla.org/en-US/firefox/addon/automatic-reader-view/)
@@ -31,9 +36,6 @@ Open multiple URLs:
 
 Save open web browser tabs:  
 [tabs2txt⇉](https://addons.mozilla.org/en-US/firefox/addon/tabs2txt/)
-
-Advanced tab management:  
-[FoxTab⇉](https://www.foxtab.com/)
 
 ## Self-Scan & Diagnostics
 

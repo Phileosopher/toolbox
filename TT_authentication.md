@@ -1,10 +1,11 @@
 
 # Tools for [authentication](https://trendless.tech/authentication/)
 
-Password management:  
-[KeePass(and variants like KeepassXC)⊞■⌘🐧🍎🤖⇉](https://keepass.info/),
+Password manager:  
+[KeePass⊞■⌘🐧🍎🤖⇉](https://keepass.info/),
+[KeePassXC](https://keepassxc.org/) ([GitHub](https://github.com/keepassxreboot/keepassxc))
 [KeePass' HIBP Offline Check⇉](https://github.com/mihaifm/HIBPOfflineCheck),
-[PasswordSafe⊞⌘🐧🍎🤖](https://www.pwsafe.org/)
+[PasswordSafe⊞⌘🐧🍎🤖](https://www.pwsafe.org/) ([GitHub](https://github.com/pwsafe/pwsafe))
 
 Password management - Windows:  
 [Password Security Scanner⊞■](https://www.nirsoft.net/utils/password_security_scanner.html)
@@ -26,7 +27,6 @@ Default credentials:
 Captcha solvers:  
 [Bypass Captcha☁](https://www.bypasscaptcha.com/),
 [Captcha Sniper☁](https://www.captchasniper.com/),
-[DeCaptcher☁](https://de-captcher.com/),
-[Death By Captcha☁](https://www.deathbycaptcha.com/),
+[Death By Captcha☁🔌](https://www.deathbycaptcha.com/),
 [EndCaptcha☁](https://www.endcaptcha.com/),
 [Imagetyperz☁](https://www.imagetyperz.com/)
