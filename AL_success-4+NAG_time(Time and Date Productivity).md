@@ -26,3 +26,6 @@ Calendar - small:
 
 Calendar - scheduling:  
 [Cal.com☁⬆️](https://cal.com/) ([GitHub](https://github.com/calcom/cal.com))
+
+Alarms/reminders:  
+[SimpleReminder🤖](https://f-droid.org/packages/felixwiemuth.simplereminder/) ([GitHub](https://github.com/felixwiemuth/SimpleReminder))

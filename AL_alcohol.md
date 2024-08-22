@@ -4,7 +4,8 @@
 [Daniel's Cocktails](https://www.cocktailsdrinkrecipes.com/cocktail-lists/a-z-cocktail-list.html)
 
 Cocktail ingredient search:  
-[Make My Cocktail](https://www.makemycocktail.com/)
+[Make My Cocktail](https://www.makemycocktail.com/),
+[Make Me a Cocktail](https://makemeacocktail.com/)
 
 Beer, brewery, and bar search:  
 [Untappd](https://untappd.com/)

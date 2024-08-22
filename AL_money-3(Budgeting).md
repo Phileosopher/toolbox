@@ -41,3 +41,7 @@ Online checking account:
 
 Online savings account:  
 [Bask Bank☁](https://www.baskbank.com/)
+
+## Money Management Community
+
+[Reddit's personal finance spreadsheets💩](https://www.reddit.com/r/personalfinance/wiki/tools/)
