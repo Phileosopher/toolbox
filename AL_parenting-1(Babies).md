@@ -6,3 +6,6 @@ Baby name generator:
 
 Baby name generator - bilingual:  
 [MixedName☁](https://mixedname.com/)
+
+Nursery rhymes:  
+[NurseryRhymes.info](https://nurseryrhymes.info/)

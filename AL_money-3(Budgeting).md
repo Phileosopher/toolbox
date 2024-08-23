@@ -44,4 +44,5 @@ Online savings account:
 
 ## Money Management Community
 
-[Reddit's personal finance spreadsheets💩](https://www.reddit.com/r/personalfinance/wiki/tools/)
+[Reddit's personal finance spreadsheets💩](https://www.reddit.com/r/personalfinance/wiki/tools/),
+[themeasureofaplan.com/](https://themeasureofaplan.com/)
