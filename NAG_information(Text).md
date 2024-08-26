@@ -29,3 +29,8 @@ Sci-fi/fantasy stories:
 Blogs:  
 [Blogarama](https://www.blogarama.com/),
 [Blog Search Engine](https://www.blogsearchengine.com/)
+
+Commonplacing:  
+[Daniel Schildt's knowledge](https://github.com/d2s/knowledge),
+[Derek Sivers' book notes](https://sive.rs/book),
+[Gordon Brander's Patterns](https://gordonbrander.com/pattern/)

@@ -23,6 +23,17 @@ Anti-FAANG alternatives - Europe-specific:
 User-controlled software:  
 [Zero Data App💾🕵️](https://0data.app/)
 
+## Non-Google Browser
+
+FLoC test:  
+[Am I FLoCed?☁🕵️](https://amifloced.org/)
+
+Audible Google tracking notification:  
+[googerteller⌘🐧🕵️](https://github.com/berthubert/googerteller)
+
+Google Analytics:  
+[Is Google Analytics illegal?🕵️](https://isgoogleanalyticsillegal.com/)
+
 ## Privacy-Respecting Hardware
 
 Multiple:  

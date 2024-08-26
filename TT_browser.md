@@ -7,7 +7,7 @@ Web browser:
 [Firefox Browser⊞■⌘🐧🍎🤖](https://www.mozilla.org/en-US/firefox/new/),
 [Iridium Browser⊞⌘🐧](https://iridiumbrowser.de/),
 [Tor Browser⊞⌘🐧🤖](https://www.torproject.org/),
-[Ungoogled Chromium🧛](https://ungoogled-software.github.io/) (With [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store))
+[Ungoogled Chromium🧛](https://ungoogled-software.github.io/) (([GitHub](https://github.com/ungoogled-software/ungoogled-chromium)), with [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store))
 
 Web browser - Firefox profiles:  
 [Firefox Profilemaker](https://ffprofile.com/) ([GitHub](https://github.com/allo-/ffprofile)),
@@ -15,7 +15,7 @@ Web browser - Firefox profiles:
 [Firefox tweaks](https://github.com/loganmarchione/Firefox-tweaks/blob/master/user.js)
 
 Web bookmarks:  
-[Every bookmark manager ever made*💩](https://bookmarkos.com/every-bookmark-manager-ever-made),
+[Every bookmark manager ever made💩](https://bookmarkos.com/every-bookmark-manager-ever-made),
 [OneKeep☁](https://onekeep.com/),
 [Pocket⇉](https://getpocket.com/),
 [Raindrop.io☁⇉⊞⌘🐧🍎🤖🔌](https://raindrop.io/)

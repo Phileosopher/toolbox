@@ -12,44 +12,26 @@ Block scripts/ads:
 [uBlock Origin⇉](https://github.com/gorhill/uBlock/)
 
 Popup blocking test:  
-[Popup Check☁](https://www.popupcheck.com/#test-popup-blocker),
+[Popup Check☁](https://www.popupcheck.com/),
 [PopupDummy!☁](https://www.dummysoftware.com/popupdummy_testpage.html)
 
-Block chat widgets:  
-[Hello, Goodbye⇉](https://hellogoodbye.app/)
-
-## Anti-Trackers - Non-Google Browser
-
-FLoC test:  
-[Am I FLoCed?☁🕵️](https://amifloced.org/)
-
-Google Analytics:  
-[Is Google Analytics illegal?🕵️](https://isgoogleanalyticsillegal.com/)
-
-Audible Google tracking notification:  
-[googerteller⌘🐧🕵️](https://github.com/berthubert/googerteller)
-
-## Masking
+## IP Address and Fingerprinting
 
 Most common user agents🕵️:  
 [Tech Blog (wh) Most Common User Agents*](https://techblog.willshouse.com/2012/01/03/most-common-user-agents/)
 
-## Masking: IP Address
-
 IP address tools:  
 [IPVoid☁](https://www.ipvoid.com/)
 
-Self-detect IP:  
+Self-detect IPv4/IPv6:  
 [ICanHazIP☁](https://icanhazip.com/),
 [IP/DNS Detect☁](https://ipleak.net/),
 [IP Chicken☁](https://ipchicken.com/),
 [DSLReports' What is my IP address?☁](http://www.dslreports.com/whatismyip),
-[PIA's What's My IP Address?☁](https://www.privateinternetaccess.com/what-is-my-ip),
-[WebBrowserTools' What is my IP Address☁](https://webbrowsertools.com/ip-address/)
-
-Self-detect IPv4/IPv6:  
 [Perfect Privacy Check IP☁](https://www.perfect-privacy.com/en/tests/check-ip),
+[PIA's What's My IP Address?☁](https://www.privateinternetaccess.com/what-is-my-ip),
 [Test your IPv6.☁](https://test-ipv6.com/),
+[WebBrowserTools' What is my IP Address☁](https://webbrowsertools.com/ip-address/),
 [What is my IP Address?☁](https://whatismyv6.com/),
 [Wireshark IPv4/IPv6 Connectivity Test☁](https://www.wireshark.org/tools/v46status.html)
 
@@ -60,7 +42,7 @@ DNS leak test:
 [DNS Leak Tests☁](https://dnsleak.com/)
 
 VPN:  
-[WireGuard⊞⌘🐧🍎🤖](https://www.wireguard.com/),
+[WireGuard⊞⌘🐧🍎🤖🆓](https://www.wireguard.com/) ([Git](https://www.wireguard.com/repositories/)),
 [1.1.1.1(built on WireGuard⊞⌘🍎🤖)](https://cloudflarewarp.com/)
 
 Location detection (via browser):  

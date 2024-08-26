@@ -8,7 +8,8 @@ Quick/sticky notes:
 
 Basic text notes:  
 [Simplenote☁⊞⌘🐧🍎🤖](https://simplenote.com/),
-[Standard Notes☁🐧](https://standardnotes.com/) (with [awesome-standard-notes](https://github.com/jonhadfield/awesome-standard-notes), converts to website with [Listed](https://listed.to/))
+[Standard Notes☁🐧](https://standardnotes.com/) (with [awesome-standard-notes](https://github.com/jonhadfield/awesome-standard-notes), converts to website with [Listed](https://listed.to/)),
+[Unforget](https://unforget.computing-den.com/)
 
 Quick/sticky notes - notification area🤖:  
 [pin](https://github.com/nproth/pin)

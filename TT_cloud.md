@@ -7,37 +7,38 @@
 
 File hosting:  
 [File Hosting Wiki💩](https://filehostlist.miraheze.org/wiki/Main_Page),
-[Free cloud storage providers spreadsheet💩](https://nafanz.github.io/)
+[Free cloud storage providers spreadsheet💩](https://nafanz.github.io/) ([GitHub](https://github.com/nafanz/nafanz.github.io))
 
-Cloud synchronization - general use:  
+General-purpose cloud synchronization:  
 [Box](https://www.box.com/),
+[Dropbox🧛](https://www.dropbox.com/),
 [Google Drive🧛](https://www.google.com/drive/),
-[MEGA☁⊞■⌘🐧🍎🤖□](https://mega.nz/) (with [Megatools□](https://megatools.megous.com/)),
+[MEGA☁⊞■⌘🐧🍎🤖□](https://mega.nz/) (with [Megatools□](https://megatools.megous.com/) ([Git](https://megous.com/git/megatools))),
 [Microsoft OneDrive🧛](https://www.onedrive.com/),
 [pCloud](https://www.pcloud.com/)
 
 File synchronization:  
 [FreeFileSync⊞⌘🐧](https://freefilesync.org/),
-[ownCloud💾🆓🍎🤖](https://owncloud.com/),
-[Syncthing⊞⌘🐧🤖](https://syncthing.net/)
+[ownCloud💾🆓🍎🤖](https://owncloud.com/) ([GitHub](https://github.com/owncloud)),
+[Syncthing⊞⌘🐧🤖](https://syncthing.net/) ([GitHub](https://github.com/syncthing/))
 
 Automatic folder synchronization:  
-[Nextcloud⊞■⌘🐧🍎🤖⇉💾](https://nextcloud.com/) (with [App Store](https://apps.nextcloud.com/))
+[Nextcloud⊞■⌘🐧🍎🤖⇉💾](https://nextcloud.com/) (([GitHub](https://github.com/nextcloud)), with [App Store](https://apps.nextcloud.com/))
 
 Cloud-to-cloud synchronization:  
 [MultCloud](https://www.multcloud.com/),
 [TransferCloud.io](https://transfercloud.io/)
 
-## Remote Storage - Enterprise-Grade
+## Remote Storage - Enterprise-Grade$
 
 All-around:  
 [AccuWeb](https://www.accuwebhosting.com/),
 [Hetzner](https://www.hetzner.com/)
 
 Seedboxes:  
-[Cloudboxes.io$](https://cloudboxes.io/),
+[Cloudboxes.io](https://cloudboxes.io/),
 [OVHcloud](https://www.ovhcloud.com/),
-[Pulsed Media$](https://pulsedmedia.com/),
+[Pulsed Media](https://pulsedmedia.com/),
 [Seedboxes.cc](https://www.seedboxes.cc/),
 [SeedHost.eu](https://www.seedhost.eu/)
 
@@ -58,33 +59,33 @@ NAS:
 
 CLI automation:  
 [duplicati](https://github.com/duplicati/duplicati),
-[Rclone□](https://rclone.org/) (has [GUI](https://rclone.org/gui/))
+[Rclone□](https://rclone.org/) (([GitHub](https://github.com/rclone/rclone)), has [GUI](https://rclone.org/gui/))
 
 Automatic drive backup:  
 [timeshift🐧](https://github.com/linuxmint/timeshift)
 [TeraCopy⊞⌘🤖](https://www.codesector.com/teracopy)
 
 Automatic file/folder backup:  
-[Restic](https://restic.readthedocs.io/)
+[Restic](https://restic.readthedocs.io/) ([GitHub](https://github.com/restic/restic))
 
 CD/DVD:
-[Clonezilla⊞⌘🐧🍎🤖](https://clonezilla.org/)
+[Clonezilla⊞⌘🐧🍎🤖](https://clonezilla.org/) ([Source](https://clonezilla.org/related-links/))
 
 Websites:  
-[HTTrack Website Copier⊞⌘🐧🤖](https://www.httrack.com/)
+[HTTrack Website Copier⊞⌘🐧🤖](https://www.httrack.com/) ([GitHub](https://github.com/xroche/httrack))
 
 CalDAV/CardDAV (email's calendar/contacts):  
-[DAVx⁵🤖](https://www.davx5.com/),
-[TbSync⇉](https://addons.thunderbird.net/en-us/thunderbird/addon/tbsync/)
+[DAVx⁵🤖](https://www.davx5.com/) ([GitHub](https://github.com/bitfireAT/davx5-ose)),
+[TbSync⇉](https://addons.thunderbird.net/en-us/thunderbird/addon/tbsync/) ([GitHub](https://github.com/jobisoft/TbSync))
 
 Decentralized hosting:  
-[STORJ$](https://www.storj.io/)
+[STORJ$](https://www.storj.io/) ([GitHub](https://github.com/Storj/))
 
 ## Media Server
 
-[Cloudbox](https://cloudbox.works/),
-[Gerbera](https://gerbera.io/),
-[Servarr💾](https://wiki.servarr.com/)
+[Cloudbox](https://cloudbox.works/) ([GitHub](https://github.com/Cloudbox/Cloudbox)),
+[Gerbera](https://gerbera.io/) ([GitHub](https://github.com/gerbera/gerbera)),
+[Servarr💾](https://wiki.servarr.com/) ([GitHub](https://github.com/Servarr/Wiki))
 
 Wikis:  
 [WikiSuite](https://wikisuite.org/)

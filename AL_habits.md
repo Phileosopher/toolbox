@@ -6,4 +6,8 @@ Personal data tracking:
 
 Habit-tracking:  
 [habits🤖](https://github.com/dwetterau/habits),
+[Habo](https://habo.space/) ([GitHub](https://github.com/xpavle00/Habo))
 [Progress Tracker🤖](https://f-droid.org/en/packages/pl.kuben.progressapp/) ([GitLab](https://gitlab.com/JakubNeukirch/progress-tracker))
+
+Habit-tracking - gamified:  
+[Habitica](https://habitica.com/) ([GitHub](https://github.com/HabitRPG/habitica))
