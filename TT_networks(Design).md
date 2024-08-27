@@ -38,3 +38,8 @@ Diagramming:
 
 Locally hosted AWS emulator:  
 [LocalStack💾](https://localstack.cloud/)
+
+## Hardware
+
+Network router:  
+[Turris🆓](https://www.turris.com/)

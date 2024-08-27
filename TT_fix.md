@@ -24,10 +24,6 @@ USB events:
 [ChipGenius⊞](https://chipgenius.en.lo4d.com/windows),
 [USBLogView⊞■](https://www.nirsoft.net/utils/usb_log_view.html)
 
-Keyboard:  
-[KeyboardStateView⊞■](https://www.nirsoft.net/utils/keyboard_state_view.html),
-[Key-Test☁](https://en.key-test.ru/)
-
 Printer:  
 [Print Test Page OK⊞■](https://softwareok.com/?seite=Microsoft%2FPrint.Test.Page.OK)
 

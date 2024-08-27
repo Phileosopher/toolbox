@@ -1,6 +1,10 @@
 
 # Tools for [keyboard-based interfacing](https://trendless.tech/keyboard/)
 
+Keyboard testing:  
+[KeyboardStateView⊞■](https://www.nirsoft.net/utils/keyboard_state_view.html),
+[Key-Test☁](https://en.key-test.ru/)
+
 ## Alternate Inputs
 
 Keyboard-less interfacing:  
@@ -43,5 +47,12 @@ NumPad shortcuts:
 
 ## Hardware
 
+Keyboards:  
+[Unicomp, Inc.](https://www.pckeyboard.com/page/SFNT)
+
 Extra keypad:  
 [Razer Tartarus$](https://www.razer.com/search/tartarus)
+
+## Keyboard Community
+
+[KeebTalk](https://www.keebtalk.com/)

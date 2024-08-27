@@ -88,14 +88,14 @@ Decentralized hosting:
 [Servarr💾](https://wiki.servarr.com/) ([GitHub](https://github.com/Servarr/Wiki))
 
 Wikis:  
-[WikiSuite](https://wikisuite.org/)
+[WikiSuite](https://wikisuite.org/) ([GitLab](https://gitlab.com/wikisuite/))
 
 Indexing internet content:  
-[Jackett](https://github.com/Jackett/Jackett),
-[Prowlarr](https://prowlarr.com/)
+[Jackett🔌](https://github.com/Jackett/Jackett),
+[Prowlarr](https://prowlarr.com/) ([GitHub](https://github.com/Prowlarr/Prowlarr))
 
 Streaming servers:  
-[Icecast](https://icecast.org/)
+[Icecast](https://icecast.org/) ([Bindings](https://icecast.org/download/))
 
 ## AWS🧛
 
@@ -107,7 +107,7 @@ Services explained:
 [Amazon Web Services In Plain English*](https://expeditedsecurity.com/aws-in-plain-english/)
 
 Available tools:  
-[awstools☁](https://awstools.dev/)
+[awstools☁](https://awstools.dev/) ([GitHub](https://github.com/boyney123/awstools))
 
 AWS IP ranges:  
 [aws-ip-ranges](https://github.com/seligman/aws-ip-ranges)

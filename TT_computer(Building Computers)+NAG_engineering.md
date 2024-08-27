@@ -9,12 +9,12 @@
 ## Design - TCAD
 
 [Chips4Makers](https://chips4makers.io/)
-[Cirkit Designer⊞⌘🐧](https://www.cirkitdesigner.com/index.html),
+[Cirkit Designer☁⊞⌘🐧](https://www.cirkitdesigner.com/index.html),
 [Electric🐧🆓](https://www.gnu.org/software/electric/),
-[Fritzing⊞⌘🐧](https://fritzing.org/),
+[Fritzing⊞⌘🐧](https://fritzing.org/) ([GitHub](https://github.com/fritzing/fritzing-app)),
 [GNU Archimedes🆓](https://www.gnu.org/software/archimedes/),
-[KiCad⊞⌘🐧](https://www.kicad.org/),
-[LibrEDA](https://libreda.org/)
+[KiCad⊞⌘🐧](https://www.kicad.org/) ([GitLab](https://gitlab.com/kicad/code/kicad)),
+[LibrEDA](https://libreda.org/) ([Codeberg](https://codeberg.org/LibrEDA/libreda-rs-workspace))
 
 HDL:  
 [SpinalHDL](https://github.com/SpinalHDL),
@@ -34,15 +34,15 @@ VLSI design:
 [Coriolis VLSI CAD Tools](http://coriolis.lip6.fr/)
 
 >100nm IC processes:  
-[Luna](https://www.asicsforthemasses.com/),
-[Mosaic](https://nyancad.github.io/Mosaic/),
-[SkyWater SKY130 PDK](https://skywater-pdk.readthedocs.io/en/main/)
+[Luna](https://www.asicsforthemasses.com/) ([GitHub](https://github.com/asicsforthemasses)),
+[Mosaic](https://nyancad.github.io/Mosaic/) ([GitHub](https://github.com/NyanCAD/Mosaic)),
+[SkyWater SKY130 PDK🧛](https://skywater-pdk.readthedocs.io/en/main/) ([GitHub](https://github.com/google/skywater-pdk))
 
 Nanotechnology:  
 [Nano-Archimedes🆓](https://www.gnu.org/software/nano-archimedes/)
 
 PCB editor:  
-[pcb-rnd](http://repo.hu/projects/pcb-rnd/)
+[pcb-rnd🆓](http://repo.hu/projects/pcb-rnd/)
 
 EDA tools:  
 [edalize🐍](https://github.com/olofk/edalize),
@@ -52,3 +52,10 @@ EDA tools:
 ## Testing
 
 [Device Fundamentals Tests - Windows drivers⊞🧛](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/device-fundamentals-tests)
+
+## Hardware Development Community
+
+[Hackaday.io](https://hackaday.io/)
+
+Electronics learning:  
+[Ultimate Electronics](https://ultimateelectronicsbook.com/)

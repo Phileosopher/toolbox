@@ -11,6 +11,9 @@
 [.NET Bio](https://github.com/dotnetbio/bio),
 [Unipro UGENE](https://ugene.net/)
 
+DNA data conversion:  
+[Mapmy23 Tool☁](http://www.mapmy23.com/tools/ancestry_ftdna_fix.php)
+
 Piles of genetic tools💩:  
 [awesome-CRISPR](https://github.com/davidliwei/awesome-CRISPR)
 
@@ -33,3 +36,6 @@ Language libraries:
 [BioPHP](https://biophp.org/),
 [Biopython](https://biopython.org/),
 [BioRuby](http://bioruby.org/)
+
+Protein sequencing:  
+[UNCALLED🐍](https://github.com/skovaka/UNCALLED)

@@ -48,3 +48,7 @@ Doctor search:
 
 Human guides:  
 [Be My Eyes🍎🤖](https://www.bemyeyes.com/)
+
+## Health Datasets
+
+[medical-datasets](https://github.com/adalca/medical-datasets)

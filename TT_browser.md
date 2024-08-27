@@ -41,13 +41,6 @@ Save open web browser tabs:
 
 [Browser Capabilities Test Page☁](https://www.cyscape.com/showbrow.asp)
 
-Browser fingerprint check🕵️:  
-[AmIUnique☁](https://amiunique.org/),
-[Cover Your Tracks☁](https://coveryourtracks.eff.org/),
-[Google's Browserinfo☁🧛](https://toolbox.googleapps.com/apps/browserinfo/),
-[Detect WebGL Fingerprint☁](https://webbrowsertools.com/webgl-fingerprint/),
-[What every Browser knows about you☁](https://webkay.robinlinus.com/)
-
 Java test:  
 [Java Test Page☁](https://www.math.uh.edu/mathonline/JavaTest/JavaTestPage.htm)
 

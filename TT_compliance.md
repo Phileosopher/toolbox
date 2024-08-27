@@ -4,10 +4,10 @@
 ## Hardening/Auditing
 
 Hardening/auditing - UNIX-likes:  
-[Lynis🐧](https://cisofy.com/lynis/)
+[Lynis🐧](https://cisofy.com/lynis/) ([GitHub](https://github.com/CISOfy/Lynis))
 
 Hardening/auditing - mobile devices:  
-[MVT (Mobile Verification Toolkit)🍎🤖](https://github.com/mvt-project/mvt)
+[Mobile Verification Toolkit (MVT)🍎🤖](https://docs.mvt.re/en/latest/) [GitHub](https://github.com/mvt-project/mvt)
 
 Remove old Java versions:  
 [Java Uninstall Tool⊞](https://java.com/en/download/uninstalltool.jsp)
@@ -15,12 +15,12 @@ Remove old Java versions:
 ## Surveillance
 
 Video surveillance:  
-[SmartPSS⊞⌘](https://us.dahuasecurity.com/?product=smartpss)
+[SmartPSS Lite](https://dahuawiki.com/SmartPSS_Lite)
 
 ## Destruction
 
 File deletion:  
-[BleachBit⊞■⌘🐧](https://www.bleachbit.org/),
+[BleachBit⊞■⌘🐧🆓](https://www.bleachbit.org/),
 [DBAN (Darik's Boot & Nuke)⊞⌘🐧🍎🤖](https://dban.org/),
 [Eraser](https://eraser.heidi.ie/),
 [KillDisk](https://www.killdisk.com/),
@@ -29,7 +29,7 @@ File deletion:
 ## Recovery
 
 General analysis/recovery:  
-[The Sleuth Kit⊞⌘🐧](https://www.sleuthkit.org/sleuthkit/) (with [Autopsy](https://www.sleuthkit.org/autopsy/) as the front-end)
+[The Sleuth Kit⊞⌘🐧](https://www.sleuthkit.org/sleuthkit/) (front-end with [Autopsy](https://www.sleuthkit.org/autopsy/))
 
 Photo recovery:  
 [PhotoRec⊞⌘🐧](https://www.cgsecurity.org/wiki/PhotoRec)
@@ -53,10 +53,10 @@ Hard drive recovery - MBR:
 [HDHacker⊞■](http://dimio.altervista.org/eng/#HDHacker)
 
 DVD recovery:  
-[dvdisaster🐧](https://github.com/speed47/dvdisaster)
+[dvdisaster🐧](https://dvdisaster.jcea.es/) ([GitHub](https://github.com/speed47/dvdisaster)),
 
 Event reconstruction - UNIX-likes:  
-[The Coroner's Toolkit](http://www.porcupine.org/forensics/tct.html)
+[The Sleuth Kit (TSK) & Autopsy](https://www.sleuthkit.org/) ([GitHub](https://github.com/sleuthkit/sleuthkit))
 
 ## Security Events
 

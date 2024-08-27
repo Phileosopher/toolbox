@@ -31,3 +31,7 @@ Multiple users/emails:
 
 Large file storage:  
 [Git Large File Storage](https://git-lfs.github.com/)
+
+## GitHub Repo Datasets
+
+[gh-repos](https://github.com/a2u/gh-repos)

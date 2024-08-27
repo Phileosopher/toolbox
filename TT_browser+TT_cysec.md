@@ -4,6 +4,9 @@
 SSL/TLS browser testing:  
 [SSL Client Test☁](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
 
+Browser/plugins scan:  
+[Qualys BrowserCheck☁](https://browsercheck.qualys.com/)
+
 ## Anti-Trackers
 
 Block scripts/ads:  
@@ -14,6 +17,16 @@ Block scripts/ads:
 Popup blocking test:  
 [Popup Check☁](https://www.popupcheck.com/),
 [PopupDummy!☁](https://www.dummysoftware.com/popupdummy_testpage.html)
+
+Browser fingerprint check🕵️:  
+[AmIUnique☁](https://amiunique.org/),
+[Cover Your Tracks☁](https://coveryourtracks.eff.org/),
+[Google's Browserinfo☁🧛](https://toolbox.googleapps.com/apps/browserinfo/),
+[Detect WebGL Fingerprint☁](https://webbrowsertools.com/webgl-fingerprint/),
+[What every Browser knows about you☁](https://webkay.robinlinus.com/)
+
+User tracking scan:  
+[The Markup's Blacklight☁](https://themarkup.org/blacklight)
 
 ## IP Address and Fingerprinting
 

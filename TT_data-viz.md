@@ -3,12 +3,12 @@
 
 ## Diagrams
 
-[draw.io☁⊞⌘🐧](https://www.drawio.com/),
+[draw.io☁⊞⌘🐧](https://www.drawio.com/) ([GitHub](https://github.com/jgraph)),
 [Ilograph⊞⌘🐧](https://www.ilograph.com/),
 [yEd Live⊞⌘🐧☁](https://www.yworks.com/products/yed)
 
 Text-to-diagram:  
-[XOSH.ORG's text to diagram tools](https://xosh.org/text-to-diagram/)
+[XOSH.ORG's text to diagram tools💩](https://xosh.org/text-to-diagram/)
 
 Diagrams-as-code:  
 [Structurizr☁](https://structurizr.com/)
@@ -20,7 +20,7 @@ Infographics:
 [Piktochart☁](https://piktochart.com/)
 
 Timelines and time series:  
-[PlotJuggler(GitHub)⊞🐧](https://github.com/facontidavide/PlotJuggler),
+[PlotJuggler⊞🐧](https://plotjuggler.io/) ([GitHub](https://github.com/facontidavide/PlotJuggler)),
 [TimeGraphics☁](https://time.graphics/)
 
 Word clouds:  
@@ -28,5 +28,5 @@ Word clouds:
 
 ## Large-Scale Data Visualizations
 
-[Graphviz⊞⌘🐧](https://www.graphviz.org/),
+[Graphviz⊞⌘🐧](https://www.graphviz.org/) ([GitLab](https://gitlab.com/graphviz/graphviz)),
 [Paraview⊞⌘🐧](https://www.paraview.org/)

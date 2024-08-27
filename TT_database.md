@@ -1,9 +1,9 @@
 
 # Tools for [databases](https://trendless.tech/database/)
 
-## Data Scraping
+## Data Scrapers
 
-[Apify💩](https://apify.com/)
+[Apify💩](https://apify.com/) ([GitHub](https://github.com/apify))
 
 URLs in an HTML page:  
 [Link Gopher🧛](https://sites.google.com/site/linkgopher/),
@@ -12,16 +12,10 @@ URLs in an HTML page:
 Amazon product data🧛:  
 [amazon-scraper](https://github.com/scrapehero-code/amazon-scraper)
 
-Optical mark recognition (OMR) data:  
-[OMRChecker](https://github.com/Udayraj123/OMRChecker)
-
-## Prepping
+## Data Prepping
 
 Cleaning:  
 [The Ultimate Guide to Data Cleaning*](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)
-
-DNA data conversion:  
-[Mapmy23 Tool☁](http://www.mapmy23.com/tools/ancestry_ftdna_fix.php)
 
 ## SQL databases
 
@@ -33,8 +27,8 @@ MySQL/MariaDB/Percona performance enhancement:
 [awesome-mysql-performance](https://github.com/Releem/awesome-mysql-performance)
 
 Database-to-spreadsheet conversion:  
-[Baserow](https://baserow.io/),
-[NocoDB](https://nocodb.com/)
+[Baserow🔌](https://baserow.io/),
+[NocoDB🔌](https://nocodb.com/)
 
 ## 2D Data
 
@@ -45,10 +39,15 @@ Approximate Spreadsheets:
 [Guesstimate☁](https://www.getguesstimate.com/)
 
 Collaborative spreadsheets🤝:  
-[Framacalc](https://framacalc.org/),
+[Framacalc](https://framacalc.org/abc/en),
 
 ## Time Series Analysis
 
 [Demographic Analysis & Population Projection System (DAPPS) Software](https://www.census.gov/data/software/dapps.html),
 [gretl](http://gretl.sourceforge.net/),
 [X-13ARIMA-SEATS Seasonal Adjustment Program](https://www.census.gov/data/software/x13as.html)
+
+## Dataset Search
+
+[Dedolist](https://dedolist.com/),
+[Google Dataset Search🧛](https://datasetsearch.research.google.com/)
