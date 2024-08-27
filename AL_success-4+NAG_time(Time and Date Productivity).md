@@ -16,9 +16,13 @@ Time tracking/metrics:
 [Emergent Task Timer*](https://davidseah.com/node/the-emergent-task-timer/),
 [Heedy🆓](https://heedy.org/) ([GitHub](https://github.com/heedy/heedy)),
 [Kimai💾](https://www.kimai.org/),
+[Memtime$](https://www.memtime.com/),
 [ProcrastiTracker⊞](http://strlen.com/procrastitracker/) ([GitHub](https://github.com/aardappel/procrastitracker)),
+[RescueTime$](https://www.rescuetime.com/),
+[Timely$](https://timelyapp.com/),
 [TMetric☁](https://tmetric.com/),
 [Toggl Track☁⬆️](https://toggl.com/track/),
+[TrackingTime](https://trackingtime.co/),
 [WhatPulse](https://whatpulse.org/)
 
 Calendar - small:  

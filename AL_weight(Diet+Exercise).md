@@ -31,3 +31,15 @@ Weightlifting comparison:
 
 Muscle focus:  
 [MuscleWiki☁](https://musclewiki.com/)
+
+## Fitness Community
+
+Raw information:  
+[The Fitness Wiki*](https://thefitness.wiki/)
+
+Raw information - food:  
+[Tellspecopedia](http://www.tellspecopedia.com/)
+
+Less-condensed information:  
+[Harvard's The Nutrition Source](https://nutritionsource.hsph.harvard.edu/),
+[NutritionFacts.org](https://nutritionfacts.org/) (with [Daily Dozen](https://f-droid.org/packages/org.nutritionfacts.dailydozen/) ([GitHub](https://github.com/nutritionfactsorg/daily-dozen-android)))

@@ -47,7 +47,14 @@ Context menu - New files:
 Context menu - Open with:
 [ShellMenuView⊞](https://www.nirsoft.net/utils/shell_menu_view.html)
 
+CTRL+ALT+F4 hard task kill:  
+[SuperF4](https://stefansundin.github.io/superf4/) ([GitHub](https://github.com/stefansundin/superf4))
+
 ## OS Tweaks - GUI Elements
+
+Launcher program:  
+[Cerebro App⊞⌘🐧](https://www.cerebroapp.com/),
+[Zazu App⊞⌘🐧](https://zazuapp.org/)
 
 Desktop icon positions:  
 [DesktopOK⊞](https://www.softwareok.com/?seite=Freeware/DesktopOK),
@@ -57,11 +64,11 @@ Desktop icon positions:
 Window dimming:  
 [HazeOver⌘$](https://hazeover.com/)
 
-Additional screen:  
-[Deskreen⊞⌘🐧](https://deskreen.com/) ([GitHub](https://github.com/pavlobu/deskreen))
-
 Virtual desktops:  
 [VirtuaWin⊞■](https://virtuawin.sourceforge.io/)
+
+Inputs across multiple computers:  
+[deskhop$](https://github.com/hrvach/deskhop)
 
 ## Automation
 
@@ -81,3 +88,7 @@ Home automation - IoT server:
 
 Home automation - voice assistant:  
 [Willow💾](https://heywillow.io/) ([GitHub](https://github.com/toverainc/willow))
+
+## Computer Productivity Community
+
+[awesome-productivity💩](https://github.com/jyguyomarch/awesome-productivity)

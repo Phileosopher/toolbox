@@ -26,7 +26,7 @@ Text substitution:
 ## Shortcuts
 
 Keyboard macros:  
-[AutoHotkey⊞](https://www.autohotkey.com/) ([GitHub](https://github.com/AutoHotkey/AutoHotkey)),
+[AutoHotkey⊞](https://www.autohotkey.com/) ([GitHub](https://github.com/AutoHotkey/AutoHotkey), with [Linux fork🐧](https://github.com/phil294/AHK_X11)),
 [AutoKey🐧](https://autokey.github.io/) ([GitHub](https://github.com/autokey/autokey)),
 [espanso⊞⌘🐧](https://espanso.org/) ([GitHub](https://github.com/espanso/espanso)),
 [Keyboard Maestro⌘](https://www.keyboardmaestro.com/main/),

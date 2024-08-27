@@ -18,3 +18,9 @@ Speech recognition:
 [MARF⊞](http://marf.sourceforge.net/),
 [TalkTyper☁](https://talktyper.com/),
 [Voice notebook☁🍎🤖](https://voicenotebook.com/)
+
+Secondary screen:  
+[Deskreen⊞⌘🐧](https://deskreen.com/) ([GitHub](https://github.com/pavlobu/deskreen))
+
+Monitor duplication:  
+[spacedesk](https://www.spacedesk.net/)
