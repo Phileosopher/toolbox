@@ -47,8 +47,11 @@ NumPad shortcuts:
 
 ## Hardware
 
-Keyboards:  
-[Unicomp, Inc.](https://www.pckeyboard.com/page/SFNT)
+General peripherals:  
+[Razer](https://www.razer.com/)
+
+Ergonomic keyboard:  
+[Kinesis Advantage](https://kinesis-ergo.com/keyboards/advantage360/)
 
 Extra keypad:  
 [Razer Tartarus$](https://www.razer.com/search/tartarus)

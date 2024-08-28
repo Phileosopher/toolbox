@@ -15,6 +15,9 @@ Serial code generator:
 Account management:  
 [Manage your Apple ID](https://appleid.apple.com/)
 
+Apple Bootloader:  
+[OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
+
 ## Search Enhancement
 
 [Alfred](https://www.alfredapp.com/)

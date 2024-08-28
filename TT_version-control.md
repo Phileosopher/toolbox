@@ -1,7 +1,11 @@
 
 # Tools for [version control](https://trendless.tech/version-control/)
 
-## Version Control
+View line-by-line changes:  
+[git-blame](https://www.git-scm.com/docs/git-blame),
+[GitLens(VS Code)](https://gitlens.amod.io/) ([GitHub](https://github.com/gitkraken/vscode-gitlens))
+
+## Version Control Systems
 
 [Bitbucket⊞🐧](https://bitbucket.org/),
 [Git⊞■⌘🐧](https://git-scm.com/)

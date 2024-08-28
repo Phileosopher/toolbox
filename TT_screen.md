@@ -24,3 +24,7 @@ Secondary screen:
 
 Monitor duplication:  
 [spacedesk](https://www.spacedesk.net/)
+
+LG TV root:  
+[Openlgtv](https://openlgtv.github.io/),
+[RootMyTV](https://github.com/RootMyTV/RootMyTV.github.io)

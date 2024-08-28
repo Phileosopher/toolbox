@@ -1,5 +1,5 @@
 
-# Tools for [fixing computer things](https://trendless.tech/fix/) with respect to Windows⊞
+# Tools for [fixing computer things](https://trendless.tech/fix/) with respect to Windows⊞ [operating systems](https://trendless.tech/os/)
 
 ## File/Folder Issues
 
@@ -191,8 +191,7 @@ Driver debugging:
 [WinDbg🧛](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools)
 
 Driver update:  
-[DUMo■](https://kcsoftwares.com/?dumo),
-[Snappy Driver Installer Origin](https://www.snappy-driver-installer.org/)
+[Snappy Driver Installer Origin](https://www.snappy-driver-installer.org/) ([SourceForge](https://sourceforge.net/projects/snappy-driver-installer-origin/))
 
 ## GUI Issues
 

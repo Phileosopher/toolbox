@@ -41,5 +41,8 @@ Locally hosted AWS emulator:
 
 ## Hardware
 
+Privacy-respecting network equipment:  
+[Protectli](https://protectli.com/)
+
 Network router:  
 [Turris🆓](https://www.turris.com/)

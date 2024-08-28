@@ -30,8 +30,7 @@ Installation media:
 
 Software update:  
 [Ninite](https://ninite.com/),
-[Patch My PC](https://patchmypc.com/home-updater),
-[SUMo■](https://kcsoftwares.com/?sumo)
+[Patch My PC](https://patchmypc.com/home-updater)
 
 .NET framework status:  
 [dotNETInspector■](https://firedancer-software.com/software/dotnetinspector/)

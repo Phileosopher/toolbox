@@ -2,9 +2,9 @@
 # Tools for [geolocation](https://trendless.tech/gps)
 
 Random geolocation generator:  
-[Country☁](https://commentpicker.com/random-country-generator.php)
-[Geographic Coordinates☁](https://www.random.org/geographic-coordinates/),
-[Capital Cities☁](https://commentpicker.com/random-capital-generator.php)
+[Comment Picker's Country☁](https://commentpicker.com/random-country-generator.php)
+[Random.org's Geographic Coordinates☁](https://www.random.org/geographic-coordinates/),
+[Comment Picker's Capital Cities☁](https://commentpicker.com/random-capital-generator.php)
 
 ## GIS Data Management
 
@@ -13,10 +13,10 @@ GIS data creation:
 
 GIS data navigator:  
 [maps.earth](https://about.maps.earth/),
-[QGIS⊞⌘🐧🍎🤖](https://www.qgis.org/en/site/)
+[QGIS⊞⌘🐧🍎🤖](https://www.qgis.org/en/site/) ([Source](https://www.qgis.org/download/))
 
 OSM editor:  
-[StreetComplete🤖](https://streetcomplete.app/)
+[StreetComplete🤖](https://streetcomplete.app/) ([GitHub](https://github.com/streetcomplete/streetcomplete))
 
 ## Location Data
 
@@ -46,7 +46,7 @@ Geodetic surveying:
 [GNU Gama🆓](https://www.gnu.org/software/gama/)
 
 IP address geolocation:  
-[ipapi.is Geolocation](https://ipapi.is/geolocation.html)
+[ipapi.is Geolocation](https://ipapi.is/geolocation.html) ([GitHub](https://github.com/ipapi-is/ip_to_location))
 
 Forest sounds:  
 [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
@@ -55,8 +55,8 @@ Forest sounds:
 
 [OpenMapTiles](https://openmaptiles.org/),
 [Overture Maps Schema](https://docs.overturemaps.org/),
-[Planetiler](https://github.com/onthegomap/planetiler),
-[Protomaps](https://docs.protomaps.com/)
+[Planetiler🆓](https://github.com/onthegomap/planetiler),
+[Protomaps](https://docs.protomaps.com/) ([GitHub](https://github.com/protomaps/PMTiles))
 
 Google Earth regional tiles API:  
 [Google Maps Platform Coverage Details🧛](https://developers.google.com/maps/coverage)
@@ -65,7 +65,7 @@ OSM data visualization:
 [prettymaps🐍](https://github.com/marceloprates/prettymaps) (optimized with [prettymapp](https://github.com/chrieke/prettymapp))
 
 Aerial data:  
-[DroneDB](https://docs.dronedb.app/)
+[DroneDB](https://docs.dronedb.app/) ([GitHub](https://github.com/DroneDB/DroneDB))
 
 ## Map Data APIs
 
@@ -73,4 +73,8 @@ Aerial data:
 
 ## GIS UI
 
-[Globe.GL](https://globe.gl/)
+[Globe.GL](https://globe.gl/) ([GitHub](https://github.com/vasturiano/globe.gl))
+
+## Privacy-Respecting GPS Hardware
+
+[Meshtastic](https://meshtastic.org/) ([GitHub](https://github.com/meshtastic))

@@ -77,6 +77,37 @@ Audio conversion:
 Audio conversion - MP3:  
 [Convert to MP3☁](https://webbrowsertools.com/convert-to-mp3/)
 
+## Media Conversion
+
+Media conversion/recording:  
+[FFmpeg⊞⌘🐧□🆓](https://www.ffmpeg.org/) ([Source](https://www.ffmpeg.org/download.html#get-sources))
+
+ffmpeg improvements💩:  
+[awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg)
+
+Command builder:  
+[ffmpeg buddy](https://evanhahn.github.io/ffmpeg-buddy/)
+
+Front-ends:  
+[Axiom⊞](https://axiomui.github.io/),
+[Videomass](https://jeanslack.github.io/Videomass/)
+
+yt-dl build:  
+[FFmpeg-Builds](https://github.com/yt-dlp/FFmpeg-Builds)
+
+OS build:  
+[megapro17/FFmpeg-Builds](https://github.com/megapro17/FFmpeg-Builds),
+[FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)
+
+PHP build:  
+[PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg)
+
+JS port:  
+[ffmpeg.js](https://github.com/Kagami/ffmpeg.js/)
+
+Webassembly/JS port:  
+[ffmpeg.wasm](https://ffmpegwasm.netlify.app/)
+
 ## Broadcasting
 
 Sharing:  

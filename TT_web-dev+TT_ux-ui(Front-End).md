@@ -37,3 +37,8 @@ Cross-platform webapps:
 [Electron](https://www.electronjs.org/),
 [NW.js](https://nwjs.io/),
 [Photino](https://www.tryphotino.io/)
+
+## HTML+CSS+JS Code Snips
+
+[Code My UI☁](https://codemyui.com/),
+[LittleSnippets.net☁](https://littlesnippets.net/)

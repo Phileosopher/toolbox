@@ -1,9 +1,6 @@
 
 # Tools for [enhancing productivity](https://adequate.life/success-4/) with [computers](https://trendless.tech/fast/)
 
-Keyboard ergonomics:  
-[Kinesis Advantage](https://kinesis-ergo.com/keyboards/advantage360/)
-
 Website timer:  
 [Intention⇉](https://addons.mozilla.org/en-US/firefox/addon/intention/)
 
@@ -33,9 +30,6 @@ Automated actions:
 [Automation🤖](https://server47.de/automation/) ([Git](https://git.server47.de/jens/Automation)),
 [Macro Recorder](https://www.macrorecorder.com/)
 
-File preview:  
-[QuickLook⊞🧛](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S)
-
 Clipboard management:  
 [Clipboard PRO🍎](https://clipboardpro.app/),
 [Clipboardic⊞](https://www.nirsoft.net/utils/clipboardic.html),
@@ -51,10 +45,6 @@ CTRL+ALT+F4 hard task kill:
 [SuperF4](https://stefansundin.github.io/superf4/) ([GitHub](https://github.com/stefansundin/superf4))
 
 ## OS Tweaks - GUI Elements
-
-Launcher program:  
-[Cerebro App⊞⌘🐧](https://www.cerebroapp.com/),
-[Zazu App⊞⌘🐧](https://zazuapp.org/)
 
 Desktop icon positions:  
 [DesktopOK⊞](https://www.softwareok.com/?seite=Freeware/DesktopOK),

@@ -2,7 +2,7 @@
 # Tools for [cryptography/encryption](https://trendless.tech/encryption/)
 
 Drive encryption:  
-[eCryptfs🐧](https://www.ecryptfs.org/)
+[eCryptfs🐧](https://www.ecryptfs.org/) ([Git](https://git.kernel.org/pub/scm/linux/kernel/git/tyhicks/ecryptfs.git))
 
 Password decryption:  
 [Ciphey](https://github.com/Ciphey/Ciphey)

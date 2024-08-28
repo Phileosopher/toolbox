@@ -143,7 +143,6 @@ MAC address changer:
 [GNU MAC Changer](https://github.com/alobbs/macchanger)
 
 SSID information:  
-[dot11Expert⊞](https://kcsoftwares.com/?dot11expert),
 [WifiInfoView⊞■](https://www.nirsoft.net/utils/wifi_information_view.html)
 [WirelessConnectionInfo⊞■](https://www.nirsoft.net/utils/wireless_connection_information.html)
 

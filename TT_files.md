@@ -3,105 +3,76 @@
 
 Filetype research:  
 [File.org](https://file.org/)
+[File-Extensions.org](https://www.file-extensions.org/),
+[FileInfo](https://fileinfo.com/)
 
 Filetype test files:  
 [File Examples☁](https://file-examples.com/)
 
-## File Search
-
-Text in files:  
-[rga(ripgrep-all)□](https://github.com/phiresky/ripgrep-all)
-
-Files/Programs:  
-[Alfred⌘](https://www.alfredapp.com/),
-[Listary⊞■](https://www.listary.com/),
-[voidtools' Everything⊞■](https://www.voidtools.com/)
-
-Duplicate Files:  
-[Auslogics Duplicate File Finder⊞■](https://www.auslogics.com/en/software/duplicate-file-finder/),
-[dupeGuru⊞⌘🐧](https://dupeguru.voltaicideas.net/)
-
-Shortcuts:  
-[Shortcuts Search And Replace⊞■](http://jacquelin.potier.free.fr/ShortcutsSearchAndReplace/)
-
-Removable media:  
-[Virtual Volumes View⊞■⌘🐧](http://vvvapp.sourceforge.net/)
-
-## Modifying Files
-
-File conversion:  
-[Convertio☁](https://convertio.co/)
-[Online-Convert.com☁](https://www.online-convert.com/)
-
-Disk image (e.g., ISO) mounting:  
-[Brasero🐧](https://wiki.gnome.org/Apps/Brasero),
-[WinCDEmu⊞■](http://wincdemu.sysprogs.org/)
-
-Batch renaming:  
-[Ant Renamer️⊞■](https://www.antp.be/software/renamer)
-
-Batch copying:  
-[FastCopy⊞■](https://fastcopy.jp/en/)
-
-Batch merging/diff:  
-[WinMerge⊞■](https://winmerge.org/)
-
-File compression:  
-[7-Zip⊞](https://www.7-zip.org/),
-[bzip2](https://sourceware.org/bzip2/),
-[PeaZip⊞■🐧](https://www.peazip.org/)
-
-File Splitting:  
-[KFK⊞■](https://kcsoftwares.com/?kfk)
+File preview:  
+[QuickLook⊞🧛](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S)
 
 ## File Analysis - Individual
-
-Filetype data*:  
-[File-Extensions.org](https://www.file-extensions.org/),
-[FileInfo](https://fileinfo.com/)
 
 Specific file information:  
 [FileAlyzer⊞■](https://www.safer-networking.org/products/filealyzer/)
 
 Metadata analysis:  
-[MediaInfo⊞■⌘🐧🍎🤖](https://mediaarea.net/en/MediaInfo) (or its [online version☁](https://mediaarea.net/MediaInfoOnline)),
+[MediaInfo⊞■⌘🐧🍎🤖](https://mediaarea.net/en/MediaInfo) (or [MediaInfoOnline☁](https://mediaarea.net/MediaInfoOnline)),
 [Get-Metadata.com☁](https://www.get-metadata.com/)
 
 CHM(winhelp) viewer:  
-[kchmviewer⊞■🐧](https://github.com/gyunaev/kchmviewer)
+[kchmviewer⊞■🐧](https://www.ulduzsoft.com/linux/kchmviewer/) [GitHub](https://github.com/gyunaev/kchmviewer)
 
 ## File Analysis - Multiple
 
 Comparisons:  
-[Meld⊞■🐧🤖](https://meldmerge.org/)
+[Meld⊞■🐧🤖](https://meldmerge.org/) ([GitLab](https://gitlab.gnome.org/GNOME/meld))
 
-## Media Conversion
+## File Search
 
-Media conversion/recording:  
-[FFmpeg⊞⌘🐧□🆓](https://www.ffmpeg.org/)
+Launcher program:  
+[Alfred⌘](https://www.alfredapp.com/),
+[Cerebro App⊞⌘🐧](https://www.cerebroapp.com/),
+[Listary⊞■](https://www.listary.com/),
+[Zazu App⊞⌘🐧](https://zazuapp.org/),
+[voidtools' Everything⊞■](https://www.voidtools.com/)
 
-Piles of ffmpeg improvements💩:  
-[awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg)
+Text in files:  
+[rga(ripgrep-all)□](https://github.com/phiresky/ripgrep-all)
 
-Command builder:  
-[ffmpeg buddy](https://evanhahn.github.io/ffmpeg-buddy/)
+Duplicate Files:  
+[dupeGuru⊞⌘🐧](https://dupeguru.voltaicideas.net/) ([GitHub](https://github.com/arsenetar/dupeguru/))
 
-Front-ends:  
-[Axiom⊞](https://axiomui.github.io/),
-[Videomass](https://jeanslack.github.io/Videomass/)
+Shortcuts:  
+[Shortcuts Search And Replace⊞■](http://jacquelin.potier.free.fr/ShortcutsSearchAndReplace/)
 
-yt-dl build:  
-[FFmpeg-Builds](https://github.com/yt-dlp/FFmpeg-Builds)
+Removable media:  
+[Virtual Volumes View⊞■⌘🐧](http://vvvapp.sourceforge.net/) ([SourceForge](https://sourceforge.net/projects/vvvapp/))
 
-OS build:  
-[megapro17/FFmpeg-Builds](https://github.com/megapro17/FFmpeg-Builds),
-[FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)
+## Modifying Files
 
-PHP build:  
-[PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg)
+File conversion:  
+[Convertio☁🔌](https://convertio.co/)
+[Online-Convert.com☁🔌](https://www.online-convert.com/)
 
-JS port:  
-[ffmpeg.js](https://github.com/Kagami/ffmpeg.js/)
+Disk image (e.g., ISO) mounting:  
+[Brasero🐧🆓](https://wiki.gnome.org/Apps/Brasero),
+[WinCDEmu⊞■](http://wincdemu.sysprogs.org/) ([GitHub](https://github.com/sysprogs/WinCDEmu))
 
-Webassembly/JS port:  
-[ffmpeg.wasm](https://ffmpegwasm.netlify.app/)
+Batch renaming:  
+[Ant Renamer️⊞■](https://www.antp.be/software/renamer) ([Source](https://www.antp.be/software/renamer/sources))
+
+Batch copying:  
+[FastCopy⊞■](https://fastcopy.jp/en/) ([GitHub](https://github.com/FastCopyLab/FastCopy))
+
+Batch merging/diff:  
+[WinMerge⊞■](https://winmerge.org/) ([GitHub](https://github.com/winmerge/winmerge))
+
+File compression:  
+[7-Zip⊞](https://www.7-zip.org/) ([SourceForge](https://sourceforge.net/projects/sevenzip/)),
+[bzip2](https://sourceware.org/bzip2/) ([Git](https://sourceware.org/git/bzip2.git)),
+[PeaZip⊞■🐧](https://peazip.github.io/) ([GitHub](https://github.com/peazip/PeaZip))
+
+File Splitting:  
+~~[KFK⊞■](https://kcsoftwares.com/?kfk)~~ site shut down

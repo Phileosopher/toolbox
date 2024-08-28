@@ -35,7 +35,38 @@ Wallpapers:
 [Prism](https://github.com/Hash-Studios/Prism),
 [WallFlow](https://github.com/ammargitham/WallFlow)
 
-## iOS🍎
+## Android - Liberated from FAANG
+
+Raw APK files:  
+[APK-DL☁](https://apk-dl.com/),
+[APKMirror☁](https://www.apkmirror.com/)
+[Evozi's APK Downloader☁](https://apps.evozi.com/apk-downloader/),
+[Uptodown☁](https://www.uptodown.com/)
+
+Alternative Google Play Store:  
+[ACMarket🤖](https://acmarket.net/),
+[an1🤖](https://an1.com/),
+[Aptoide🤖](https://en.aptoide.com/),
+[Aurora🤖](https://auroraoss.com/),
+[Evozi's APK Downloader](https://apps.evozi.com/apk-downloader/),
+[F-Droid🤖](https://f-droid.org/),
+[HappyMod🤖](https://www.happymodapk.net/)
+
+Google Play Services alternative:  
+[MicroG Project🤖](https://microg.org/),
+[The Open GApps Project☁](https://opengapps.org/)
+
+Alternative app store:  
+[Appraw☁](https://appraw.com/)
+
+Tracker/permissions search - Android OS🤖:  
+[εxodus☁](https://reports.exodus-privacy.eu.org/en/)
+
+## iOS - Liberated from FAANG🍎
 
 File Management/Jailbreaking:  
 [3uTools](https://www.3u.com/)
+
+App store alternative:  
+[AltStore🍎](https://altstore.io/),
+[AppPure🍎](https://iphone.apkpure.com/)

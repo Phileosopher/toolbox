@@ -6,7 +6,6 @@ Website screenshot:
 
 Photo ID cards:  
 [IDCreator.com](https://www.idcreator.com/)
-[IDPhotoStudio⊞■](https://kcsoftwares.com/?idps)
 
 ## Photo/Data Management
 
