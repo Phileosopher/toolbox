@@ -9,8 +9,15 @@ Electronics parts - development boards:
 
 ## General-Purpose Computers
 
+Mini PCs:  
+[Low Cost Mini PCs☁](https://lowcostminipcs.com/),
+[Beelink mini PC](https://www.bee-link.com/),
+[minisforum](https://www.minisforum.com/),
+
 PC parts:  
-[Newegg](https://www.newegg.com/)
+[ByteBucket☁](https://www.bytebucket.co),
+[Newegg](https://www.newegg.com/),
+[TechBargains](https://www.techbargains.com/)
 
 Cables:  
 [Monoprice.com](https://www.monoprice.com/)

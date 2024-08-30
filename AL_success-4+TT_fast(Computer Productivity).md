@@ -4,6 +4,9 @@
 Website timer:  
 [Intention⇉](https://addons.mozilla.org/en-US/firefox/addon/intention/)
 
+Seat cushion:  
+[BackJoy](https://www.backjoy.com/)
+
 ## OS Tweaks
 
 [Ultimate Windows Tweaker⊞](https://www.techspot.com/downloads/6167-ultimate-windows-tweaker.html)

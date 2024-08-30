@@ -2,9 +2,9 @@
 # Tools for [graphics](https://trendless.tech/graphics/) with respect to 3-dimensional elements
 
 [Autodesk Tinkercad](https://www.tinkercad.com/),
-[Blender⊞■⌘🐧](https://www.blender.org/),
-[K-3D⊞■⌘](http://www.k-3d.org/),
-[LibreCAD⊞■⌘🐧](https://librecad.org/),
+[Blender⊞■⌘🐧🆓](https://www.blender.org/),
+[K-3D⊞■⌘](http://www.k-3d.org/) ([GitHub](https://github.com/K-3D/k3d)),
+[LibreCAD⊞■⌘🐧](https://librecad.org/) ([SourceForge](https://sourceforge.net/projects/librecad/) and [GitHub](https://github.com/LibreCAD/LibreCAD)),
 [Spline☁](https://spline.design/),
 [VTK🐧](https://vtk.org/)
 
@@ -14,40 +14,33 @@
 ## Specific Modeling
 
 Advanced CAD modeling:  
-[BRL-CAD](https://brlcad.org/),
+[BRL-CAD](https://brlcad.org/) ([GitHub](https://github.com/BRL-CAD/brlcad)),
 [DesignSpark Mechanical](https://www.rs-online.com/designspark/home),
-[OpenSCAD](https://openscad.org/),
-[Wings 3D](http://www.wings3d.com)
+[OpenSCAD](https://openscad.org/) ([GitHub](https://github.com/openscad/openscad/)),
+[Wings 3D](http://www.wings3d.com) ([SourceForge](https://sourceforge.net/projects/wings/))
 
 Parametric modeling:  
-[FreeCAD⊞■⌘🐧](https://www.freecadweb.org/)
+[FreeCAD⊞■⌘🐧](https://www.freecadweb.org/) ([GitHub](https://github.com/FreeCAD/FreeCAD-Bundle))
 
 Voxel art renderer:  
-[MagicaVoxel⊞⌘](https://ephtracy.github.io/),
+[MagicaVoxel⊞⌘](https://ephtracy.github.io/) ([GitHub](https://github.com/ephtracy/ephtracy.github.io)),
 [SpriteStack.io⊞⌘🐧](https://spritestack.io/)
-
-Block patterns (by manipulating shadows):  
-[Sombras.app☁](https://sombras.app/)
 
 Photorealistic humans (Unreal Engine only):  
 [MetaHumans](https://www.unrealengine.com/en-US/digital-humans)
 
 VR environments:  
-[LÖVR⊞⌘🐧🍎](https://lovr.org/)
+[LÖVR(Lua)⊞⌘🐧🍎](https://lovr.org/) ([GitHub](https://github.com/bjornbytes/lovr))
 
 Modeling/form material:  
 [Sugru](https://sugru.com/)
 
 ## Foraging
 
+3D Illustrations:  
 [Shapefest](https://www.shapefest.com/)
 
-3D Illustrations:  
-[Kukla Kit](https://www.greeneyeweb.com/kukla-kit-3d-elements/)
-
 Isometric models:  
-[IsoFlat](https://isoflat.com/),
-[Isometric](https://isometric.online/),
 [Isometriclove](https://www.isometriclove.com/)
 
 Hands:  
@@ -58,7 +51,7 @@ Hands:
 [Thangs$](https://thangs.com/)
 
 3D body information:  
-[awesome-3dbody-papers](https://github.com/3DFaceBody/awesome-3dbody-papers)
+[awesome-3dbody-papers🎰💩](https://github.com/3DFaceBody/awesome-3dbody-papers)
 
 ## Validation
 
@@ -68,7 +61,6 @@ Hands:
 ## Augmented reality
 
 Design software:  
-[ARize](https://arize.io/),
 [ARLOOPA🍎🤖](https://www.arloopa.com/),
 [Assemblr Studio](https://www.assemblrworld.com/studio),
 [EyeJack Creator](https://creator.eyejackapp.com/),
@@ -78,31 +70,28 @@ Design software:
 ## 3D Printing
 
 CAD:  
-[UltiMaker Cura](https://ultimaker.com/software/ultimaker-cura/)
+[UltiMaker Cura](https://ultimaker.com/software/ultimaker-cura/) ([GitHub](https://github.com/Ultimaker/Cura))
 
 Slicer:  
 [KISSlicer](https://www.kisslicer.com/),
 [Raise3D](https://www.raise3d.com/ideamaker/),
-[Repetier Software](https://www.repetier.com/),
-[Slic3r](https://slic3r.org/)
+[Repetier Software](https://www.repetier.com/) ([GitHub](https://github.com/repetier/Repetier-Firmware)),
+[Slic3r](https://slic3r.org/) ([GitHub](https://github.com/slic3r/Slic3r))
 
 Cloud management/web interface:  
 [3DPrinterOS](https://www.3dprinteros.com/),
-[OctoPrint](https://octoprint.org/)
+[OctoPrint](https://octoprint.org/) ([GitHub](https://github.com/OctoPrint/OctoPrint))
 
 ## Very Specific Needs
 
 Human models:  
-[MakeHuman⊞⌘🐧](http://www.makehumancommunity.org/)
+[MakeHuman⊞⌘🐧](http://www.makehumancommunity.org/) ([GitHub](https://github.com/makehumancommunity/makehuman))
 
 Star-mapping:  
 [Spacechart🐧🆓](https://www.gnu.org/software/spacechart/)
 
 Ray tracing simulation:  
-[OpticSim.jl🧛](https://microsoft.github.io/OpticSim.jl/stable/)
+[OpticSim.jl🧛](https://github.com/brianguenter/OpticSim.jl)
 
 Low-poly models:  
-[Dust3D](https://dust3d.org/)
-
-Biological components:  
-[BioJS](https://biojs.net/#/)
+[Dust3D](https://dust3d.org/) ([GitHub](https://github.com/huxingyi/dust3d))

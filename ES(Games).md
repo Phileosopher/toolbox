@@ -1,16 +1,6 @@
 
 # Tools for [enjoying](https://entertaining.space/) games
 
-Pausing any game:  
-[Universal Pause Button⊞](https://github.com/ryanries/UniversalPauseButton)
-
-Steam game tracking:  
-[Steam Gauge☁](https://www.mysteamgauge.com/),
-[Wasted hours on Steam☁](https://steamtime.info/)
-
-Electronic games database:  
-[IGDB.com](https://www.igdb.com/)
-
 ## Planning
 
 Premature strategies:  
@@ -21,6 +11,18 @@ Time estimation:
 
 Strategy guides:  
 [Gamespot's GameFAQs](https://gamefaqs.gamespot.com/)
+
+Discount games:  
+[CDKeyPrices.com](https://cdkeyprices.com/),
+[CDKeys.com](https://www.cdkeys.com/),
+[CheapShark](https://www.cheapshark.com/),
+[DLCompare.com](https://www.dlcompare.com/),
+[Fanatical](https://www.fanatical.com/),
+[G2PLAY.NET](https://www.g2play.net/),
+[Gocdkeys](https://gocdkeys.com/),
+[IsThereAnyDeal☁](https://isthereanydeal.com/),
+[Razer Game Deals⊞☁](https://deals.razer.com/),
+[SteamDB☁](https://steamdb.info/)
 
 ## Virtual gaming platforms
 
@@ -168,6 +170,9 @@ Flash Player:
 
 ## Expanding the Experience
 
+Pausing any game:  
+[Universal Pause Button⊞](https://github.com/ryanries/UniversalPauseButton)
+
 Split peripheral use on same device:  
 [Universal Split Screen⊞](https://universalsplitscreen.github.io/) ([GitHub](https://github.com/UniversalSplitScreen/UniversalSplitScreen))
 
@@ -177,3 +182,12 @@ Save file tweaking:
 Mods:  
 [CurseForge](https://www.curseforge.com/),
 [Nexus mods](https://www.nexusmods.com/) (with [Vortex Mod Manager](https://www.nexusmods.com/about/vortex/))
+
+## Games Tracking
+
+Steam game tracking:  
+[Steam Gauge☁](https://www.mysteamgauge.com/),
+[Wasted hours on Steam☁](https://steamtime.info/)
+
+Electronic games database:  
+[IGDB.com](https://www.igdb.com/)

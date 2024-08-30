@@ -7,6 +7,29 @@ CPAP data:
 Vision Test:  
 [WebBrowserTools' Vision Test☁](https://webbrowsertools.com/vision-test/)
 
+## Affordable healthcare$
+
+Healthcare service cost comparison:  
+[Clear Health Costs☁](https://clearhealthcosts.com/),
+[Healthcare Bluebook☁](https://www.healthcarebluebook.com/explore-home/)
+
+Drug price comparison:  
+[Mark Cuban Cost Plus Drug Company☁](https://costplusdrugs.com/)
+
+Heart rate sensor:  
+[Polar H10](https://www.polar.com/us-en/sensors/h10-heart-rate-sensor/)
+
+Eyewear:  
+[Warby Parker☁](https://www.warbyparker.com/),
+[Zenni Optical☁](https://www.zennioptical.com/)
+
+Healthcare comparison:  
+[Health Sherpa☁](https://www.healthsherpa.com/),
+[Healthcare Compare☁](https://healthcarecomps.com/)
+
+Lab tests:  
+[Testing.com*](https://www.testing.com/)
+
 ## Medical Research
 
 Medical search engine:  

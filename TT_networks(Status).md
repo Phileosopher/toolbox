@@ -1,6 +1,9 @@
 
 # Tools for [network](https://trendless.tech/networks/) status
 
+Telecom shopping$:  
+[Allconnect.com☁](https://www.allconnect.com/)
+
 Network standards:  
 [IETF Datatracker*](https://datatracker.ietf.org/)
 

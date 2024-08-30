@@ -1,8 +1,8 @@
 
 # Tools for [graphics](https://trendless.tech/graphics/) with respect to photo auto-generation
 
-AI CAD:  
-[Components AI](https://components.ai/)
+AI CAD🎰:  
+[Components AI](https://components.ai/) ([GitHub](https://github.com/components-ai))
 
 AI-assisted drawing/painting:  
 [Google's AutoDraw☁🧛](https://www.autodraw.com/),

@@ -37,6 +37,9 @@ Coding tests/certifications:
 [freeCodeCamp☁](https://www.freecodecamp.org/),
 [HackerRank☁](https://www.hackerrank.com/)
 
+Certification prep courses:  
+~~[Udemy](https://www.udemy.com)~~ [has been deceptive in their pricing model](https://www.classcentral.com/report/udemy-settles-class-action/)
+
 ## Books/Papers
 
 [Information Technology Research Library](https://knowfree.tradepub.com/)

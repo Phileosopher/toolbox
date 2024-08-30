@@ -1,16 +1,16 @@
 
-# Tools for [saving money](https://adequate.life/saving/)
+# Tools for [saving money](https://adequate.life/saving/)$
 
-Reward programs:  
-[AwardWallet☁](https://awardwallet.com/)
+## Comparison and Tracking
 
-Unclaimed property:  
-[NAUPA☁](https://unclaimed.org/),
-[MissingMoney.com☁](https://www.missingmoney.com/)
+[Reddit's Favorite Products*](https://www.looria.com/reddit)
 
-## Comparison/Tracking
-
+Product comparisons:  
+[Geizhals Preisvergleich☁](https://geizhals.eu/),
 [Product Chart☁](https://www.productchart.com/)
+
+In-stock status:  
+[Stock Informer](https://www.stockinformer.com/)
 
 Card and ticket management:  
 [Catima🤖🆓](https://catima.app/)
@@ -24,6 +24,35 @@ Rewards points:
 Shrinkflation tracking:  
 [shrinkflation.io](https://www.shrinkflation.io/products)
 
+Durable products:  
+[Buy For Life☁](https://www.buyforlife.com/)
+
+Product sourcing:  
+[ProductFrom.com☁](https://www.productfrom.com/)
+
+## Vouchers and Rewards
+
+Gift cards:  
+[eGifter](https://www.egifter.com/)
+
+Reward programs:  
+[AwardWallet☁](https://awardwallet.com/)
+
+Unclaimed property:  
+[NAUPA☁](https://unclaimed.org/),
+[MissingMoney.com☁](https://www.missingmoney.com/)
+
+Rebates and cash back services:  
+[Fetch☁](https://fetch.com/),
+[Ibotta☁](https://home.ibotta.com/),
+[Mr. Rebates☁](https://mrrebates.com/),
+[Rakuten⇉](https://www.rakuten.com/),
+[Swagbucks☁](https://www.swagbucks.com/),
+[TopCashback☁](https://www.topcashback.com/)
+
+Restaurants:  
+[Restaurant.com☁](https://www.restaurant.com/)
+
 ## Discounts
 
 [Entertainment Coupon Book☁](https://www.entertainment.com/),
@@ -35,94 +64,16 @@ Shrinkflation tracking:
 Coupon codes:  
 [Honey⇉](https://www.joinhoney.com/)
 
-Computer parts:  
-[ByteBucket☁](https://www.bytebucket.co),
-[TechBargains](https://www.techbargains.com/)
-
-Restaurants:  
-[Restaurant.com☁](https://www.restaurant.com/)
-
-Rebates and cash back services:  
-[Fetch☁](https://fetch.com/),
-[Ibotta☁](https://home.ibotta.com/),
-[Mr. Rebates☁](https://mrrebates.com/),
-[Rakuten⇉](https://www.rakuten.com/),
-[Swagbucks☁](https://www.swagbucks.com/),
-[TopCashback☁](https://www.topcashback.com/)
-
 Limited-time specials:  
 [Woot](https://www.woot.com/)
 
 ## Shopping
-
-[Reddit's Favorite Products*](https://www.looria.com/reddit)
-
-In-stock status:  
-[Stock Informer](https://www.stockinformer.com/)
-
-Gift cards:  
-[eGifter](https://www.egifter.com/)
-
-Industry comparison:  
-[Geizhals Preisvergleich☁](https://geizhals.eu/)
-
-Durable products:  
-[Buy For Life☁](https://www.buyforlife.com/)
-
-Product sourcing:  
-[ProductFrom.com☁](https://www.productfrom.com/)
 
 Online auctions - liquidations:  
 [AllSurplus☁](https://www.allsurplus.com/)
 
 Online auctions - government liquidations:  
 [Government Surplus Auctions*](https://www.govdeals.com/)
-
-Telecom:  
-[Allconnect.com☁](https://www.allconnect.com/)
-
-Autos:  
-[CARFAX☁](https://www.carfax.com/),
-[Cars.com☁](https://www.cars.com/),
-[Edmunds☁](https://www.edmunds.com/),
-[Kelley Blue Book☁](https://www.kbb.com/)
-
-Books:  
-[Bookshop☁](https://bookshop.org/),
-[Pages on Pages☁](https://www.pagesonpages.com/)
-
-Computer games:  
-[CDKeyPrices.com](https://cdkeyprices.com/),
-[CDKeys.com](https://www.cdkeys.com/),
-[CheapShark](https://www.cheapshark.com/),
-[DLCompare.com](https://www.dlcompare.com/),
-[Fanatical](https://www.fanatical.com/),
-[G2PLAY.NET](https://www.g2play.net/),
-[Gocdkeys](https://gocdkeys.com/),
-[IsThereAnyDeal☁](https://isthereanydeal.com/),
-[Razer Game Deals⊞☁](https://deals.razer.com/),
-[SteamDB☁](https://steamdb.info/)
-
-Eyewear:  
-[Warby Parker☁](https://www.warbyparker.com/),
-[Zenni Optical☁](https://www.zennioptical.com/)
-
-Fuel:  
-[AAA Gas Prices](https://gasprices.aaa.com/)
-[GasBuddy☁🍎🤖](https://www.gasbuddy.com/)
-
-Heart rate sensor:  
-[Polar H10](https://www.polar.com/us-en/sensors/h10-heart-rate-sensor/)
-
-Insurance:  
-[Insurify☁](https://insurify.com/),
-[Jerry☁](https://getjerry.com/),
-[Policygenius☁](https://www.policygenius.com/),
-[The Zebra☁](https://www.thezebra.com/)
-
-Roadside assistance services:  
-[AAA☁](https://www.aaa.com/),
-[MCA☁](https://motorclubofamerica.com/)
 
 Classified ads:  
 [craigslist☁](https://craigslist.org/),

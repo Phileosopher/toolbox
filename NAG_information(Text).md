@@ -34,3 +34,7 @@ Commonplacing:
 [Daniel Schildt's knowledge](https://github.com/d2s/knowledge),
 [Derek Sivers' book notes](https://sive.rs/book),
 [Gordon Brander's Patterns](https://gordonbrander.com/pattern/)
+
+Discount books$:  
+[Bookshop☁](https://bookshop.org/),
+[Pages on Pages☁](https://www.pagesonpages.com/)

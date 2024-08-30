@@ -87,9 +87,6 @@ Ratings*:
 [Moody's](https://www.moodys.com/),
 [Standard & Poor's](https://www.standardandpoors.com/)
 
-Ratings - insurance*:  
-[AM Best](https://web.ambest.com/home)
-
 Financial visualizations☁:  
 [FINVIZ.com](https://finviz.com/),
 [TradingView](https://www.tradingview.com/)
