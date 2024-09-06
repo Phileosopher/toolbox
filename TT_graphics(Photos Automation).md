@@ -4,18 +4,18 @@
 AI CAD🎰:  
 [Components AI](https://components.ai/) ([GitHub](https://github.com/components-ai))
 
-AI-assisted drawing/painting:  
+AI-assisted drawing/painting🎰:  
 [Google's AutoDraw☁🧛](https://www.autodraw.com/),
 [Modyfi - Create. Together.](https://www.modyfi.com/),
 [NVIDIA Canvas⊞](https://www.nvidia.com/en-gb/studio/canvas/)
 
-AI-generated faces:  
+AI-generated faces🎰:  
 [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 
-AI-generated movie posters:  
+AI-generated movie posters🎰:  
 [This Movie Does Not Exist](https://thismoviedoesnotexist.org/)
 
-AI emoji generator:  
+AI emoji generator🎰:  
 [AI Emojis☁](https://emoji.fly.dev/)
 
 Blob generator:  
@@ -59,23 +59,26 @@ Text output to image:
 ## Tweaking/Filters
 
 [FotoSketcher⊞■⌘](https://fotosketcher.com/),
-[GIMP⊞■⌘🐧](https://www.gimp.org/) (with [awesome-gimp](https://github.com/marekpistorius/awesome-gimp)),
+[GIMP⊞■⌘🐧🆓](https://www.gimp.org/) (with [awesome-gimp](https://github.com/marekpistorius/awesome-gimp)),
 [Paint.NET⊞](https://www.getpaint.net/),
-[RawTherapee⊞■⌘🐧](http://www.rawtherapee.com/)
+[RawTherapee⊞■⌘🐧🆓](http://www.rawtherapee.com/)
 
 ## Auto-Tweaking/Filters
 
 [Blackmagic Camera🍎](https://www.blackmagicdesign.com/products/blackmagiccamera),
-[ImageMagick⊞⌘🐧🍎⦿](https://imagemagick.org/)
+[ImageMagick⊞⌘🐧🍎⦿](https://imagemagick.org/) ([GitHub](https://github.com/ImageMagick/ImageMagick))
+
+Lossy image optimization:  
+[EZGIF.com's Image Optimizer☁](https://ezgif.com/optimize),
+[Caesium☁⊞](https://saerasoft.com/caesium/),
+[PngOptimizer⊞■🐧](https://psydk.org/pngoptimizer),
+[TinyPNG☁](https://tinypng.com/)
 
 Image resizing:  
 [Online Image Resizer☁](https://resizeimage.net/),
 [Make Your Photo 16x9☁](https://photo16x9.com/)
 
-Image re-coloring:  
-[Color Manager🐧](https://github.com/NicklasVraa/Color-manager)
-
-AI-assisted image upscaling:  
+Image upscaling🎰:  
 [Icons8's AI Image Upscaler☁](https://icons8.com/upscaler/),
 [Ojoy☁](https://ojoy.netlify.app/)
 
@@ -83,16 +86,13 @@ Filter effects:
 [Image Filters☁](https://10015.io/tools/image-filters),
 [PhotoMosh☁](https://photomosh.com/)
 
-Histograms of chaotic functions:  
-[Fyre🐧](http://fyre.navi.cx/)
-
 Light generation:  
 [Hot Spot Studio⊞■](https://www.rlvision.com/spots/about.php)
 
 Fix image blur:  
 [SmartDeblur⊞⌘](http://smartdeblur.net/)
 
-Remove backgrounds:  
+Remove backgrounds🎰:  
 [Clipping Magic☁](https://clippingmagic.com/),
 [Depositphotos Free Image Background Remover](https://depositphotos.com/bgremover.html),
 [remove bg☁](https://www.remove.bg/),
@@ -108,20 +108,10 @@ Add grain:
 [NFT Maker☁](https://img8bit.com/)
 
 Photo censoring:  
-[Photo Censor☁](https://10015.io/tools/photo-censor)
+[10015's Photo Censor☁](https://10015.io/tools/photo-censor)
 
 Dramatically angled screenshots:  
 [Screenstab☁](https://www.screenstab.com/)
-
-## Image Optimization
-
-[ImageMagick⊞⌘🐧](https://imagemagick.org/index.php)
-
-Optimize images - lossy:  
-[EZGIF.com's Image Optimizer☁](https://ezgif.com/optimize),
-[Caesium☁⊞](https://saerasoft.com/caesium/),
-[PngOptimizer⊞■🐧](https://psydk.org/pngoptimizer),
-[TinyPNG☁](https://tinypng.com/)
 
 ## Image Conversion
 
@@ -141,8 +131,3 @@ SVG to JSX:
 
 Image comparison:  
 [DiffImg⊞■](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Viewers/DiffImg.shtml)
-
-## Machine Learning
-
-Computer Vision:  
-[awesome-computer-vision-models💩](https://github.com/gmalivenko/awesome-computer-vision-models)

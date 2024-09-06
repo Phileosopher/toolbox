@@ -17,3 +17,8 @@ Document data:
 
 Document data - invoices:  
 [InvoiceNet](https://github.com/naiveHobo/InvoiceNet)
+
+## Images
+
+Computer Vision:  
+[awesome-computer-vision-models💩](https://github.com/gmalivenko/awesome-computer-vision-models)

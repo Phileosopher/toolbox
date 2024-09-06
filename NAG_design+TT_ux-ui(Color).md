@@ -151,3 +151,8 @@ Colorblindness testing:
 [Coblis - Color Blindness Simulator☁](https://www.color-blindness.com/coblis-color-blindness-simulator/),
 [Color Oracle⊞⌘🐧](https://colororacle.org/),
 [Toptal Color Blind Filter☁](https://www.toptal.com/designers/colorfilter),
+
+## Auto-Coloring
+
+Image re-coloring:  
+[Color Manager🐧](https://github.com/NicklasVraa/Color-manager)
