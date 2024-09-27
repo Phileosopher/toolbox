@@ -15,6 +15,7 @@ Accounting all-in-one:
 Personal finance - positions:  
 [GnuCash⊞■⌘🐧🆓](https://www.gnucash.org/),
 [KMyMoney⊞⌘🐧🆓](https://kmymoney.org/) ([GitLab](https://invent.kde.org/office/kmymoney)),
+~~[Mint](http://www.mint.com/)~~ tracks a _lot_ of personal data,
 [Paisa⊞⌘□](https://paisa.fyi/) ([GitHub](https://github.com/ananthakumaran/paisa))
 
 Personal finance - projections:  

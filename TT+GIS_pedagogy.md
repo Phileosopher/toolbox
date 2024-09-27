@@ -1,5 +1,5 @@
 
-# Tools for [computer training](https://trendless.tech/)💩
+# Tools for [education](https://gainedin.site/pedagogy/) with respect to [computer skills](https://trendless.tech/)💩
 
 Educational programming languages - kid-friendly:  
 [Scratch](https://scratch.mit.edu/)
@@ -27,7 +27,8 @@ Cheat sheets - MATLAB/Python/Julia:
 
 Open CS courses:  
 [open-source-cs](https://github.com/ForrestKnight/open-source-cs),
-[open-source-cs-degree](https://github.com/mvillaloboz/open-source-cs-degree)
+[open-source-cs-degree](https://github.com/mvillaloboz/open-source-cs-degree),
+[Udacity](http://www.udacity.com/)
 
 Certifications:  
 [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)

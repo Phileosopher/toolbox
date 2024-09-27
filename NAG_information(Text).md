@@ -26,6 +26,9 @@ Short stories:
 Sci-fi/fantasy stories:  
 [Free Speculative Fiction Online](https://www.freesfonline.net/)
 
+Poems:  
+[Poem Hunter](https://www.poemhunter.com/)
+
 Blogs:  
 [Blogarama](https://www.blogarama.com/),
 [Blog Search Engine](https://www.blogsearchengine.com/)

@@ -18,3 +18,7 @@ Amazon ASIN lookup:
 
 Social network:  
 [Startups.com](https://www.startups.com/)
+
+## Entrepreneur News
+
+[Inc.](https://www.inc.com/)

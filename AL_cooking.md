@@ -45,6 +45,12 @@ Search engine - from available food:
 Recipe database:  
 [Nextcloud Cookbook](https://apps.nextcloud.com/apps/cookbook) with [Android client🤖](https://lneugebauer.github.io/nextcloud-cookbook/) [GitHub](https://github.com/lneugebauer/nextcloud-cookbook)
 
+Cookbooks:  
+[The Sad Bastard Cookbook](https://traumbooks.itch.io/the-sad-bastard-cookbook)
+
+Cookbooks - bread-based recipes:  
+[The Sourdough Framework](https://ko-fi.com/s/7b45198768) ([GitHub](https://github.com/hendricius/the-sourdough-framework))
+
 ## Cooking Culture
 
 Recipe blogs and news:  

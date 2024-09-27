@@ -38,7 +38,7 @@ Entrepreneurship - tech:
 Christian/NPO:  
 [GiveSendGo☁](https://www.givesendgo.com/),
 [Mightycause☁](https://www.mightycause.com/),
-~~[GoFundMe](https://www.gofundme.com/)~~ stifles political views they don't like
+~~[GoFundMe](https://www.gofundme.com/)~~ and ~~[Kickstarter](https://www.kickstarter.com/)~~ stifles political views they don't like
 
 Creatives:  
 [Patreon☁](https://www.patreon.com/)

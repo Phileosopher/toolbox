@@ -43,3 +43,6 @@ Raw information - food:
 Less-condensed information:  
 [Harvard's The Nutrition Source](https://nutritionsource.hsph.harvard.edu/),
 [NutritionFacts.org](https://nutritionfacts.org/) (with [Daily Dozen](https://f-droid.org/packages/org.nutritionfacts.dailydozen/) ([GitHub](https://github.com/nutritionfactsorg/daily-dozen-android)))
+
+Fitness articles:  
+[Nerd Fitness](https://www.nerdfitness.com/)
