@@ -10,4 +10,4 @@ C++:
 [Cppcheck](https://cppcheck.sourceforge.io/)
 
 Dynamic checking - C:  
-[Checked C🧛](https://github.com/Microsoft/checkedc)
+[Checked C🧛](https://www.checkedc.org/) [GitHub](https://github.com/Microsoft/checkedc)

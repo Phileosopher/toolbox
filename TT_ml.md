@@ -22,3 +22,7 @@ Document data - invoices:
 
 Computer Vision:  
 [awesome-computer-vision-models💩](https://github.com/gmalivenko/awesome-computer-vision-models)
+
+## Machine Learning Frameworks
+
+[AForge.NET (C#)](https://www.aforgenet.com/framework/)

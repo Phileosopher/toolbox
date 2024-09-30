@@ -12,7 +12,7 @@ Keyboard-less interfacing:
 [Talon⊞⌘🐧](https://talonvoice.com/)
 
 Facial movement tracking:  
-[Movement Tracking(GitHub)⊞■⌘🐧](https://github.com/surya-veer/movement-tracking),
+[Movement Tracking⊞■⌘🐧🆓](https://github.com/surya-veer/movement-tracking),
 
 Gamepad/controller mapping with keyboard:  
 [AntiMicroX⊞■🐧](https://github.com/AntiMicroX/antimicrox/)
@@ -45,7 +45,7 @@ Existing hotkeys (for assigning others):
 NumPad shortcuts:  
 [ControlPad⊞■](https://sector-seven.com/software/controlpad)
 
-## Hardware
+## Hardware$
 
 General peripherals:  
 [Razer](https://www.razer.com/)
@@ -54,7 +54,7 @@ Ergonomic keyboard:
 [Kinesis Advantage](https://kinesis-ergo.com/keyboards/advantage360/)
 
 Extra keypad:  
-[Razer Tartarus$](https://www.razer.com/search/tartarus)
+[Razer Tartarus](https://www.razer.com/search/tartarus)
 
 ## Keyboard Community
 

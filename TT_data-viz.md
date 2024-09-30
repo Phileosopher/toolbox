@@ -11,7 +11,8 @@ Text-to-diagram:
 [XOSH.ORG's text to diagram tools💩](https://xosh.org/text-to-diagram/)
 
 Diagrams-as-code:  
-[Structurizr☁](https://structurizr.com/)
+[Structurizr☁](https://structurizr.com/),
+[blockdiag](http://blockdiag.com/en/)
 
 ## Chart/Graph Generators
 

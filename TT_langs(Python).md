@@ -7,16 +7,15 @@ Package manager:
 ## Planning
 
 Diagrams-as-code:  
-[blockdiag](http://blockdiag.com/en/),
-[PyPI's diagrams](https://pypi.org/project/diagrams/)
+[PyPI's diagrams (Graphviz plugin)⇉](https://pypi.org/project/diagrams/)
 
 ## Testing/Debugging
 
-[Ruff](https://beta.ruff.rs/docs/)
+[Ruff](https://docs.astral.sh/ruff/)
 
 ## Compiling
 
-[PyInstaller](https://pyinstaller.org/)
+[PyInstaller](https://pyinstaller.org/) ([GitHub](https://github.com/pyinstaller/pyinstaller))
 
 ## Text Conversion
 

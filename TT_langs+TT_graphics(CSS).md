@@ -3,54 +3,16 @@
 
 ## Foraging/Inspiration
 
-[CSSMania*](https://www.cssmania.com/),
+[CSSMania*🔌](https://www.cssmania.com/),
 [CSS-Tricks*](https://css-tricks.com/)
 
-CSS/HTML Themes/Templates:  
-[CSS Layout](https://csslayout.io/patterns),
+CSS/HTML themes/templates:  
 [Free CSS*](https://www.free-css.com/),
 [HTML5 UP!](https://html5up.net/),
-
-Bootstrap Themes/templates:  
-[Bootswatch](https://bootswatch.com/),
-[Creative Tim's Free Templates](https://www.creative-tim.com/templates/free),
-[Material Design for Bootstrap 5 & 4](https://mdbootstrap.com/)
-
-Tailwind components:  
-[daisyUI](https://daisyui.com/),
-[Tailwind UI](https://tailwindui.com/#components)
-[Tailwind UI Kit](https://www.tailwind-kit.com/)
-
-## Frameworks/Engines
-
-Utility-first:  
-[Tailwind CSS](https://tailwindcss.com/)
-
-Data visualizations:  
-[Charts.css](https://chartscss.org)
-
-## Theme Management
-
-[Bootstrap](https://getbootstrap.com/)
-
-Automatic theme generation:  
-[Bootstrap Magic☁](https://pikock.github.io/bootstrap-magic/)
-
-CSS reset:  
-[a11y-css-reset](https://github.com/mike-engel/a11y-css-reset),
 
 ## General Visual Effects
 
 [Toptal's CSS3Maker☁](https://www.toptal.com/developers/css3maker)
-
-Blocks:  
-[blocks.css](https://thesephist.github.io/blocks.css/),
-[paper.css](https://thesephist.github.io/paper.css/),
-[wickedblocks*](https://blocks.wickedtemplates.com/)
-
-Minimalism:  
-[chota](https://jenil.github.io/chota/),
-[Water.css](https://watercss.kognise.dev/)
 
 ## Framework-free Non-CSS-Reset UI Libraries
 
@@ -60,11 +22,22 @@ Minimalism:
 [Reseter.css](https://github.com/resetercss/reseter.css),
 [Shoelace](https://shoelace.style/)
 
-## Classless CSS Frameworks
+## CSS Frameworks
 
+Blocks:  
+[blocks.css](https://thesephist.github.io/blocks.css/),
+[paper.css](https://thesephist.github.io/paper.css/),
+[wickedblocks*](https://blocks.wickedtemplates.com/)
+
+Minimalism:  
+[chota](https://jenil.github.io/chota/) ([GitHub](https://github.com/jenil/chota)),
+[Water.css](https://watercss.kognise.dev/)
+
+Classless:  
+[classless-css list💩](https://github.com/dbohdan/classless-css),
 [Almond.css](https://github.com/alvaromontoro/almond.css),
 [CSS Bed](https://www.cssbed.com/),
-[Simple.css](https://simplecss.org/)
+[Simple.css](https://simplecss.org/) ([GitHub](https://github.com/kevquirk/simple.css))
 
 ## Specific Elements
 
@@ -92,16 +65,16 @@ Loader element:
 [10015's CSS Loader Generator☁](https://10015.io/tools/css-loader-generator)
 
 Responsive grids:  
-[ungrid](https://chrisnager.github.io/ungrid/)
+[ungrid](https://chrisnager.github.io/ungrid/) ([GitHub](https://github.com/chrisnager/ungrid))
 
 Responsive grid generator:  
-[CSS Grid Generator☁](https://cssgrid-generator.netlify.app/),
-[Interactive CSS Grid Generator☁](https://grid.layoutit.com/)
+[CSS Grid Generator☁](https://cssgrid-generator.netlify.app/) ([GitHub](https://github.com/sdras/cssgridgenerator)),
+[Interactive CSS Grid Generator☁](https://grid.layoutit.com/) ([GitHub](https://github.com/Leniolabs/layoutit-grid))
 
 ## Colors
 
 Color filters:  
-[filters.css](https://bansal.io/filters-css)
+[filters.css](https://bansal.io/filters-css) ([GitHub](https://github.com/bansal/filters.css))
 
 Dark mode:  
 [Night Eye's Dark CSS Generator☁](https://nighteye.app/dark-css-generator/)
@@ -115,17 +88,16 @@ Gradients with hover effects:
 
 ## Supporting Elements - Animations
 
-[Animate.css*](https://animate.style/),
-[Bounce.js*](https://bouncejs.com/)
+[Animate.css*](https://animate.style/) ([GitHub](https://github.com/animate-css/animate.css))
 
 Image hover effects:  
-[imagehover.css☁](http://imagehover.io/)
+[imagehover.css☁](http://imagehover.io/) ([GitHub](https://github.com/ciar4n/imagehover.css))
 
 Keyframes:  
 [Keyframes.app's Animate☁](https://keyframes.app/animate/)
 
 SVG animations:  
-[Vivus Instant☁](https://maxwellito.github.io/vivus-instant/)
+[Vivus Instant☁](https://maxwellito.github.io/vivus-instant/) ([GitHub](https://github.com/maxwellito/vivus))
 
 ## Supporting Elements - Decorations
 
@@ -147,10 +119,9 @@ Shadows:
 Geometric patterns:  
 [10015's CSS Background Pattern Generator☁](https://10015.io/tools/css-background-pattern-generator),
 [CSS3 Patterns Gallery*](https://projects.verou.me/css3patterns/),
-[Gradienta*](https://gradienta.io/),
 [Hero Patterns*](https://www.heropatterns.com/),
 [MagicPattern's CSS Background Patterns☁](https://www.magicpattern.design/tools/css-backgrounds)
-[patterns.css*](https://bansal.io/pattern-css),
+[patterns.css*](https://bansal.io/pattern-css) ([GitHub](https://github.com/bansal/pattern.css)),
 [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/),
 [Transparent Textures](https://www.transparenttextures.com/)
 
@@ -160,11 +131,41 @@ Live backgrounds:
 Triangle patterns:  
 [Trianglify.io☁](https://trianglify.io/) (with [🔌Trianglify JS library](https://qrohlf.com/trianglify/))
 
+## Frameworks/Engines
+
+Utility-first:  
+[Tailwind CSS](https://tailwindcss.com/)
+
+Data visualizations:  
+[Charts.css](https://chartscss.org)
+
+## Theme Management
+
+[Bootstrap](https://getbootstrap.com/)
+
+Automatic theme generation:  
+[Bootstrap Magic☁](https://pikock.github.io/bootstrap-magic/) ([GitHub](https://github.com/pikock/bootstrap-magic))
+
+CSS reset:  
+[a11y-css-reset](https://github.com/mike-engel/a11y-css-reset),
+
+## Frameworks/Engines - Foraging/Inspiration
+
+Bootstrap themes/templates:  
+[Bootswatch](https://bootswatch.com/),
+[Creative Tim's Free Templates](https://www.creative-tim.com/templates/free),
+[Material Design for Bootstrap 5 & 4](https://mdbootstrap.com/)
+
+Tailwind components:  
+[daisyUI](https://daisyui.com/),
+[Tailwind UI](https://tailwindui.com/)
+[Tailwind UI Kit](https://www.tailwind-kit.com/)
+
 ## Testing/Debugging
 
 A11y issues:  
-[a11y.css⇉](https://ffoodd.github.io/a11y.css/),
-[Checka11y.css](https://checka11y.jackdomleo.dev/)
+[a11y.css⇉](https://ffoodd.github.io/a11y.css/) ([GitHub](https://github.com/ffoodd/a11y.css)),
+[Checka11y.css](https://checka11y.jackdomleo.dev/) ([GitHub](https://github.com/jackdomleo7/Checka11y.css))
 
 Validation/linting:  
 [CSS Lint☁](http://csslint.net/)

@@ -71,7 +71,8 @@ Specific generators:
 
 ## Mathematical Animations
 
-[Manim🐍](https://www.manim.community/) ([GitHub](https://github.com/ManimCommunity/manim))
+Math animations:  
+[Manim⊞🐧🐍](https://www.manim.community/) ([GitHub](https://github.com/manimCommunity/manim))
 
 ## Math Community
 

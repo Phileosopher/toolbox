@@ -16,31 +16,26 @@ HTML rendering:
 ## CSS-Free Formatting
 
 [Element CSS](https://elementcss.neocities.org/),
-[new.css](https://newcss.net/)
-
-Classless CSS:  
-[classless-css list](https://github.com/dbohdan/classless-css)
+[new.css](https://newcss.net/) ([GitHub](https://github.com/xz/new.css))
 
 ## SVG Formatting
 
 Remove blank space around SVG:  
-[clipper](https://msurguy.github.io/svg-cropper-tool/),
+[clipper](https://msurguy.github.io/svg-cropper-tool/) ([GitHub](https://github.com/msurguy/svg-cropper-tool)),
 [SVG Crop](https://svgcrop.com/)
 
 Path visualization:  
-[SVG Path Visualizer](https://svg-path-visualizer.netlify.app/)
+[SVG Path Visualizer](https://svg-path-visualizer.netlify.app/) ([GitHub](https://github.com/mathieudutour/svg-path-visualizer))
 
 ## SVG Elements
 
+[Haikei](https://haikei.app/)
+
 Blobs:  
-[z creative labs' Blobmaker☁](https://www.blobmaker.app/),
-[Blobs☁](https://blobs.app/)
+[z creative labs' Blobmaker☁](https://www.blobmaker.app/)
 
 Polygons:  
-[SVG Polygon Generator](https://codepen.io/winkerVSbecks/full/wrZQQm/)
-
-Rounded squares:  
-[Squircley☁](https://squircley.app/)
+[SVG Polygon Generator](https://codepen.io/winkerVSbecks/full/wrZQQm/) ([Source](https://codepen.io/winkerVSbecks/pen/wrZQQm))
 
 Sprites:  
 [svgsprit.es☁](https://svgsprit.es/)
@@ -57,14 +52,4 @@ Media player - back-end:
 [Proton Player](https://github.com/protonradio/player)
 
 Media player - front-end:  
-[Clappr](http://clappr.io/)
-
-## Debugging
-
-HTTP headers:  
-[REDbot☁](https://redbot.org/),
-[WebNots HTTP Header Checker☁](https://www.webnots.com/seo-tools/http-header-checker/)
-
-HTTP:  
-[W3C Nu Html Checker☁](https://validator.w3.org/nu/),
-[WBox🐧](http://www.hping.org/wbox/)
+[Clappr](http://clappr.io/) ([GitHub](https://github.com/clappr/clappr))
