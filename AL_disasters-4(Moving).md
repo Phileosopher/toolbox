@@ -3,3 +3,6 @@
 
 Visas:  
 [Boundless](https://www.boundless.com/)
+
+Nuclear detonation estimation:  
+[NUKEMAP☁](https://nuclearsecrecy.com/nukemap/)

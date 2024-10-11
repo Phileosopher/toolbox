@@ -1,6 +1,9 @@
 
 # Tools for [legal safety](https://notageni.us/legally-safe/)
 
+Police tracking:  
+[Atlas of Surveillance☁🕵️](https://atlasofsurveillance.org/)
+
 ## Automated Legal Services
 
 Filings and auto-generated documents:  
@@ -32,3 +35,6 @@ Complaints and online material removal:
 
 Attorney search:  
 [upcounsel](https://www.upcounsel.com/)
+
+Mandatory reporters:  
+[Resources for Mandated Reporters of Abuse](https://mandatedreporter.com/)

@@ -6,6 +6,37 @@ Random geolocation generator:
 [Random.org's Geographic Coordinates☁](https://www.random.org/geographic-coordinates/),
 [Comment Picker's Capital Cities☁](https://commentpicker.com/random-capital-generator.php)
 
+Bluetooth enhancement via GPS:  
+[Hubble Network](https://hubblenetwork.com/)
+
+Current LEO satellites:  
+[Low Earth Orbit Visualization☁](https://platform.leolabs.space/visualization)
+
+GPS interference:  
+[GPSJam GPS/GNSS Interference Map](https://gpsjam.org)
+
+## Maps
+
+General-purpose maps:  
+[FacilMap☁](https://facilmap.org/),
+[OpenStreetMap🔌](https://www.openstreetmap.org/about) (([GitHub](https://github.com/openstreetmap/openstreetmap-website)), API with [Nominatim🔌](https://nominatim.org/))
+
+Offline maps:  
+[OsmAnd🤖](https://osmand.net/) ([GitHub](https://github.com/osmandapp/OsmAnd))
+
+High-quality imaging:  
+[Copernicus Data Space Ecosystem☁](https://dataspace.copernicus.eu/),
+[EarthExplorer☁](https://earthexplorer.usgs.gov/)
+
+Generate geographical heatmap:  
+[geo-heatmap🧛](https://github.com/luka1199/geo-heatmap)
+
+Historical atlas:  
+[GeaCron](http://geacron.com/)
+
+OSM Map editor:  
+[Rapid Editor🧛](https://rapideditor.org/) ([GitHub](https://github.com/facebook/Rapid))
+
 ## GIS Data Management
 
 GIS data creation:  
@@ -17,6 +48,9 @@ GIS data navigator:
 
 OSM editor:  
 [StreetComplete🤖](https://streetcomplete.app/) ([GitHub](https://github.com/streetcomplete/streetcomplete))
+
+Map API:  
+[Google Custom Map Tools & Products🧛](https://mapsplatform.google.com/maps-products/)
 
 ## Location Data
 

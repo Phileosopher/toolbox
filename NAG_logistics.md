@@ -5,6 +5,33 @@ All-in-one:
 [Bonsai](https://www.hellobonsai.com/),
 [FloTask](https://flotask.webflow.io/)
 
+## Vehicles
+
+Airports:  
+[OpenAirportMap☁](https://openairportmap.org/)
+
+Flight tracking:  
+[ADS-B Exchange☁](https://globe.adsbexchange.com/),
+[FlightStats by Cirium☁](https://www.flightstats.com)
+
+Flight tracking - notification:  
+[plane-notify🐍](https://github.com/Jxck-S/plane-notify)
+
+Airline in-flight WiFi API - United Airlines🔌:  
+[United-In-Flight-Api](https://github.com/greatjack1/United-In-Flight-Api)
+
+Ship location:  
+[VesselFinder☁](https://www.vesselfinder.com/)
+
+Package tracking:  
+[17TRACK](https://www.17track.net/en),
+[Boxoh](http://www.boxoh.com/),
+[Package Place□](https://package.place/),
+[Parcels](https://parcelsapp.com/en/)
+
+Submarine cables:  
+[Globe.GL submarine cables](https://globe.gl/example/submarine-cables/)
+
 ## Supply Chains
 
 Supplier RFQs/quotes:  
