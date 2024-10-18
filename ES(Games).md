@@ -24,6 +24,9 @@ Discount games:
 [Razer Game Deals⊞☁](https://deals.razer.com/),
 [SteamDB☁](https://steamdb.info/)
 
+Gamepad testing:  
+[Gamepad Tester☁](https://hardwaretester.com/gamepad)
+
 ## Virtual gaming platforms
 
 [Emulator files](https://emulation.gametechwiki.com/index.php/Emulator_files)
