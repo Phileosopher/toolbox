@@ -9,3 +9,19 @@ Goat rental:
 
 Hay:  
 [Internet Hay Exchange☁](http://www.hayexchange.com/)
+
+## Guides
+
+[Mother Earth News](https://www.motherearthnews.com/)
+
+House building:  
+[Pretty Good House](https://www.prettygoodhouse.org/)
+
+Well drilling:  
+[drillyourownwell.com](https://drillyourownwell.com/)
+
+Heat pumps:  
+[The Homemade Heat Pump Manifesto](https://ecorenovator.org/forum/showthread.php?p=2631)
+
+Primitive tech:  
+[Primitive Technology](https://www.youtube.com/@primitivetechnology9550)
