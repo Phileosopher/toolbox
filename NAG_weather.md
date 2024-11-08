@@ -22,3 +22,6 @@ Weather data API🔌:
 
 Lightning map:  
 [LightningMaps.org](https://www.lightningmaps.org/)
+
+Lightning distance calculator:  
+[Omni Calculator's Lightning Distance Calculator](https://www.omnicalculator.com/physics/lightning-distance)
