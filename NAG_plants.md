@@ -8,3 +8,8 @@ Produce in season:
 
 Horticulture:  
 [OpenFarm](https://openfarm.cc/) ([GitHub](https://github.com/OpenFarmCC/openfarm/))
+
+## Learning
+
+Organic farming internships:  
+[World Wide Opportunities on Organic Farms](https://wwoof.net/)

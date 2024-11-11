@@ -10,7 +10,8 @@ Other specific tools:
 [Gearwrench ratcheting wrenches](https://www.gearwrench.com/all-tools/wrenches),
 [Cat phones](https://www.catphones.com/),
 [Wire Wrap Tools](https://www.specialized.net/tools/wire-wrap-tools.html),
-[WAGO Lever Nuts cable splicers](https://www.wago.com/us/lp-221)
+[WAGO Lever Nuts cable splicers](https://www.wago.com/us/lp-221),
+[KNIPEX pliers-wrench combo](https://www.knipex.com/products/pliers-wrenches-pliers-and-a-wrench-in-a-single-tool)
 
 Smartphone sensor readings:  
 [phyphox🍎🤖](https://phyphox.org/)

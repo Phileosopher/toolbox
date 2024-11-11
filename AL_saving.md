@@ -96,3 +96,6 @@ Classified ads - UK:
 
 Classified ads - US:  
 [AmericanListed.com](https://www.americanlisted.com/)
+
+Mistyped eBay deals:  
+[FatFingers](https://fatfingers.com/)
