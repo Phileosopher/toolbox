@@ -17,6 +17,9 @@ Computational heavy lifting:
 Computer screen ruler:  
 [iRuler.net](https://iruler.net/)
 
+Speedometer:  
+[Status-Bar-Tachometer](https://github.com/Waboodoo/Status-Bar-Tachometer)
+
 ## Learning
 
 [Math is Fun](https://www.mathsisfun.com/)

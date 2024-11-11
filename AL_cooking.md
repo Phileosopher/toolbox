@@ -15,6 +15,9 @@ Grocery shopping lists:
 [grocy☁⊞🍎🤖](https://grocy.info/) [GitHub](https://github.com/grocy/grocy),
 [ListEase☁🍎🤖](https://www.shoppinglistapp.com/)
 
+Meal planning:  
+[MealPrepPro🍎](https://www.mealpreppro.com/)
+
 ## Recipes☁
 
 [Allrecipes*](https://www.allrecipes.com/),
@@ -55,6 +58,7 @@ Cookbooks - bread-based recipes:
 
 Recipe blogs and news:  
 [Delishably](https://delishably.com/),
+[Fit Men Cook](https://fitmencook.com/),
 [Serious Eats](https://www.seriouseats.com/)
 
 Dining blogs and news:  

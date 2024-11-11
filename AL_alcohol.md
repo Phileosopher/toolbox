@@ -1,7 +1,11 @@
 
 # Tools for [alcohol](https://adequate.life/alcohol/)
 
+Cocktail recipes:  
 [Daniel's Cocktails](https://www.cocktailsdrinkrecipes.com/cocktail-lists/a-z-cocktail-list.html)
+
+Drink tracker:  
+[Good Spirits🍎](https://apps.apple.com/us/app/good-spirits/id1434237439) ([GitHub](https://github.com/archagon/good-spirits))
 
 Cocktail ingredient search:  
 [Make My Cocktail](https://www.makemycocktail.com/),
