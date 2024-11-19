@@ -201,3 +201,210 @@ Financial advice:
 
 Rent out computer resources - bandwidth:  
 [EarnApp - Bandwidth](https://earnapp.com/bandwidth)
+
+## UNSORTED
+
+[GitHub - fossfox-com/awesome-open-source-jobs: Awesome software engineering dev jobs at open-source companies](https://github.com/fossfox-com/awesome-open-source-jobs)
+
+[GitHub - DahnJ/EO-jobs: List of earth observation companies and job sites](https://github.com/DahnJ/EO-jobs)
+
+[GitHub - remoteintech/remote-jobs: A list of semi to fully remote-friendly companies (jobs) in tech.](https://github.com/remoteintech/remote-jobs)
+
+[GitHub - mzoyinda/Tech-Newbies: Tech-Newbies is an open source project for beginners in tech to find entry level jobs with (0-2)years experience, internships, bootcamps, free courses and many more....](https://github.com/mzoyinda/Tech-Newbies)
+
+[GitHub - t9tio/open-source-jobs: A list of Open Source projects offering jobs.](https://github.com/t9tio/open-source-jobs)
+
+[GitHub - ugglr/Remote-Developer-jobs-directory: Document all things for remote developer positions.](https://github.com/ugglr/Remote-Developer-jobs-directory)
+
+[#GetFediHired - NAS](https://noauthority.social/tags/GetFediHired)
+[#Hiring - NAS](https://noauthority.social/tags/Hiring)
+
+[AiHunt](https://aihunt.app/)
+A platform that curates and lists AI-related job opportunities in various industries.
+
+[Xing](https://www.xing.com)
+[XING](https://www.xing.com/communities)
+[Google to search profiles on Xing](https://recruitin.net/xing.php)
+Europe
+
+[LazyApply](http://lazyapply.com)
+Automate Your Job Application Process. We Automatically Apply To All The Jobs On Platforms Like Linkedin, Indeed And Ziprecruiter.
+
+[Monster](https://www.monster.com/)
+
+[Who is Hiring?](https://whoishiring.io/)
+jobs search engine per location and some other criteria
+
+[Gabriel Lewis](https://www.producthunt.com/@gabriel__lewis/collections/hack-your-job-search)
+List of tools to hack your job search
+
+[PartTimer](https://parttimer.io/)
+a job board for skilled work under 40 HRS/week
+
+[Glassdoor](https://www.glassdoor.com/Reviews/index.htm)
+A site that lets employees post anonymous salaries and reviews of their company.
+:star:
+
+[BetaList Jobs](https://betalist.com/jobs)
+shape the future by joining one of the fastest growing technology startups
+
+[WorkWithUs](https://workwithus.io/)
+hand-curated selection of best jobs
+
+[Itamar Turner-Trauring](https://codewithoutrules.com/career/)
+Get a better job ; articles about health & work life balance, programmer productivity, problem solving, etc.
+
+[We've Made 500+ Hours of Content Free to Address The Cybersecurity Skills Shortage | Cybrary](https://www.cybrary.it/blog/500-hours-free-content-to-address-cybersecurity-skills-shortage)
+
+[Career Fair - Level up your tech career](https://www.careerfair.io/)
+
+[Animation/VFX/Game Industry Job Postings](https://docs.google.com/spreadsheets/d/1eR2oAXOuflr8CZeGoz3JTrsgNj3KuefbdXJOmNtjEVM/edit#gid=1850240363)
+Free - Job posting sheet for creative roles
+
+[BeerMoneyForum.com - BIGGEST MAKE MONEY FORUM ONLINE](https://www.beermoneyforum.com/)
+
+[Quickly find research participants you can trust | Prolific](https://www.prolific.com/)
+
+[GitHub - janpeuker/awesome-tech-roles: Job titles, roles, career paths by role and responsibility in Software and Information Technology ("IT", "ICT", "Tech") firms.](https://github.com/janpeuker/awesome-tech-roles)
+
+[GitHub - ohsusannamarie/awesome-talent-sourcing: A curated awesome list of talent sourcing resources. Feel free to contribute!](https://github.com/ohsusannamarie/awesome-talent-sourcing)
+
+## UNSORTED - JOB BOARDS
+
+[Search over 2,000 science events | Nature Careers](https://www.nature.com/natureevents/science)
+
+[Top Tech Companies and Featured Lists in 2024 | Wellfound (formerly AngelList Talent)](https://wellfound.com/job-collections)
+
+[Find Startup Jobs Near You and Remote Jobs | Wellfound (formerly AngelList Talent)](https://wellfound.com/jobs)
+
+[LinkedIn Job Search: Find US Jobs, Internships, Jobs Near Me](https://www.linkedin.com/jobs/)
+
+[Glassdoor | Job Search & Career Community](https://www.glassdoor.com/index.htm)
+
+[jobs | Hacker News](https://news.ycombinator.com/jobs)
+
+[HN Hiring](https://www.hnhiring.me/)
+[All | Search powered by Algolia](https://hn.algolia.com/?query=%22Who%20is%20Hiring%22&sort=byDate&prefix=false&page=0&dateRange=all&type=story)
+
+[Designer, Creatives and Developers Jobs Board | Authentic Positions](https://authenticjobs.com/)
+
+[Startup Jobs | F6S](https://www.f6s.com/jobs)
+
+[Breakout List – Identify top startups to join](https://www.breakoutlist.com/)
+
+[Startup Jobs at YC Companies in Engineering, Product, Design, Remote and more | Y Combinator's Work at a Startup](https://www.workatastartup.com/)
+
+[Best Tech Jobs & Startup Jobs 2024 | Built In](https://builtin.com/jobs)
+
+[Blind - Anonymous and Professional Community](https://www.teamblind.com/)
+
+[Otta | The better way to find a job in tech](https://www.otta.com/)
+
+[Job Search | Indeed](https://www.indeed.com/)
+
+[Job Search Engine | Workopolis](https://www.workopolis.com/)
+
+[Monster Jobs - Job Search, Career Advice & Hiring Resources | Monster.com](https://www.monster.com/)
+
+[Employbl: Discover your dream job - Employbl](https://www.employbl.com/)
+
+[Discover Top Startup Accelerators, Incubators, and VCs - IncubatorList.com](https://incubatorlist.com/)
+
+## UNSORTED - REMOTE JOB BOARDS
+
+[Remote Jobs in Programming, Support, Design and more](https://remotive.com/)
+
+[GitHub - engineerapart/TheRemoteFreelancer: Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!](https://github.com/engineerapart/TheRemoteFreelancer)
+[The Remote Freelancer | List of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!](https://theremotefreelancer.com/)
+
+[Search Jobs And Career Opportunities - Find Your Dream Job Today! | Stack Overflow](https://stackoverflow.jobs/)
+
+[Remote Jobs: 1,000+ Job Openings for Remote Work | Jobspresso](https://jobspresso.co/)
+
+[Designer, Creatives and Developers Jobs Board | Authentic Positions](https://authenticjobs.com/#job-types=7,6,1,5,2,4,3&remote=true&skills=)
+
+[Who Is Hiring](https://whoishiring.io/search/-1.2999/-32.6511/2?remote=true)
+- in TB, but not specific query
+
+[GitHub - yanirs/established-remote: A list of established remote companies](https://github.com/yanirs/established-remote)
+
+[Highly curated remote jobs hand-picked from Hacker News Who is Hiring](https://remoteleaf.com/whoishiring)
+
+[Find Remote Work Online (25+ Best Remote Job Sites) [2024]](https://skillcrush.com/blog/sites-finding-remote-work/)
+
+## UNSORTED - FREELANCING JOB BOARDS
+
+[Hire Freelancers & Find Freelance Jobs Online | Freelancer](https://www.freelancer.com/)
+
+[LanceList – a directory of ways for freelancers to find work](https://www.lancelist.com/)
+
+[PeoplePerHour.com - Hire Freelancers Online & Find Freelance Work](https://www.peopleperhour.com/)
+
+[Logos, Web, Graphic Design & More. | 99designs](https://99designs.com/)
+
+[Envato Elements: Unlimited Stock Videos, Music, Photos & Graphics](https://elements.envato.com/)
+
+## UNSORTED - DIGITAL NOMADS AND REMOTE WORK
+
+[Design @ Remote Companies | Trello](https://trello.com/b/GYBwezNe/design-remote-companies)
+
+[Remote Design Jobs](https://weworkremotely.com/categories/remote-design-jobs)
+
+[GitHub - lukasz-madon/awesome-remote-job: A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python](https://github.com/lukasz-madon/awesome-remote-job)
+
+[Elen Veenpere](https://teleport.org/blog/2015/03/best-sites-for-remote-jobs/)
+(2015) Best sites for finding your dream remote job
+
+[The Remote Working Company](http://www.remoteworking.co/)
+Remote Jobs for people that don't like to go to work, mostly technology oriented
+
+[Working Nomads](https://www.workingnomads.co/jobs)
+Remote jobs, with most offers in development
+
+[We Work Remotely](https://weworkremotely.com/)
+Remote Jobs: Design, Programming, DevOps and more
+
+[Stack Overflow](https://stackoverflow.com/jobs/remote-developer-jobs)
+Remote Developer jobs
+
+[OkJob](https://okjob.io/remote-4-day-work-week/)
+Remote 4 day week jobs
+
+[Atlas & Boots](https://www.atlasandboots.com/remote-work/best-cities-in-the-world-ranking/)
+(2021) Ranked: 100 best cities in the world 2022
+
+## UNSORTED - HIGH-QUALITY COMPANIES
+
+[GitHub - poteto/hiring-without-whiteboards: ⭐️ Companies that don't have a broken hiring process](https://github.com/poteto/hiring-without-whiteboards)
+
+## UNSORTED - HIRING AGENCIES
+
+[Top startup jobs in NYC, San Francisco, and Remote roles](https://underdog.io/)
+
+[World-class technical talent on tap | Gun.io](https://gun.io/)
+
+[Hire the Best Freelance Tech Talent](https://10xmanagement.com/)
+
+[Connecting companies with the universe's most creative creatives - WNW](https://workingnotworking.com/)
+
+[Woo | Sales](https://tech.woo.io/)
+
+## UNSORTED - TRADE SHOWS AND CONVENTIONS
+
+[Trade Shows, Expos, Exhibitions, Trade Fairs - Find & Compare, Reviews, Calendar](https://10times.com/tradeshows)
+
+[Trade Shows Calendar | Top USA and International Trade Shows](https://absoluteexhibits.com/tradeshows-calendar/)
+
+[Trade Shows directory, Upcoming B2B tradeshows, trade expo, b2b trade fairs & exhibitions in 2024](https://b2btradeshows.net/)
+
+[Trade Show Directory : Exhibitions, Conferences & Trade Shows Worldwide](https://www.eventseye.com/)
+
+[Trade Show Calendar | ExpoMarketing](https://www.expomarketing.com/trade-show-calendar/)
+
+[Welcome to Expo-Guide - Your Guide for Exhibitions, Exhibitors and Organizers](https://www.expo-guide.com/)
+
+[Upcoming Trade Shows](https://www.nimlok.com/upcoming-trade-shows)
+
+[The Tradeshow Calendar](https://www.thetradeshowcalendar.com/)
+
+[Homepage | TSNN Trade Show News](https://www.tsnn.com/)

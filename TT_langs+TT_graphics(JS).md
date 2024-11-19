@@ -3,7 +3,7 @@
 
 ## Foraging/Inspiration
 
-Themes/templates:  
+Tailwind themes/templates:  
 [Cruip*](https://cruip.com/),
 [Wicked Templates*](https://www.wickedtemplates.com/demos)
 
