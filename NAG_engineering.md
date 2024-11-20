@@ -17,3 +17,17 @@ Miscellaneous components:
 
 Engineering notes:  
 [LearnEngineering.in](https://learnengineering.in/)
+
+## UNSORTED - AIRCRAFT
+
+[Launch HN: Airhart Aeronautics (YC S22) – A modern personal airplane | Hacker News](https://news.ycombinator.com/item?id=41163382)
+
+## UNSORTED - DIY
+
+[diyhpluswiki](https://diyhpl.us/wiki/)
+
+## UNSORTED - ELECTRICITY
+
+[GitHub - samy101/awesome-energy-forecasting: A curated list of awesome energy forecasting resources such as, code libraries, datasets, courses, tutorials, research papers, competitions and communities.](https://github.com/samy101/awesome-energy-forecasting)
+[Samy Kamkar](https://samy.pl/)
+is an American privacy and security researcher, computer hacker.

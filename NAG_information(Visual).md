@@ -104,3 +104,8 @@ Availability by country:
 
 Popular movies list API:  
 [popular-movies](https://github.com/sjlu/popular-movies) ([dataset](https://popular-movies-data.stevenlu.com/movies.json))
+
+## UNSORTED - WATCH LIST
+
+[Kurozora](https://github.com/kurozora/kurozora-app)
+Official app for discovering and tracking anime, manga, game, music

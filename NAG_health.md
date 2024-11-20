@@ -214,3 +214,107 @@ Drug Effect Duration/Testing Information
 
 [Cactus2000](http://www.cactus2000.de/uk/unit/masswas.shtml)
 Converter for hardness of water
+
+## UNSORTED - SPECIFIC AFFLICTIONS
+
+[PainSpot](https://www.painspot.com/)
+Pain Cause Identifier
+
+[AS Resources](https://www.everydaybattle.com/resources/)
+Ankylosing Spondylitis Resources
+
+## UNSORTED - SPECIFIC AFFLICTIONS - MEDICATIONS
+
+[RxDROID](https://f-droid.org/en/packages/at.jclehner.rxdroid/)
+reminds you of your medication schedules
+
+## UNSORTED - SPECIFIC AFFLICTIONS - CANCER
+
+[Share The Journey](https://github.com/ResearchKit/ShareTheJourney)
+Breast cancer study
+
+[GitHub - qurit/awesome-qurit: A curated list of awesome tools and resources used at Qurit.](https://github.com/qurit/awesome-qurit)
+[Quantitative Radiomolecular Imaging and Therapy](https://www.bccrc.ca/dept/io-programs/qurit/)
+
+## UNSORTED - SPECIFIC AFFLICTIONS - DIABETES
+
+[Glucosio](https://github.com/Glucosio/glucosio-ios)
+Diabetes management and research
+
+[DIAGUARD](https://github.com/Faltenreich/Diaguard)
+helps you log and track your diabetes
+
+[The Nightscout Project – We Are Not Waiting](http://www.nightscout.info/)
+
+## UNSORTED - SPECIFIC AFFLICTIONS - HEADACHES
+
+[HEADI](https://github.com/MrReSc/Headi)
+an app to log and track your headaches
+
+[Migraine Log](https://gitlab.com/zerodogg/org.zerodogg.migraineLog)
+[Migraine Log](https://migrainelog.zerodogg.org/en)
+A headache diary that respects your privacy
+A simple diary to track your headaches.
+
+## UNSORTED - SPECIFIC AFFLICTIONS - MELANOMA
+
+[Gleam](https://github.com/akarataev/gleam-ios)
+Use machine learning to help diagnose melanoma early, get the necessary treatment
+
+## UNSORTED - SPECIFIC AFFLICTIONS - MENSTRUATION
+
+[PERIODICAL](https://f-droid.org/en/packages/de.arnowelzel.android.periodical/)
+period calendar for ladies
+
+[DRIP](https://f-droid.org/en/packages/com.drip/)
+period tracker with password protection
+
+[LOG28](https://f-droid.org/en/packages/com.log28/)
+a simple no-frills period tracker
+
+[Show HN: I made a privacy friendly and simple app to track my menstruation | Hacker News](https://news.ycombinator.com/item?id=40199670)
+[Lady Log - A period tracker - Apps on Google Play](https://play.google.com/store/apps/details?id=earlyowlsoftware.justme.justme&hl=en_US)
+
+## UNSORTED - NEUROSCIENCE
+
+[analyticalmonk/awesome-neuroscience: A curated list of awesome neuroscience libraries, software and any content related to the domain.](https://github.com/analyticalmonk/awesome-neuroscience)
+
+[asoplata/open-computational-neuroscience-resources: A publicly-editable collection of open computational neuroscience resources](https://github.com/asoplata/open-computational-neuroscience-resources)
+
+[GitHub - eselkin/awesome-computational-neuroscience: A list of schools and researchers in computational neuroscience](https://github.com/eselkin/awesome-computational-neuroscience)
+
+[GitHub - nikolaydubina/neuroscience-landscape: Resources on Neuroscience](https://github.com/nikolaydubina/neuroscience-landscape)
+
+## UNSORTED - BIG MEDI-PHARMA
+
+[Find out who owns a nursing home with our Nursing Home Inspect tool | Hacker News](https://news.ycombinator.com/item?id=38725264)
+[Find Out Who Owns a Nursing Home With Our Nursing Home Inspect Tool - ProPublica](https://www.propublica.org/article/find-nursing-home-ownership-information)
+
+[CCF](https://gitlab.com/librehealth/toolkit/cost-of-care/lh-toolkit-cost-of-care-app)
+[F-Droid](https://f-droid.org/app/io.librehealth.toolkit.cost_of_care)
+
+[Home | Open Payments Data CMS](https://openpaymentsdata.cms.gov/)
+Find payments made to doctors and hospitals
+
+## UNSORTED - HEALTH NEWS
+
+[JamanNetwork](https://jamanetwork.com/)
+Health News
+
+[medicinenet](https://www.medicinenet.com/)
+Health News
+
+[medpagetoday](https://www.medpagetoday.com/)
+Health News
+
+[everydayhealth](https://www.everydayhealth.com/)
+Health News
+
+[medscape](https://www.medscape.com/)
+Health News
+
+[healthline](https://www.healthline.com/)
+Health News
+
+[webmd](https://www.webmd.com/)
+Health News
