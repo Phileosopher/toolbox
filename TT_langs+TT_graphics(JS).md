@@ -7,77 +7,63 @@ Tailwind themes/templates:
 [Cruip*](https://cruip.com/),
 [Wicked Templates*](https://www.wickedtemplates.com/demos)
 
-Cheatsheets:  
-[Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
-
 ## UI Libraries
 
 Material design:
-[Material Design Lite(no framework dependencies)](https://getmdl.io/),
-[MUI(React)](https://mui.com/)
+[Material Design Lite(no framework dependencies)](https://getmdl.io/) ([GitHub](https://github.com/google/material-design-lite)),
+[MUI(React)⬆️](https://mui.com/) ([GitHub](https://github.com/mui))
 
 Guiding users through elements:  
-[Driver.js](https://driverjs.com/)
+[Driver.js](https://driverjs.com/) ([GitHub](https://github.com/kamranahmedse/driver.js))
 
 ## Element-Specific Libraries: General Animations
 
 Step-by-step walkthrough for users:  
-[Shepherd](https://shepherdjs.dev/)
+[Shepherd⬆️](https://shepherdjs.dev/)
 
 Animations/SVGs:  
-[anime.js](https://animejs.com/),
-[LottieFiles](https://lottiefiles.com/),
-[tween.js](https://github.com/sole/tween.js)
+[anime.js](https://animejs.com/) ([GitHub](https://github.com/juliangarnier/anime/)),
+[tween.js](https://github.com/tweenjs/tween.js)
 
-SVGs:  
-[vivus.js](https://maxwellito.github.io/vivus/)
+SVG animations:  
+[vivus.js](https://maxwellito.github.io/vivus/) ([GitHub](https://github.com/maxwellito/vivus))
 
 SVGs - data visualization:  
 [Textures.js](https://riccardoscalco.it/textures/)
 
-Sprites - animations/panning:  
-[Motio](https://darsa.in/motio/)
-
 Interactive maps:  
-[Leaflet](https://leafletjs.com/) (with [Leaflet Provider Demo](https://leaflet-extras.github.io/leaflet-providers/preview/))
+[Leaflet](https://leafletjs.com/) ([GitHub](https://github.com/Leaflet/Leaflet), with [Leaflet Provider Demo](https://leaflet-extras.github.io/leaflet-providers/preview/))
 
 React components - icons:  
-[React Icons](https://react-icons.github.io/react-icons/),
+[React Icons](https://react-icons.github.io/react-icons/) ([GitHub](https://github.com/react-icons/react-icons))
+
+React components - icon search:  
 [React SVG Icons](https://reactsvgicons.com/)
 
-Vue components - icons:  
+Vue components - Bootstrap icons:  
 [Bootstrap Icons Vue](https://github.com/tommyip/bootstrap-icons-vue)
 
 ## Element-Specific Libraries: Transitions
 
-Keep absolutely positioned elements stay near other elements:  
-[Tether](https://tether.io/)
-
 Page transitions:  
-[barba.js](https://barba.js.org/)
+[barba.js](https://barba.js.org/) ([GitHub](https://github.com/barbajs/barba))
 
 Divided page multi-scroll:  
-[multiscroll.js](https://alvarotrigo.com/multiScroll/)
+[multiscroll.js](https://alvarotrigo.com/multiScroll/) ([GitHub](https://github.com/alvarotrigo/multiScroll.js))
 
 ## Element-Specific Libraries: Less Common Elements
 
 3D parallax hover effects:  
-[Atropos](https://atroposjs.com/)
-
-Curvy arrows:  
-[react-curved-arrow](https://react-curved-arrow.nickjanssen.com/)
+[Atropos](https://atroposjs.com/) ([GitHub](https://github.com/nolimits4web/atropos/))
 
 WebGL textured planes:  
-[curtains.js](https://www.curtainsjs.com/)
+[curtains.js](https://www.curtainsjs.com/) ([GitHub](https://github.com/martinlaxenaire/curtainsjs))
 
 Header (swapping CSS):  
-[Midnight.js](https://aerolab.github.io/midnight.js/)
-
-Interactive maps:  
-[Leaflet(JS)](https://leafletjs.com/)
+[Midnight.js](https://aerolab.github.io/midnight.js/) ([GitHub](https://github.com/Aerolab/midnight.js))
 
 Document support (ODF):  
-[WebODF](https://webodf.org/)
+[WebODF](https://webodf.org/) ([GitHub](https://github.com/webodf/WebODF))
 
 ## Element-Specific Primitives
 
@@ -87,23 +73,18 @@ Autocomplete/Dropdown/Combobox:
 ## Specific Styles
 
 XKCD data visualization style:  
-[Chart.xkcd](https://github.com/timqian/chart.xkcd)
+[Chart.xkcd](https://timqian.com/chart.xkcd/) [GitHub](https://github.com/timqian/chart.xkcd)
 
 ## Code Snips/Generators
 
-[HTML DOM*](https://htmldom.dev/)
-
-Simple utilities:  
-[1loc*](https://1loc.dev/)
-
 Forms:  
-[jQuery formBuilder☁](https://formbuilder.online/)
+[jQuery formBuilder☁](https://formbuilder.online/) ([GitHub](https://github.com/kevinchappell/formBuilder))
 
 Canvas card designs:  
 [Canvas Cards](https://canvas-cards.glitch.me/)
 
 Icon transitions:  
-[Icon Transition Generator☁](https://nucleoapp.com/tool/icon-transition)
+[Icon Transition Generator☁$](https://nucleoapp.com/tool/icon-transition)
 
 SVG to React converter:  
-[SVGR](https://react-svgr.com/playground/)
+[SVGR](https://react-svgr.com/playground/) ([GitHub](https://github.com/gregberge/svgr))

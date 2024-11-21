@@ -31,7 +31,7 @@ I've left emoji earmarks for reference, and my frequency of use approximately co
     - ⦿ - data-intensive tool
     - 🐍 - runs in Python
 - Its business model:  
-    - 🆓 or a GitHub/Sourceforge/GitLab/Codeberg link - [FLOSS](https://trendless.tech/floss/)
+    - 🆓 or link to GitHub/Sourceforge/GitLab/Codeberg - something like [FLOSS](https://trendless.tech/floss/)
     - ⬆️ - freemium model
     - $ - requires paying at least some money
     - 🧛 - [FAANG](https://trendless.tech/faang) website or FAANG-dependent (i.e., Amazon, Facebook, Microsoft)

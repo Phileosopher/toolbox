@@ -97,7 +97,7 @@ Keyframes:
 [Keyframes.app's Animate☁](https://keyframes.app/animate/)
 
 SVG animations:  
-[Vivus Instant☁](https://maxwellito.github.io/vivus-instant/) ([GitHub](https://github.com/maxwellito/vivus))
+[Vivus Instant☁](https://maxwellito.github.io/vivus-instant/) ([GitHub](https://github.com/maxwellito/vivus-instant))
 
 ## Supporting Elements - Decorations
 

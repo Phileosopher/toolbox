@@ -8,11 +8,11 @@ Phone server:
 [awesome-5g💩](https://github.com/calee0219/awesome-5g)
 
 Ad-blocking:  
-[Pi-hole](https://pi-hole.net/),
+[Pi-hole](https://pi-hole.net/) ([GitHub](https://github.com/pi-hole)),
 [Safing Portmaster](https://safing.io/)
 
 Ad-blocking - list:  
-[Firebog Blocklist Collection](https://firebog.net/),
+[Firebog Blocklist Collection](https://firebog.net/) ([GitHub](https://github.com/WaLLy3K/wally3k.github.io)),
 [pi-hole-blocklist](https://github.com/zangadoprojets/pi-hole-blocklist)
 
 DNS/DHCP services:  
@@ -26,10 +26,10 @@ E2E encryption:
 ## Messaging Stack
 
 Messaging interface platform:  
-[Mattermost💾🤖](https://mattermost.com/) (simplified with [mattermost-cookbook](https://github.com/ist-dsi/mattermost-cookbook))
+[Mattermost💾🤖](https://mattermost.com/) ([GitHub](https://github.com/mattermost/), simplified with [mattermost-cookbook](https://github.com/ist-dsi/mattermost-cookbook))
 
 REST API bridge:  
-[Matterbridge](https://mattermost.com/marketplace/matterbridge/)
+[Matterbridge](https://mattermost.com/marketplace/matterbridge/) ([GitHub](https://github.com/42wim/matterbridge))
 
 ## Cloud Stack
 
@@ -37,12 +37,12 @@ Diagramming:
 [Cloudcraft☁](https://www.cloudcraft.co/)
 
 Locally hosted AWS emulator:  
-[LocalStack💾](https://localstack.cloud/)
+[LocalStack💾$](https://localstack.cloud/)
 
 ## Hardware
 
 Privacy-respecting network equipment:  
-[Protectli](https://protectli.com/)
+[Protectli$](https://protectli.com/)
 
 Network router:  
-[Turris🆓](https://www.turris.com/)
+[Turris🆓$](https://www.turris.com/)

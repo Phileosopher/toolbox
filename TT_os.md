@@ -25,9 +25,11 @@ BIN to ISO converter:
 Portable apps:  
 [PortableApps.com⊞■](https://portableapps.com/)
 
-Portable OS:  
-[Rufus⊞■(better for 1 OS)](https://rufus.ie/),
-[Ventoy⊞■⌘🐧(better for multi-OS or PXE/netboot)](https://www.ventoy.net/)
+Portable OS - 1 OS at a time:  
+[Rufus⊞■](https://rufus.ie/),
+
+Portable OS - multi-OS or PXE/netboot:  
+[Ventoy⊞■⌘🐧](https://www.ventoy.net/)
 
 Portable USB/CD drive (from a phone's storage):  
 [DriveDroid🤖](https://www.drivedroid.io/)

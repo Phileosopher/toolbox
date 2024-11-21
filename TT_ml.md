@@ -12,9 +12,6 @@ Piles of everything💩:
 GPT prompts:  
 [awesome-gpt-prompt-engineering💩](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)
 
-Document data:  
-[Collato](https://collato.com/)
-
 Document data - invoices:  
 [InvoiceNet](https://github.com/naiveHobo/InvoiceNet)
 
@@ -22,7 +19,3 @@ Document data - invoices:
 
 Computer Vision:  
 [awesome-computer-vision-models💩](https://github.com/gmalivenko/awesome-computer-vision-models)
-
-## Machine Learning Frameworks
-
-[AForge.NET (C#)](https://www.aforgenet.com/framework/)

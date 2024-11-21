@@ -17,7 +17,7 @@ Network emulation:
 
 ## L1 Physical - Hardware
 
-IP camera:  
+IP camera$:  
 [Axis Network Cameras](https://www.axis.com/products/network-cameras),
 [GeoVision](https://www.geovision.com.tw/)
 
@@ -30,8 +30,8 @@ WLAN adapter - history:
 [WifiHistoryView⊞■](https://www.nirsoft.net/utils/wifi_history_view.html)
 
 Mobile bandwidth reference*:  
-[FCC Online Table of Frequency Allocations](https://transition.fcc.gov/oet/spectrum/table/fcctable.pdf),
-[United States Frequency Allocation Chart](https://www.ntia.doc.gov/page/2011/united-states-frequency-allocation-chart)
+[FCC's Online Table of Frequency Allocations](https://transition.fcc.gov/oet/spectrum/table/fcctable.pdf),
+[NTIA's United States Frequency Allocation Chart](https://www.ntia.doc.gov/page/2011/united-states-frequency-allocation-chart)
 
 Datacenter/infrastructure - map:  
 [Infrapedia](https://www.infrapedia.com/)
@@ -59,11 +59,11 @@ WLAN - map:
 
 WLAN - scanner:  
 [inSSIDer](https://www.metageek.com/inssider/),
-[Kismet](https://www.kismetwireless.net/),
+[Kismet](https://www.kismetwireless.net/) ([GitHub](https://github.com/kismetwireless/kismet)),
 [NetSpot⊞⌘🤖](https://www.netspotapp.com/),
 [sparrow-wifi🐧](https://github.com/ghostop14/sparrow-wifi),
 [netstumbler/ministumbler⊞■](http://www.stumbler.net/),
-[Vistumbler⊞](https://www.vistumbler.net/),
+[Vistumbler⊞](https://www.vistumbler.net/) ([GitHub](https://github.com/acalcutt/Vistumbler)),
 [WiFi Analyzer⊞🧛](https://www.microsoft.com/en-us/p/wifi-analyzer/9nblggh33n0n)
 
 Bluetooth scan:  
@@ -80,7 +80,7 @@ VHF/UHF TV signals:
 [TV Reception Maps](http://www.receptionmaps.com/)
 
 Wireless radio API:  
-[GNU Radio](https://wiki.gnuradio.org/)
+[GNU Radio🆓](https://wiki.gnuradio.org/)
 
 USB NIC
 
@@ -89,7 +89,7 @@ USB NIC
 Cabled Providers:  
 [BroadbandNow.com☁](https://broadbandnow.com/)
 
-Cable/Port Diagnosis:  
+5-in-1 cable/port diagnosis:  
 [5-in-1 network admin's cable*](http://www.ossmann.com/5-in-1.html)
 
 Loopback plugs
@@ -125,8 +125,8 @@ Drywall saw
 ## L2 Data Link
 
 Packet Analysis:  
-[TCPDUMP/LIBPCAP🐧](https://www.tcpdump.org/),
-[Wireshark⊞■⌘](https://www.wireshark.org/) (with [Termshark for TUI](https://termshark.io/))
+[TCPDUMP/LIBPCAP🐧](https://www.tcpdump.org/) ([GitHub](https://github.com/the-tcpdump-group/)),
+[Wireshark⊞■⌘](https://www.wireshark.org/) (with [Termshark for TUI](https://termshark.io/) ([GitHub](https://github.com/gcla/termshark)))
 
 OUI/MAC search:  
 [Wireshark's OUI Lookup Tool☁](https://www.wireshark.org/tools/oui-lookup.html),
@@ -184,7 +184,7 @@ Ping - visualization:
 [gping](https://github.com/orf/gping)
 
 IP management:  
-[NIPAP🐧](https://spritelink.github.io/NIPAP/),
+[NIPAP🐧](https://spritelink.github.io/NIPAP/) ([GitHub](https://github.com/SpriteLink/NIPAP)),
 [SolarWinds' ipMonitor Free Edition⊞](https://www.solarwinds.com/free-tools/ipmonitor-free)
 
 IP management - subnet calculator:  
@@ -223,7 +223,7 @@ IP address scanner:
 [FastResolver⊞■](https://www.nirsoft.net/utils/fastresolver.html),
 
 Network discovery/scanning:  
-[Nmap⊞⌘🐧□](https://nmap.org/) (and a GUI with [Zenmap](https://nmap.org/zenmap/))
+[Nmap⊞⌘🐧□](https://nmap.org/) ([GitHub](https://github.com/nmap/nmap), and a GUI with [Zenmap](https://nmap.org/zenmap/))
 
 IP scan - NetBIOS:  
 [NetBScanner⊞■](https://www.nirsoft.net/utils/netbios_scanner.html)
@@ -300,7 +300,7 @@ Encryption test:
 ## L7 Application
 
 Telnet/SSH client:  
-[PuTTY⊞■🐧](https://putty.org/)
+[PuTTY⊞■🐧](https://putty.org/) ([Git](https://git.tartarus.org/?p=simon/putty.git))
 
 ## Multiple Levels
 
