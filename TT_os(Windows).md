@@ -50,7 +50,8 @@ Startup programs:
 [Autoruns■](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
 
 Disk usage:  
-[WinDirStat■](https://windirstat.net/),
+[SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/),
+[WinDirStat■](https://windirstat.net/) ([GitHub](https://github.com/windirstat/windirstat)),
 [WizTree■](https://wiztreefree.com/)
 
 Batch cleanup/repair:  

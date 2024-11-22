@@ -29,7 +29,7 @@ Portable OS - 1 OS at a time:
 [Rufus⊞■](https://rufus.ie/),
 
 Portable OS - multi-OS or PXE/netboot:  
-[Ventoy⊞■⌘🐧](https://www.ventoy.net/)
+[Ventoy⊞■⌘🐧](https://www.ventoy.net/) ([GitHub](https://github.com/ventoy/Ventoy))
 
 Portable USB/CD drive (from a phone's storage):  
 [DriveDroid🤖](https://www.drivedroid.io/)

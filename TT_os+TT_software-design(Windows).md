@@ -12,7 +12,7 @@ INI translation:
 
 Binary resource editing:  
 [Resource Hacker■](http://www.angusj.com/resourcehacker/),
-[XN Resource Editor■](https://stefansundin.github.io/xn_resource_editor/)
+[XN Resource Editor■](https://stefansundin.github.io/xn_resource_editor/) ([GitHub](https://github.com/stefansundin/xn_resource_editor))
 
 DLL/EXE binary strong name remover:  
 [SNRemove■□](https://www.nirsoft.net/dot_net_tools/strong_name_remove.html)

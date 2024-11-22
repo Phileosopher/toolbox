@@ -21,7 +21,7 @@ Process monitor:
 
 Package manager:  
 [Apt](https://wiki.debian.org/Apt),
-[DNF](https://rpm-software-management.github.io/),
+[DNF](https://rpm-software-management.github.io/) ([GitHub](https://github.com/rpm-software-management)),
 [Homebrew⌘](https://brew.sh/)
 
 ## Specific Software
@@ -35,8 +35,9 @@ Modern games launcher:
 ## Cleanup
 
 Disk usage:  
-[Baobab](http://www.marzocca.net/linux/baobab/)
-[NCurses□](https://dev.yorhel.nl/ncdu),
+[Baobab](http://www.marzocca.net/linux/baobab/),
+[NCurses□](https://dev.yorhel.nl/ncdu) ([Git](https://g.blicky.net/)),
+[QDirStat](https://github.com/shundhammer/qdirstat)
 
 ## Desktop Environment Improvement
 

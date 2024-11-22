@@ -33,10 +33,15 @@ Alfred enhancements - Workflows:
 GitHub repo search:  
 [alfred github repos](https://github.com/edgarjs/alfred-github-repos)
 
+## Cleanup
+
+Disk space:  
+[GrandPerspective](https://grandperspectiv.sourceforge.net/) ([SourceForge](https://sourceforge.net/projects/grandperspectiv/))
+
 ## Peripherals
 
 Light sensor:  
 [lightum](https://github.com/poliva/lightum)
 
 Mouse side button mapping:  
-[SensibleSideButtons](https://sensible-side-buttons.archagon.net/)
+[SensibleSideButtons](https://sensible-side-buttons.archagon.net/) ([GitHub](https://github.com/archagon/sensible-side-buttons))

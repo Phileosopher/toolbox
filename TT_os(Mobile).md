@@ -8,8 +8,6 @@
 
 ## Android🤖
 
-[Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/)
-
 File management and root:  
 [Odin3⊞](https://odin3download.com/)
 
@@ -21,14 +19,14 @@ File management:
 [X-plore File Manager](https://www.lonelycatgames.com/apps/xplore/)
 
 Camera:  
-[Libre Camera🕵️](https://f-droid.org/packages/com.iakmds.librecamera/)
+[Libre Camera🕵️](https://f-droid.org/packages/com.iakmds.librecamera/) ([GitHub](https://github.com/iakdis/librecamera))
 
 Remove ad software:  
 [UnlockAPK's AdFree Tool](https://unlockapk.com/AdFree-Tool.php)
 
 Email:  
 [FairEmail](https://email.faircode.eu/),
-[K-9 Mail](https://k9mail.app/)
+[K-9 Mail](https://k9mail.app/) ([GitHub](https://github.com/k9mail/k9mail.app))
 
 Wallpapers:  
 [GalleryWall](https://github.com/bossly/gallerywall),
@@ -40,7 +38,6 @@ Wallpapers:
 Raw APK files:  
 [APK-DL☁](https://apk-dl.com/),
 [APKMirror☁](https://www.apkmirror.com/)
-[Evozi's APK Downloader☁](https://apps.evozi.com/apk-downloader/),
 [Uptodown☁](https://www.uptodown.com/)
 
 Alternative Google Play Store:  
