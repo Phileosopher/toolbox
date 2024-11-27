@@ -26,5 +26,5 @@ Monitor duplication:
 [spacedesk](https://www.spacedesk.net/)
 
 LG TV root:  
-[Openlgtv](https://openlgtv.github.io/),
+[Openlgtv](https://openlgtv.github.io/) ([GitHub](https://github.com/openlgtv)),
 [RootMyTV](https://github.com/RootMyTV/RootMyTV.github.io)

@@ -21,6 +21,15 @@ Cleaning:
 
 [SQLite](https://sqlite.org/index.html)
 
+## SQL databases - front-end
+
+[DBeaver](https://dbeaver.io/)
+
+## SQLite databases - front-end
+
+[sqlite-gui](https://github.com/little-brother/sqlite-gui),
+[SQLiteStudio](https://www.sqlitestudio.pl/) ([GitHub](https://github.com/pawelsalawa/sqlitestudio))
+
 ## Optimizing
 
 MySQL/MariaDB/Percona performance enhancement:  

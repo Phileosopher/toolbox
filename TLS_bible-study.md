@@ -12,6 +12,8 @@ Religious Texts
 [AndBible: Bible Study | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/net.bible.android.activity/)
 Religious Texts
 
+[ezra-bible-app/ezra-bible-app: Ezra Bible App is a modern and user-friendly Bible app for desktops, tablets and mobiles focussing on topical study](https://github.com/ezra-bible-app/ezra-bible-app)
+
 chapter-by-chapter breakdown
 - John Wesley - Wesley's Notes on the Bible
 morphological analysis codes

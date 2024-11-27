@@ -1,7 +1,7 @@
 
 # Tools for [embedded systems](https://trendless.tech/pi-arduino/)
 
-## Microcontrollers/Minicomputers
+## Microcontrollers/Minicomputers$
 
 [ODROID](https://www.hardkernel.com/)
 
@@ -25,8 +25,8 @@ Arduino - flashing code:
 [xLoader](https://github.com/xinabox/xLoader)
 
 G-code sending:  
-[cncjs](https://cnc.js.org/),
-[UGS](https://winder.github.io/ugs_website/)
+[cncjs](https://cnc.js.org/) ([GitHub](https://github.com/cncjs/cncjs/)),
+[UGS](https://winder.github.io/ugs_website/) ([GitHub](https://github.com/winder/Universal-G-Code-Sender/))
 
 G-code parsing:  
 [grbl (for Arduino flashing)](https://github.com/grbl/grbl),

@@ -3,7 +3,7 @@
 
 Social media fingerprint🕵️:  
 [Social Network Login Status Detector Demo☁](https://www.tomanthony.co.uk/tools/detect-social-network-logins/),
-[Your Social Media Fingerprint☁](https://robinlinus.github.io/socialmedia-leak/)
+[Your Social Media Fingerprint☁](https://robinlinus.github.io/socialmedia-leak/) ([GitHub](https://github.com/RobinLinus/socialmedia-leak))
 
 ## Removing Paywalls
 
@@ -127,25 +127,19 @@ Discord:
 [WebCord](https://github.com/SpacingBat3/WebCord)
 
 Dropbox:  
-[Maestral🍎](https://maestral.app/)
-
-Facebook - find events:  
-[Search is Back!](https://searchisback.com/)
+[Maestral🍎](https://maestral.app/) ([GitHub](https://github.com/samschott/maestral))
 
 Fandom:  
-[BreezeWiki](https://breezewiki.com/)
+[BreezeWiki](https://breezewiki.com/) ([Git](https://gitdab.com/cadence/breezewiki))
 
 Goodreads:  
-[BiblioReads](https://biblioreads.eu.org/)
+[BiblioReads](https://biblioreads.eu.org/) ([GitHub](https://github.com/nesaku/BiblioReads))
 
 iMDb:  
 [libremdb](https://libremdb.iket.me/)
 
 Imgur:  
 [rimgo](https://codeberg.org/video-prize-ranch/rimgo)
-
-Instagram:  
-[Instander🤖](https://thedise.me/instander/)
 
 Kik:  
 [Blue Kik🤖](https://bluesmods.com/bluekik/)
@@ -155,11 +149,10 @@ Medium:
 [Scribe](https://scribe.rip/)
 
 Quora:  
-[Quetre](https://quetre.iket.me/)
+[Quetre](https://quetre.iket.me/) ([GitHub](https://github.com/zyachel/quetre))
 
 Reddit:  
-[Geddit🤖](https://kaangiray26.github.io/geddit-app/),
-[Teddit](https://teddit.net/)
+[Geddit🤖](https://kaangiray26.github.io/geddit-app/) ([GitHub](https://github.com/kaangiray26/geddit-app))
 
 Reddit - map:  
 [Map of Reddit](https://www.mapofreddit.com/)
@@ -168,27 +161,23 @@ Stack Overflow:
 [AnonymousOverflow](https://code.whatever.social/)
 
 Telegram:  
-[Nekogram🤖](https://nekogram.app/),
-[NekoX🤖](https://github.com/NekoX-Dev/NekoX)
+[Nekogram🤖](https://nekogram.app/) ([GitHub](https://github.com/Nekogram/Nekogram))
 
 TikTok:  
 [ProxiTok](https://proxitok.pussthecat.org/)
-
-Twitter:  
-[nitter](https://nitter.net/)
 
 Wolfram Alpha:  
 [Wolfree](https://gqq.gitlab.io/)
 
 YouTube:  
 [CloudTube](https://tube.cadence.moe/),
-[FreeTube⊞⌘🐧](https://freetubeapp.io/),
-[Invidious](https://invidious.io/),
-[Piped☁](https://piped.video/),
+[FreeTube⊞⌘🐧](https://freetubeapp.io/) ([GitHub](https://github.com/FreeTubeApp/FreeTube)),
+[Invidious](https://invidious.io/) ([GitHub](https://github.com/iv-org/invidious)),
+[Piped☁](https://piped.video/) ([GitHub](https://github.com/TeamPiped/Piped)),
 [yattee⌘🍎](https://github.com/yattee/yattee)
 
 YouTube - ad blocking:  
-[SponsorBlock🔌](https://sponsor.ajay.app/)
+[SponsorBlock🔌](https://sponsor.ajay.app/) ([GitHub](https://github.com/ajayyy/SponsorBlock))
 
 YouTube - channel reviews:  
 [Favoree☁](https://www.favoree.io/)
