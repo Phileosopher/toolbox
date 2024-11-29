@@ -12,6 +12,14 @@ QR code reader:
 Optical mark recognition (OMR) evaluation:  
 [OMRChecker](https://github.com/Udayraj123/OMRChecker)
 
+## Testing
+
+Scanners/TWAIN devices:  
+[TWACKER⊞■](https://www.dynamsoft.com/web-twain/docs/faq/How-to-use-TWACKER-to-check-if-your-device-is-TWAIN-Compliant.html),
+
+Scanner drivers:  
+[VueScan⊞⌘🐧](https://www.hamrick.com/)
+
 ## Datasets
 
 Barcodes and QR code datasets:  

@@ -5,16 +5,13 @@
 
 Linting:  
 [GitHub's Super Linter](https://github.com/github/super-linter),
-[OX Security's MegaLinter](https://megalinter.io)
+[OX Security's MegaLinter](https://megalinter.io) ([GitHub](https://github.com/oxsecurity/megalinter))
 
 ## Runtime Errors
 
 Unix-likes:  
-[GDB](https://www.sourceware.org/gdb/),
+[GDB🆓](https://www.sourceware.org/gdb/),
 [drgn](https://github.com/osandov/drgn)
-
-Unix-like terminal:  
-[fastmac (via GitHub Actions)](https://github.com/fastai/fastmac/)
 
 Test harness:  
 [DejaGnu🆓](https://www.gnu.org/software/dejagnu/)
@@ -28,20 +25,20 @@ Text:
 [Microsoft's OneFuzz🔌🧛](https://github.com/microsoft/onefuzz)
 
 Node.js/Web:  
-[faker.js🔌](https://fakerjs.dev/)
+[faker.js🔌](https://fakerjs.dev/) ([GitHub](https://github.com/faker-js/faker))
 
 JSON:  
-[JSONPlaceholder🔌](https://jsonplaceholder.typicode.com/)
+[JSONPlaceholder🔌](https://jsonplaceholder.typicode.com/) ([GitHub](https://github.com/typicode/jsonplaceholder))
 
 Users:  
-[Random User Generator🔌](https://randomuser.me/)
+[Random User Generator🔌](https://randomuser.me/) ([GitHub](https://github.com/RandomAPI/Randomuser.me-Node))
 
 Images:  
 [Random Bitmap Generator☁](https://www.random.org/bitmaps/)
 
 ## Bug Tracking
 
-[Bugzilla🐧](https://www.bugzilla.org/),
+[Bugzilla🐧](https://www.bugzilla.org/) ([GitHub](https://github.com/bugzilla)),
 [GNU GNATS🐧🆓](https://www.gnu.org/software/gnats/)
 [Mantis Bug Tracker🐧](https://www.mantisbt.org/),
 [Redmine⊞🐧](https://www.redmine.org/),

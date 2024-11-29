@@ -5,5 +5,4 @@ Unnecessary additions:
 [You-Dont-Need](https://github.com/you-dont-need/You-Dont-Need)
 
 Automatic code completion:  
-[Kite](https://www.kite.com/),
 [Tabnine](https://www.tabnine.com/)

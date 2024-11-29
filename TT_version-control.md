@@ -34,7 +34,7 @@ Multiple users/emails:
 [Git User Switch](https://github.com/geongeorge/Git-User-Switch)
 
 Large file storage:  
-[Git Large File Storage](https://git-lfs.github.com/)
+[Git Large File Storage](https://git-lfs.github.com/) ([GitHub](https://github.com/git-lfs/git-lfs))
 
 ## GitHub Repo Datasets
 

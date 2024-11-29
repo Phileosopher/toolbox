@@ -38,9 +38,9 @@ Guitar chord finder:
 
 Recording/sequencing/playback:  
 [AudioCapt](http://jbouchat.ucoz.com/index/audiocapt/0-20),
-[MusE Sequencer🐧](https://muse-sequencer.github.io/),
+[MusE Sequencer🐧](https://muse-sequencer.github.io/) ([GitHub](https://github.com/muse-sequencer/muse)),
 [Qtractor🐧](https://qtractor.org/),
-[Rosegarden🐧](https://rosegardenmusic.com/),
+[Rosegarden🐧](https://rosegardenmusic.com/) ([Git](https://sourceforge.net/p/rosegarden/git/ci/master/tree/)),
 [Sweep🐧](http://www.metadecks.org/software/sweep/)
 
 Volume tracking:  
@@ -101,11 +101,11 @@ Chiptune:
 ## Digital Audio Workstation (DAW)
 
 [Ardour⊞⌘🐧](https://www.ardour.org/),
-[Audacity⊞■⌘🐧](https://www.audacityteam.org/) (with [Wavacity☁](https://wavacity.com/) as a web-based port or [Tenacity](https://tenacityaudio.org/) without any tracking),
+[Audacity⊞■⌘🐧](https://www.audacityteam.org/) ([GitHub](https://github.com/audacity), with [Wavacity☁](https://wavacity.com/) as a web-based port or [Tenacity](https://tenacityaudio.org/) without any tracking),
 [Audio Recorder☁](https://webbrowsertools.com/audio-recorder/),
 [Bitwig$⊞⌘🐧](https://www.bitwig.com/),
 [Cakewalk by BandLab⊞](https://www.bandlab.com/products/cakewalk) (with [MenuMagic Details](https://www.agitatedstate.com/html/menumagic.php) as plugin manager),
-[LMMS⊞■⌘🐧](https://lmms.io/),
+[LMMS⊞■⌘🐧](https://lmms.io/) ([GitHub](https://github.com/LMMS)),
 [WavePad](https://www.nch.com.au/wavepad/index.html)
 
 Minimalist DAW:  
@@ -139,9 +139,6 @@ Pulling samples:
 
 Sample combination:  
 [AuMe☁](https://audiometaphor.ca/)
-
-Convert spoken languages:  
-[Coqui☁](https://coqui.ai/)
 
 Song generation:  
 [Splice](https://splice.com/)

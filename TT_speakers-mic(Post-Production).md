@@ -4,7 +4,7 @@
 ## Processing
 
 [afreestudio.com💩](https://www.afreestudio.com/),
-[AudioMass☁](https://audiomass.co/),
+[AudioMass☁](https://audiomass.co/) ([GitHub](https://github.com/pkalogiros/audiomass)),
 [Integra Live](https://integra.io/portfolio-items/integralive/),
 [WaveShop⊞■](http://waveshop.sourceforge.net/)
 
@@ -21,8 +21,8 @@ VST - stripping noise and echo:
 
 Audio Visualization/Analysis:  
 [BRP-PACU](https://github.com/matthew-dews/brp-pacu),
-[Libvisual](http://libvisual.org/),
-[Sonic Visualiser⊞⌘🐧](https://www.sonicvisualiser.org/),
+[Libvisual](http://libvisual.org/) ([GitHub](https://github.com/Libvisual/libvisual)),
+[Sonic Visualiser⊞⌘🐧](https://www.sonicvisualiser.org/) ([GitHub](https://github.com/sonic-visualiser/sonic-visualiser/)),
 [awesome-audio-visualization💩](https://github.com/willianjusten/awesome-audio-visualization)
 
 Whistling capture:  
@@ -34,15 +34,12 @@ Extracting audio from video:
 [Pazera Free Audio Extractor⊞](http://www.pazera-software.com/products/audio-extractor/)
 
 Extracting vocals from music:  
-[LALAL.AI Voice Cleaner & Background Noise Remover☁](https://www.lalal.ai/voice-cleaner/),
-[Vocal Remover and Isolation](https://vocalremover.org/)
-
-Stripping vocals:  
 [AI Vocal Remover](https://aivocalremover.com/),
 [AudioStrip☁](https://audiostrip.co.uk/),
-[Remove Vocals☁](https://www.remove-vocals.com/)
+[Remove Vocals☁](https://www.remove-vocals.com/),
+[Vocal Remover and Isolation](https://vocalremover.org/)
 
-Stripping instrumentals:  
+Extracting instrumentals from music:  
 [Acapella Extractor](https://www.acapella-extractor.com/en/)
 
 Track splitting:  
@@ -52,11 +49,11 @@ Track merging:
 [Audio Joiner☁](https://webbrowsertools.com/audio-joiner/)
 
 Track element/stem separation:  
-[Flacon](https://flacon.github.io/),
+[Flacon](https://flacon.github.io/) ([GitHub](https://github.com/flacon/flacon)),
 [melody ml](https://melody.ml/),
 [LALAL.AI☁](https://www.lalal.ai/),
 [SongDonkey.AI](https://songdonkey.ai/)
-[Spleeter⊞⌘🐧□](https://github.com/deezer/spleeter) (with [SpleeterGUI⊞](https://makenweb.com/SpleeterGUI) for GUI),
+[Spleeter⊞⌘🐧□](https://github.com/deezer/spleeter) (GUI with [SpleeterGUI⊞](https://makenweb.com/SpleeterGUI) ([GitHub](https://github.com/boy1dr/SpleeterGui))),
 [StemRoller⊞⌘](https://www.stemroller.com/)
 
 Stretching:  
@@ -89,14 +86,13 @@ Command builder:
 [ffmpeg buddy](https://evanhahn.github.io/ffmpeg-buddy/)
 
 Front-ends:  
-[Axiom⊞](https://axiomui.github.io/),
-[Videomass](https://jeanslack.github.io/Videomass/)
+[Axiom⊞](https://axiomui.github.io/) ([GitHub](https://github.com/MattMcManis/Axiom)),
+[Videomass](https://jeanslack.github.io/Videomass/) ([GitHub](https://github.com/jeanslack/Videomass))
 
 yt-dl build:  
 [FFmpeg-Builds](https://github.com/yt-dlp/FFmpeg-Builds)
 
 OS build:  
-[megapro17/FFmpeg-Builds](https://github.com/megapro17/FFmpeg-Builds),
 [FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)
 
 PHP build:  
@@ -106,7 +102,7 @@ JS port:
 [ffmpeg.js](https://github.com/Kagami/ffmpeg.js/)
 
 Webassembly/JS port:  
-[ffmpeg.wasm](https://ffmpegwasm.netlify.app/)
+[ffmpeg.wasm](https://ffmpegwasm.netlify.app/) ([GitHub](https://github.com/ffmpegwasm/ffmpeg.wasm))
 
 ## Broadcasting
 

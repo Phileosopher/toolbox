@@ -19,7 +19,7 @@ limetorrents,
 ThePirateBay
 
 Private trackers:  
-[Private Trackers Spreadsheet](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/)
+[Private Trackers Spreadsheet](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) ([GitHub](https://github.com/HDVinnie/Private-Trackers-Spreadsheet))
 
 Streaming:  
 [Popcorn Time⊞⌘🐧🤖](https://github.com/popcorn-official)

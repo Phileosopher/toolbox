@@ -7,8 +7,14 @@
 
 ## Learning/Research
 
+Ideas:  
+[ideas-for-projects-people-would-use](https://github.com/Divide-By-0/ideas-for-projects-people-would-use),
+[Learn X by doing Y](https://aquadzn.github.io/learn-x-by-doing-y/) ([GitHub](https://github.com/aquadzn/learn-x-by-doing-y)),
+[what-to-code](https://github.com/joereynolds/what-to-code)
+
 Tutorials:  
-[Build Your Own X*](https://github.com/codecrafters-io/build-your-own-x)
+[Build Your Own X*](https://github.com/codecrafters-io/build-your-own-x),
+[project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 
 Learning new languages:  
 [pl-catalog☁](https://github.com/prathyvsh/pl-catalog)

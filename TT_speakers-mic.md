@@ -6,6 +6,17 @@
 Media codecs:  
 [K-Lite Codec Pack⊞](https://codecguide.com/)
 
+## Testing
+
+Audio output test:  
+[Audio Test☁](https://webbrowsertools.com/audio-test/)
+
+Sound tracking:  
+[Sound Meter☁](https://webbrowsertools.com/sound-meter/)
+
+Manage codec drivers and DirectShow filters:  
+[InstalledCodec⊞](https://www.nirsoft.net/utils/installed_codec.html)
+
 ## Audio Optimization
 
 Volume configuration:  
@@ -36,8 +47,8 @@ Metadata export:
 [Amvidia To MP3 Converter⌘](https://amvidia.com/guides/music-organising/export-to-csv-text-files)
 
 Audible AAX file conversion:  
-[AAXtoMP3](https://krumpetpirate.github.io/AAXtoMP3/)
+[AAXtoMP3](https://krumpetpirate.github.io/AAXtoMP3/) ([GitHub](https://github.com/KrumpetPirate/AAXtoMP3))
 
 ## Audio Interface
 
-[Jasper](https://jasperproject.github.io/#about)
+[Jasper](https://jasperproject.github.io/#about) ([GitHub](https://github.com/jasperproject))

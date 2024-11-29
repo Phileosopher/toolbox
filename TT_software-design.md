@@ -2,7 +2,7 @@
 # Tools for [software development](https://trendless.tech/software-design)💩
 
 [andou tech-resources](https://andou.github.io/tech-resources/),
-[awesome](https://github.com/sindresorhus/awesome) (with [Awesome Search](https://awesomelists.top/) and [GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)),
+[awesome](https://github.com/sindresorhus/awesome) (with [Awesome Search](https://awesomelists.top/)),
 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness),
 [awesome](https://github.com/cn-80/awesome),
 [Awesome Resources](https://shahednasser.github.io/awesome-resources/),
@@ -11,19 +11,19 @@
 [generated-awesomeness](https://github.com/orsinium-labs/generated-awesomeness),
 [Helpful-Tech-Resources](https://github.com/lovelacecoding/Helpful-Tech-Resources),
 [lists](https://github.com/jnv/lists),
-[Resource Gallery](https://resourcegallery.live/), [Resources](https://github.com/birdbee44/Resources), [resources](https://bycorsanchez.github.io/resources/), [resources](https://codechefvit.github.io/resources/), [Resources](https://progdisc.club/resources/), [resources](https://github.com/IEEE-VIT/resources), [resources](https://iiitv.github.io/resources/), [resources](https://github.com/kewishfagoe/resources), [Resources](https://github.com/lzhbrian/Resources)
+[Resources](https://github.com/birdbee44/Resources), [resources](https://bycorsanchez.github.io/resources/) ([GitHub](https://github.com/BycorSanchez/resources)), [resources](https://codechefvit.github.io/resources/) ([GitHub](https://github.com/CodeChefVIT/resources)), [Resources](https://progdisc.club/resources/) ([GitHub](https://github.com/progdisc/resources)), [resources](https://github.com/IEEE-VIT/resources), [resources](https://iiitv.github.io/resources/) ([GitHub](https://github.com/iiitv/resources)), [resources](https://github.com/kewishfagoe/resources), [Resources](https://github.com/lzhbrian/Resources)
 
 Zero-config tools:  
 [awesome-toolkits](https://github.com/reyronald/awesome-toolkits)
 
 Library/framework search:  
-[Libraries.io🆓](https://libraries.io/)
+[Libraries.io🆓](https://libraries.io/) ([GitHub](https://github.com/librariesio/libraries.io))
 
 Free stuff:  
-[Free Developer Stuff](https://freestuff.dev/),
+[Free Developer Stuff](https://freestuff.dev/) ([GitHub](https://github.com/hilmanski/freeStuffDev/)),
 [FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev),
 [free-for-dev](https://github.com/jixserver/free-for-dev),
-[Free for developers](https://free-for.dev/),
+[Free for developers](https://free-for.dev/) ([GitHub](https://github.com/ripienaar/free-for-dev)),
 [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)
 
 ## Existing Source Code
@@ -66,7 +66,7 @@ Quotations:
 [They Said So](https://theysaidso.com/api)
 
 Jokes:  
-[JokeAPI](https://jokeapi.dev/)
+[JokeAPI](https://jokeapi.dev/) ([GitHub](https://github.com/Sv443-Network/JokeAPI))
 
 Chuck Norris jokes:  
-[Chuck Norris Jokes Api](https://api.chucknorris.io/)
+[Chuck Norris Jokes Api](https://api.chucknorris.io/) ([GitHub](https://github.com/chucknorris-io))

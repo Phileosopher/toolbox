@@ -28,3 +28,33 @@ Monitor duplication:
 LG TV root:  
 [Openlgtv](https://openlgtv.github.io/) ([GitHub](https://github.com/openlgtv)),
 [RootMyTV](https://github.com/RootMyTV/RootMyTV.github.io)
+
+## Testing
+
+Configuration:  
+[ControlMyMonitor⊞■](https://www.nirsoft.net/utils/control_my_monitor.html)
+
+Direct monitor test:  
+[EIZO monitor test☁](https://www.eizo.be/monitor-test/),
+[LCDTech Online Tests☁](https://lcdtech.info/en/tests/),
+[IsMyLcdOK⊞■](https://softwareok.com/?seite=Microsoft%2FIsMyLcdOK)
+
+GPU/Graphics Card:  
+[FurMark⊞](https://www.geeks3d.com/furmark/),
+[TechPowerUp GPU-Z⊞■](https://www.techpowerup.com/gpuz/)
+
+Detect actual hertz:  
+[DisplayHz.com](https://www.displayhz.com/)
+
+Backlight bleed test:  
+[Backlight Bleed Test](https://lightbleedtest.com/)
+
+VSYNC test:  
+[VSYNC synchronization tester](https://www.vsynctester.com/)
+
+EDID data:  
+[DumpEDID⊞■](https://www.nirsoft.net/utils/dump_edid.html),
+[MonitorInfoView⊞■](https://www.nirsoft.net/utils/monitor_info_view.html)
+
+Touchscreen touch points:  
+[IsMyTouchScreenOK](https://softwareok.com/?seite=Microsoft%2FIsMyTouchScreenOK)

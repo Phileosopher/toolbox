@@ -4,6 +4,7 @@
 ## File/Folder Issues
 
 Opened/locked files:  
+[LockHunter](https://lockhunter.com/),
 [OpenedFilesView■](https://www.nirsoft.net/utils/opened_files_view.html)
 
 Special folder management:  

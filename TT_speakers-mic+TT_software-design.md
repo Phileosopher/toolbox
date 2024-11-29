@@ -6,7 +6,7 @@
 [Waasabi](https://waasabi.org/)
 
 RTSP stream:  
-[Audio Sharing](https://gitlab.gnome.org/World/AudioSharing),
+[Audio Sharing🆓](https://gitlab.gnome.org/World/AudioSharing),
 [WebVideoCap⊞■](https://www.nirsoft.net/utils/web_video_capture.html)
 
 ## Streaming servers
@@ -24,7 +24,7 @@ Engine noise synthesizer:
 
 ## Music Transcription
 
-[OMNIZART](https://music-and-culture-technology-lab.github.io/omnizart-doc/)
+[OMNIZART](https://music-and-culture-technology-lab.github.io/omnizart-doc/) ([GitHub](https://github.com/Music-and-Culture-Technology-Lab/omnizart))
 
 AI-assisted:  
 [Piano Scribe](https://piano-scribe.glitch.me/)

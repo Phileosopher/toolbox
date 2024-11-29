@@ -11,6 +11,9 @@ Network emulation:
 [Cisco's Packet Tracer](https://learningnetwork.cisco.com/s/packet-tracer-alternative-lab-solutions),
 [SolarWinds' GNS3 Network Emulator](https://www.solarwinds.com/free-tools/gns3-network-emulator)
 
+Raspberry Pi network monitor:  
+[internet-pi](https://github.com/geerlingguy/internet-pi)
+
 ## L1 Physical
 
 [FCC National Broadband Map](https://broadbandmap.fcc.gov/)

@@ -9,7 +9,7 @@ Finance the tech stack you depend on:
 ## Existing Source Code
 
 Gab:  
-[gab-open-source](https://code.gab.com/gab/gab-open-source)
+[gab-social](https://github.com/GabOpenSource/gab-social)
 
 Reddit (historical):  
 [reddit-archive](https://github.com/reddit-archive/reddit)
