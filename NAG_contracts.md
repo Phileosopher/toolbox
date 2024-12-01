@@ -4,7 +4,8 @@
 ## Drafting
 
 Standard agreements:  
-[Common Paper☁](https://commonpaper.com/)
+[Common Paper☁](https://commonpaper.com/),
+[LegalShield's Forms](https://forms.legalshield.com/)
 
 Terms of service:
 [PrivacyPolicies.com☁](https://app.privacypolicies.com/),
