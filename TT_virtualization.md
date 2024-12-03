@@ -53,6 +53,9 @@ Disk image inspection:
 Container management:  
 [ManageIQ](https://www.manageiq.org/)
 
+Troubleshooting:  
+[Sysdig](https://sysdig.com/) ([GitHub](https://github.com/draios/sysdig))
+
 ## Kubernetes
 
 Checklist:  

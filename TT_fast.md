@@ -1,5 +1,10 @@
 
-# Tools for [enhancing productivity](https://adequate.life/success-4/) with [computers](https://trendless.tech/fast/)
+
+# Tools for [being fast with computers](https://trendless.tech/fast/)🕵️
+
+Typing test:  
+[10FastFingers.com](https://10fastfingers.com/),
+[Monkeytype](https://monkeytype.com/)
 
 Website timer:  
 [Intention⇉](https://addons.mozilla.org/en-US/firefox/addon/intention/)

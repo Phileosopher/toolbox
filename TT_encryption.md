@@ -1,6 +1,9 @@
 
 # Tools for [cryptography/encryption](https://trendless.tech/encryption/)
 
+Encryption laws:  
+[Global Partners Digital - World map of encryption laws and policies](https://www.gp-digital.org/world-map-of-encryption/)
+
 Drive encryption:  
 [eCryptfs🐧](https://www.ecryptfs.org/) ([Git](https://git.kernel.org/pub/scm/linux/kernel/git/tyhicks/ecryptfs.git))
 

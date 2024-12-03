@@ -47,7 +47,8 @@ Workout planning:
 [Workout.lol](https://workout.lol/)
 
 Workout planning - printable plans:  
-[DAREBEE](https://darebee.com/)
+[DAREBEE](https://darebee.com/),
+[Muscle & Strength](https://www.muscleandstrength.com/)
 
 Timed workouts:  
 [Workout Time!🆓🤖](https://f-droid.org/packages/es.ideotec.workouttime/) ([Gitlab](https://gitlab.com/ideotec/workouttime)),

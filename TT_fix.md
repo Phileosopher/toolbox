@@ -10,3 +10,8 @@ All-in-one break-fix:
 
 Resource monitoring:  
 [Nagios💾](https://www.nagios.org/)
+
+## Community
+
+PC builds:  
+[Linus Tech Tips Forums](https://linustechtips.com/)

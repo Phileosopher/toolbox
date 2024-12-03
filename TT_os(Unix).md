@@ -4,6 +4,9 @@
 New Linux installation:  
 [linux-checklist](https://github.com/jeanlucaslima/linux-checklist)
 
+Troubleshooting cheatsheet:  
+[Sysdig's Linux Troubleshooting Cheatsheet](https://sysdig.com/blog/linux-troubleshooting-cheatsheet/)
+
 ## Specific Distros
 
 Microsoft-familiar Linux:  

@@ -5,6 +5,9 @@ Meditation:
 [Sit☁](https://sit.sonnet.io/),
 [Noice🤖☁](https://trynoice.com/) ([F-Droid](https://f-droid.org/packages/com.github.ashutoshgngwr.noice/)+[GitHub](https://github.com/trynoice/android-app))
 
+Focus:  
+[One Minute Focus](https://oneminutefocus.com/)
+
 Self-identification:  
 [Keepin' it Feel☁](https://www.keepinitfeel.com/),
 [Self Authoring☁$](https://www.selfauthoring.com/),
