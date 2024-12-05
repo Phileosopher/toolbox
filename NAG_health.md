@@ -54,6 +54,9 @@ Medical papers - health research papers:
 Testing different results' variance:  
 [Your results may vary: the imprecision of medical measurements](https://www.bmj.com/content/368/bmj.m149/rr-8)
 
+Disease tracking:  
+[TCN](https://github.com/TCNCoalition/TCN)
+
 ## Drug Research
 
 Drug information:  

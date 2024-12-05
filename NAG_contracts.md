@@ -11,12 +11,6 @@ Terms of service:
 [PrivacyPolicies.com☁](https://app.privacypolicies.com/),
 [Termly*](https://termly.io/resources/templates/)
 
-## Intellectual Property
-
-Open-source licenses:  
-[Choose a License*](https://choosealicense.com/),
-[mklicense(npm)🐧□](https://www.npmjs.com/package/mklicense)
-
 ## Consenting
 
 Terms of service concerns:  

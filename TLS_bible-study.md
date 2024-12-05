@@ -1,8 +1,19 @@
 
 # Tools for [Bible study](https://theologos.site/bible-study/)
 
+[Bible Study Tools' Library of Resources](https://www.biblestudytools.com/library/)
+
 Torah/Bible:  
 [The SWORD Project☁⊞■⌘🐧🍎🤖⇉](https://crosswire.org/sword/index.jsp) (additional content at [BibleSupport.com](http://www.biblesupport.com/))
+
+Bible commentaries:  
+[Christianity.com's Bible Commentary](https://www.christianity.com/bible/commentary/)
+
+Bible commentaries - specific:  
+[Matthew Henry Bible Commentary (1706)](https://www.christianity.com/bible/commentary/matthew-henry-complete/)
+
+Bible concordances:  
+[Torrey's New Topical Textbook (1897)](https://www.biblestudytools.com/concordances/torreys-topical-textbook/)
 
 ## UNSORTED
 
