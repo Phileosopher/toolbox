@@ -23,9 +23,6 @@ Survival Gear Reviews
 [Preparedness Community](http://topprepperwebsites.com/)
 Top Prepper Sites
 
-[The Prepper Times Slack Community](https://docs.google.com/forms/d/e/1FAIpQLScPZ5pZ5oJvyrsngtrfwLiOUu8tnDbNl6QSdhBo9aJCehQkFg/viewform?fbzx=-6621886175936142000)
-Global club for chatting about prepping, survivance and SHTF
-
 [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos)
 Primitive Technology youtube channel :  Making primitive huts and tools from scratch using only natural materials in the wild
 [/r/PrimitiveTechnology](https://www.reddit.com/r/PrimitiveTechnology/)

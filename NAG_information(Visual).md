@@ -76,11 +76,18 @@ TL;DW YouTube:
 TL;DW YouTube - Transcript:  
 [YouTube Transcript🎰](https://youtubetranscript.com/)
 
+Film and TV re-releases:  
+[Movie-Censorship.com](https://www.movie-censorship.com/)
+
 Database:  
 [IMDb](https://www.imdb.com/)
 
 Database - TV:  
 [TVmaze.com](https://www.tvmaze.com/)
+
+Database - DVD and Bluray releases:  
+[caps-a-holic.com](https://caps-a-holic.com/),
+[dvdcompare.net](https://dvdcompare.net/)
 
 Database - DVD/Bluray/Online release dates:  
 [DVDs Release Dates](https://www.dvdsreleasedates.com/)
@@ -91,7 +98,7 @@ Database - Netflix:
 [Flixable](https://flixable.com/),
 [Flixboss](https://flixboss.com/),
 [FlixWatch](https://flixwatch.co/),
-[uNoGS.com](https://unogs.com/)
+[uNoGS.com](https://unogs.com/) (and [by country](https://unogs.com/countrydetail))
 
 Database - Netflix codes:  
 [Netflix Codes](https://www.netflix-codes.com/)

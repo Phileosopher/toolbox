@@ -3,6 +3,3 @@
 
 Media reviews:  
 [Metacritic](https://www.metacritic.com/)
-
-Media recommendations:  
-[TasteDive](https://tastedive.com/)

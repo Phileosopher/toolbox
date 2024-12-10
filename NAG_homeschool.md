@@ -4,6 +4,10 @@
 ID cards:  
 [Homeschool ID Cards](https://homeschoolbuyersclub.com/products/homeschool-id?variant=46655704531258)
 
+## Homeschool Community
+
+[How to Homeschool](https://www.howtohomeschool.com/)
+
 ## UNSORTED - BOOKS
 
 [The Book of Virtues: A Treasury of Great Moral Stories: William J. Bennett: 9780671683061: Amazon.com: Books](https://www.amazon.com/Book-Virtues-Treasury-Great-Stories/dp/0671683063)
