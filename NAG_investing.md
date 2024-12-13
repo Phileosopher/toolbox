@@ -74,9 +74,6 @@ Asset tracker:
 Historical appreciation calculator:  
 [If You Had Invested☁](https://ifyouhadinvested.com/)
 
-Cost of living comparison - geographical:  
-[NUMBEO](https://www.numbeo.com/)
-
 Cost of living comparison - historical:  
 [Historical Currency Converter☁](https://www.historicalstatistics.org/Currencyconverter.html)
 

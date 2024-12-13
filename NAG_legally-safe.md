@@ -12,10 +12,6 @@ Filings and auto-generated documents:
 Consumer protections:  
 [DoNotPay☁](https://donotpay.com/)
 
-## Wills & Trusts
-
-[WillMaker☁](https://www.willmaker.com/)
-
 ## Legal Research
 
 [LexisNexis' Lexis+$](https://www.lexisnexis.com/en-us/products/lexis-plus.page)

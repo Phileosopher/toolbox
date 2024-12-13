@@ -27,7 +27,7 @@ I've left emoji earmarks for reference, and my frequency of use approximately co
     - 🤝 - designed for synergistically actualizing collaboratively (i.e., teamwork)
     - 🎰 - [machine learning](https://trendless.tech/ml/)
 - Its scalability:  
-    - 🔌 - an affordable/free API, or has API documentation
+    - 🔌 - an affordable/free API, or simply has advertised API documentation
     - ⦿ - data-intensive tool
     - 🐍 - runs in Python
 - Its business model:  
