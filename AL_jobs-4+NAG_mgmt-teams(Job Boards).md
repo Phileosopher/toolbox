@@ -5,6 +5,7 @@
 [CareerBuilder.com](https://www.careerbuilder.com/),
 [Hired](https://hired.com/),
 [Indeed](https://www.indeed.com/),
+[Monster](https://www.monster.com/),
 [SimplyHired](https://www.simplyhired.com/),
 [XING](https://www.xing.com/) (with [XingDumper🔌](https://github.com/l4rm4nd/XingDumper)),
 [ZipRecruiter](https://www.ziprecruiter.com/)
@@ -229,8 +230,6 @@ Europe
 
 [LazyApply](http://lazyapply.com)
 Automate Your Job Application Process. We Automatically Apply To All The Jobs On Platforms Like Linkedin, Indeed And Ziprecruiter.
-
-[Monster](https://www.monster.com/)
 
 [Who is Hiring?](https://whoishiring.io/)
 jobs search engine per location and some other criteria

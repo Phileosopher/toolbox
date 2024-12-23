@@ -47,7 +47,7 @@ These icons are volatile out-of-the-box guesstimates, for several reasons:
 
 When we're familiar with computers, we often forget it can do more than we expect. Fortunately, clever software developers keep build things that expand our horizons and [break our expectations](https://trendless.tech/hacking/).
 
-I'm convinced this toolbox is a critical part of [my life's purpose](https://stucky.tech/tech/purpose/). Extra [information management](https://notageni.us/information/) tools are necessary to more deeply stay [effective](https://gainedin.site/results/) in the Over-Information Age.
+I'm convinced [information management](https://notageni.us/information/) tools are necessary to more deeply stay [effective](https://gainedin.site/results/) in the age we live in.
 
 Even if the tools are no longer valid, I'm convinced someone will build a replacement. Please feel free to PR or notify any updates.
 
