@@ -45,11 +45,13 @@ Teacher review:
 [Rate My Professors](https://www.ratemyprofessors.com/)
 
 ## Non-Certified Courses
- 
+
 [Alison](https://alison.com/),
 [Khan Academy](https://www.khanacademy.org),
 [LinkedIn Learning](https://www.linkedin.com/learning/),
-[The Great Courses](https://www.thegreatcourses.com/)
+[Skillshare](https://www.skillshare.com/) (with [downloader](https://github.com/kallqvist/skillshare-downloader)),
+[The Great Courses](https://www.thegreatcourses.com/),
+~~[Udemy](https://www.udemy.com)~~ [has been deceptive in their pricing model](https://www.classcentral.com/report/udemy-settles-class-action/)
 
 Piles of course content💩:  
 [Free Academic Materials](https://www.textbooksfree.org/),

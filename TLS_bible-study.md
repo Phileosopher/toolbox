@@ -3,6 +3,10 @@
 
 [Bible Study Tools' Library of Resources](https://www.biblestudytools.com/library/)
 
+Daily devotionals:  
+[Heartlight](https://www.heartlight.org/),
+[My Utmost for His Highest](https://utmost.org/)
+
 Torah/Bible:  
 [The SWORD Project☁⊞■⌘🐧🍎🤖⇉](https://crosswire.org/sword/index.jsp) (additional content at [BibleSupport.com](http://www.biblesupport.com/))
 
