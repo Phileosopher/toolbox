@@ -45,3 +45,6 @@ Light sensor:
 
 Mouse side button mapping:  
 [SensibleSideButtons](https://sensible-side-buttons.archagon.net/) ([GitHub](https://github.com/archagon/sensible-side-buttons))
+
+Apple product screwdrivers:  
+[Wiha Guide to Apple® Computer and iPhone® Repair Tools](https://www.wihatools.com/blogs/articles/apple-and-wiha-tools)

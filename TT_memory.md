@@ -3,6 +3,7 @@
 
 ## Testing: RAM
 
+[Memtest86+🆓](https://www.memtest.org/),
 [MemTest86⊞■🐧](https://www.memtest86.com/),
 [QuickMemoryTestOK⊞](https://softwareok.com/?seite=Microsoft%2FQuickMemoryTestOK),
 [RAMMap⊞■🧛](https://docs.microsoft.com/en-us/sysinternals/downloads/rammap)
@@ -41,7 +42,21 @@ Alternate stream logs:
 Alternate stream management:  
 [AlternateStreamView⊞■](https://www.nirsoft.net/utils/alternate_data_streams.html)
 
-## Older Tech
+## Buying
+
+Hard drives:  
+[Disk Prices (US)](https://diskprices.com/)
 
 Floppy disks:  
 [Floppy disks](https://www.floppydisk.com/)
+
+## Optimizing
+
+Garbage collection:  
+[memreduct](https://github.com/henrypp/memreduct/)
+
+Reuse bitmap memory:  
+[GlideBitmapPool](https://github.com/amitshekhariitbhu/GlideBitmapPool)
+
+Clear memory standby lists:  
+[Wagnardsoft's Intelligent standby list cleaner (ISLC)](https://www.wagnardsoft.com/ISLCw)

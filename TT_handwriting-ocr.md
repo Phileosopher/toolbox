@@ -12,6 +12,9 @@ QR code reader:
 Optical mark recognition (OMR) evaluation:  
 [OMRChecker](https://github.com/Udayraj123/OMRChecker)
 
+Printed document duplicate finder:  
+[DFD](https://dfd.inf.tu-dresden.de/)
+
 ## Testing
 
 Scanners/TWAIN devices:  

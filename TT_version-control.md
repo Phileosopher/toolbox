@@ -16,6 +16,10 @@ Social network:
 GitHub front-end:  
 [GotHub](https://gh.akisblack.dev/)
 
+## File Diff and Merge
+
+[Perforce's P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge)
+
 ## Versioning - Git
 
 .gitignore templates (to ignore during updates):  

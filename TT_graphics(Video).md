@@ -1,6 +1,9 @@
 
 # Tools for [graphics](https://trendless.tech/graphics/) with respect to video
 
+Duplicate video finder:  
+[videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder)
+
 ## Live Recording
 
 Recording/streaming video:  

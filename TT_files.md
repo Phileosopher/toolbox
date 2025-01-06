@@ -29,6 +29,9 @@ CHM(winhelp) viewer:
 Comparisons:  
 [Meld⊞■🐧🤖](https://meldmerge.org/) ([GitLab](https://gitlab.gnome.org/GNOME/meld))
 
+Folder comparison:  
+[Defuse Script for Comparing Folders and Validating Backups (Ruby)■](https://defuse.ca/backup-verify-script.htm)
+
 ## File Search
 
 Launcher program:  
@@ -41,8 +44,10 @@ Launcher program:
 Text in files:  
 [rga(ripgrep-all)□](https://github.com/phiresky/ripgrep-all)
 
-Duplicate Files:  
-[dupeGuru⊞⌘🐧](https://dupeguru.voltaicideas.net/) ([GitHub](https://github.com/arsenetar/dupeguru/))
+Duplicate Files and Diff Check:  
+[CloneSpy](https://clonespy.com/),
+[dupeGuru⊞⌘🐧](https://dupeguru.voltaicideas.net/) ([GitHub](https://github.com/arsenetar/dupeguru/)),
+[FDUPES](https://github.com/adrianlopezroche/fdupes)
 
 Shortcuts:  
 [Shortcuts Search And Replace⊞■](http://jacquelin.potier.free.fr/ShortcutsSearchAndReplace/)
@@ -55,6 +60,9 @@ Removable media:
 File conversion:  
 [Convertio☁🔌](https://convertio.co/)
 [Online-Convert.com☁🔌](https://www.online-convert.com/)
+
+Merge multiple files:  
+[FilesMerge☁](https://www.filesmerge.com/)
 
 Disk image (e.g., ISO) mounting:  
 [Brasero🐧🆓](https://wiki.gnome.org/Apps/Brasero),
