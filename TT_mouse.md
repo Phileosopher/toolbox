@@ -15,6 +15,9 @@ Jiggler (keep screensaver/sleep from activating):
 [Don't Sleep⊞](https://www.softwareok.com/?seite=Microsoft/DontSleep),
 [ScreenSaver Mouse Jiggler (needs an Arduino)](https://github.com/nshadov/screensaver-mouse-jiggler)
 
+Mouth-based trackpad:  
+[Augmental MouthPad$](https://www.augmental.tech/)
+
 ## Community
 
 Mouse reviews:  

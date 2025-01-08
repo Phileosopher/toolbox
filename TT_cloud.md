@@ -62,7 +62,8 @@ CLI automation:
 [Rclone□](https://rclone.org/) (([GitHub](https://github.com/rclone/rclone)), has [GUI](https://rclone.org/gui/))
 
 Automatic drive backup:  
-[timeshift🐧](https://github.com/linuxmint/timeshift)
+[Kopia](https://kopia.io/) ([GitHub](https://github.com/kopia/kopia/)),
+[timeshift🐧](https://github.com/linuxmint/timeshift),
 [TeraCopy⊞⌘🤖](https://www.codesector.com/teracopy)
 
 Automatic file/folder backup:  

@@ -51,7 +51,7 @@ Drawing/painting:
 [Autodesk SketchBook⊞⌘🍎🤖](https://www.sketchbook.com/),
 [Paintstorm Studio⊞⌘🐧$](https://www.paintstormstudio.com/index.html),
 [Photopea☁](https://www.photopea.com/),
-[Procreate🍎$](https://procreate.com/)
+[Procreate🍎$](https://procreate.com/) and [Procreate Dreams](https://procreate.com/dreams)
 
 Drawing/painting - bitmap graphics:  
 [Krita⊞■⌘🐧](https://krita.org/en/)

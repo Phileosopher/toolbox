@@ -9,9 +9,13 @@ Patent search - USA:
 Patent search - Israel:  
 [Israel Patents Search](https://israelpatents.justice.gov.il/)
 
-## UNSORTED - COPYRIGHT
+## Copyrights
 
-[Copyright Search](http://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First)
+Copyright search:  
+[United States Copyright Office Copyright Search](http://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First)
+
+Creative Commons license chooser:  
+[Choose a License](https://chooser-beta.creativecommons.org/)
 
 ## UNSORTED - PATENTS
 

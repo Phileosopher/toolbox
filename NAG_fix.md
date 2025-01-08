@@ -19,6 +19,9 @@ Smartphone sensor readings:
 Testing/measurement:  
 [EEZ](https://www.envox.eu/)
 
+Testing/measurement - oscilloscope watch:  
+[Oscilloscope Watch$](https://www.gabotronics.com/products/102/oscilloscope-watch-details.html)
+
 Instructions:  
 [Fix-It Club☁](https://fixitclub.com/),
 [Repair Wiki](https://repair.wiki/w/Main_Page)
