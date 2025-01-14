@@ -77,6 +77,9 @@ Historical appreciation calculator:
 Cost of living comparison - historical:  
 [Historical Currency Converter☁](https://www.historicalstatistics.org/Currencyconverter.html)
 
+Tenders:  
+[Tendersinfo (India)](https://www.tendersinfo.com/)
+
 ## Movements
 
 Ratings*:  
