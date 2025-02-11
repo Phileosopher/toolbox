@@ -7,7 +7,8 @@ ATS:
 [CareerBuilder for Employers](https://hiring.careerbuilder.com/)
 [Indeed Resume](https://resumes.indeed.com/),
 [Jobvertise$](https://www.jobvertise.com/),
-[MightyRecruiter](https://www.mightyrecruiter.com/)
+[MightyRecruiter](https://www.mightyrecruiter.com/),
+[Rolepad for Hiring](https://rolepad.com/hiring)
 
 Developer search:  
 [GitHunt](https://githunt.dev/)

@@ -46,3 +46,8 @@ Privacy-respecting network equipment:
 
 Network router:  
 [Turris🆓$](https://www.turris.com/)
+
+## Community Resources
+
+Education:  
+[GitHub - facyber/awesome-networking: A collection of awesome networking courses, books, tutorials and other resources](https://github.com/facyber/awesome-networking)

@@ -16,6 +16,10 @@ Cheatsheets:
 Node:  
 [npm](https://www.npmjs.com/)
 
+## Optimization
+
+[The JavaScript Oxidation Compiler](https://oxc.rs/) ([GitHub](https://github.com/oxc-project/oxc))
+
 ## Optimization - Dependencies
 
 Pre-configured dependency management:  
