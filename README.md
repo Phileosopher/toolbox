@@ -1,8 +1,10 @@
+
 # toolbox
 
 I have a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) hobby of [writing essays](https://stucky.tech/creations/). I often find neat things in the process, but they can't fit on that essay for several reasons:
-1. My essays are designed to be as "evergreen" as possible, meaning that neat software tool will effectively date it, so I don't want to put it on there.
-2. The tool will often permute or devolve into something else. I don't want to be associated with a high-ranking [technical idiot](https://notageni.us/idiot/) who made a few terrible decisions.
+
+1. My essays are designed to be as "evergreen" as possible, so I don't want to put neat software tools on there that will effectively date them.
+2. The tool will often permute or devolve into something else. I don't want to associate with a high-ranking [technical idiot](https://notageni.us/idiot/) who made a few terrible decisions with a former gem.
 3. My humanity means my memory isn't reliable at memorizing trivia, so I have to put these tools _somewhere_, especially if I may find them useful someday.
 4. As of me writing this, I'm using WordPress. This set of files is more easily searchable than the WordPress back-end.
 
