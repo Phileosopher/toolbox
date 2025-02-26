@@ -116,7 +116,7 @@ Stippling:
 NPM Icons API:  
 [unplugin icons](https://www.npmjs.com/package/unplugin-icons) ([GitHub](https://github.com/unplugin/unplugin-icons))
 
-## Placeholder Photos API🔌:  
+## Placeholder Photos API🔌
 
 [Holder.js](http://holderjs.com/) ([GitHub](https://github.com/imsky/holder)),
 [Lorem Picsum](https://picsum.photos/),

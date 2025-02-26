@@ -17,7 +17,7 @@ CountDowns
 [Mix — Expand your mind](https://mix.com/)
 
 [Cloudhiker - The greatest Sites of the Internet](https://cloudhiker.net/)
-- was stumbled.cc
+was stumbled.cc
 
 [The Artifice | www.the-artifice.com](https://the-artifice.com/)
 
@@ -272,7 +272,7 @@ Meme News
 
 [Slower News](https://www.slowernews.com/)
 Breaking News
-- MAY BE VALUABLE TO REACH OUT TO THE DEV?
+MAY BE VALUABLE TO REACH OUT TO THE DEV?
 
 [Public Alerts Help](https://support.google.com/publicalerts/)
 Important News/Disaster Alerts

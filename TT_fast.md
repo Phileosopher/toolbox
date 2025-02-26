@@ -1,5 +1,4 @@
 
-
 # Tools for [being fast with computers](https://trendless.tech/fast/)🕵️
 
 Typing test:  

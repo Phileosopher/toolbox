@@ -1,6 +1,4 @@
 
-
-
 # Tools for [software design](https://trendless.tech/software-design) of [social networks](https://trendless.tech/social-network/)
 
 Finance the tech stack you depend on:  

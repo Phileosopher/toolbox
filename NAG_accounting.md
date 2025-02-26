@@ -60,7 +60,7 @@ Invoices - Bitcoin-based:
 [MONEY WALLET](https://github.com/AndreAle94/moneywallet)
 to help you track your expenses
 
-[RECEIPT MANAGER ](https://github.com/ReceiptManager/receipt-manager-app)
+[RECEIPT MANAGER](https://github.com/ReceiptManager/receipt-manager-app)
 manage your receipts and track your daily expenses
 
 [Slimvoice](https://slimvoice.co/)
@@ -68,7 +68,7 @@ Insanely simple invoicing.
 
 [30 Years of Quicken - b3n.org](https://b3n.org/30-years-of-quicken/)
 [The Quickening @ AskWoody](https://www.askwoody.com/2024/the-quickening/)
-- NOTE THEIR DEFECTIVE STATE ON TB
+NOTE THEIR DEFECTIVE STATE ON TB
 
 [InvoiceGenerator](https://invoice-generator.com/)
 Make attractive, professional invoices in a single click with the invoice generator trusted by millions of people.

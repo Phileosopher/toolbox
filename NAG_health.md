@@ -156,7 +156,7 @@ pubchem.ncbi.nlm.nih.gov
 [Epi Info™ | CDC](https://www.cdc.gov/epiinfo/)
 
 [Home - OpenVAERS](https://www.openvaers.com/)
-- THIS WAS PLAYED WITH DURING COVID
+THIS WAS PLAYED WITH DURING COVID
 
 ## UNSORTED - OPEN SOURCE HEALTH MANAGEMENT
 

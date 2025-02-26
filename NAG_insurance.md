@@ -10,4 +10,3 @@ Auto insurance shopping:
 ## Ratings
 
 [AM Best](https://web.ambest.com/home)
-

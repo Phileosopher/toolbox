@@ -45,5 +45,5 @@ Where's Waldo collection
 [Spintronics: Build Mechanical Circuits | Hacker News](https://news.ycombinator.com/item?id=27222457)
 
 [Turing Tumble](https://store.turingtumble.com/)
-- Turing Tumble is a new type of game where players (ages 8 to adult) build mechanical computers powered by marbles to solve logic puzzles. Use ramps, crossovers, bits, interceptors, gears, and gear bits to build marble-powered computers that can generate patterns, do logic, count, add, subtract, multiply, divide, and much, much more. Discover how computers work!
-- [Turing Tumble Community](https://community.turingtumble.com/)
+Turing Tumble is a new type of game where players (ages 8 to adult) build mechanical computers powered by marbles to solve logic puzzles. Use ramps, crossovers, bits, interceptors, gears, and gear bits to build marble-powered computers that can generate patterns, do logic, count, add, subtract, multiply, divide, and much, much more. Discover how computers work!
+[Turing Tumble Community](https://community.turingtumble.com/)

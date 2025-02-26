@@ -327,7 +327,7 @@ Free - Job posting sheet for creative roles
 [Designer, Creatives and Developers Jobs Board | Authentic Positions](https://authenticjobs.com/#job-types=7,6,1,5,2,4,3&remote=true&skills=)
 
 [Who Is Hiring](https://whoishiring.io/search/-1.2999/-32.6511/2?remote=true)
-- in TB, but not specific query
+in TB, but not specific query
 
 [GitHub - yanirs/established-remote: A list of established remote companies](https://github.com/yanirs/established-remote)
 

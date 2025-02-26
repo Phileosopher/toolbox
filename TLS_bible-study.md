@@ -37,6 +37,7 @@ Bible encyclopedia:
 ## UNSORTED
 
 chapter-by-chapter breakdown
+
 - John Wesley - Wesley's Notes on the Bible
 morphological analysis codes
 - [Robinson's Morphological Analysis Codes](https://www.modernliteralversion.org/bibles/bs2/RMAC/RMACindex.html)

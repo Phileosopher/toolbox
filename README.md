@@ -11,36 +11,38 @@ I have a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) hobb
 ## Earmarks
 
 I've left emoji earmarks for reference, and my frequency of use approximately correlates to how many earmarks I've placed on it:  
+
 - Its starting platform:  
-    - _*_ - reference sheet or copy/paste.
-    - ☁ - browser-based
-    - ⇉ - browser/software plugin, bookmarklet, or extension
-    - ⊞ - Windows
-    - ⌘ - Mac OS X
-    - 🐧 - Unix and friends
-    - 🤖 - Android
-    - 🍎 - iOS
+  - _*_ - reference sheet or copy/paste.
+  - ☁ - browser-based
+  - ⇉ - browser/software plugin, bookmarklet, or extension
+  - ⊞ - Windows
+  - ⌘ - Mac OS X
+  - 🐧 - Unix and friends
+  - 🤖 - Android
+  - 🍎 - iOS
 - Its safety:  
-    - 🕵️ - helps with [trust issues](https://gainedin.site/trust/)
+  - 🕵️ - helps with [trust issues](https://gainedin.site/trust/)
 - Its convenience:  
-    - ■ - standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/))
-    - □ - CLI-based without GUI (often requires [programming experience](https://trendless.tech/prog-basics))
-    - 💾 - self-hostable, or runs easily in a container
-    - 🤝 - designed for synergistically actualizing collaboratively (i.e., teamwork)
-    - 🎰 - [machine learning](https://trendless.tech/ml/)
+  - ■ - standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/))
+  - □ - CLI-based without GUI (often requires [programming experience](https://trendless.tech/prog-basics))
+  - 💾 - self-hostable, or runs easily in a container
+  - 🤝 - designed for synergistically actualizing collaboratively (i.e., teamwork)
+  - 🎰 - [machine learning](https://trendless.tech/ml/)
 - Its scalability:  
-    - 🔌 - an affordable/free API, or simply has advertised API documentation
-    - ⦿ - data-intensive tool
-    - 🐍 - runs in Python
+  - 🔌 - an affordable/free API, or simply has advertised API documentation
+  - ⦿ - data-intensive tool
+  - 🐍 - runs in Python
 - Its business model:  
-    - 🆓 or link to GitHub/Sourceforge/GitLab/Codeberg - something like [FLOSS](https://trendless.tech/floss/)
-    - ⬆️ - freemium model
-    - $ - requires paying at least some money
-    - 🧛 - [FAANG](https://trendless.tech/faang) website or FAANG-dependent (i.e., Amazon, Facebook, Microsoft)
+  - 🆓 or link to GitHub/Sourceforge/GitLab/Codeberg - something like [FLOSS](https://trendless.tech/floss/)
+  - ⬆️ - freemium model
+  - $ - requires paying at least some money
+  - 🧛 - [FAANG](https://trendless.tech/faang) website or FAANG-dependent (i.e., Amazon, Facebook, Microsoft)
 - 💩 - it's a recursed pile of stuff, (presumably) curated by someone else
 - ~~strikethrough~~ for bad tools, with a clear explanation
 
 These icons are volatile out-of-the-box guesstimates, for several reasons:  
+
 - If the specs on a computer are high enough (and they often are if the software is >5 years old), a multipurpose OS can run almost any software, even if it's an unlocked fridge running a sideloaded SD card Linux in a Windows 98 container running MS-DOS.
 - Developers keep making new things for new technologies, so this is constantly becoming obsolete or adapting to new standards. From the time you read this, most of this toolbox is good for about 10 years.
 - Addon features have a funny way of becoming built-in features as everyone uses it, and built-in features will often become lobotomized to make something more efficient or profitable. Nothing is permanent.
@@ -56,26 +58,30 @@ Even if the tools are no longer valid, I'm convinced someone will build a replac
 ## Convention
 
 The definition of "tool" is more complex than first impulses may dictate:  
+
 1. Every tool revolves around [human purpose](https://gainedin.site/purpose/), which is a concept created as a [relative human value](https://gainedin.site/values/) derived as the difference between [perceived reality](https://gainedin.site/reality/) and [what is imagined to be possible](https://gainedin.site/imagination/).
 2. Our [cognitive bias](https://gainedin.site/bias), specifically "law of the instrument", means we're stuck always interpreting a tool according to what we're presently working on.
 3. [Hacking](https://trendless.tech/hacking) can involve using _anything_ for a purpose it wasn't intended for.
 
 Since I'm building this for myself and the people who read my essays, all of the tools are grouped by essays I've drafted:  
+
 1. The initials are a reference to [one of my essay pages](https://stucky.tech/creations/), separated by an underscore.
-2. The lowercase reference is the URL slug (e.g., AL_memory becomes https://adequate.life/memory).
-3. Additional parenthesis if the slug doesn't give enough context (e.g., AL_success-4(Productivity) is https://adequate.life/success-4, but the slug needed clarification).
+2. The lowercase reference is the URL slug (e.g., AL_memory becomes adequate.life/memory).
+3. Additional parenthesis if the slug doesn't give enough context (e.g., AL_success-4(Productivity) is adequate.life/success-4, but the slug needed clarification).
 4. When it applies to multiple domains, I combine them in the file name (e.g., AL_writing+TT_fast(Text Automation) refers to _both_ writing and using computers quickly).
 5. For brevity's sake, I constrain it to 2 essays max.
 
 ## Omissions
 
 I've tried to omit some things due to their limited use:  
+
 1. If the site is interpreted as suspicious by government authorities (e.g., [for piracy](https://trendless.tech/torrent/)), it won't likely stick around, though some future iteration of it will float out there somewhere.
 2. Many [tech startups](https://trendless.tech/entrepreneur/) curate "kitchen sink" tools that do many things, but that tool will be repurposed a few times once they've found their market or were acquired by a [FAANG corporation](https://trendless.tech/faang/).
 3. Quick-reference sheets are great, but should _still_ be useful later on. Some [protocols](https://trendless.tech/protocols/) move around constantly, while others stay nearly the same and simply accrue more features.
 4. Independent developers make stuff all the time, sometimes simply to learn. If I find it somewhere and it's not very popular, it's likely not [mature enough](https://gainedin.site/trends/) to add to the toolbox. There may be exceptions to this if there's nothing else in that space.
 
 I also try to bias against a few groups:  
+
 - The built-in tools. If I need them, they're in the computer already, and if it's that important I'll reference them on [my tech essays](https://trendless.tech).
 - Software that's basically a variety of the built-in tools. A simple checklist app, for example, is basically a proprietary text editor minus the built-in features or portability of Microsoft's Notepad.
 - Most [mega-corp](https://gainedin.site/groups-large) tools. They already pay for plenty of [advertising](https://notageni.us/marketing/) and are _literally_ the first thing on a search engine.
@@ -84,6 +90,7 @@ I also try to bias against a few groups:
 - Anything [associated with a scandal](https://trendless.tech/faang), [highly politicized](https://gainedin.site/conservative-liberal), [debatably illegal](https://notageni.us/legally-safe), or [was hacked](https://trendless.tech/hacking). I've got enough drama in my life without looking for more.
 
 If there are many tools to choose from, I try to prioritize:  
+
 1. Free-as-in-freedom [FLOSS](https://trendless.tech/floss), if possible
 2. Free-as-in-beer free, if possible
 3. Affordably-priced, if possible
@@ -92,6 +99,7 @@ If there are many tools to choose from, I try to prioritize:
 ## YMMV
 
 I make the following disclaimer:  
+
 1. I can't attest to the software's validity. You're assuming liability if you download the software, and [caveat emptor](https://notageni.us/legal-doctrines) if you pay money for it.
 2. I make no promises that the software isn't a virus, though I sincerely don't want people to download viruses. Validate the software for yourself (such as some of the tools I have stored) to be sure.
 3. This is a self-curated collection. I may test the software, but most of this came from skimming a website. When things change, I'm typically not notified.
