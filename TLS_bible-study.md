@@ -1,33 +1,40 @@
 
 # Tools for [Bible study](https://theologos.site/bible-study/)
 
-[Bible Study Tools' Library of Resources](https://www.biblestudytools.com/library/)
+Torah/Bible study websites:  
+[Bible Hub](https://biblehub.com/),
+[BiblePortal.com](https://bibleportal.com/),
+[Bible Study Tools' Library of Resources](https://www.biblestudytools.com/library/),
+[Study Bible](https://studybible.info/)
+
+Torah/Bible study software:  
+[The SWORD Project☁⊞■⌘🐧🍎🤖⇉](https://crosswire.org/sword/index.jsp) (additional content at [BibleSupport.com](http://www.biblesupport.com/)),
+[AndBible🤖](https://f-droid.org/packages/net.bible.android.activity/),
+[The Light🤖](https://f-droid.org/packages/org.hlwd.bible/),
+[Ezra Bible App⊞■🐧](https://ezrabibleapp.net/) ([GitHub](https://github.com/ezra-bible-app/ezra-bible-app))
 
 Daily devotionals:  
 [Heartlight](https://www.heartlight.org/),
 [My Utmost for His Highest](https://utmost.org/)
 
-Torah/Bible:  
-[The SWORD Project☁⊞■⌘🐧🍎🤖⇉](https://crosswire.org/sword/index.jsp) (additional content at [BibleSupport.com](http://www.biblesupport.com/))
-
 Bible commentaries:  
-[Christianity.com's Bible Commentary](https://www.christianity.com/bible/commentary/)
+[Christianity.com's Bible Commentary](https://www.christianity.com/bible/commentary/),
+[FreeCommentaries.com](https://freecommentaries.com/)
 
 Bible commentaries - specific:  
 [Matthew Henry Bible Commentary (1706)](https://www.christianity.com/bible/commentary/matthew-henry-complete/)
 
 Bible concordances:  
+[Strong's Concordance (1890)](https://strongsconcordance.org/)
 [Torrey's New Topical Textbook (1897)](https://www.biblestudytools.com/concordances/torreys-topical-textbook/)
 
+Bible topics:  
+[Bible Topics](https://www.bible-topics.com/)
+
+Bible encyclopedia:  
+[International Standard Bible Encyclopedia (ISBE) Online](https://www.internationalstandardbible.com/)
+
 ## UNSORTED
-
-[The Light | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/org.hlwd.bible/)
-Religious Texts
-
-[AndBible: Bible Study | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/net.bible.android.activity/)
-Religious Texts
-
-[ezra-bible-app/ezra-bible-app: Ezra Bible App is a modern and user-friendly Bible app for desktops, tablets and mobiles focussing on topical study](https://github.com/ezra-bible-app/ezra-bible-app)
 
 chapter-by-chapter breakdown
 - John Wesley - Wesley's Notes on the Bible
