@@ -8,6 +8,9 @@ Privacy reviews:
 Apple's censorship:  
 [Apple Censorship☁](https://applecensorship.com/)
 
+PayPal's data-sharing practices:  
+[How PayPal Shares Your Data](https://rebecca-ricks.com/paypal-data/)
+
 ## Anti-FAANG Alternatives
 
 [Ethical Alternatives & Resources☁](https://ethical.net/resources/),

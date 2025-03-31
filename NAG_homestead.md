@@ -23,9 +23,6 @@ Well drilling:
 Heat pumps:  
 [The Homemade Heat Pump Manifesto](https://ecorenovator.org/forum/showthread.php?p=2631)
 
-Primitive tech:  
-[Primitive Technology](https://www.youtube.com/@primitivetechnology9550)
-
 ## UNSORTED
 
 [An open source initiative to share and compare heat pump performance data | Hacker News](https://news.ycombinator.com/item?id=40010615)

@@ -60,6 +60,7 @@ Disease tracking:
 ## Drug Research
 
 Drug information:  
+[epocrates](https://www.epocrates.com/),
 [PDR.Net](https://www.pdr.net/)
 
 Drug shortages:  

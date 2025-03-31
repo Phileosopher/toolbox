@@ -1,6 +1,11 @@
 
 # Tools for [long-term disasters](https://adequate.life/disasters-3/)
 
+## Training
+
+Primitive tech:  
+[Primitive Technology](https://www.youtube.com/@primitivetechnology9550) ([Reddit](https://www.reddit.com/r/PrimitiveTechnology/))
+
 ## UNSORTED - COMMUNITIES
 
 [Survival Sherpa](https://survivalsherpa.wordpress.com)
@@ -22,8 +27,3 @@ Survival Gear Reviews
 
 [Preparedness Community](http://topprepperwebsites.com/)
 Top Prepper Sites
-
-[Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos)
-Primitive Technology youtube channel :  Making primitive huts and tools from scratch using only natural materials in the wild
-[/r/PrimitiveTechnology](https://www.reddit.com/r/PrimitiveTechnology/)
-discussions about primitive technology subject and official youtube channel

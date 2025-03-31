@@ -62,6 +62,9 @@ Hiking/trails:
 Local food:  
 [World Food Atlas](https://www.tasteatlas.com/)
 
+Privately owned rail car:  
+[Amtrak Privately-Owned Rail Cars](https://www.amtrak.com/privately-owned-rail-cars)
+
 ## Tourism
 
 Food trucks:  

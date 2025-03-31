@@ -6,3 +6,6 @@ Possible projects/practice💩:
 
 async Rust debugger:  
 [tokio-console](https://github.com/tokio-rs/console)
+
+Code verification:  
+[verus-lang](https://github.com/verus-lang/verus)

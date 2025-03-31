@@ -15,6 +15,12 @@ Microsoft-familiar Linux:
 Most stable everyday distro:  
 [Fedora Linux Workstation](https://fedoraproject.org/workstation/)
 
+Emergency portable backup distro:  
+[SystemRescue](https://www.system-rescue.org/)
+
+Smallest and most portable distro:  
+[Tiny Core Linux](http://tinycorelinux.net/)
+
 ## Process Issues
 
 Process monitor:  
