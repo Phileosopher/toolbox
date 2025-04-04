@@ -116,3 +116,6 @@ Hosting - music:
 Hosting - podcast:  
 [Castopod💾](https://castopod.org/),
 [Podbean](https://www.podbean.com/)
+
+Podcasting:  
+[podcasting-resources💩](https://github.com/filmgirl/podcasting-resources)

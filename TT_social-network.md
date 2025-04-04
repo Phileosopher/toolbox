@@ -166,6 +166,9 @@ Telegram:
 TikTok:  
 [ProxiTok](https://proxitok.pussthecat.org/)
 
+Twitter/X - ActivityPub bridge:  
+[bird.makeup](https://bird.makeup/)
+
 Wolfram Alpha:  
 [Wolfree](https://gqq.gitlab.io/)
 

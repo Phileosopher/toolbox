@@ -47,7 +47,8 @@ RTS engines:
 [permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine)
 
 RPG:  
-[EasyRPG](https://easyrpg.org/) ([GitHub](https://github.com/EasyRPG/))
+[EasyRPG](https://easyrpg.org/) ([GitHub](https://github.com/EasyRPG/)),
+[OpenMW](https://gitlab.com/OpenMW/openmw)
 
 ## Source Code - Entire Games
 
@@ -63,7 +64,6 @@ Open-source game lists🆓💩:
 Specific open-source game clones🆓💩:  
 [The Dark Mod (Thief)](https://www.thedarkmod.com/),
 [Freeciv (Civilization)](https://www.freeciv.org/) ([GitHub](https://github.com/freeciv/)),
-[OpenMW (Elder Scrolls 3)](https://gitlab.com/OpenMW/openmw),
 [OpenRA (Command & Conquer)](https://www.openra.net/) ([GitHub](https://github.com/OpenRA/OpenRA)),
 [Widelands (Settlers II)](https://www.widelands.org/)
 
