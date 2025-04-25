@@ -9,3 +9,8 @@ Binary editor:
 
 Assembly code generator:  
 [GNU lightning🆓](https://www.gnu.org/software/lightning/) ([GitHub](https://git.savannah.gnu.org/cgit/lightning.git))
+
+## Specific CPUs
+
+Android to x86 interoperability:  
+[Android-x86](https://www.android-x86.org/)

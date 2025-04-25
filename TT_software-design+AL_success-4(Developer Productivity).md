@@ -6,3 +6,11 @@ Unnecessary additions:
 
 Automatic code completion:  
 [Tabnine](https://www.tabnine.com/)
+
+## OS improvements
+
+Window manager:  
+[awesomewm](https://awesomewm.org/),
+[i3](https://i3wm.org/),
+[Openbox](https://openbox.org/),
+[xmonad](https://xmonad.org/)

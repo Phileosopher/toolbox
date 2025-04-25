@@ -39,6 +39,9 @@ Android:
 [NoxPlayer⊞⌘](https://www.bignox.com/),
 [Waydroid🐧](https://waydro.id/)
 
+8-bit devices (on Android):  
+[8-Bit Wonders🤖](https://f-droid.org/packages/de.rainerhock.eightbitwonders/) ([Git](https://gitlab.com/eightbitwonders/app))
+
 ## Convenient VM Tools
 
 VM manager:  

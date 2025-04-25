@@ -1,6 +1,8 @@
 
 # Tools for [Bible study](https://theologos.site/bible-study/)
 
+[NTSLibrary's Free Christian Books](https://www.ntslibrary.com/Free_Christian_Books.htm)
+
 Torah/Bible study websites:  
 [Bible Hub](https://biblehub.com/),
 [BiblePortal.com](https://bibleportal.com/),
@@ -33,6 +35,9 @@ Bible topics:
 
 Bible encyclopedia:  
 [International Standard Bible Encyclopedia (ISBE) Online](https://www.internationalstandardbible.com/)
+
+Ancient manuscripts - New Testament:  
+[The Center for the Study of New Testament Manuscripts](https://www.csntm.org/)
 
 ## UNSORTED
 

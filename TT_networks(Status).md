@@ -14,6 +14,9 @@ Network emulation:
 Raspberry Pi network monitor:  
 [internet-pi](https://github.com/geerlingguy/internet-pi)
 
+Network settings - Apple:  
+[Apple Support's recommended settings for Wi-Fi routers and access points](https://support.apple.com/en-us/102766)
+
 ## L1 Physical
 
 [FCC National Broadband Map](https://broadbandmap.fcc.gov/)

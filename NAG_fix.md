@@ -35,18 +35,3 @@ Instructions:
 
 [Linux Crisis Tools | Hacker News](https://news.ycombinator.com/item?id=39804214)
 [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
-
-[/r/techsupportmacgyver](https://www.reddit.com/r/techsupportmacgyver/)
-Macgyvered solutions to problems
-
-[/r/redneckengineering](https://www.reddit.com/r/redneckengineering/)
-white trash repairs, and other workarounds that make you laugh
-
-[There, I Fixed It](https://failblog.cheezburger.com/thereifixedit)
-white trash repairs. Aka how not to repair things
-
-[/r/DiWHY](https://www.reddit.com/r/DiWHY/)
-when DIY goes wrong
-
-[The Downtime Project](https://downtimeproject.com/)
-A podcast about why things break on the Internet.

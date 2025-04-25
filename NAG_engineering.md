@@ -31,3 +31,12 @@ Engineering notes:
 [GitHub - samy101/awesome-energy-forecasting: A curated list of awesome energy forecasting resources such as, code libraries, datasets, courses, tutorials, research papers, competitions and communities.](https://github.com/samy101/awesome-energy-forecasting)
 [Samy Kamkar](https://samy.pl/)
 is an American privacy and security researcher, computer hacker.
+
+## UNSORTED - SPACEFARING
+
+[OpenAstroTech - Front Page](https://openastrotech.com/)
+
+[CelestiaProject/Celestia: Real-time 3D visualization of space.](https://github.com/CelestiaProject/Celestia)
+[Celestia: Home](https://celestiaproject.space/)
+
+[Illu/moonwalk: 🚀 React-Native App for rocket launches 🛰](https://github.com/illu/moonwalk)
