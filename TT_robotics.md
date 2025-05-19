@@ -15,3 +15,8 @@ Smartphone robots:
 
 Mars-inspired 6-wheel rover:  
 [open source rover](https://github.com/nasa-jpl/open-source-rover)
+
+## UNSORTED - ROBOT SIMULATOR
+
+[Cyberbotics](https://cyberbotics.com/)
+Robot Simulator

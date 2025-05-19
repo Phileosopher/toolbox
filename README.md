@@ -1,6 +1,8 @@
 
 # toolbox
 
+NOTE: [As of May 4th, 2025](https://stucky.tech/2025-05-04/), I am taking a severe hiatus from all writing projects. I’ve been utterly broken and humbled, and don’t consider any of these essays to be sufficiently right anymore. This may change, but consider everything here as an archive of someone’s efforts who no longer exists. I've basically dumped everything on here and will leave it for when I am more prepared to handle it.
+
 I have a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) hobby of [writing essays](https://stucky.tech/creations/). I often find neat things in the process, but they can't fit on that essay for several reasons:
 
 1. My essays are designed to be as "evergreen" as possible, so I don't want to put neat software tools on there that will effectively date them.

@@ -68,6 +68,9 @@ Micro-investing:
 Inflation calculator (USD):  
 [Inflation Calculator](https://www.usinflationcalculator.com/)
 
+Commodities:  
+[Oil Price](https://oil-price.net/)
+
 Asset tracker:  
 [jch.app](https://jch.app/)
 
@@ -198,3 +201,8 @@ Finance & Business News
 
 [Collaborative Fund](http://www.collaborativefund.com/blog/archive/)
 About information, collaboration and investments
+
+## UNSORTED - INVESTMENT VEHICLES
+
+[Basic Capital | Creating More Owners](https://basiccapital.com/)
+uses leveraged loans to invest even more

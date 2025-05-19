@@ -77,6 +77,10 @@ Try out CarPlay apps in the iOS Simulator without a CarPlay entitlement
 [I mapped almost every USA traffic death in the 21st century | Hacker News](https://news.ycombinator.com/item?id=41012443)
 [roadway.report/](https://roadway.report/)
 
+## UNSORTED - ADDITIVES
+
+[Motor oils, additives and car care from LIQUI MOLY | LIQUI MOLY](https://www.liqui-moly.com/en/us/)
+
 ## UNSORTED - CAN BUS
 
 [GitHub - iDoka/awesome-canbus: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.](https://github.com/iDoka/awesome-canbus)
