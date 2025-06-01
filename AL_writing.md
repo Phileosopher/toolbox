@@ -60,7 +60,8 @@ Grammar/Spelling/Style check:
 [Readable☁](https://app.readable.com/text/?demo)
 
 Grammar check - jargon filter:  
-[Bullshit.js■⇉](https://mourner.github.io/bullshit.js/) ([GitHub](https://github.com/mourner/bullshit.js)),
+[BlaBlaMeter☁](http://www.blablameter.com/index.php),
+[Bullshit.js■⇉](https://mourner.github.io/bullshit.js/) ([GitHub](https://github.com/mourner/bullshit.js))
 
 Word count:  
 [Comment Picker's Online Word & Characters Count Tool☁](https://commentpicker.com/word-counter.php),
