@@ -1,5 +1,5 @@
 
-# Tools for [investing](https://notageni.us/investing/) and [entrepreneurial financing](https://notageni.us/entrepreneur-scaling/)
+# Tools for [investing](https://notageni.us/investing/) and [entrepreneurial financing](https://stucky.tech/notes/entrepreneur-6_scaling-cs.md)
 
 Software side projects:  
 [SideProjectors☁](https://www.sideprojectors.com/#/)
