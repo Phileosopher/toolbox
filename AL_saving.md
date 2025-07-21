@@ -149,6 +149,12 @@ Wish list
 
 [Gift Station - The Best Gift Ideas Everyone Will Love](https://giftstation.net/)
 
+Trade clothing with friends or use [Rent the Runway](http://www.renttherunway.com/)
+
+Instead of paying for high-end interior decorations, learn to make your own with [Pinterest](http://www.pinterest.com/).
+
+Look into local tourist promotions in your area or get an [Entertainment book](http://www.entertainment.com/).
+
 ## UNSORTED - PROMOTIONS
 
 [Slickdeals: The Best Deals, Coupons, Promo Codes & Discounts](https://slickdeals.net/)
