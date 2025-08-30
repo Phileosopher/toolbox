@@ -1,5 +1,5 @@
 
-# Tools for [fixing](https://notageni.us/fix/) and [engineering](https://notageni.us/engineering/) things
+# Tools for [fixing](https://adequate.life/fix/) and [engineering](https://notageni.us/engineering/) things
 
 Engineered parts:  
 [McMaster-Carr☁](https://www.mcmaster.com/)

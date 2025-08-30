@@ -1,5 +1,5 @@
 
-# Tools for [fixing things](https://notageni.us/fix/)
+# Tools for [fixing things](https://adequate.life/fix/)
 
 [TechToolSupply.com](https://www.techtoolsupply.com/default.asp)
 

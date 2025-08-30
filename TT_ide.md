@@ -404,12 +404,11 @@ Finally type `:wq` to save and close the file.
 `gg=G`
 
 ### Text selection ([Source](https://www.cs.swarthmore.edu/oldhelp/vim/selection.html))
-```
+
 V       - selects entire lines
 v       - selects range of text
 ctrl-v  - selects columns
 gv      - reselect block
-```
 
 ### Basics (command mode)
 * `:open FILE_PATH` : open a file
@@ -557,7 +556,7 @@ Coding Break Reminders
 
 Kill VS Code (in bash)
 
-```
+```bash
 for i in $( ps -ef | grep vscode-server | grep "^[a-z0-9+]*  *[0-9][0-9]*  *1 " | awk '{ print $2 }' )
 do
    echo "killing $i "
