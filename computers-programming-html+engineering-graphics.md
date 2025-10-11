@@ -1,5 +1,5 @@
 
-# Tools for the programming language HTML with respect to graphics
+# Tools for HTML with respect to graphics
 
 Code-less HTML editing:  
 [HtmlDocEdit⊞■](https://www.nirsoft.net/utils/html_doc_edit.html)

@@ -360,3 +360,129 @@ Lists top sites with Alexa rankings and other metadata.
 
 [Product Hunt](http://500makers.com/)
 a list of top 500 makers on [Product Hunt](https://www.producthunt.com/)
+
+## OTHER UNSORTED
+
+The way to send an email via text:
+1. [CarrierLookup | Find Cell Phone Carrier For Free & Carrier Lookup API](https://www.carrierlookup.com/)
+2. [Email to SMS - Send Free SMS via Email](https://email2sms.info/)
+
+[Cheap Hotels - onlineBooking.com](https://www.online-booking.com/)
+
+[APA Psychologist Locator – American Psychological Association](https://locator.apa.org/)
+
+[GitHub - seras42/feels_app](https://github.com/seras42/feels_app?tab=readme-ov-file)
+
+[Dispersed Camping near Des Moines, IA](https://thedyrt.com/camping/iowa/near/des-moines/with/dispersed)
+
+[Health & Wellness - Adult Mental Health | Your Life Iowa](https://yourlifeiowa.org/adult-mental-health/health-and-wellness#physical-and-mental-health)
+
+[Health & Wellness - Adult Mental Health | Your Life Iowa](https://yourlifeiowa.org/adult-mental-health/health-and-wellness#risk-factors)
+
+[Health & Wellness - Adult Mental Health | Your Life Iowa](https://yourlifeiowa.org/adult-mental-health/health-and-wellness#finding-services)
+
+[Health & Wellness - Adult Mental Health | Your Life Iowa](https://yourlifeiowa.org/adult-mental-health/health-and-wellness#mental-health-first-aid)
+
+[Adult Mental Health | Your Life Iowa](https://yourlifeiowa.org/adult-mental-health)
+
+[Health & Wellness - Adult Mental Health | Your Life Iowa](https://yourlifeiowa.org/adult-mental-health/health-and-wellness#stigma)
+
+[Mental Health Resources | Iowa.gov](https://www.iowa.gov/resources-0/mental-health-resources)
+
+[Bible Questions Answered | GotQuestions.org](https://www.gotquestions.org/)
+
+[VCY.tv](https://www.vcy.tv/)
+
+[Evince: (or GNOME Document Viewer) is a document viewer for multiple document formats: | AlternativeTo](https://alternativeto.net/software/evince/about/)
+
+[Nara Baby Tracker – Nara Organics, Inc.](https://nara.com/pages/nara-baby-tracker)
+
+[christian game reviews – Qwant Search](https://www.qwant.com/?q=christian+game+reviews&t=web)
+
+[Truecaller - Leading Global Caller ID & Call Blocking App](https://www.truecaller.com/)
+
+[#GetFediHired - NAS](https://noauthority.social/tags/GetFediHired)
+[#Hiring - NAS](https://noauthority.social/tags/Hiring)
+
+[Faithlife - Faithlife](https://faithlife.com/)
+- part of Logos, recommended by Odie Lofton as a beginning of a decentralized social network for Christians
+
+[Home - Broadcast Tools | Problem Solved](https://broadcasttools.com/)
+
+[OpenSecrets](https://www.opensecrets.org/)
+
+[Artists Network-Creative content, education, and products for artists](https://www.artistsnetwork.com/)
+
+[FuturisticGoo/emotic: Reignite the love for emoticons](https://github.com/FuturisticGoo/emotic)
+
+[Todo.txt: Future-proof task tracking in a file you control](http://todotxt.org/)
+
+[Mental Health Resources - Take This](https://www.takethis.org/mental-health-resources/)
+[Home - Take This](https://www.takethis.org/)
+
+[Draw distance - Wikipedia](https://en.m.wikipedia.org/wiki/Draw_distance)
+
+[Send Money Online | Online Money Transfers - Wise, formerly TransferWise](https://wise.com/us/send-money/send-money-online)
+[Send Money Online](https://www.westernunion.com/us/en/web/send-money/start)
+
+[GitHub - seven1m/open-bibles: Repository of public domain and freely (libre) licensed bible translations in some standard XML formats.](https://github.com/seven1m/open-bibles)
+
+[VDO.Ninja](https://vdo.ninja/)
+
+[Draft2Digital | D2D Print Calculator](https://draft2digital.com/podcalc)
+
+[Show HN: I'm building an open-source Amazon | Hacker News](https://news.ycombinator.com/item?id=32690410)
+[Scale your e-commerce operations by using multi-channel fulfillment | Openship](https://openship.org/)
+
+[I, Voyager: Open-Source Software Planetarium | Hacker News](https://news.ycombinator.com/item?id=37941509)
+[I, Voyager - An Open-Source Planetarium & Game Development Platform](https://www.ivoyager.dev/)
+
+[Show HN: Open-source tool for creating courses like Duolingo | Hacker News](https://news.ycombinator.com/item?id=38316936)
+[UneeBee | Open-source interactive courses](https://uneebee.com/)
+
+[Glove80 Ergonomic Keyboard | Hacker News](https://news.ycombinator.com/item?id=37376686)
+[Review: Glove80 Ergonomic Keyboard | Daniël de Kok](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
+
+[Show HN: Little Rat - Chrome extension monitors network calls of all extensions | Hacker News](https://news.ycombinator.com/item?id=37119942)
+[GitHub - dnakov/little-rat: 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls](https://github.com/dnakov/little-rat)
+
+[Launch HN: Twenty.com (YC S23) - Open-source CRM | Hacker News](https://news.ycombinator.com/item?id=36791434)
+[Twenty - The #1 Open-Source CRM](https://twenty.com/)
+
+[inter.tube - welcome to inter.tube](https://inter.tube/login)
+
+[Sketch.systems | Hacker News](https://news.ycombinator.com/item?id=36378731)
+[Sketch.systems](https://sketch.systems/)
+
+[Home | RedBalloon](https://www.redballoon.work)
+
+[Church Clarity | Ambiguity is Harmful, Clarity is Reasonable](https://www.churchclarity.org)
+
+[PublicSq. | Connecting freedom loving Americans](https://publicsq.com/)
+
+[Gab Parallel Economy Shopping Catalog - Gab News](https://news.gab.com/2022/10/gab-parallel-economy-shopping-catalog)
+
+[Gab.com's 2022 Accomplishments And 2023 Plans - Gab News](https://news.gab.com/2022/12/gab-coms-accomplishments-in-2022-and-our-2023-plans)
+
+[Patients can now access all their health records digitally | Hacker News](https://news.ycombinator.com/item?id=33127810)
+[Under new rules, patients can now access all their health records digitally  ](https://www.statnews.com/2022/10/06/health-data-information-blocking-records/)
+
+[Marketplace Which Values Your Skills & Time in 2023 | JSON API APP](https://www.jsonapi.co)
+
+[Show HN: Readwise Reader, an all-in-one reading app | Hacker News](https://news.ycombinator.com/item?id=34006202)
+[Readwise Reader | The first read-it-later app built for power readers.](https://readwise.io/read)
+
+[Blogscroll - an open-source directory of personal blogs and digital gardens | Hacker News](https://news.ycombinator.com/item?id=37516665)
+[BlogScroll - Personal Blog & Site Directory](https://blogscroll.com/)
+
+[Maker Skill Trees | Hacker News](https://news.ycombinator.com/item?id=41381598)
+[sjpiper145/MakerSkillTree: A repository of Maker Skill Trees and templates to make your own.](https://github.com/sjpiper145/MakerSkillTree)
+
+[SmartKnob - Haptic input knob with software-defined endstops and virtual detents | Hacker News](https://news.ycombinator.com/item?id=37448659)
+[GitHub - scottbez1/smartknob: Haptic input knob with software-defined endstops and virtual detents](https://github.com/scottbez1/smartknob)
+
+[Show HN: I made a website where you can create your own "Life in Weeks" timeline | Hacker News](https://news.ycombinator.com/item?id=43183635)
+
+[Home - Christian Classics Ethereal Library](https://ccel.org/)
+
+[Apps | Podcastindex.org](https://podcastindex.org/apps)
