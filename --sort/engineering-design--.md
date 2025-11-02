@@ -4,9 +4,6 @@
 
 [DesktopOK — No more screaming when your icons get scrambled @ AskWoody](https://www.askwoody.com/2024/desktopok-no-more-screaming-when-your-icons-get-scrambled/)
 
-[growth.design](https://growth.design/case-studies/)
-    - main site NOT in TB
-
 [thingdb.io/](https://thingdb.io/)
 
 [UXTweak](https://www.uxtweak.com/)
@@ -851,8 +848,6 @@ Low-level detailed design documents become obsolete almost immediately.
 [VW is putting buttons back in cars | Hacker News](https://news.ycombinator.com/item?id=38686967)
 [VW Is Putting Buttons Back in Cars Because People Complained Enough](https://www.thedrive.com/news/vw-is-putting-buttons-back-in-cars-because-people-complained-enough)
 
-[How to avoid (and repair) these 3 critical design blunders](https://growth.design/case-studies/design-blunders)
-
 [European crash tester says carmakers must bring back physical controls | Hacker News](https://news.ycombinator.com/item?id=39598189)
 [European crash tester says carmakers must bring back physical controls | Ars Technica](https://arstechnica.com/cars/2024/03/carmakers-must-bring-back-buttons-to-get-good-safety-scores-in-europe/)
 
@@ -1548,32 +1543,6 @@ Matt D Smith Checklist
 [Introduction to User Experience](https://www.superhi.com/courses/introduction-to-user-experience-design)
 
 ## Product design and business courses - 12 tools
-
-[Growth.Design - Better Products, Better Growth.](https://growth.design/)
-
-[Signal: How To Ethically Boost Your Revenues](https://growth.design/case-studies/signal-revenue?activecampaign_id=greg%40stucky.tech)
-
-[Letterboxd: How to nail product market fit with clear Jobs‑To‑Be‑Done](https://growth.design/case-studies/letterboxd-jobs-to-be-done)
-
-[Adobe: The growing issue with "Free" trials UX](https://growth.design/case-studies/adobe-trial-ux)
-
-[Social Proof: Why people's behaviors affect our actions](https://growth.design/case-studies/social-proof)
-
-[Apple vs. Meta: The Illusion of Privacy | Hacker News](https://news.ycombinator.com/item?id=37433495)
-[Apple vs Meta: The Illusion of Privacy](https://growth.design/case-studies/apple-privacy-policy)
-
-- clarify the TI ratio, since that is VERY important
-- Transparency/Intrusiveness ratio
-	- i.e., be transparent proportionally to being intrusive
-- (also, roach motel dark pattern)
-	- https://blog.mobiversal.com/dark-patterns-or-how-ux-exploits-the-user-roach-motel-and-sneak-into-basket.html
-- Clarify "privacy washing"
-
-[The psychology of Temu's casino-like shopping UX](https://growth.design/case-studies/temu-onboarding-psychology)
-
-[Spotify Wrapped: 6 psychology principles that make it go viral every year](https://growth.design/case-studies/spotify-wrapped-psychology)
-
-[Framing Effect: Why context affects decisions](https://growth.design/case-studies/framing-effect)
 
 [Strategic Business Thinking for Designers · Second Wave Dive](https://www.secondwavedive.com/stracademy/designers/strategic-business-thinking-for-designers)
 course
@@ -2758,8 +2727,6 @@ Generate and access great, realistic looking sci-fi user interfaces for use in T
 [UI Coach](https://uicoach.io/)
 UI Design Challenge Generator
 
-[How small UI delighters have a huge impact on UX](https://growth.design/case-studies/been-onboarding)
-
 [UIKit | Apple Developer Documentation](https://developer.apple.com/documentation/uikit)
 
 [Show HN: Slint - A declarative UI toolkit for embedded and desktop | Hacker News](https://news.ycombinator.com/item?id=36388821)
@@ -3122,8 +3089,6 @@ Reflector is a basic screen-mirroring and recording tool so you can conduct user
 [Give It the Craigslist Test | Hacker News](https://news.ycombinator.com/item?id=35826785)
 [Give it the Craigslist test Erica Heinz](https://ericaheinz.com/notes/give-it-the-craigslist-test/)
 
-[The "almost" perfect trial conversion](https://growth.design/case-studies/mine-trial-conversion)
-
 ## ux research tools
 
 [The Ultimate Guide to UX Research](https://maze.co/guides/ux-research/)
@@ -3468,8 +3433,6 @@ SweetAlert makes popup messages easy and pretty.
 
 [sweetalert2](https://sweetalert2.github.io/)
 A beautiful, responsive, customizable, accessible replacement for javascript's popup boxes
-
-[One simple way Apple could improve your sleep habits](https://growth.design/case-studies/apple-sleep-notification)
 
 [Toasts are bad UX | Hacker News](https://news.ycombinator.com/item?id=41298794)
 [Toasts are Bad UX – Max Schmitt](https://maxschmitt.me/posts/toasts-bad-ux)

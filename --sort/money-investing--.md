@@ -1,4 +1,6 @@
 
+https://www.timothyplan.com/
+
 [GitHub - mr-karan/awesome-investing: Curated list of investment & finance related resources](https://github.com/mr-karan/awesome-investing)
 
 [GitHub - romainsimon/awesome-investing: List of awesome investing tools and software](https://github.com/romainsimon/awesome-investing)
