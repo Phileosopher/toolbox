@@ -1,4 +1,6 @@
 
+https://wng.org/sift/financiers-launch-programs-helping-christians-invest-biblically-1755898116
+
 https://www.timothyplan.com/
 
 [GitHub - mr-karan/awesome-investing: Curated list of investment & finance related resources](https://github.com/mr-karan/awesome-investing)

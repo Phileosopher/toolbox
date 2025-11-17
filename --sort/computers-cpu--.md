@@ -1,4 +1,6 @@
 
+['Accidental discovery' creates candidate for universal memory — a weird semiconductor that consumes a billion times less power | Live Science](https://www.livescience.com/technology/computing/accidental-discovery-creates-candidate-for-universal-memory-a-weird-semiconductor-that-consumes-a-billion-times-less-power)
+
 ## architecture simulator - gem5 tools
 
 [gem5: The gem5 simulator system](https://www.gem5.org/)

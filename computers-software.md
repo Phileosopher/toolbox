@@ -26,6 +26,10 @@ Free stuff:
 [Free for developers](https://free-for.dev/) ([GitHub](https://github.com/ripienaar/free-for-dev)),
 [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)
 
+Computer books:  
+[Books](https://github.com/ThisIsSakshi/Books),
+[ITBook.store's free books](https://itbook.store/books/free)
+
 ## Code snippets
 
 Snippets manager:  
@@ -45,7 +49,7 @@ Dev advice:
 Entire apps:  
 [Historical Source](https://github.com/historicalsource),
 
-# APIs🔌
+## APIs🔌
 
 Cheatsheets:  
 [DevDocs API Documentation](https://devdocs.io/)

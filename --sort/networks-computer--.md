@@ -1,4 +1,8 @@
 
+https://www.carrierlookup.com/
+
+https://20somethingfinance.com/how-to-send-text-messages-sms-via-email-for-free/
+
 ## network tools
 
 [GitHub - friskfrysefrugt/awesome-networking: A curated inexhaustive list of network utilities](https://github.com/friskfrysefrugt/awesome-networking)
