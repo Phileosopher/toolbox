@@ -10,8 +10,12 @@ Goat rental:
 Hay:  
 [Internet Hay Exchange☁](http://www.hayexchange.com/)
 
+Heat pump comparison:
+[HeatpumpMonitor.org](https://heatpumpmonitor.org/)
+
 ## Guides
 
+[Livin' the Country Life](https://livinthecountrylife.com/),
 [Mother Earth News](https://www.motherearthnews.com/)
 
 House building:  
