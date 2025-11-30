@@ -27,4 +27,4 @@ Official libraries:
 Unofficial libraries:  
 [Free Online Library](https://www.thefreelibrary.com/),
 [Open Library🔌](https://openlibrary.org/)
-[SANET SoftArchive](https://softarchive.is/) ([current status](https://sastatus.com/), and mirrors [here](https://sanet.lc/), [here](https://softarchive.is/), and [here](https://sanet.st/))
+[SANET SoftArchive](https://softarchive.is/) ([current status](https://sastatus.com/), and [mirror 1](https://sanet.lc/), [mirror 2](https://softarchive.is/), and [mirror 3](https://sanet.st/))

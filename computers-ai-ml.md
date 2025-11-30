@@ -26,15 +26,3 @@ Document data - invoices:
 
 Computer Vision:  
 [awesome-computer-vision-models💩](https://github.com/gmalivenko/awesome-computer-vision-models)
-
-## Education
-
-Research papers:  
-[OpenReview](https://openreview.net/)
-
-Deep learning:  
-[Deep-Learning💩](https://github.com/ElizaLo/Deep-Learning),
-[deep-learning-roadmap](https://github.com/instillai/deep-learning-roadmap)
-
-Deep reinforcement learning:  
-[Deep_Reinforcement_Learning](https://github.com/Machine-Learning-Tokyo/Deep_Reinforcement_Learning)

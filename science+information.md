@@ -20,9 +20,9 @@ Predatory journals and publishers:
 [Academic Journals](https://academicjournals.org/),
 [arXiv.org](https://arxiv.org/),
 [Internet Archive Scholar](https://scholar.archive.org/),
-[Library Genesis](https://libgen.is/) (alternate mirror [here](https://libgen.rs/), [here](https://libgen.gs/) and [here](https://libgen.st/) with a [mobile client here🤖](https://f-droid.org/en/packages/com.funkymuse.aurora/), [here🍎](https://github.com/MartinStamenkovski/LibraryGenesis) and [desktop client here⊞■](https://wiki.mhut.org/software:libgen_desktop)
+[Library Genesis](https://libgen.is/) ([mirror 1](https://libgen.rs/), [mirror 2](https://libgen.gs/) and [mirror 3](https://libgen.st/) with a [mobile client here🤖](https://f-droid.org/en/packages/com.funkymuse.aurora/), [mobile client 2🍎](https://github.com/MartinStamenkovski/LibraryGenesis) and [desktop client⊞■](https://wiki.mhut.org/software:libgen_desktop)
 ),
-[Sci-Hub](https://sci-hub.se/) ([DOI redirect⇉](https://greasyfork.org/en/scripts/412498-doi-to-sci-hub) mirrors [here](https://sci-hub.st/), [here](https://paperpanda.app/search), and [here](https://sci-hub.usualwant.com/)),
+[Sci-Hub](https://sci-hub.se/) ([DOI redirect⇉](https://greasyfork.org/en/scripts/412498-doi-to-sci-hub) with [mirror 1](https://sci-hub.st/), [mirror 2](https://paperpanda.app/search), and [mirror 3](https://sci-hub.usualwant.com/)),
 [The General Index](https://archive.org/details/GeneralIndex)
 
 Search engine:  

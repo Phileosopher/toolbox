@@ -29,9 +29,3 @@ Decentralized storage:
 
 Emails reserved for other use:  
 [Forward Email's Reserved Email Addresses List](https://forwardemail.net/en/docs/reserved-email-addresses-list)
-
-## Education
-
-Giant piles of things💩:  
-[awesome-distributed-systems](https://github.com/rShetty/awesome-distributed-systems),
-[distributed-systems](https://github.com/brunohenrique/distributed-systems)

@@ -13,6 +13,8 @@ Password decryption:
 Caesar cipher:  
 [rot13.com](https://rot13.com/)
 
+## Calculators
+
 Hash calculators - SHA-1:  
 [SHA-1 hash calculator☁](https://xorbin.com/tools/sha1-hash-calculator)
 

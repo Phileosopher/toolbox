@@ -1,10 +1,6 @@
 
 # Tools for design and UX with respect to specific elements
 
-## Educational content
-
-[growth.design](https://growth.design/case-studies/)
-
 ## Barcodes
 
 QR codes:  

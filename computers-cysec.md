@@ -18,11 +18,3 @@ Malware file scan:
 Antivirus software:  
 [ClamAV⊞⌘🐧□](https://www.clamav.net/)
 [ClamWin⊞■](http://www.clamwin.com/)
-
-## Education
-
-Tutorials and guides:  
-[awesome-cyber-security-university💩](https://github.com/brootware/awesome-cyber-security-university)
-
-Notes:  
-[SecNotes💩](https://github.com/0xRar/SecNotes)

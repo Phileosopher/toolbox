@@ -1,9 +1,11 @@
 
 # Toolbox
 
-I have a [commonplace repo](https://github.com/Phileosopher/commonplace), but that's for information. This is my commonplacing for tools I may use.
+This is my commonplacing for tools I may use.
 
 ## Earmarks
+
+- I have a [commonplace repo](https://github.com/Phileosopher/commonplace) for information and reference, but I wanted to demarcate "use" from "understand".
 
 I've left emoji earmarks for reference, and my frequency of use approximately correlates to how many earmarks I've placed on it:  
 
@@ -42,7 +44,7 @@ These icons are volatile out-of-the-box guesstimates, for several reasons:
 - Developers keep making new things for new technologies, so this is constantly becoming obsolete or adapting to new standards. From the time you read this, most of this toolbox is good for about 10 years.
 - Addon features have a funny way of becoming built-in features as everyone uses it, and built-in features will often become lobotomized to make something more efficient or profitable. Nothing is permanent.
 
-If the file has dashes after it, it's just stray, unsorted, untested tools I've ~~hoarded~~ gathered.
+If the file has dashes in it, it's just stray, unsorted, untested tools I've ~~hoarded~~ gathered.
 
 ## Why
 

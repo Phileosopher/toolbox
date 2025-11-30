@@ -1,5 +1,5 @@
 
-# Tools for the programming language C#
+# Tools for the C# programming language
 
 ## Decompilers
 

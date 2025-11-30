@@ -35,4 +35,3 @@ Auctions:
 Homes:  
 [REX](https://www.rexhomes.com/),
 [Trelora](https://www.trelora.com/)
-s
