@@ -11,7 +11,8 @@ Renting vs. Buying calculator:
 
 ## Construction
 
-Housing plans:  
+Housing plans/kits:  
+[Bunkie Life](https://bunkielife.com/),
 [Earthship Biotecture](https://earthshipbiotecture.com/),
 Monolithic ([Monolithic Dome](https://www.monolithic.com/) with [Monolithic Dome Institute](https://monolithicdome.com/)),
 [Open Building Institute](https://www.openbuildinginstitute.org/),

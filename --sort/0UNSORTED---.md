@@ -1,4 +1,9 @@
 
+## powerful websites
+
+https://www.facebook.com/SetupSpawn/reels/
+- mixed into other stuff
+
 # quick bookmarks 2024-08
 
 

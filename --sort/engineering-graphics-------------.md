@@ -13,14 +13,6 @@ tool for searching 3D models by 3560 3D CAD (computer aided design) and BIM (Bui
 
 [ReadComicOnline - Read comics online in high quality](https://readcomiconline.li/)
 
-## foraging - icon fonts tools
-
-[Material Design Iconic Font by zavoloklom](https://zavoloklom.github.io/material-design-iconic-font/index.html)
-Material design icon font
-
-[codicon | The icon font for Visual Studio Code](https://microsoft.github.io/vscode-codicons/dist/codicon.html)
-The icon font from Visual Studio Code
-
 ## foraging - icons - 35 tools
 
 [Free icons no attribution required PNG download for commercial use, public domain, creative commons cc0, vector, colored.](https://aiconica.net/)

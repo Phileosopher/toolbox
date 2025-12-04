@@ -29,6 +29,10 @@ App icons:
 Icon management:  
 [Iconset⊞⌘](https://iconset.io/) ([GitHub](https://github.com/IconsetApp/iconset), with [free-icons](https://github.com/IconsetApp/free-icons))
 
+Icon fonts:  
+[codicon: VS Code's icon font](https://microsoft.github.io/vscode-codicons/dist/codicon.html),
+[zavoloklom's Material Design Iconic Font](https://zavoloklom.dev/material-design-iconic-font/index.html)
+
 ## Forms
 
 [Jotform](https://www.jotform.com/)

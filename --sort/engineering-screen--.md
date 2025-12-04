@@ -1,4 +1,6 @@
 
+[Screen PPD Calculator](https://qasimk.io/screen-ppd/)
+
 ## comics reader tools
 
 [Paperback](https://paperback.moe/)
