@@ -43,13 +43,6 @@ Mobile-friendly test:
 [Google's Mobile-Friendly Test☁🧛](https://search.google.com/test/mobile-friendly),
 [Responsinator☁](https://www.responsinator.com/)
 
-Accessibility test:  
-[A11ygator☁](https://a11ygator.chialab.io/),
-[AChecker☁](https://achecker.ca/),
-[ANDI⇉](https://www.ssa.gov/accessibility/andi/help/install.html),
-[WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/),
-[Webflow's Accessibility checklist☁](https://webflow.com/accessibility/checklist)
-
 Worldwide test:  
 [W3C I18n Checker☁](https://validator.w3.org/i18n-checker/)
 

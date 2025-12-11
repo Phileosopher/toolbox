@@ -168,16 +168,6 @@ A Chrome extension, helpful for understanding the problems faced by people with 
 [Contrast Ratio](https://contrast-ratio.com)
 Easily calculate color contrast ratios. Passing WCAG was never this easy!
 
-[WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
-WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content.
-[WAVE Browser Extensions](https://wave.webaim.org/extension/)
-    - in TB, but not the browser extension
-
-## UNSORTED - ACCESSIBILITY - HARDWARE
-
-[Deskhunt](http://deskhunt.com/)
-Place where inspirational workspaces meet stories about focus, ergonomics and self improvement.
-
 ## a11y tools
 
 [Accessibility link list from WASP](http://www.webstandards.org/learn/external/wai/)
