@@ -951,6 +951,8 @@ A Website That Provides An Online Game Where Players Must Improvise And Act Out 
 
 [Ai Prompt](https://aiprompt.beehiiv.com/)
 A Tool That Generates Creative Writing Prompts Using GPT-3 AI.
+[The AI Times Newsletter](https://the-ai-times-page.beehiiv.com/)
+AI News
 
 [Pickmyline](https://www.pickmyline.online/)
 A Platform That Generates Creative Writing Prompts And Ideas For Bloggers And Content Creators.

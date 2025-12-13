@@ -3,8 +3,16 @@
 
 ## Testing
 
+[MusicKit Metronome/Tuner/Tone Generator☁](https://musickit.jull.dev/)
+
 Tone generation:  
-[Online Tone Generator☁](https://www.szynalski.com/tone-generator/)
+[Online Tone Generator☁](https://www.szynalski.com/tone-generator/),
+[Online Tone Generator☁](https://onlinetonegenerator.com/)
+
+Tuner:  
+[Tuner Ninja☁](https://tuner.ninja/),
+[Tuner🤖🆓](https://f-droid.org/packages/de.moekadu.tuner/) ([GitHub](https://github.com/thetwom/Tuner))
+[Zen Tuner App🍎](https://apps.apple.com/us/app/zen-tuner/id1550640624) ([GitHub](https://github.com/jpsim/ZenTuner))
 
 Audio Noise:  
 [Audio Noise Generator☁](https://www.random.org/audio-noise/)

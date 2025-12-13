@@ -457,28 +457,15 @@ A/V programing platform
 [WebSynths](http://www.websynths.com/)
 Browser-Based Instruments
 
-[MusicKit](https://musickit.jull.dev/)
-Metronome, Tuner & Tone Generator
-
-[Tuner Ninja](https://tuner.ninja/)
-Instrument Tuner
-
 [jmiskovic/hexpress: Modern mobile music instrument](https://github.com/jmiskovic/hexpress)
 
 [Practice Suite](https://codeberg.org/Berker/practice_suite)
 [F-Droid](https://www.f-droid.org/app/com.berkersen.practicesuite)
 
-[Tuner](https://github.com/thetwom/Tuner)
-[F-Droid](https://www.f-droid.org/app/de.moekadu.tuner)
-
 [TouchOSC](https://hexler.net/software/touchosc)
 IOS + Android
 
 [ODDSOUND](https://oddsound.com/)
-
-[ZenTuner](https://github.com/jpsim/ZenTuner)
-Minimal chromatic tuner
-[JP Simard Swift Developer](https://www.jpsim.com/)
 
 ## audio production - playing music - chiptune tools
 
@@ -1516,11 +1503,6 @@ Listen Live to Police, Fire, EMS, Aviation, and Rail Audio Feeds
 
 [Radiooooo](https://radiooooo.com/)
 Listen to music from different decades
-
-## tone generator tools
-
-[Online Tone Generator - Free, Simple and Easy to Use](https://onlinetonegenerator.com/)
-Multiple Audio Tools
 
 ## trackers - 12 tools
 

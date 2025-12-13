@@ -3,27 +3,13 @@
 
 ## 00 Unknown AI - Text-Based - 62 tools
 
-[PluginLab](https://www.pluginlab.ai/)
-A platform that offers various AI-powered plugins and tools for WordPress websites, including chatbots, recommendation engines, and more.
-
-[Fine-Tuner.ai](https://fine-tuner.ai/)
-An AI platform that allows the fine-tuning of pre-trained machine learning models for custom use-cases.
-[Fine-TunerAIl](https://fine-tuner.ai/finetune)
-A service that enables users to fine-tune GPT models for specific tasks and use cases, improving their performance and accuracy.
-
 [AI Genius - Chrome Web Store](https://chrome.google.com/webstore/detail/ai-genius/ohepjelkmfachklkbaidkgeidegifmdj)
 An AI Chrome extension designed to provide smart suggestions and aid in productivity.
 
-[Zenox - Your AI](https://zenox.vercel.app/)
-Zenox Is An AI-powered Platform That Provides A Suite Of NLP-based Solutions, Including Text Generation And Sentiment Analysis.
-
-[GPTAgent](https://www.gptagent.com/)
-An AI-based Platform Offering Advanced Language Model Solutions For Businesses, Including Chatbots, Content Generation, And Data Analysis.
-
-[STRING](https://www.askstring.com/)
+[STRING - Your last data tool](https://www.askstring.com/)
 A Platform Offering AI-driven Natural Language Processing And Understanding Services.
 
-[Mymind](https://mymind.com/)
+[mymind is the extension for your mind.](https://mymind.com/)
 A Personal AI Assistant For Organizing Thoughts, Ideas, And Information.
 
 [TEXTIFY](https://textify.ai/directory/)
@@ -33,17 +19,8 @@ A Directory Of AI-powered Text Analysis Tools And Resources.
 [GPTForge](https://gptforge.net/)
 A Platform For Creating Custom AI Language Models Based On OpenAI's GPT Technology.
 
-[Several Minds](https://www.severalminds.ai/)
-A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Natural Language Processing And Generation.
-
-[Lettria](https://www.lettria.com/)
+[Document intelligence for regulated industries.- Lettria](https://www.lettria.com/)
 A Platform That Provides Tools For Building And Deploying Natural Language Processing Models.
-
-[Lollib AI](https://lollib.com/)
-A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Natural Language Generation.
-
-[Masterful AI](https://www.masterfulai.com/)
-A Platform That Provides Tools And Resources For Building And Deploying Machine Learning Models For Natural Language Processing And Generation.
 
 [OpenRead](https://www.openread.academy/home)
 A Platform That Provides Resources And Tools For Learning About And Working With Natural Language Processing.

@@ -14,7 +14,7 @@ Microcopy prompts:
 Quotes:  
 [BrainyQuote*](https://www.brainyquote.com/)
 
-Tone generator:  
+Tone of voice generator:  
 [The Portent Tone of Voice Generator☁](https://www.portent.com/tools/tone-of-voice-generator)
 
 Titling:  
