@@ -1,7 +1,8 @@
 
 # Tools for Bible study
 
-[NTSLibrary's Free Christian Books](https://www.ntslibrary.com/Free_Christian_Books.htm)
+[NTSLibrary's Free Christian Books](https://www.ntslibrary.com/Free_Christian_Books.htm),
+[Restoration Library](https://www.restorationlibrary.org/texts/)
 
 Torah/Bible study websites:  
 [Bible Hub](https://biblehub.com/),
@@ -18,13 +19,6 @@ Torah/Bible study software:
 Daily devotionals:  
 [Heartlight](https://www.heartlight.org/),
 [My Utmost for His Highest](https://utmost.org/)
-
-Bible commentaries:  
-[Christianity.com's Bible Commentary](https://www.christianity.com/bible/commentary/),
-[FreeCommentaries.com](https://freecommentaries.com/)
-
-Bible commentaries - specific:  
-[Matthew Henry Bible Commentary (1706)](https://www.christianity.com/bible/commentary/matthew-henry-complete/)
 
 Bible concordances:  
 [Strong's Concordance (1890)](https://strongsconcordance.org/)
