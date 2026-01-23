@@ -1,9 +1,18 @@
 
 # Tools for accounting
 
-All-in-one accounting:  
-[Bigcapital🆓](https://bigcapital.ly/) ([GitHub](https://github.com/bigcapitalhq/bigcapital)),
-[ledger□🆓](https://ledger-cli.org/) ([GitHub](https://github.com/ledger/ledger))
+Accounting all-in-one:  
+[GNU Accounting Utilities🐧🆓](https://www.gnu.org/software/acct/),
+[Wave Financial☁](https://www.waveapps.com)
+
+All-in-one accounting - large-scale:  
+[Bigcapital🆓](https://bigcapital.ly/) ([GitHub](https://github.com/bigcapitalhq/bigcapital))
+
+All-in-one accounting - text files:  
+[beancount](https://furius.ca/beancount/) (with [many upgrades](https://github.com/wzyboy/awesome-beancount))
+
+All-in-one accounting - command line:  
+[ledger□🆓](https://ledger-cli.org/) ([GitHub](https://github.com/ledger/ledger)) (with [many upgrades](https://github.com/sfischer13/awesome-ledger))
 
 POS:  
 [Cyclos⊞🐧](https://www.cyclos.org/),
@@ -28,6 +37,9 @@ Expense/time tracking and invoice:
 [Invoice Ninja](https://www.invoiceninja.com/),
 [Kill Bill(Java)🆓](https://killbill.io/) ([GitHub](https://github.com/killbill/killbill)),
 [Zoho Invoice](https://www.zoho.com/invoice/)
+
+Invoice generator:  
+[Free Invoice Generator](https://invoice-generator.com/)
 
 Invoices - sending:  
 [Invoice Dragon☁](https://invoicedragon.com/) ([GitHub](https://github.com/LaniJ/invoice-dragon)),

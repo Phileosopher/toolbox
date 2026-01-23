@@ -6,11 +6,8 @@ Barebones income/expense tracking:
 [GNU Pem🐧□🆓](https://www.gnu.org/software/pem/pem-nano.html),
 [HomeBank](https://www.gethomebank.org/),
 [MoneyManager Ex⊞⌘🐧](https://moneymanagerex.org/),
+[MoneyWallet🤖🆓](https://f-droid.org/en/packages/com.oriondev.moneywallet/) ([GitHub](https://github.com/AndreAle94/moneywallet)),
 [Smart Wallet🍎](https://apps.apple.com/us/app/smart-wallet/id1378013954)
-
-Accounting all-in-one:  
-[GNU Accounting Utilities🐧🆓](https://www.gnu.org/software/acct/),
-[Wave Financial☁](https://www.waveapps.com)
 
 Personal finance - positions:  
 [GnuCash⊞■⌘🐧🆓](https://www.gnucash.org/),
@@ -20,6 +17,9 @@ Personal finance - positions:
 
 Personal finance - projections:  
 [ProjectionLab](https://projectionlab.com/)
+
+Personal finance - Sankey diagram:  
+[BudgetFlow](https://www.budgetflow.cc/)
 
 Retirement calculator:  
 [FINRA's Retirement Calculator☁](https://tools.finra.org/retirement_calculator/)
