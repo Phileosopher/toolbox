@@ -14,7 +14,7 @@ Auto-save a separate branch for ALL work:
 GitHub actions:  
 [awesome-actions💩](https://github.com/sdras/awesome-actions)
 
-## IDE Cores - Classic IDE
+## Classic IDE - vim
 
 vim:  
 [vi](https://ex-vi.sourceforge.net/),
@@ -38,6 +38,17 @@ vim keybindings everywhere - browser:
 [Vimium](https://vimium.github.io/) ([GitHub](https://github.com/philc/vimium)),
 [vimium-c](https://github.com/gdh1995/vimium-c)
 
+vim + emacs:  
+[SpaceVim](https://spacevim.org/) ([GitHub](https://github.com/SpaceVim/SpaceVim))
+
+vim keyboard extensions for the web browser - Firefox⇉:  
+[Tridactyl](https://tridactyl.xyz/) ([GitHub](https://github.com/tridactyl/tridactyl))
+
+vim keyboard extensions for the web browser - Chrome⇉:  
+[cVim](https://github.com/1995eaton/chromium-vim)
+
+## Classic IDE - emacs
+
 emacs:  
 [GNU Emacs⊞⌘🐧🆓](https://www.gnu.org/software/emacs/) (with [awesome-emacs](https://github.com/emacs-tw/awesome-emacs))
 
@@ -57,10 +68,7 @@ emacs + vim:
 [doomemacs⇉](https://github.com/doomemacs/doomemacs),
 [Spacemacs](https://www.spacemacs.org/) ([GitHub](https://github.com/syl20bnr/spacemacs))
 
-vim + emacs:  
-[SpaceVim](https://spacevim.org/) ([GitHub](https://github.com/SpaceVim/SpaceVim))
-
-## IDE Cores - Modern
+## Modern IDE
 
 Microsoft-tailored:  
 [Visual Studio⊞🧛](https://visualstudio.microsoft.com/),

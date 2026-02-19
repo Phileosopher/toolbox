@@ -20,6 +20,10 @@ Web bookmarks:
 [Pocket⇉](https://getpocket.com/),
 [Raindrop.io☁⇉⊞⌘🐧🍎🤖🔌](https://raindrop.io/)
 
+Alternatives to websites:  
+[SimilarSiteSearch.com](https://www.similarsitesearch.com/),
+[Top Similar Sites](https://www.topsimilarsites.com/)
+
 ## Optimizations
 
 [awesome-browser-automation💩](https://github.com/angrykoala/awesome-browser-automation)

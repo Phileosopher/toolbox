@@ -25,6 +25,10 @@ Text substitution:
 
 ## Shortcuts
 
+Web browser shortcuts:  
+[Surfingkeys](https://github.com/brookhong/Surfingkeys),
+[web-search-navigator⇉](https://github.com/infokiller/web-search-navigator)
+
 Keyboard macros:  
 [AutoHotkey⊞](https://www.autohotkey.com/) ([GitHub](https://github.com/AutoHotkey/AutoHotkey), with [Linux fork🐧](https://github.com/phil294/AHK_X11)),
 [AutoKey🐧](https://autokey.github.io/) ([GitHub](https://github.com/autokey/autokey)),
@@ -55,6 +59,15 @@ Ergonomic keyboard:
 
 Extra keypad:  
 [Razer Tartarus](https://www.razer.com/search/tartarus)
+
+## Keyboard on virtual machine (KVM)
+
+Send one mouse and keyboard input across multiple computers:  
+[barrier](https://github.com/debauchee/barrier) (a fork of [deskflow](https://github.com/deskflow/deskflow)),
+[Input Director⊞](https://www.inputdirector.com/),
+[Microsoft's Mouse Without Borders⊞](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/),
+[Share Mouse](https://www.sharemouse.com/),
+[Synergy⊞⌘🐧](https://symless.com/synergy)
 
 ## Keyboard Community
 

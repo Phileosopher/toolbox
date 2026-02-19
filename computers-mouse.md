@@ -1,6 +1,9 @@
 
 # Tools for cursor-based interfacing
 
+Control mouse through the keyboard:  
+[NeatMouse⊞■🆓](https://neatdecisions.com/products/neatmouse/)
+
 Hand tracker:  
 [yoha](https://github.com/handtracking-io/yoha)
 

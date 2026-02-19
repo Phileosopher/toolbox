@@ -17,6 +17,11 @@ Year-round climate:
 Light pollution:  
 [Light pollution map☁](https://www.lightpollutionmap.info/)
 
+## Booking
+
+Hotels multi-search:  
+[Online Booking](https://www.online-booking.com/)
+
 ## Traveling
 
 Travel guides:  
@@ -50,7 +55,8 @@ Travel alternatives:
 
 Camping:  
 [Hipcamp](https://www.hipcamp.com/en-US),
-[Recreation.gov](https://www.recreation.gov/)
+[Recreation.gov](https://www.recreation.gov/),
+[The Dyrt](https://thedyrt.com/)
 
 Camping - California co-op:  
 [Land Camp](https://www.landcamp.org/)
