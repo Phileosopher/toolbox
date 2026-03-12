@@ -23,6 +23,9 @@ Phone camera as wireless webcam:
 Text substitution:  
 [Texter⊞■](https://texter.en.softonic.com/)
 
+Keyboard remapping:  
+[keyd🐧](https://github.com/rvaiya/keyd)
+
 ## Shortcuts
 
 Web browser shortcuts:  

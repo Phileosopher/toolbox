@@ -1,6 +1,10 @@
 
 # Tools for business contracts
 
+## Inspiration
+
+[awesome-legal](https://github.com/ankane/awesome-legal)
+
 ## Drafting
 
 Standard agreements:  
@@ -17,4 +21,5 @@ Terms of service concerns:
 [Terms of Service; Didn't Read*⇉](https://tosdr.org/)
 
 Signing documents:  
-[DocuSeal](https://www.docuseal.co/)
+[DocuSeal](https://www.docuseal.co/),
+[SignRequest](https://signrequest.com/)

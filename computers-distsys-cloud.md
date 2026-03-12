@@ -22,6 +22,9 @@ File synchronization:
 [ownCloud💾🆓🍎🤖](https://owncloud.com/) ([GitHub](https://github.com/owncloud)),
 [Syncthing⊞⌘🐧🤖](https://syncthing.net/) ([GitHub](https://github.com/syncthing/))
 
+Microsoft OneDrive on Linux:  
+[OneDrive Client for Linux□🆓](https://github.com/abraunegg/onedrive) (with [OneDriveGUI](https://github.com/bpozdena/OneDriveGUI))
+
 Automatic folder synchronization:  
 [Nextcloud⊞■⌘🐧🍎🤖⇉💾](https://nextcloud.com/) (([GitHub](https://github.com/nextcloud)), with [App Store](https://apps.nextcloud.com/))
 

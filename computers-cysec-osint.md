@@ -1,6 +1,8 @@
 
 # Tools for OSINT☁💩
 
+NOTE: more at [navigation](logistics-navigation.md) and [social networks](networks-social.md) pages
+
 [OSINT INCEPTION](https://start.me/p/Pwy0X4/osint-inception)
 
 OSINT people/organization searches:  
@@ -50,45 +52,6 @@ Email headers☁:
 Google email inspection:  
 [GHunt](https://github.com/mxrch/GHunt)
 
-## Social Media Searches
-
-[Buzzglobe.com](https://buzzglobe.com/),
-[Namech_k☁](https://namechk.com/),
-[Search People](https://www.search-people.online/),
-[Social Searcher](https://www.social-searcher.com/)
-
-Username search:  
-[analyzeid's Username Checker](https://analyzeid.com/username/),
-[CheckUsernames](https://checkusernames.com/),
-[CheckUser](https://checkuser.org/),
-[KnowEm Username Search](https://knowem.com/),
-[Instant Username Search](https://instantusername.com/),
-[maigret💾🐍](https://github.com/soxoj/maigret),
-[namecheckr](https://www.namecheckr.com/),
-[UserSearch.org](https://usersearch.org/)
-
-Clubhouse:  
-[Clubhouse Database](https://clubhousedb.com/)
-
-Gravatar:  
-[Gravatar Search](https://gravatar.com/site/check/)
-
-Facebook:  
-[Export Facebook Pages Post Likes to Excel☁](https://commentpicker.com/export-likes-facebook.php),
-[Export Facebook Comments to Excel & CSV☁](https://commentpicker.com/export-comments-facebook.php),
-[Facebook Post ID Finder☁](https://commentpicker.com/facebook-post-id-finder.php)
-
-Instagram:  
-[Export Instagram Comments to Excel & CSV☁](https://commentpicker.com/export-comments-instagram.php),
-
-YouTube:  
-[YouTube Tag Extractor☁](https://commentpicker.com/youtube-tag-extractor.php),
-[YouTube video ID & YouTube video thumbnails☁](https://commentpicker.com/youtube-video-id.php),
-
-YouTube - channel ID:  
-[YouTube Channel ID Finder](https://www.streamweasels.com/tools/youtube-channel-id-and-user-id-convertor/),
-[Youtube channel ID](https://commentpicker.com/youtube-channel-id.php)
-
 ## People Search
 
 [Epieos](https://epieos.com/),
@@ -97,26 +60,6 @@ YouTube - channel ID:
 
 Address search:  
 [People Search Now's Address Lookup](https://www.peoplesearchnow.com/address)
-
-## Pulling Social Media IDs
-
-Facebook - user ID from link:  
-[FB Profile ID, Page ID & Group ID Finder](https://commentpicker.com/find-facebook-id.php),
-
-Instagram - user ID from username/link:  
-[Instagram User ID & Follower Count](https://commentpicker.com/instagram-user-id.php),
-
-Instagram - username from ID:  
-[Find Instagram Username from IG User ID](https://commentpicker.com/instagram-username.php)
-
-TikTok - user ID from username:  
-[TikTok User ID, Follower count & Fans count](https://commentpicker.com/tiktok-id.php),
-
-Twitter - user ID from username/link:  
-[Twitter user ID & follower count](https://commentpicker.com/twitter-id.php),
-
-YouTube - user ID from username/link:  
-[YouTube Channel ID](https://commentpicker.com/youtube-channel-id.php)
 
 ## Government Search
 

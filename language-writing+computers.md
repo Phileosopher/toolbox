@@ -51,7 +51,55 @@ Pull text from images:
 Convert image numbers to CSV:  
 [image2csv🐍](https://github.com/artperrin/image2csv)
 
-## Text Modification
+## Text Format Conversion
+
+[Convertio's Ebook Converter☁](https://convertio.co/ebook-converter/),
+[Pandoc⊞⌘🐧□](https://pandoc.org/) ([GitHub](https://github.com/jgm/pandoc))
+
+Anything to markdown text:  
+[markdown-clipper⇉](https://github.com/ariesdevil/markdown-clipper)
+
+HTML to markdown text:  
+[HTML To MD☁](https://htmltomd.com/),
+[Paste to Markdown☁](https://euangoddard.github.io/clipboard2markdown/)
+
+HTML to markdown text - batch files:  
+[datahoarder-website-to-markdown](https://github.com/passthesh3ll/datahoarder-website-to-markdown)
+
+PDF modification:  
+[pikepdf🐍](https://github.com/pikepdf/pikepdf) (With [pdfarranger](https://github.com/pdfarranger/pdfarranger)
+ as a frontend)
+
+PDF/TIFF Splitter/Joiner:  
+[FaxTool⊞■](https://sector-seven.com/software/faxtool)
+
+PDF/PS:  
+[CleverPDF☁](https://www.cleverpdf.com/),
+[Ghostscript⊞■🐧](https://www.ghostscript.com/)
+
+PDF to JPG:  
+[Adobe's PDF to JPG Conversion Tool☁](https://www.adobe.com/acrobat/online/pdf-to-jpg.html)
+
+PDF to markdown text:  
+[PDF to Markdown☁](https://pdf2md.morethan.io/)
+
+RTF to multiple:  
+[UnRTF🐧□🆓](https://www.gnu.org/software/unrtf/)
+
+EPUB to multiple:  
+[EPUB.to☁🔌](https://epub.to/)
+
+DOC to MD:
+[DOC to MD Converter☁](https://word2md.com/) ([GitHub](https://github.com/benbalter/word-to-markdown-js))
+
+Comics to EPUB/MOBI/CBZ:  
+[KCC](https://github.com/ciromattia/kcc)
+
+Markdown text processing:  
+[remarkjs□](https://remark.js.org/) [GitHub](https://github.com/remarkjs/remark),
+[turndown](https://github.com/mixmark-io/turndown)
+
+## Text Adaptation
 
 Removing extra whitespace:  
 [10015 Tools' Multiple Whitespace Remover☁](https://10015.io/tools/multiple-whitespace-remover)
@@ -68,54 +116,17 @@ Converting case:
 Randomizing lists:  
 [10015 Tools' List Randomizer☁](https://10015.io/tools/list-randomizer)
 
-PDF data table extraction:  
-[Tabula⊞⌘](https://tabula.technology/) ([GitHub](https://github.com/tabulapdf/tabula))
-
-Strip HTML from a file:  
-[HTMLAsText⊞■](https://www.nirsoft.net/utils/htmlastext.html)
-
-HTML to Markdown:  
-[HTML To MD☁](https://htmltomd.com/)
-
 Swap out synonyms:  
 [text-regenerator🐍](https://github.com/jddunn/text-regenerator)
 
 Add typgraphical errors:  
 [typoer🐍](https://github.com/georgetian3/typoer)
 
-## Text File Conversion
+PDF data table extraction:  
+[Tabula⊞⌘](https://tabula.technology/) ([GitHub](https://github.com/tabulapdf/tabula))
 
-[Convertio's Ebook Converter☁](https://convertio.co/ebook-converter/),
-[Pandoc⊞⌘🐧□](https://pandoc.org/) ([GitHub](https://github.com/jgm/pandoc))
-
-PDF modification:  
-[pikepdf🐍](https://github.com/pikepdf/pikepdf) (With [pdfarranger](https://github.com/pdfarranger/pdfarranger)
- as a frontend)
-
-PDF/TIFF Splitter/Joiner:  
-[FaxTool⊞■](https://sector-seven.com/software/faxtool)
-
-PDF/PS:  
-[CleverPDF☁](https://www.cleverpdf.com/),
-[Ghostscript⊞■🐧](https://www.ghostscript.com/)
-
-PDF to JPG:  
-[Adobe's PDF to JPG Conversion Tool☁](https://www.adobe.com/acrobat/online/pdf-to-jpg.html)
-
-RTF to multiple:  
-[UnRTF🐧□🆓](https://www.gnu.org/software/unrtf/)
-
-EPUB to multiple:  
-[EPUB.to☁🔌](https://epub.to/)
-
-DOC to MD:
-[DOC to MD Converter☁](https://word2md.com/) ([GitHub](https://github.com/benbalter/word-to-markdown-js))
-
-Comics to EPUB/MOBI/CBZ:  
-[KCC](https://github.com/ciromattia/kcc)
-
-Markdown:  
-[remarkjs□](https://remark.js.org/) [GitHub](https://github.com/remarkjs/remark)
+Strip HTML from a file:  
+[HTMLAsText⊞■](https://www.nirsoft.net/utils/htmlastext.html)
 
 ## Documentation Generation
 
