@@ -9,3 +9,6 @@ Baby name generator - bilingual:
 
 Nursery rhymes:  
 [NurseryRhymes.info](https://nurseryrhymes.info/)
+
+Tracking routines:  
+[Nara Baby & Mom Tracker](https://nara.com/pages/nara-baby-tracker-app)

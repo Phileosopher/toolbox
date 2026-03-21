@@ -91,6 +91,9 @@ TLS Test:
 DMARC test/setup:  
 [DMARC Inspector](https://dmarcian.com/dmarc-inspector/)
 
+Dangerous domains database:  
+[dangerous.domains🔌](https://dangerous.domains/)
+
 ## Tracking
 
 Analytics:  

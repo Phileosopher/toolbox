@@ -111,6 +111,12 @@ Computer code:
 [JSFiddle☁](https://jsfiddle.net/)
 [replit☁](https://replit.com/)
 
+Physically nearby neighbors:  
+[Nextdoor](https://nextdoor.com/)
+
+IRL meetings:  
+[Meetup☁🍎🤖](https://www.meetup.com/)
+
 ## Third-Party Front-Ends and Enhancements☁
 
 [alternative-front-ends💩](https://github.com/mendel5/alternative-front-ends),

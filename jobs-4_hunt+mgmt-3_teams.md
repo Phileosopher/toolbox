@@ -244,10 +244,6 @@ List of tools to hack your job search
 [PartTimer](https://parttimer.io/)
 a job board for skilled work under 40 HRS/week
 
-[Glassdoor](https://www.glassdoor.com/Reviews/index.htm)
-A site that lets employees post anonymous salaries and reviews of their company.
-:star:
-
 [BetaList Jobs](https://betalist.com/jobs)
 shape the future by joining one of the fastest growing technology startups
 
@@ -281,8 +277,6 @@ Free - Job posting sheet for creative roles
 [Find Startup Jobs Near You and Remote Jobs | Wellfound (formerly AngelList Talent)](https://wellfound.com/jobs)
 
 [LinkedIn Job Search: Find US Jobs, Internships, Jobs Near Me](https://www.linkedin.com/jobs/)
-
-[Glassdoor | Job Search & Career Community](https://www.glassdoor.com/index.htm)
 
 [jobs | Hacker News](https://news.ycombinator.com/jobs)
 

@@ -1,9 +1,6 @@
 
 # Tools for communicating in meetings
 
-IRL meetings:  
-[Meetup☁🍎🤖](https://www.meetup.com/)
-
 Screen-sharing:  
 [CoScreen](https://www.coscreen.co/)
 
