@@ -146,6 +146,9 @@ Scam reporting:
 Emergency response quick-connect:  
 [Noonlight🕵️🔌](https://www.noonlight.com/)
 
+Sending an SMS via email:  
+[Email to SMS](https://email2sms.info/)
+
 ## Specific Message Needs - Email
 
 Email masks🕵️:  

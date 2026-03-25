@@ -13,9 +13,13 @@ Privacy-respecting search engine:
 [Golgozar](https://golgozar.org/),
 [Mojeek](https://www.mojeek.com/),
 [Qwant](https://www.qwant.com/),
-[searx](https://searx.space/),
+[searXNG🆓](https://github.com/searxng/searxng),
 [Search Encrypt](https://www.searchencrypt.com/),
 [Startpage](https://www.startpage.com/)
+
+Privacy-respecting search engine instances - searXNG:  
+[searXNG instances](https://searx.space/),
+[SearXNG and SearX instances status and uptime](https://searx-instances.tiekoetter.com/) ([GitHub](https://github.com/tiekoettercom/searx-instances-uptime))
 
 Human-curated search:  
 [Curlie](https://curlie.org/)
@@ -52,7 +56,7 @@ Abbreviations/acronyms:
 ## Archived Web
 
 Archived internet pages:  
-[archive.today⇉](https://archive.today/),
+[archive.today⇉](https://archive.today/) (w/ [mirror](https://archive.md/)),
 [Time Travel](https://timetravel.mementoweb.org/),
 [Trove](https://trove.nla.gov.au/),
 [Wayback Machine](https://web.archive.org/),

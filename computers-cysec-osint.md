@@ -41,7 +41,8 @@ European surnames:
 
 ## Researching Senders
 
-Reverse phone lookup☁:  
+Reverse phone/carrier lookup☁:  
+[Carrier Lookup](https://www.carrierlookup.com/),
 [NumLookup](https://www.numlookup.com/),
 [USPhoneBook](https://www.usphonebook.com/)
 
