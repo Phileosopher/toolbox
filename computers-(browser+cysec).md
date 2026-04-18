@@ -14,6 +14,10 @@ Block scripts/ads:
 [NoScript⇉](https://noscript.net/),
 [uBlock Origin⇉](https://github.com/gorhill/uBlock/)
 
+CDN proxy:  
+[Decentraleyes](https://decentraleyes.org/) ([GitLab](https://git.synz.io/Synzvato/decentraleyes)),
+[squid](https://www.squid-cache.org/) with [SquidGuard](http://squidguard.org/) and [instructions](https://thedumbterminal.co.uk/posts/2005/10/blocking_access_to_sites_when_using_squid.html)
+
 Popup blocking test:  
 [Popup Check☁](https://www.popupcheck.com/),
 [PopupDummy!☁](https://www.dummysoftware.com/popupdummy_testpage.html)
