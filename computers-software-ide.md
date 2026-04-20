@@ -18,8 +18,11 @@ GitHub actions:
 
 vim:  
 [vi](https://ex-vi.sourceforge.net/),
-[Vim⊞■⌘🐧🤖](https://www.vim.org/) ([GitHub](https://github.com/vim/vim)) (with ),
+[Vim⊞■⌘🐧🤖](https://www.vim.org/) ([GitHub](https://github.com/vim/vim)),
 [Neovim](https://neovim.io/) ([GitHub](https://github.com/neovim/neovim))
+
+vim plugin manager:  
+[vim-plug](https://github.com/junegunn/vim-plug)
 
 vim extensions⇉💩:  
 [awesome-vim](https://github.com/akrawchyk/awesome-vim),
