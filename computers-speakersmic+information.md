@@ -39,7 +39,7 @@ Samples/loops:
 [Looperman](https://www.looperman.com/),
 [Facebook Design's Sound Kit for Prototypes🧛](https://facebook.design/soundkit)
 
-Stock music:  
+Stock and royalty-free music:  
 [Audio Library](https://www.audiolibrary.com.co/), [AudioMicro](https://www.audiomicro.com/), [AudionautiX.com](https://audionautix.com/),
 [bensound](https://www.bensound.com/),
 [cchound.com](https://cchound.com/), [ccMixter](https://ccmixter.org/), [Chosic Background Music Free Download](https://www.chosic.com/free-music/all/),
@@ -49,6 +49,7 @@ Stock music:
 [Icons8 Fugue](https://icons8.com/music), [incompetech Music Search](https://incompetech.com/music/royalty-free/music.html),
 [Loyalty Freak Music](https://loyaltyfreakmusic.com/),
 [Magnatune$](http://magnatune.com/),
+[Newgrounds Wiki - Royalty Free Music](https://www.newgrounds.com/wiki/creator-resources/music-and-audio-resources/royalty-free-music),
 [Openverse](https://openverse.org/),
 [Pixabay's Royalty Free Music](https://pixabay.com/music/), [PixelPro.io Free Music](https://pixelpro.io/music), [PremiumBeat$](https://www.premiumbeat.com/), [Purple Planet](https://www.purple-planet.com/),
 [Silverman Sound Studios Royalty Free Music](https://www.silvermansound.com/free-music), [StreamBeats](https://www.senpai.tv/streambeats/),
