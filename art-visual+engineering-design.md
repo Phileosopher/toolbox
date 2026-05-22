@@ -1,5 +1,5 @@
 
-# Tools for creative idea generation regarding visual design
+# Tools for creative idea generation in visual design
 
 ## Prototyping/Wireframing
 

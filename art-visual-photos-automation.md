@@ -1,5 +1,5 @@
 
-# Tools for graphics for photo auto-generation
+# Tools for photo auto-generation
 
 AI CAD🎰:  
 [Components AI](https://components.ai/) ([GitHub](https://github.com/components-ai))

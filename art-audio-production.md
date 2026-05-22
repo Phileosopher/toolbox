@@ -1,5 +1,5 @@
 
-# Tools for speakers and microphone live music production
+# Tools for live music production
 
 ## Testing
 

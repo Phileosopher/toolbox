@@ -31,5 +31,24 @@ Calendar - small:
 Calendar - scheduling:  
 [Cal.com☁⬆️](https://cal.com/) ([GitHub](https://github.com/calcom/cal.com))
 
+App/site blocking:  
+[Cold Turkey⊞⌘](https://getcoldturkey.com/),
+[Cold Turkey Micromanager⊞](https://getcoldturkey.com/micromanager/),
+[Freedom⊞⌘🍎🤖⇉](https://freedom.to/),
+[Intention⇉](https://www.getintention.com/),
+[LeechBlock⇉](https://www.proginosko.com/leechblock/)
+
+## Timers
+
 Alarms/reminders:  
 [SimpleReminder🤖](https://f-droid.org/packages/felixwiemuth.simplereminder/) ([GitHub](https://github.com/felixwiemuth/SimpleReminder))
+
+Phone time limits:  
+[TimesApp🤖](https://play.google.com/store/apps/details?id=com.addie.timesapp)
+
+Break timer:  
+[Stretchly](https://hovancik.net/stretchly/),
+[Workrave⊞■⌘🐧](http://www.workrave.org/)
+
+Break timer - Pomodoro:  
+[Goodtime🤖](https://f-droid.org/packages/com.apps.adrcotfas.goodtime/) ([GitHub](https://github.com/adrcotfas/Goodtime))

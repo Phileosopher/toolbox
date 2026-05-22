@@ -1,5 +1,5 @@
 
-# Tools for graphics for 3-dimensional elements
+# Tools for creating 3-dimensional elements
 
 [Autodesk Tinkercad](https://www.tinkercad.com/),
 [Blender⊞■⌘🐧🆓](https://www.blender.org/),

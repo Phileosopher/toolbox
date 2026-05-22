@@ -1,5 +1,5 @@
 
-# Tools for acquiring lots of graphics-based information💩
+# Places to acquire lots of visual information💩
 
 ## Multi-Element
 

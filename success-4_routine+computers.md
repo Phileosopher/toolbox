@@ -15,13 +15,6 @@ Seat cushion:
 
 [Ultimate Windows Tweaker⊞](https://www.techspot.com/downloads/6167-ultimate-windows-tweaker.html)
 
-App/site blocking:  
-[Cold Turkey⊞⌘](https://getcoldturkey.com/),
-[Cold Turkey Micromanager⊞](https://getcoldturkey.com/micromanager/),
-[Freedom⊞⌘🍎🤖⇉](https://freedom.to/),
-[Intention⇉](https://www.getintention.com/),
-[LeechBlock⇉](https://www.proginosko.com/leechblock/)
-
 Interface config:  
 [FreeCommander⊞■](https://freecommander.com/en/summary/),
 [FileVoyager⊞■](https://www.filevoyager.com/),

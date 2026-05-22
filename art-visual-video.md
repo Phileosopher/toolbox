@@ -1,5 +1,5 @@
 
-# Tools for graphics for video
+# Tools for video creation
 
 Duplicate video finder:  
 [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder)

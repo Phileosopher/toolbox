@@ -1,5 +1,5 @@
 
-# Tools for graphics for photos
+# Tools for photo manipulation
 
 Website screenshot:  
 [Website Screenshot](https://www.ipvoid.com/capture-website-screenshot/)

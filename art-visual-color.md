@@ -1,5 +1,5 @@
 
-# Tools for design and UX with respect to color
+# Tools for color design
 
 ## Color Search
 

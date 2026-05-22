@@ -1,5 +1,5 @@
 
-# Tools for acquiring lots of audio-based information💩
+# Places to acquire lots of audio-based information💩
 
 [Internet Archive Audio Archive](https://archive.org/details/audio)
 

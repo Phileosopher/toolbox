@@ -1,5 +1,5 @@
 
-# Tools for design and UX with respect to specific elements
+# Tools for specific computer visual elements
 
 ## Barcodes
 

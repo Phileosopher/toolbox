@@ -1,5 +1,5 @@
 
-# Tools for acquiring lots of visual information
+# Tools for wrangling lots of visual information
 
 ## Media Libraries
 

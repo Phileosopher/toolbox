@@ -1,5 +1,5 @@
 
-# Tools for graphics
+# Tools for visual design
 
 Piles of design tools💩:  
 [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools),

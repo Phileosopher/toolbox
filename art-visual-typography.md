@@ -1,5 +1,5 @@
 
-# Tools for design and UX with respect to typography
+# Tools for typography
 
 ## Font Inspiration
 

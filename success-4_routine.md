@@ -31,18 +31,6 @@ Indecision:
 [Wheel Decide☁](https://commentpicker.com/wheel-decide.php),
 [Random Decision Maker☁](https://commentpicker.com/decision-maker.php)
 
-## Timers
-
-Phone time limits:  
-[TimesApp🤖](https://play.google.com/store/apps/details?id=com.addie.timesapp)
-
-Break timer:  
-[Stretchly](https://hovancik.net/stretchly/),
-[Workrave⊞■⌘🐧](http://www.workrave.org/)
-
-Break timer - Pomodoro:  
-[Goodtime🤖](https://f-droid.org/packages/com.apps.adrcotfas.goodtime/) ([GitHub](https://github.com/adrcotfas/Goodtime))
-
 ## Incentives
 
 Pay if you fail:  

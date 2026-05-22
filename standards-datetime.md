@@ -15,3 +15,6 @@ Time zone map:
 Date calculator:  
 [How Many Days Since](https://howmanydayssince.net/),
 [How Many Days Until](https://howmanydaysuntil.co/)
+
+Reusing calendars:  
+[When Can I Reuse This Calendar?☁](https://whencanireusethiscalendar.com/)
