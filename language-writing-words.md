@@ -50,6 +50,7 @@ Thesaurus:
 [OneLook Thesaurus](https://onelook.com/reverse-dictionary.shtml),
 [Synonym.com](https://www.synonym.com/),
 [Thsrs☁](https://www.ironicsans.com/thsrs/),
+[Thesaurus.com](https://www.thesaurus.com/),
 [wordhippo☁](https://www.wordhippo.com/)
 
 Thesaurus - slang:  

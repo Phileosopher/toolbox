@@ -1,5 +1,5 @@
 
-# Tools for image-crafting for job-seeking
+# Tools for image-crafting in job-seeking
 
 ## Profile Management
 

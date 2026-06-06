@@ -1,5 +1,5 @@
 
-# Tools for education over computer skills
+# Tools for learning computer skills
 
 [awesome-programming](https://github.com/hardikvasa/awesome-programming),
 [awesome-programmer](https://github.com/dhilipsiva/awesome-programmer),
@@ -30,21 +30,51 @@ Cheat sheets - MATLAB/Python/Julia:
 
 ## Tests/Certifications/Courses
 
+[Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
+
 Open CS courses:  
 [How to be a Programmer](https://braydie.gitbooks.io/how-to-be-a-programmer/) ([GitHub](https://github.com/braydie/HowToBeAProgrammer)),
 [open-source-cs](https://github.com/ForrestKnight/open-source-cs),
 [open-source-cs-degree](https://github.com/mvillaloboz/open-source-cs-degree),
 [Udacity](http://www.udacity.com/)
 
-Certifications:  
-[Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
-
 Coding tests/certifications:  
+[codecademy](https://codecademy.com),
 [CodeSignal☁](https://codesignal.com/),
 [freeCodeCamp☁](https://www.freecodecamp.org/),
 [HackerRank☁](https://www.hackerrank.com/)
 
-## Books/Papers
+Front-end courses:  
+[Frontend mentor](https://frontendmentor.io)
+[the odin project](https://www.theodinproject.com)
+
+Front-end courses - JS:  
+[Javascript30](https://javascript30.com)
+[vue school](https://vueschool.io/)
+
+## Online tutorials☁
+
+[GeeksforGeeks](https://www.geeksforgeeks.org/),
+[Scrimba](https://scrimba.com/)
+
+Web-focused:  
+[fullstack open](https://fullstackopen.com/en/),
+[guru99](https://www.guru99.com/),
+[W3Schools](https://www.w3schools.com/),
+[web.dev](https://web.dev/)
+
+JavaScript-focused:  
+[javascript info](https://javascript.info/)
+
+SQL-focused:  
+[Select Star SQL☁](https://selectstarsql.com/),
+
+## Games
+
+[awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding),
+[css battle](https://cssbattle.dev/)
+
+## Books/Papers/Documentation
 
 [Information Technology Research Library](https://knowfree.tradepub.com/)
 
@@ -72,11 +102,6 @@ Programming books:
 
 Publications:  
 [ACM Digital Library$](https://dl.acm.org/)
-
-## Games
-
-Games for learning CS:  
-[awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding)
 
 ## Blogs/Talks
 

@@ -32,3 +32,8 @@ Bible encyclopedia:
 
 Ancient manuscripts - New Testament:  
 [The Center for the Study of New Testament Manuscripts](https://www.csntm.org/)
+
+## Teaching
+
+Bible study videos/prompts:  
+[BibleProject](https://bibleproject.com/)

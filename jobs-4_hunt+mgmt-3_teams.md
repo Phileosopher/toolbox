@@ -23,11 +23,15 @@ Entrepreneurship-specific:
 Executive-specific:  
 [Experteer.com](https://experteer.com/)
 
+American immigrant-specific:  
+[Migrate Mate](https://migratemate.co/#pricing)
+
 Short work weeks:  
 [4 day week](https://4dayweek.io/)
 
 Criminal record:  
-[Felony Record Hub](https://www.felonyrecordhub.com/)
+[Felony Record Hub](https://www.felonyrecordhub.com/),
+[Honest Jobs](https://www.honestjobs.com/)
 
 Remote work:  
 [Nomad List](https://nomadlist.com/)
@@ -148,6 +152,13 @@ Freelancing/mentorship:
 
 Easy to apply online:  
 [easy-application](https://github.com/j-delaney/easy-application)
+
+Open-source work:  
+[open-source-jobs](https://github.com/timqian/open-source-jobs)
+
+Remote work:  
+[Remote In Tech](https://remoteintech.company/),
+[Remote-Developer-jobs-directory](https://github.com/ugglr/Remote-Developer-jobs-directory)
 
 ## Mindless Tasks
 

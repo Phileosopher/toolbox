@@ -12,7 +12,8 @@ Third-party RSS feeds:
 [RSS-Bridge](https://rss-bridge.org/bridge01/) ([GitHub](https://github.com/RSS-Bridge/rss-bridge)),
 [RSSHub](https://docs.rsshub.app/) ([GitHub](https://github.com/DIYgod/RSSHub))
 
-RSS feed manager:  
+RSS feed manager/reader:  
+[feedi](https://github.com/facundoolano/feedi),
 [FreshRSS💾🤖](https://freshrss.org/) (([GitHub](https://github.com/FreshRSS/FreshRSS))with [extensions](https://github.com/cn-tools/cntools_FreshRssExtensions) and [demo](https://demo.freshrss.org/i/?rid=65834a6431fb4)),
 [NetNewsWire⌘🍎](https://netnewswire.com/),
 [Nextcloud News💾🤖](https://apps.nextcloud.com/apps/news) ([GitHub](https://github.com/nextcloud/news)),

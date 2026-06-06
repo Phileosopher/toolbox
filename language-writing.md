@@ -52,12 +52,29 @@ Star Wars intro style☁:
 
 ## Editing - Transcript
 
-Grammar/Spelling/Style check:  
+[Prepostseo's free tools💩](https://www.prepostseo.com/)
+
+Plagiarism check:  
+[PLText](https://pltext.com/)
+
+Repetition check:  
+[Repetition Detector 2☁](https://www.repetition-detector.com/?p=online)
+
+Clichè check:  
+[Cliche Finder☁](http://cliche.theinfo.org/)
+
+Distinctive identifiers:  
+[alex](https://github.com/get-alex/alex)
+
+Grammar/spelling/style check:  
 [After the Deadline☁](https://www.polishmywriting.com/),
 [Language Tool⇉☁🆓](https://languagetool.org/) ([GitHub](https://github.com/languagetool-org/languagetool)),
 [Hemingway App☁](http://www.hemingwayapp.com/),
 [Spellcheck.net☁](https://www.spellcheck.net/)
 [Readable☁](https://app.readable.com/text/?demo)
+
+Grammar check - age readability:  
+[readability](https://wooorm.com/readability/)
 
 Grammar check - jargon filter:  
 [BlaBlaMeter☁](http://www.blablameter.com/index.php),

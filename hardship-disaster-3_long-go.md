@@ -19,3 +19,6 @@ Cost of living comparison:
 ## Expat Community
 
 [Expat.com](https://www.expat.com/)
+
+Legal incorporation and banking:  
+[Flag Theory](https://flagtheory.com/)

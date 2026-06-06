@@ -35,16 +35,12 @@ Computer books:
 Snippets manager:  
 [massCode](https://masscode.io/) ([GitHub](https://github.com/massCodeIO/massCode))
 
+Dev advice:  
+[Stack Overflow☁](https://stackoverflow.com/)
+
 ## Existing source code
 
 [thefreecountry.com☁](https://www.thefreecountry.com/sourcecode/index.shtml)
-
-Tutorials:  
-[W3Schools☁](https://www.w3schools.com/),
-[Select Star SQL☁ - SQL](https://selectstarsql.com/)
-
-Dev advice:  
-[Stack Overflow☁](https://stackoverflow.com/)
 
 Entire apps:  
 [Historical Source](https://github.com/historicalsource),

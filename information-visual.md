@@ -30,6 +30,11 @@ Image viewers:
 [XnView⊞■⌘🐧](https://www.xnview.com/),
 [IrfanView⊞■](https://www.irfanview.com/)
 
+## Image Search
+
+Search by image:  
+[Google's Reverse Image Search(camera icon)🧛](https://images.google.com/)
+
 ## Image Download
 
 [Downloader.la](https://downloader.la/)
@@ -67,6 +72,32 @@ YouTube videos:
 
 TikTok content:  
 [tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper)
+
+## Video Search
+
+Flash content:  
+[Flashpoint Archive](https://flashpointarchive.org/) [GitHub](https://github.com/FlashpointProject?q=&type=all&language=&sort=stargazers),
+[FlashMuseum☁](https://flashmuseum.org/)
+
+## Streaming Video Search
+
+[JustWatch](https://www.justwatch.com/),
+[Movie of the Night](https://www.movieofthenight.com/),
+[Movieo](https://movieo.me/)
+
+Search engine - fuzzy AI search:  
+[What is my movie?](https://www.whatismymovie.com/)
+
+Search engine - grayweb (URLs change all the time):  
+Movies123,
+Kimcartoon,
+Kisscartoon,
+Popcorntime,
+Soap2Day
+
+Tracking new releases:  
+[Simkl](https://simkl.com/),
+[Trakt](https://trakt.tv/)
 
 ## Video/Audio Information
 

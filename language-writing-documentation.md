@@ -6,6 +6,9 @@
 Email copy:  
 [Good Copy☁](https://www.goodemailcopy.com/)
 
+Document browser:  
+[Zeal](https://zealdocs.org/)
+
 ## Writing Software
 
 Text editor with calculator features:  
