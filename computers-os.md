@@ -17,6 +17,9 @@ Abandonware:
 [SCiZE's CLASSIC WAREZ COLLECTION](https://scenelist.org/),
 [VETUSWARE.COM](https://vetusware.com/)
 
+Vintage OS emulation:  
+[The Virtual OS Museum](https://virtualosmuseum.org/)
+
 ## Portable Computing
 
 BIN to ISO converter:  

@@ -36,6 +36,7 @@ Cloud-to-cloud synchronization:
 
 All-around:  
 [AccuWeb](https://www.accuwebhosting.com/),
+[Cloudways](https://www.cloudways.com/),
 [Hetzner](https://www.hetzner.com/)
 
 Seedboxes:  

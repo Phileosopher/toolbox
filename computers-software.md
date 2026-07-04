@@ -30,6 +30,11 @@ Computer books:
 [Books](https://github.com/ThisIsSakshi/Books),
 [ITBook.store's free books](https://itbook.store/books/free)
 
+## Project naming
+
+Acronym generator:  
+[acronym](https://github.com/bacook17/acronym)
+
 ## Code snippets
 
 Snippets manager:  

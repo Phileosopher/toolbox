@@ -30,6 +30,9 @@ Pronunciation:
 [Howjsay](https://howjsay.com/),
 [YouGlish☁](https://youglish.com/)
 
+Abbreviations:  
+[Abbreviations.com](https://www.abbreviations.com/)
+
 Word component search:  
 [Tip of My Tongue](https://chir.ag/projects/tip-of-my-tongue/)
 

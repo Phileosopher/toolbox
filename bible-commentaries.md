@@ -6,3 +6,6 @@
 
 SWORD modules:  
 [Bible Support Commentaries](http://www.biblesupport.com/e-sword-downloads/category/3-commentaries/)
+
+Bible-adjacent books:  
+[Scroll Search](https://scroll-search.com/documents)

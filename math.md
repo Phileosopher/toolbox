@@ -35,7 +35,8 @@ Measurement conversion:
 [Online Conversion☁](http://www.onlineconversion.com/),
 [ConvertAll⊞■🐧](http://convertall.bellz.org/),
 [Converber⊞■🍎](http://www.xyntec.com/converber.htm),
-[Measurements Conversion☁](https://www.online-utility.org/measures/index.jsp)
+[Measurements Conversion☁](https://www.online-utility.org/measures/index.jsp),
+[UnitConverters.net☁](https://www.unitconverters.net/)
 
 Country size conversion:  
 [The True Size Of...☁](https://thetruesize.com/)

@@ -39,3 +39,6 @@ Language libraries:
 
 Protein sequencing:  
 [UNCALLED🐍](https://github.com/skovaka/UNCALLED)
+
+Human enhancement projects:  
+[diyhpluswiki](https://diyhpl.us/wiki/)
