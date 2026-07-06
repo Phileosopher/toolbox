@@ -102,6 +102,11 @@ Indexing internet content:
 Streaming servers:  
 [Icecast](https://icecast.org/) ([Bindings](https://icecast.org/download/))
 
+## Web Hosting
+
+Low-end hosting:  
+[LowEndBox](https://lowendbox.com/)
+
 ## AWS🧛
 
 Learning and certifications:  
@@ -123,3 +128,8 @@ AWS security:
 ## Hetzner
 
 [awesome-hcloud💩](https://github.com/hetznercloud/awesome-hcloud)
+
+## Community
+
+Low-end hosting:  
+[LowEndTalk](https://lowendtalk.com/)

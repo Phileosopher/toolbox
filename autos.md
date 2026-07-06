@@ -39,3 +39,6 @@ Auto maintenance blogs:
 Fuel:  
 [AAA Gas Prices](https://gasprices.aaa.com/)
 [GasBuddy☁🍎🤖](https://www.gasbuddy.com/)
+
+Ethanol-free fuel:  
+[Pure-gas.org](https://www.pure-gas.org/)
