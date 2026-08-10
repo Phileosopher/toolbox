@@ -23,5 +23,6 @@ Desktop publishing:
 Flipbook designer:  
 [FlipHTML5☁](https://fliphtml5.com/)
 
-Automated PDF conversion:  
-[Issuu](https://issuu.com/)
+Digital drawing/painting:  
+[FireAlpaca](https://firealpaca.com/)
+[HEAVYPAINT☁🤖🍎](https://www.heavypaint.com/)

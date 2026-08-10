@@ -44,6 +44,7 @@ Email hosting☁🕵️:
 [Tuta🤖](https://tuta.com/) ([GitHub](https://github.com/tutao/tutanota))
 
 Temporary email🕵️:  
+[disposable💩](https://github.com/disposable/disposable),
 [Maildrop☁](https://maildrop.cc/),
 [10 minute mail☁](https://10minutemail.com/),
 [Email On Deck☁](https://www.emailondeck.com/),

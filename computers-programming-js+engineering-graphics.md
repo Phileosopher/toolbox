@@ -65,6 +65,9 @@ Header (swapping CSS):
 Document support (ODF):  
 [WebODF](https://webodf.org/) ([GitHub](https://github.com/webodf/WebODF))
 
+Slideshow presenter:  
+[b6+ slide framework](https://www.w3.org/Talks/Tools/b6plus/)
+
 ## Element-Specific Primitives
 
 Autocomplete/Dropdown/Combobox:  

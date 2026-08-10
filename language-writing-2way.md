@@ -49,7 +49,8 @@ Messaging client:
 [Telegram⊞⌘🐧🍎🤖](https://telegram.org/)
 
 Messaging client - hyper-secure🕵️:  
-[Signal⊞⌘🐧🍎🤖](https://signal.org/) ([GitHub](https://github.com/signalapp/Signal-Desktop))
+[Signal⊞⌘🐧🍎🤖](https://signal.org/) ([GitHub](https://github.com/signalapp/Signal-Desktop)),
+[Wire](https://wire.com/en/)
 
 SMS messaging on PC:  
 [DesktopSMS⊞🤖](https://www.desktopsms.net/)

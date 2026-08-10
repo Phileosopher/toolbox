@@ -39,6 +39,10 @@ Phone number (via site crawling):
 European surnames:  
 [Surname Map](https://www.surnamemap.eu/)
 
+Government license plate readers:  
+
+[DeFlock](https://deflock.org/)
+
 ## Researching Senders
 
 Reverse phone/carrier lookup☁:  

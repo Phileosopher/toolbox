@@ -15,7 +15,8 @@ General-purpose cloud synchronization:
 [Google Drive🧛](https://www.google.com/drive/),
 [MEGA☁⊞■⌘🐧🍎🤖□](https://mega.nz/) (with [Megatools□](https://megatools.megous.com/) ([Git](https://megous.com/git/megatools))),
 [Microsoft OneDrive🧛](https://www.onedrive.com/),
-[pCloud](https://www.pcloud.com/)
+[pCloud](https://www.pcloud.com/),
+[Tresorit](https://tresorit.com/)
 
 File synchronization:  
 [FreeFileSync⊞⌘🐧](https://freefilesync.org/),

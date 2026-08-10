@@ -50,6 +50,9 @@ Dev advice:
 Entire apps:  
 [Historical Source](https://github.com/historicalsource),
 
+High-quality FLOSS software:  
+[software that sucks less](https://suckless.org/)
+
 ## APIs🔌
 
 Cheatsheets:  

@@ -12,6 +12,9 @@ To do lists and task managers:
 To do lists and task managers - hour-based blocks:  
 [Hour Blocks⌘🍎](https://jtsaeed.com/work/hour-blocks) ([GitHub](https://github.com/jtsaeed/Hour-Blocks))
 
+Todo.txt:  
+[Todo.txt](http://todotxt.org/)
+
 Kanban boards:  
 [Trello☁⊞⌘🍎🤖⇉](https://trello.com/)
 

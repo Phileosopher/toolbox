@@ -4,6 +4,9 @@
 [NTSLibrary's Free Christian Books](https://www.ntslibrary.com/Free_Christian_Books.htm),
 [Restoration Library](https://www.restorationlibrary.org/texts/)
 
+Bibles with open licensing:  
+[open-bibles](https://github.com/seven1m/open-bibles)
+
 Torah/Bible study websites:  
 [Bible Hub](https://biblehub.com/),
 [BiblePortal.com](https://bibleportal.com/),
@@ -32,6 +35,9 @@ Bible encyclopedia:
 
 Ancient manuscripts - New Testament:  
 [The Center for the Study of New Testament Manuscripts](https://www.csntm.org/)
+
+Bible maps and visualizations:  
+[100 Free Printable Public Use Bible Maps](https://www.bible.ca/maps/)
 
 ## Teaching
 

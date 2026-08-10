@@ -1,5 +1,7 @@
 
-# Tools for the programming language CSS with respect to graphics
+# Graphical tools for CSS
+
+[Specificity Calculator](https://specificity.keegan.st/)
 
 ## Foraging/Inspiration
 
@@ -7,6 +9,7 @@
 [CSS-Tricks*](https://css-tricks.com/)
 
 CSS/HTML themes/templates:  
+[CSS Portal](https://www.cssportal.com/),
 [Free CSS*](https://www.free-css.com/),
 [HTML5 UP!](https://html5up.net/),
 
@@ -31,6 +34,7 @@ Blocks:
 
 Minimalism:  
 [chota](https://jenil.github.io/chota/) ([GitHub](https://github.com/jenil/chota)),
+[Pure](https://pure-css.github.io/) ([GitHub](https://github.com/pure-css/pure)),
 [Water.css](https://watercss.kognise.dev/)
 
 Classless:  
@@ -46,6 +50,10 @@ Classless:
 
 Blobs:  
 [MagicPattern's Blob Generator☁](https://www.magicpattern.design/tools/blob-generator)
+
+Buttons:  
+[CSS Buttons](https://cssbuttons.io/),
+[CSS Button Generator](https://www.bestcssbuttongenerator.com/)
 
 Triangles:  
 [10015's CSS Triangle Generator☁](https://10015.io/tools/css-triangle-generator)
@@ -86,15 +94,24 @@ Gradients:
 Gradients with hover effects:  
 [Colorion's Gradient Buttons*](https://gradientbuttons.colorion.co/)
 
+Photo filters:  
+[CSSGram](https://una.github.io/CSSgram/)
+
 ## Supporting Elements - Animations
 
 [Animate.css*](https://animate.style/) ([GitHub](https://github.com/animate-css/animate.css))
 
-Image hover effects:  
+Hover effects:  
+[Hover.css](https://ianlunn.github.io/Hover/) ([Github](https://github.com/IanLunn/Hover))
+
+Hover effects - images:  
 [imagehover.css☁](http://imagehover.io/) ([GitHub](https://github.com/ciar4n/imagehover.css))
 
 Keyframes:  
 [Keyframes.app's Animate☁](https://keyframes.app/animate/)
+
+On-demand library:  
+[Animista](https://animista.net/)
 
 SVG animations:  
 [Vivus Instant☁](https://maxwellito.github.io/vivus-instant/) ([GitHub](https://github.com/maxwellito/vivus-instant))
@@ -102,7 +119,11 @@ SVG animations:
 ## Supporting Elements - Decorations
 
 Border radius:  
-[10015's CSS Border Radius Generator☁](https://10015.io/tools/css-border-radius-generator)
+[10015's CSS Border Radius Generator☁](https://10015.io/tools/css-border-radius-generator) (with [8 point full control](https://9elements.github.io/fancy-border-radius/full-control.html)) ([GitHub](https://github.com/9elements/fancy-border-radius)),
+[Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/)
+
+Clip paths for images:  
+[Clippy](https://bennettfeely.com/clippy/)
 
 Frosted glass:  
 [10015's CSS Glassmorphism Generator☁](https://10015.io/tools/css-glassmorphism-generator),
@@ -112,7 +133,11 @@ Shadows:
 [10015's CSS Box Shadow Generator☁](https://10015.io/tools/css-box-shadow-generator),
 [brumm.af's SmoothShadows☁](https://shadows.brumm.af),
 [Keyframes.app's Animate☁](https://keyframes.app/shadows/),
+[CSS Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/),
 [Trendy CSS Text Shadows by Mixfont☁](https://www.mixfont.com/shadows)
+
+Text effects:  
+[Leon Arnott's Site](https://leonarnott.neocities.org/)
 
 ## Supporting Elements - Background Patterns
 
@@ -148,6 +173,12 @@ Automatic theme generation:
 
 CSS reset:  
 [a11y-css-reset](https://github.com/mike-engel/a11y-css-reset),
+[CSS Remedy](https://github.com/jensimmons/cssremedy),
+[Reset CSS](https://meyerweb.com/eric/tools/css/reset/),
+[sanitize.css](https://github.com/csstools/sanitize.css)
+
+CSS reset (without classes):  
+[marx](https://github.com/mblode/marx)
 
 ## Frameworks/Engines - Foraging/Inspiration
 

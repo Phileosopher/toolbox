@@ -131,27 +131,6 @@ Dynamic lighting/visuals for sprites:
 Automated color system:  
 [Radix UI](https://www.radix-ui.com/colors)
 
-## Testing
-
-Color pairing:  
-[Colorable☁](https://colorable.jxnblk.com/) ([GitHub](https://github.com/jxnblk/colorable)),
-[ColorShark☁](https://colorshark.io/),
-[Colour Contrast Analyzer⊞■⌘](https://developer.paciellogroup.com/resources/contrastanalyser/),
-[Hex Naw☁](https://hexnaw.com/),
-[WebAIM Contrast Checker☁⇉](https://webaim.org/resources/contrastchecker/),
-[Who Can Use☁](https://whocanuse.com/)
-
-A11y check:  
-[A11y accessibility check (text on color)☁](https://www.brandwood.com/a11y/),
-
-Color contrast test:  
-[Check My Colours☁](http://www.checkmycolours.com/),
-
-Colorblindness testing:  
-[Coblis - Color Blindness Simulator☁](https://www.color-blindness.com/coblis-color-blindness-simulator/),
-[Color Oracle⊞⌘🐧](https://colororacle.org/),
-[Toptal Color Blind Filter☁](https://www.toptal.com/designers/colorfilter),
-
 ## Auto-Coloring
 
 Image re-coloring:  

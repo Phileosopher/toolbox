@@ -13,6 +13,9 @@ TL;DR websites:
 TL;DR PDFs:  
 [pdf2gpt☁🎰](https://pdf2gpt.com/)
 
+Automated PDF conversion:  
+[Issuu](https://issuu.com/)
+
 Archive downloader for PDF books:  
 [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader)
 

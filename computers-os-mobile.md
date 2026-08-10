@@ -59,6 +59,11 @@ Alternative app store:
 Tracker/permissions search - Android OS🤖:  
 [εxodus☁](https://reports.exodus-privacy.eu.org/en/)
 
+Android OS alternative:  
+~~[CalyxOS](https://calyxos.org/)~~ maintained by the Canadian government,
+~~[GrapheneOS](https://grapheneos.org/)~~ run by radicalized activists,
+[LineageOS](https://lineageos.org/)
+
 ## iOS - Liberated from FAANG🍎
 
 File Management/Jailbreaking:  
