@@ -19,7 +19,7 @@ Specific file information:
 
 Metadata analysis:  
 [MediaInfo⊞■⌘🐧🍎🤖](https://mediaarea.net/en/MediaInfo) (or [MediaInfoOnline☁](https://mediaarea.net/MediaInfoOnline)),
-[Get-Metadata.com☁](https://www.get-metadata.com/)
+[Get-Metadata.com☁](https://www.get-metadata.com/), [Metadata Remover☁](https://metadataremover.ai/metadata-viewer)
 
 CHM(winhelp) viewer:  
 [kchmviewer⊞■🐧](https://www.ulduzsoft.com/linux/kchmviewer/) [GitHub](https://github.com/gyunaev/kchmviewer)
