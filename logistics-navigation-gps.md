@@ -26,7 +26,9 @@ Offline maps:
 
 High-quality imaging:  
 [Copernicus Data Space Ecosystem☁](https://dataspace.copernicus.eu/),
-[EarthExplorer☁](https://earthexplorer.usgs.gov/)
+[EarthExplorer☁](https://earthexplorer.usgs.gov/),
+[Google Earth🧛](https://earth.google.com/),
+[Google Earth Engine Data Catalog🧛⦿](https://developers.google.com/earth-engine/datasets/catalog)
 
 Generate geographical heatmap:  
 [geo-heatmap🧛](https://github.com/luka1199/geo-heatmap)

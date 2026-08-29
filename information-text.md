@@ -19,6 +19,12 @@ Automated PDF conversion:
 Archive downloader for PDF books:  
 [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader)
 
+## Web Content
+
+Opening many hyperlinks at once:  
+[DevToolEasy's Markdown Link Extractor](https://devtooleasy.com/dev-tools/markdown-link-extractor),
+[InterviewCue's Link Opener Tool](https://interviewcue.com/tools/link-opener)
+
 ## Text Search
 
 Abbreviations/acronyms:  

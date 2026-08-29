@@ -16,6 +16,9 @@ Consumer protections:
 
 [LexisNexis' Lexis+$](https://www.lexisnexis.com/en-us/products/lexis-plus.page)
 
+Legal dictionary/encyclopedia:  
+[Cornell's Wex](https://www.law.cornell.edu/wex)
+
 USA rulings and court records:  
 [judyrecords](https://www.judyrecords.com/),
 [RECAP Suite](https://free.law/recap)

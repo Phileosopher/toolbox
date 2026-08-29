@@ -16,6 +16,9 @@
 Zero-config tools:  
 [awesome-toolkits](https://github.com/reyronald/awesome-toolkits)
 
+Web-based tools☁:  
+[DevToolEasy☁](https://devtooleasy.com/)
+
 Library/framework search:  
 [Libraries.io🆓](https://libraries.io/) ([GitHub](https://github.com/librariesio/libraries.io))
 

@@ -1,6 +1,9 @@
 
 # Tools for auto ownership
 
+Auto engineering:
+[awesome-automotive💩](https://github.com/Marcin214/awesome-automotive)  
+
 Autos for sale and inspection reports:  
 [CARFAX☁$](https://www.carfax.com/)
 
