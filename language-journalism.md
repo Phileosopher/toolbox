@@ -1,5 +1,5 @@
 
-# Tools for journalistic research
+# Tools for broad journalistic research
 
 High-value legal events:  
 [OffshoreAlert](https://www.offshorealert.com/)

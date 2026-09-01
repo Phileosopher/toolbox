@@ -1,7 +1,7 @@
 
 # Tools for OSINT☁💩
 
-NOTE: more at [navigation](logistics-navigation.md) and [social networks](networks-social.md) pages
+NOTE: more at [navigation](logistics-navigation.md), [social networks](computers-networks-social.md), and [journalism](language-journalism.md) pages
 
 [OSINT INCEPTION](https://start.me/p/Pwy0X4/osint-inception)
 

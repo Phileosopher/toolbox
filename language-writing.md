@@ -44,7 +44,7 @@ Prompts - audio feedback:
 
 Word/phrase frequency counter:  
 [Text Analyzer](https://www.online-utility.org/text/analyzer.jsp),
-[Word Frequency Counter](http://www.writewords.org.uk/word_count.asp)
+[Word Frequency Counter Online](https://textbases.app/text-tools/word-frequency-counter/)
 
 Star Wars intro style☁:  
 [Star Wars Intro Creator](https://starwarsintrocreator.kassellabs.io/),

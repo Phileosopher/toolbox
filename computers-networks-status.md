@@ -27,6 +27,9 @@ IP camera$:
 [Axis Network Cameras](https://www.axis.com/products/network-cameras),
 [GeoVision](https://www.geovision.com.tw/)
 
+Netgear unbricking:  
+[nmrpflash](https://github.com/jclehner/nmrpflash)
+
 ## L1 Physical - Mobile
 
 WLAN adapter - tracking:  

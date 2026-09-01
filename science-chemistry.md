@@ -1,6 +1,9 @@
 
 # Tools for chemistry
 
+Chemical information:  
+[NIH PubChem](https://pubchem.ncbi.nlm.nih.gov/)
+
 Atomic physics simulations:  
 [CP2K](https://www.cp2k.org/) ([GitHub](https://github.com/cp2k/cp2k/))
 
