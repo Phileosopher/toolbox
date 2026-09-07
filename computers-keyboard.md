@@ -5,6 +5,15 @@ Keyboard testing:
 [KeyboardStateView⊞■](https://www.nirsoft.net/utils/keyboard_state_view.html),
 [Key-Test☁](https://en.key-test.ru/)
 
+Software keyboard:  
+[AnySoftKeyboard🤖🆓](https://anysoftkeyboard.github.io/) ([F-Droid](https://f-droid.org/packages/com.menny.android.anysoftkeyboard/) and [GitHub](https://github.com/AnySoftKeyboard/AnySoftKeyboard)),
+[FlorisBoard🤖🆓](https://florisboard.org/) ([F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard/) and [GitHub](https://github.com/florisboard/florisboard)),
+[FUTO Keyboard🤖🆓](https://keyboard.futo.tech/) ([F-Droid](https://app.futo.org/fdroid/repo/), [GitLab](https://gitlab.futo.org/keyboard/latinime), [GitHub](https://github.com/futo-org/android-keyboard)),
+[KryptEY🤖](https://github.com/amnesica/KryptEY)
+
+Alternate language typing:  
+[Google Input Tools⇉🤖🧛](https://www.google.com/inputtools/try/)
+
 ## Alternate Inputs
 
 Keyboard-less interfacing:  

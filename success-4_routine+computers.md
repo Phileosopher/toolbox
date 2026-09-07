@@ -54,7 +54,11 @@ Desktop icon positions:
 Window dimming:  
 [HazeOver⌘$](https://hazeover.com/)
 
+Window tiling:  
+[FancyWM⊞](https://apps.microsoft.com/detail/9p1741lkhqs9)
+
 Virtual desktops:  
+[SylphyHornPlusWin11⊞](https://github.com/hwtnb/SylphyHornPlusWin11),
 [VirtuaWin⊞■](https://virtuawin.sourceforge.io/)
 
 Inputs across multiple computers:  

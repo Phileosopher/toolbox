@@ -2,4 +2,4 @@
 # Tools for short-term disasters
 
 Power outages:  
-[United States Power Outage Map](https://poweroutage.us/)
+[PowerOutage.com](https://poweroutage.com/)

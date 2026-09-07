@@ -11,7 +11,7 @@ Dynamic instrumentation toolkit:
 Cheatsheets:  
 [Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
 
-## Package Manager
+## Package manager
 
 Node:  
 [npm](https://www.npmjs.com/)
@@ -20,12 +20,12 @@ Node:
 
 [The JavaScript Oxidation Compiler](https://oxc.rs/) ([GitHub](https://github.com/oxc-project/oxc))
 
-## Optimization - Dependencies
+## Optimization - dependencies
 
 Pre-configured dependency management:  
 [scaffy](https://www.npmjs.com/package/@olaolum/scaffy) ([GitHub](https://github.com/OlaoluwaM/scaffy))
 
-## Optimization - Syntactic Sugar
+## Optimization - syntactic sugar
 
 JS:  
 [Sugar](https://sugarjs.com/) ([GitHub](https://github.com/andrewplummer/Sugar))
@@ -51,7 +51,7 @@ TypeScript resources💩:
 [awesome-typescript](https://github.com/dzharii/awesome-typescript),
 [awesome-typescript-ecosystem](https://github.com/itsdouges/awesome-typescript-ecosystem)
 
-## Testing/Debugging
+## Testing/debugging
 
 Linting:  
 [ESLint](https://eslint.org/) ([GitHub](https://github.com/eslint/eslint), with [awesome-eslint](https://github.com/dustinspecker/awesome-eslint)),

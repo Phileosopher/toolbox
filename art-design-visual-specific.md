@@ -1,5 +1,5 @@
 
-# Tools for specific computer visual elements
+# Tools for working with specific computer visual elements
 
 ## Barcodes
 

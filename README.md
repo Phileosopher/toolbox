@@ -10,32 +10,32 @@ This is my commonplacing for tools I may use.
 I've left emoji earmarks for reference, and my frequency of use approximately correlates to how many earmarks I've placed on it:  
 
 - Its starting platform:  
-  - _*_ - reference sheet or copy/paste.
-  - ☁ - browser-based
-  - ⇉ - browser/software plugin, bookmarklet, or extension
-  - ⊞ - Windows
-  - ⌘ - Mac OS X
-  - 🐧 - Unix and friends
-  - 🤖 - Android
-  - 🍎 - iOS
+  - _*_ reference sheet or copy/paste.
+  - ☁ browser-based
+  - ⇉ browser/software plugin, bookmarklet, or extension
+  - ⊞ Windows
+  - ⌘ Mac OS X
+  - 🐧 Unix and friends
+  - 🤖 Android
+  - 🍎 iOS
 - Its safety:  
-  - 🕵️ - helps with [trust issues](https://gainedin.site/trust/)
+  - 🕵️ helps with [trust issues](https://gainedin.site/trust/)
 - Its convenience:  
-  - ■ - standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/))
-  - □ - CLI-based without GUI (often requires [programming experience](https://trendless.tech/prog-basics))
-  - 💾 - self-hostable, or runs easily in a container
-  - 🤝 - designed for synergistically actualizing collaboratively (i.e., teamwork)
-  - 🎰 - [machine learning](https://trendless.tech/ml/)
+  - ■ standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/))
+  - □ CLI-based without GUI (often requires [programming experience](https://trendless.tech/prog-basics))
+  - 💾 self-hostable, or runs easily in a container
+  - 🤝 designed for synergistically actualizing collaboratively (i.e., teamwork)
+  - 🎰 [machine learning](https://trendless.tech/ml/)
 - Its scalability:  
-  - 🔌 - an affordable/free API, or simply has advertised API documentation
-  - ⦿ - data-intensive tool
-  - 🐍 - runs in Python
+  - 🔌 an affordable/free API, or simply has advertised API documentation
+  - ⦿ data-intensive tool
+  - 🐍 runs in Python
 - Its business model:  
   - 🆓 or link to GitHub/Sourceforge/GitLab/Codeberg - something like [FLOSS](https://trendless.tech/floss/)
-  - ⬆️ - freemium model
-  - $ - requires paying at least some money
-  - 🧛 - [Big Tech](adequate.life/big-tech) website or dependent (i.e., Amazon, Facebook, Microsoft)
-- 💩 - it's a recursed pile of stuff, (presumably) curated by someone else
+  - ⬆️ freemium model
+  - $ requires paying at least some money
+  - 🧛 [FAANG/Big Tech](adequate.life/big-tech) website or dependent (i.e., Amazon, Facebook, Microsoft)
+- 💩 it's a recursed pile of stuff, (presumably) curated by someone else
 - ~~strikethrough~~ for bad tools, with a clear explanation
 
 These icons are volatile out-of-the-box guesstimates, for several reasons:  
@@ -83,7 +83,7 @@ I also try to bias against a few groups:
 - Most [mega-corp](https://github.com/Phileosopher/commonplace/blob/master/groups-large.md) tools. They already pay for plenty of [advertising](https://github.com/Phileosopher/commonplace/blob/master/marketing.md) and are _literally_ the first thing on a search engine.
 - Paid tools when they cost enough that it makes me pause to consider [my budget](https://adequate.life/money-3/). I'm a big proponent of [free licensing](https://github.com/Phileosopher/commonplace/blob/master/legal-ip-floss.md) whenever possible, and I've made it my priority to never forget that some people people don't have much money.
 - Most courses and courseware, which describe how to manipulate a specific tool more than what that tool does.
-- Anything associated with a scandal, [highly politicized](https://github.com/Phileosopher/commonplace/blob/master/politics-conservativeliberal.md), [debatably illegal](https://github.com/Phileosopher/commonplace/blob/master/legal-safety.md), or [was hacked](https://github.com/Phileosopher/commonplace/blob/master/computers-cysec-pentest.md). I've got enough drama in my life without looking for more.
+- Anything associated with a scandal, [highly politicized](https://github.com/Phileosopher/commonplace/blob/master/politics-conservativeliberal.md), [debatably illegal](https://github.com/Phileosopher/commonplace/blob/master/legal-safety.md), or [was hacked](https://github.com/Phileosopher/commonplace/blob/master/computers-infosec-pentest.md). I've got enough drama in my life without looking for more.
 
 If there are many tools to choose from, I try to prioritize:  
 

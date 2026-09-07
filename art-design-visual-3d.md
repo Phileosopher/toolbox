@@ -11,7 +11,13 @@
 3D creation and integration:  
 [Unreal Engine](https://www.unrealengine.com/) (with [Unreal Engine Guide](https://github.com/mikeroyal/Unreal-Engine-Guide))
 
-## Specific Modeling
+Motion capture (markerless):  
+[iPi Soft](https://ipisoft.com/)
+
+## Specific modeling
+
+3D asset modeling:  
+[Sketchfab](https://sketchfab.com/)
 
 Advanced CAD modeling:  
 [BRL-CAD](https://brlcad.org/) ([GitHub](https://github.com/BRL-CAD/brlcad)),
@@ -35,9 +41,9 @@ VR environments:
 Modeling/form material:  
 [Sugru](https://sugru.com/)
 
-## Foraging
+## foraging
 
-3D Illustrations:  
+3D illustrations:  
 [Shapefest](https://www.shapefest.com/)
 
 Isometric models:  
@@ -52,6 +58,9 @@ Hands:
 
 3D body information:  
 [awesome-3dbody-papers🎰💩](https://github.com/3DFaceBody/awesome-3dbody-papers)
+
+Statue scans:  
+[Three D Scans](https://threedscans.com/)
 
 ## Validation
 

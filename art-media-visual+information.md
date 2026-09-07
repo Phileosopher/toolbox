@@ -1,8 +1,6 @@
 
 # Places to acquire lots of visual information💩
 
-## Multi-Element
-
 [123RF](https://www.123rf.com/), [365psd](https://365psd.com/),
 [All-free-download.com](https://all-free-download.com/), [AllTheFreeStock](https://allthefreestock.com/), [App Sources](http://www.sketchappsources.com/all-free-sources.html),
 [Apple Design Resources](https://developer.apple.com/design/resources/),
@@ -30,7 +28,7 @@ Search:
 More lists💩:  
 [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources),
 
-## Stock Photos
+## Stock photos
 
 [1 million free pictures](https://www.1millionfreepictures.com/),
 [AltPhotos](https://altphotos.com/), [Aurel Manea Photo archive](http://aurelm.com/portfolio/aurel-manea-photo-archive/), [Avopix.com](https://avopix.com/),
@@ -78,7 +76,8 @@ Maps:
 [Old Maps Online](https://www.oldmapsonline.org/)
 
 Museum collections:  
-[Museo](https://museo.app/)
+[Museo](https://museo.app/),
+[The Met Collection](https://www.metmuseum.org/art/collection)
 
 Technology:  
 [Startup Stock Photos](https://startupstockphotos.com/)
@@ -117,7 +116,7 @@ Location-based:
 More lists💩:  
 [The Mega List Of Free Image Sites For Blogging](https://www.mattcrampton.com/blog/mega_list_of_free_image_sites_for_blogging/)
 
-## Stock Photos: Web-Based
+## Stock photos web-based
 
 Landing pages:
 [LandingStock](https://landingstock.com/)
@@ -126,7 +125,7 @@ Landing pages:
 [404 Illustrations](https://error404.fun/),
 [Kapwing's 404 Illustrations](https://www.kapwing.com/404-illustrations)
 
-## Stock Videos
+## Stock videos
 
 [Coverr](https://coverr.co/),
 [free-stock.video](https://free-stock.video/),
@@ -138,7 +137,7 @@ Landing pages:
 [Vidsplay.com](https://www.vidsplay.com/),
 [Vimeo Free HD Video](https://vimeo.com/groups/freehd/)
 
-## Streaming Video Feeds
+## Streaming video feeds
 
 [City Webcams](https://city-webcams.com/),
 [EarthCam](https://www.earthcam.com/),
@@ -220,11 +219,11 @@ React icons:
 Payment methods:  
 [Iconfinder's Payment Method icons](https://www.iconfinder.com/iconsets/payment-method-1)
 
-## Slideshow Templates
+## Slideshow templates
 
 [SlidesCarnival](https://www.slidescarnival.com/)
 
-## After Effects Templates
+## After Effects templates
 
 [Aedownload.com](https://aedownload.com/),
 [Free After Effects Templates](https://vfxdownload.com/),
@@ -235,7 +234,7 @@ Payment methods:
 [Microsoft Clipart Extra](https://archive.org/details/mso97clipart),
 [Openclipart](https://www.openclipart.org/)
 
-## SVGs/Illustrations/Animations
+## SVGs/illustrations/animations
 
 [Absurd Design](https://absurd.design/), [Amigos Illustrations](https://amigos.blush.design/),
 [Black Illustrations](https://www.blackillustrations.com/), [Bulbman](https://bulbman.art/),
@@ -262,7 +261,12 @@ React components:
 Content creator graphics:  
 [PixelPro.io Free Graphics](https://pixelpro.io/graphics)
 
-## Figma UI Kits/Templates
+## Figma UI kits/templates
 
 [100 Daily UI Library](https://100dailyui.webflow.io/),
 [UI Kits for Figma](https://www.uikitsnow.com/)
+
+## Pixel art
+
+Sprites:  
+[256 Arts' Sprite Catalog](https://www.256arts.com/spritecatalog/) ([GitHub](https://github.com/256Arts/Sprite-Catalog))

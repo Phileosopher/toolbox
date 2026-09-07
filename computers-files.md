@@ -84,3 +84,8 @@ File compression:
 
 File Splitting:  
 ~~[KFK⊞■](https://kcsoftwares.com/?kfk)~~ site shut down
+
+## File auto-organization
+
+Organize by metadata:  
+[OrganizeMediaFiles🐍](https://github.com/vpistis/OrganizeMediaFiles)

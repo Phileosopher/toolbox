@@ -1,13 +1,13 @@
 
 # Tools for the programming language JavaScript with respect to graphics
 
-## Foraging/Inspiration
+## Foraging/inspiration
 
 Tailwind themes/templates:  
 [Cruip*](https://cruip.com/),
 [Wicked Templates*](https://www.wickedtemplates.com/demos)
 
-## UI Libraries
+## UI libraries
 
 Material design:
 [Material Design Lite(no framework dependencies)](https://getmdl.io/) ([GitHub](https://github.com/google/material-design-lite)),
@@ -16,7 +16,10 @@ Material design:
 Guiding users through elements:  
 [Driver.js](https://driverjs.com/) ([GitHub](https://github.com/kamranahmedse/driver.js))
 
-## Element-Specific Libraries: General Animations
+Augmented reality libraries:  
+[AR.js](https://github.com/AR-js-org/AR.js)
+
+## Element-specific libraries: general animations
 
 Step-by-step walkthrough for users:  
 [Shepherd⬆️](https://shepherdjs.dev/)
@@ -43,7 +46,7 @@ React components - icon search:
 Vue components - Bootstrap icons:  
 [Bootstrap Icons Vue](https://github.com/tommyip/bootstrap-icons-vue)
 
-## Element-Specific Libraries: Transitions
+## Element-specific libraries: transitions
 
 Page transitions:  
 [barba.js](https://barba.js.org/) ([GitHub](https://github.com/barbajs/barba))
@@ -51,7 +54,7 @@ Page transitions:
 Divided page multi-scroll:  
 [multiscroll.js](https://alvarotrigo.com/multiScroll/) ([GitHub](https://github.com/alvarotrigo/multiScroll.js))
 
-## Element-Specific Libraries: Less Common Elements
+## Element-specific libraries: less common elements
 
 3D parallax hover effects:  
 [Atropos](https://atroposjs.com/) ([GitHub](https://github.com/nolimits4web/atropos/))
@@ -68,17 +71,17 @@ Document support (ODF):
 Slideshow presenter:  
 [b6+ slide framework](https://www.w3.org/Talks/Tools/b6plus/)
 
-## Element-Specific Primitives
+## Element-specific primitives
 
 Autocomplete/Dropdown/Combobox:  
 [downshift](https://github.com/downshift-js/downshift)
 
-## Specific Styles
+## Specific styles
 
 XKCD data visualization style:  
 [Chart.xkcd](https://timqian.com/chart.xkcd/) [GitHub](https://github.com/timqian/chart.xkcd)
 
-## Code Snips/Generators
+## Code snips/generators
 
 Forms:  
 [jQuery formBuilder☁](https://formbuilder.online/) ([GitHub](https://github.com/kevinchappell/formBuilder))

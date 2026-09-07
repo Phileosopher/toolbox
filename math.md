@@ -31,6 +31,10 @@ Step-by-step explanations:
 
 ## Conversions/Comparisons
 
+Practical calculators:  
+[Best Calculators☁](https://best-calculators.com/),
+[Toolhuts☁](https://toolhuts.com/)
+
 Measurement conversion:  
 [Online Conversion☁](http://www.onlineconversion.com/),
 [ConvertAll⊞■🐧](http://convertall.bellz.org/),
