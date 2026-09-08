@@ -29,6 +29,7 @@ Resumé/CV templates - LaTeX:
 
 Resumé builder/parser:  
 [Kickresume⬆️](https://www.kickresume.com/),
+[ResumeAI](https://withresumeai.com/) — AI resume builder + free ATS checker,
 [LiveCareer](https://www.livecareer.com/),
 [OpenResume☁](https://www.open-resume.com/) ([GitHub](https://github.com/xitanggg/open-resume)),
 [Reactive Resume](https://rxresu.me/),
