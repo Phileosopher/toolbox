@@ -65,3 +65,6 @@ Collaborative spreadsheets🤝:
 
 Government website use:  
 [analytics.usa.gov⦿](https://analytics.usa.gov/)
+
+USA traffic deaths 2001-2024:  
+[roadway.report](https://roadway.report/)

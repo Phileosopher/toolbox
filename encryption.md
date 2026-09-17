@@ -1,5 +1,5 @@
 
-# Tools for cryptography and encryption
+# Tools for non-OS cryptographic activities
 
 Encryption laws:  
 [Global Partners Digital - World map of encryption laws and policies](https://www.gp-digital.org/world-map-of-encryption/)

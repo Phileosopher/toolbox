@@ -1,5 +1,5 @@
 
-# Tools for both job-hunting (as a worker) and building teams (as a manager)
+# Tools for job-hunting (as a worker) and recruiting (as a manager)
 
 Job role tracking:  
 [Rolepad](https://rolepad.com/)

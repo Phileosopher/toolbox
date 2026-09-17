@@ -7,45 +7,6 @@ Learning:
 [Hack Design☁](https://hackdesign.org/),
 [Learn UI Design☁](https://learnui.design/)
 
-## UI Inspiration/Learning
-
-Consuming💩:  
-[Collect UI*](https://collectui.com/),
-[GoodUI*](https://goodui.org/),
-[Landingfolio*](https://www.landingfolio.com/),
-[One Page Love](https://onepagelove.com/),
-[Page Flows*](https://pageflows.com/),
-[Pttrns*](https://pttrns.com/),
-[Screenlane*](https://screenlane.com/),
-[Siteinspire*](https://www.siteinspire.com/),
-[The Animated Web*](https://theanimatedweb.com/),
-[The FWA (UK's Favorite Website Awards)*](https://thefwa.com/),
-[UI-Patterns*](http://ui-patterns.com/),
-[UI Design Daily*](https://uidesigndaily.com/),
-[UI Garage*](https://uigarage.net/),
-[UI Sources*](https://www.uisources.com/),
-[Web Design Inspiration](https://www.webdesign-inspiration.com/)
-
-Practice:  
-[Frontend Practice☁](https://www.frontendpractice.com/)
-
-Support tables:  
-[Can I use...☁](https://www.caniuse.com/) ([GitHub](https://github.com/fyrd/caniuse))
-
-## Usability Testing
-
-Multi-browser testing:  
-[Browser Shots☁](http://browsershots.org/),
-[Browserling☁](https://www.browserling.com/),
-[Turbo's Browser Sandbox☁](https://turbo.net/browsers)
-
-Mobile-friendly test:  
-[Google's Mobile-Friendly Test☁🧛](https://search.google.com/test/mobile-friendly),
-[Responsinator☁](https://www.responsinator.com/)
-
-Worldwide test:  
-[W3C I18n Checker☁](https://validator.w3.org/i18n-checker/)
-
 ## Inspiration
 
 General design:  
@@ -54,7 +15,10 @@ General design:
 Spatial dimensions:  
 [Dimensions.com☁](https://www.dimensions.com/)
 
-## Schematics/Models
+## Schematics and models
+
+Alternative energy (e.g., EVs):
+[EERE Alternative Fuels Data Center*](https://afdc.energy.gov/)
 
 Open-source:  
 [Open Source Ecology](https://opensourceecology.dozuki.com/)
@@ -87,12 +51,7 @@ Physics models:
 Flight simulation:  
 [FlightGear⊞⌘🐧](https://www.flightgear.org/)
 
-## Design
-
-Alternative energy (e.g., EVs):
-[EERE Alternative Fuels Data Center*](https://afdc.energy.gov/)
-
-## Design - CAD
+## CAD
 
 [FreeCAD⊞■⌘🐧](https://www.freecadweb.org/) (([GitHub](https://github.com/FreeCAD))with [Ondsel](https://ondsel.com/) for cloud storage)
 

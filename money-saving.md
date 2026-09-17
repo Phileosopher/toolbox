@@ -69,11 +69,17 @@ Limited-time specials:
 
 ## Shopping
 
+Online auctions:  
+[Etsy🧛](https://www.etsy.com/)
+
 Online auctions - liquidations:  
 [AllSurplus☁](https://www.allsurplus.com/)
 
 Online auctions - government liquidations:  
 [Government Surplus Auctions*](https://www.govdeals.com/)
+
+Online store:  
+[Amazon🧛](https://www.amazon.com/)
 
 Classified ads:  
 [craigslist☁](https://craigslist.org/),

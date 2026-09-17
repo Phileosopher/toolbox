@@ -3,49 +3,6 @@
 
 This is my commonplacing for tools I may use.
 
-## Earmarks
-
-- I have a [commonplace repo](https://github.com/Phileosopher/commonplace) for information and reference, but I wanted to demarcate "use" from "understand".
-
-I've left emoji earmarks for reference, and my frequency of use approximately correlates to how many earmarks I've placed on it:  
-
-- Its starting platform:  
-  - _*_ reference sheet or copy/paste.
-  - ☁ browser-based
-  - ⇉ browser/software plugin, bookmarklet, or extension
-  - ⊞ Windows
-  - ⌘ Mac OS X
-  - 🐧 Unix and friends
-  - 🤖 Android
-  - 🍎 iOS
-- Its safety:  
-  - 🕵️ helps with [trust issues](https://gainedin.site/trust/)
-- Its convenience:  
-  - ■ standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/))
-  - □ CLI-based without GUI (often requires [programming experience](https://trendless.tech/prog-basics))
-  - 💾 self-hostable, or runs easily in a container
-  - 🤝 designed for synergistically actualizing collaboratively (i.e., teamwork)
-  - 🎰 [machine learning](https://trendless.tech/ml/)
-- Its scalability:  
-  - 🔌 an affordable/free API, or simply has advertised API documentation
-  - ⦿ data-intensive tool
-  - 🐍 runs in Python
-- Its business model:  
-  - 🆓 or link to GitHub/Sourceforge/GitLab/Codeberg - something like [FLOSS](https://trendless.tech/floss/)
-  - ⬆️ freemium model
-  - $ requires paying at least some money
-  - 🧛 [FAANG/Big Tech](adequate.life/big-tech) website or dependent (i.e., Amazon, Facebook, Microsoft)
-- 💩 it's a recursed pile of stuff, (presumably) curated by someone else
-- ~~strikethrough~~ for bad tools, with a clear explanation
-
-These icons are volatile out-of-the-box guesstimates, for several reasons:  
-
-- If the specs on a computer are high enough (and they often are if the software is >5 years old), a multipurpose OS can run almost any software, even if it's an unlocked fridge running a sideloaded SD card Linux in a Windows 98 container running MS-DOS.
-- Developers keep making new things for new technologies, so this is constantly becoming obsolete or adapting to new standards. From the time you read this, most of this toolbox is good for about 10 years.
-- Addon features have a funny way of becoming built-in features as everyone uses it, and built-in features will often become lobotomized to make something more efficient or profitable. Nothing is permanent.
-
-If the file has dashes in it, it's just stray, unsorted, untested tools I've ~~hoarded~~ gathered.
-
 ## Why
 
 When we're familiar with computers, we often forget it can do more than we expect. Fortunately, clever software developers keep build things that expand our horizons and break our expectations.
@@ -73,7 +30,7 @@ I've tried to omit some things due to their limited use:
 
 1. If the site is interpreted as suspicious by government authorities (e.g., [for piracy](https://github.com/Phileosopher/commonplace/blob/master/computers-torrent.md)), it won't likely stick around, though some future iteration of it will float out there somewhere.
 2. Many [tech startups](https://github.com/Phileosopher/commonplace/blob/master/entrepreneur-1_what-cs.md) curate "kitchen sink" tools that do many things, but that tool will be repurposed a few times once they've found their market or were acquired by a [Big Tech corporation](https://github.com/Phileosopher/commonplace/blob/master/computers-bigtech.md).
-3. Quick-reference sheets are great, but should _still_ be useful later on. Some [protocols](https://github.com/Phileosopher/commonplace/blob/master/standards-computers.md) move around constantly, while others stay nearly the same and simply accrue more features.
+3. Quick-reference sheets are great, but should _still_ be useful later on. Some [protocols](https://github.com/Phileosopher/commonplace/blob/master/computers-standards.md) move around constantly, while others stay nearly the same and simply accrue more features.
 4. Independent developers make stuff all the time, sometimes simply to learn. If I find it somewhere and it's not very popular, it's likely not [mature enough](https://github.com/Phileosopher/commonplace/blob/master/trends.md) to add to the toolbox. There may be exceptions to this if there's nothing else in that space.
 
 I also try to bias against a few groups:  
@@ -92,12 +49,66 @@ If there are many tools to choose from, I try to prioritize:
 3. Affordably-priced, if possible
 4. Whatever happens to work
 
+## Earmarks
+
+- I have a [commonplace repo](https://github.com/Phileosopher/commonplace) for information and reference, but I wanted to demarcate "use" from "understand".
+
+I've left emoji earmarks for reference, and my frequency of use approximately correlates to how many earmarks I've placed on it.
+
+Its starting platform:
+
+- _*_ reference sheet or copy/paste.
+- ☁ browser-based
+- ⇉ browser/software plugin, bookmarklet, or extension
+- ⊞ Windows
+- ⌘ Mac OS X
+- 🐧 Unix and friends
+- 🤖 Android
+- 🍎 iOS
+
+Its safety:
+
+- 🕵️ helps with [trust issues](https://gainedin.site/trust/)
+
+Its convenience:
+
+- ■ standalone files or portable Windows apps (many through [PortableApps.com](https://portableapps.com/))
+- □ CLI-based without GUI (often requires [programming experience](https://trendless.tech/prog-basics))
+- 💾 self-hostable, or runs easily in a container
+- 🤝 designed for synergistically actualizing collaboratively (i.e., teamwork)
+- 🎰 [machine learning](https://trendless.tech/ml/)
+
+Its scalability:
+
+- 🔌 an affordable/free API, or simply has advertised API documentation
+- ⦿ data-intensive tool
+- 🐍 runs in Python
+
+Its business model:
+
+- 🆓 or link to GitHub/Sourceforge/GitLab/Codeberg/F-Droid - something like [FLOSS](https://trendless.tech/floss/)
+- ⬆️ freemium model
+- $ requires paying at least some money
+- 🧛 [FAANG/Big Tech](adequate.life/big-tech) website or dependent (i.e., Amazon, Facebook, Microsoft)
+  - I [try to avoid these](https://adequate.life/big-tech), but some things aren't avoidable.
+
+Other:
+
+- 💩 it's a recursed pile of stuff, (presumably) curated by someone else
+- ~~strikethrough~~ for bad tools, with a clear explanation
+
+These icons are volatile out-of-the-box guesstimates, for several reasons:  
+
+- If the specs on a computer are high enough (and they often are if the software is >5 years old), a multipurpose OS can run almost any software, even if it's an unlocked fridge running MS-DOS inside Windows 98 on a Linux container inside a sideloaded SD card.
+- Developers keep making new things for new technologies, so this is constantly becoming obsolete or adapting to new standards. From the time you read this, most of this toolbox is good for about 10 years.
+- Addon features have a funny way of becoming built-in features as everyone uses it, and built-in features will often get sunsetted to make something more efficient or profitable. Nothing is permanent.
+
 ## YMMV
 
 I make the following disclaimer about the linked software:  
 
 1. I can't attest to the software's validity. You're assuming liability if you download the software, and [caveat emptor](https://github.com/Phileosopher/commonplace/blob/master/legal-doctrines.md) if you pay money for it.
-2. I make no promises that the software isn't a virus, though I sincerely don't want people to download viruses. Validate the software for yourself (such as some of the tools I have stored) to be sure.
-3. This is a self-curated collection. I may test the software, but most of this came from skimming a website. When things change, I'm typically not notified.
+2. I make no promises that the software isn't a virus, though I sincerely don't want people to download viruses. Validate the software for yourself (such as some of the _other_ tools I have here) to be sure.
+3. This is a self-curated collection. I may test the software, but most of this came from skimming a website. When things change, I'm typically not notified unless someone PRs.
 4. I'm giving you the means to find things. I'm not legally responsible for what you decide to do with those things.
-5. If you want to sue me, I'll give you royalties of all the money I make on this. We'll just have to calculate that percentage by $0.
+5. If you want to sue me, I'll give you royalties of all the money I make on this. We'll just have to divide out the $0 I made, then I'll mail you a check.

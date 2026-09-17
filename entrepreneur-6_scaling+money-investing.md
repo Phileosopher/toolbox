@@ -1,5 +1,5 @@
 
-# Tools for investing (towards entrepreneurs) and entrepreneurial financing (for entrepreneurs)
+# Tools for investing (toward entrepreneurs) and financing (for entrepreneurs)
 
 Software side projects:  
 [SideProjectors☁](https://www.sideprojectors.com/#/)

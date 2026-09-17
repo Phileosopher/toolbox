@@ -69,6 +69,15 @@ DJing:
 DJing - turntables:  
 [xwax🐧](https://xwax.org/)
 
+## Live events
+
+Live streaming:  
+[Waasabi](https://waasabi.org/)
+
+RTSP stream:  
+[Audio Sharing🆓](https://gitlab.gnome.org/World/AudioSharing),
+[WebVideoCap⊞■](https://www.nirsoft.net/utils/web_video_capture.html)
+
 ## Composition
 
 MIDI files:  
@@ -106,50 +115,7 @@ Drum machine:
 Chiptune:  
 [Petaporon](https://pixwlk.itch.io/petaporon)
 
-## Digital Audio Workstation (DAW)
+## Audio Capture
 
-[Ardour⊞⌘🐧](https://www.ardour.org/),
-[Audacity⊞■⌘🐧](https://www.audacityteam.org/) ([GitHub](https://github.com/audacity), with [Wavacity☁](https://wavacity.com/) as a web-based port or [Tenacity](https://tenacityaudio.org/) without any tracking),
-[Audio Recorder☁](https://webbrowsertools.com/audio-recorder/),
-[Bitwig$⊞⌘🐧](https://www.bitwig.com/),
-[Cakewalk by BandLab⊞](https://www.bandlab.com/products/cakewalk) (with [MenuMagic Details](https://www.agitatedstate.com/html/menumagic.php) as plugin manager),
-[LMMS⊞■⌘🐧](https://lmms.io/) ([GitHub](https://github.com/LMMS)),
-[WavePad](https://www.nch.com.au/wavepad/index.html)
-
-Minimalist DAW:  
-[helio.fm⊞■⌘🐧](https://helio.fm/)
-[Composer's Sketchpad⌘🍎](http://composerssketchpad.com/)
-
-Collaborative works🤝:  
-[MusicMessages!🍎](http://musicmessages.io/)
-
-Chiptune - NES-style:  
-[FamiStudio](https://famistudio.org/)
-
-Chiptune - Gameboy-style:  
-[Little Sound Dj](https://www.littlesounddj.com/lsd/index.php)
-
-Microtuning for plugins:  
-[MTS-ESP](https://github.com/ODDSound/MTS-ESP)
-
-## Auto-Generation
-
-Sound effect generation:  
-[LabChirp](https://labbed.net/software/labchirp/),
-[rFXGen](https://raylibtech.itch.io/rfxgen),
-[sfxr](https://drpetter.se/project_sfxr.html) (expansion through [Bfxr](https://www.bfxr.net/))
-
-Sample generation:  
-[Spect&Gen](http://jbouchat.ucoz.com/index/spect_gen/0-4)
-
-Pulling samples:  
-[SOURCE🐍](https://github.com/ffont/source)
-
-Sample combination:  
-[AuMe☁](https://audiometaphor.ca/)
-
-Song generation:  
-[Splice](https://splice.com/)
-
-Song generation - DAW auto-builder:  
-[Jukeblocks](https://jukeblocks.io/)
+Acoustic testing and source mapping:  
+[Acoular🐍](http://www.acoular.org/)

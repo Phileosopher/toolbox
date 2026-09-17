@@ -19,6 +19,11 @@ Automated PDF conversion:
 Archive downloader for PDF books:  
 [Archive.org-Downloader](https://github.com/MiniGlome/Archive.org-Downloader)
 
+Removing paywalls:  
+[Wayback Machine](https://archive.org/web/) (quickly save with [the official plugin⇉](https://github.com/internetarchive/wayback-machine-webextension) or a [third-party one⇉](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine)),
+[Webpage archive](https://archive.today/),
+[Web Archives⇉](https://github.com/dessant/web-archives)
+
 ## Web Content
 
 Opening many hyperlinks at once:  

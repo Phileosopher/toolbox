@@ -54,9 +54,6 @@ Audio/video player:
 Audio/video player - plugin-friendly:  
 [WACUP⊞■](https://getwacup.com/)
 
-P2P movie sharing:  
-[watchIT](https://github.com/ZorrillosDev/watchit-app)
-
 ## Video/Audio Download
 
 Online videos:  

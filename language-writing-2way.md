@@ -20,9 +20,6 @@ Multi-chat clients:
 [tinychat☁](https://tinychat.com),
 [WeeChat🐧□](https://weechat.org/) ([GitHub](https://github.com/weechat/weechat))
 
-P2P chat:  
-[cabal](https://cabal.chat/) ([GitHub](https://github.com/cabal-club/cable))
-
 IRC client:  
 [Wikipedia's Comparison of Internet Relay Chat clients💩](https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients),
 [Wikipedia's Comparison of mobile Internet Relay Chat clients🍎🤖💩](https://en.wikipedia.org/wiki/Comparison_of_mobile_Internet_Relay_Chat_clients),

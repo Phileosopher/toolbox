@@ -45,3 +45,24 @@ Fuel:
 
 Ethanol-free fuel:  
 [Pure-gas.org](https://www.pure-gas.org/)
+
+Additives:  
+[LIQUI MOLY](https://www.liqui-moly.com/)
+
+MPG tracking:  
+[Fuelly](https://www.fuelly.com/)
+
+## Repair
+
+CAN bus:  
+[awesome-canbus💩](https://github.com/iDoka/awesome-canbus)
+
+OBD bluetooth integration:  
+[AndrOBD🤖](https://f-droid.org/packages/com.fr3ts0n.ecu.gui.androbd/) ([GitHub](https://github.com/fr3ts0n/AndrOBD))
+
+Roadside assistance:  
+[AAA](https://roadside.aaa.com/chat)
+
+Auto repair network/warranty:  
+[Endurance](https://www.endurancewarranty.com/),
+[ProVantage Auto Repair Network](https://provantagenetwork.com/)
