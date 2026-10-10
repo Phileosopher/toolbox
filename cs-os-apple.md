@@ -18,6 +18,9 @@ Account management:
 Apple Bootloader:  
 [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
 
+Apple software and devices database:  
+[AppleDB](https://appledb.dev/)
+
 ## Search Enhancement
 
 [Alfred](https://www.alfredapp.com/)
@@ -38,7 +41,7 @@ GitHub repo search:
 Disk space:  
 [GrandPerspective](https://grandperspectiv.sourceforge.net/) ([SourceForge](https://sourceforge.net/projects/grandperspectiv/))
 
-## Cybersecurity
+## Cybersecurity and privacy
 
 Filesystem encryption:  
 [EncFSMP](https://encfsmp.sourceforge.io/index.html)

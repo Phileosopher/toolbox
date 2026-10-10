@@ -12,6 +12,9 @@ Code profiling:
 HTTP server within another program:  
 [Libmicrohttpd](https://www.gnu.org/software/libmicrohttpd/)
 
+GPU computation via WebGPU:  
+[gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp)
+
 ## Debugging
 
 C++:  

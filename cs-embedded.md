@@ -31,3 +31,11 @@ G-code sending:
 G-code parsing:  
 [grbl (for Arduino flashing)](https://github.com/grbl/grbl),
 [TinyG](https://github.com/synthetos/TinyG/wiki)
+
+## Software development
+
+Python implementation🐍:  
+[MicroPython](https://micropython.org/) ([GitHub](https://github.com/micropython/micropython)), with [Awesome MicroPython](https://awesome-micropython.com/) ([GitHub](https://github.com/mcauser/awesome-micropython))
+
+Wi-Fi interfaces:  
+[MicroWifi](https://github.com/jczic/MicroWifi)

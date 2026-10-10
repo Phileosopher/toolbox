@@ -1,11 +1,41 @@
 
 # Tools for logistics
 
-All-in-one:  
-[Bonsai](https://www.hellobonsai.com/),
-[FloTask](https://flotask.webflow.io/)
+Freight cost calculation:  
+[Freight Metrics](https://freightmetrics.com.au/)
 
-## Vehicles
+Package tracking:  
+[17TRACK](https://www.17track.net/en),
+[Boxoh](http://www.boxoh.com/),
+[Package Place□](https://package.place/),
+[Parcels](https://parcelsapp.com/en/)
+
+## Lodging arrangements
+
+Hotels multi-search:  
+[Online Booking](https://www.online-booking.com/)
+
+Hotel alternatives:  
+[Couchsurfing](https://www.couchsurfing.com/),
+[Uhotw](https://www.unusualhotelsoftheworld.com/home),
+[Vrbo](https://www.vrbo.com/)
+
+Camping:  
+[Free Campsites](https://freecampsites.net/),
+[Hipcamp](https://www.hipcamp.com/en-US),
+[Recreation.gov](https://www.recreation.gov/),
+[The Dyrt](https://thedyrt.com/)
+
+Camping - California co-op:  
+[Land Camp](https://www.landcamp.org/)
+
+## Vehicle tracking
+
+GPS jamming and interference:  
+[Flightradar24's GPS jamming & interference map](https://www.flightradar24.com/data/gps-jamming),
+[GPSJam GPS/GNSS Interference Map](https://gpsjam.org)
+
+### Aircraft
 
 Airports:  
 [OpenAirportMap☁](https://openairportmap.org/)
@@ -20,40 +50,40 @@ Flight tracking - notification:
 Airline in-flight WiFi API - United Airlines🔌:  
 [United-In-Flight-Api](https://github.com/greatjack1/United-In-Flight-Api)
 
-Ship location:  
+### Naval
+
+Waterways map:  
+[WaterwayMap.org](https://waterwaymap.org/)
+
+Port data:  
+[NOAA Fisheries Landings](https://www.fisheries.noaa.gov/foss/f?p=215:200),
+[vesseltracker.com's Ports](https://www.vesseltracker.com/en/ports.html)
+
+Vessel data:  
+[Boatfax](https://www.boatfax.com/),
+[CMA CGM voyage finder](https://www.cma-cgm.com/ebusiness/schedules/voyage),
+[Equasis](https://www.equasis.org/EquasisWeb/public/HomePage),
+[IUU Vessel List](https://iuu-vessels.org/Home/Search),
+[ShipSpotting.com](https://www.shipspotting.com/),
+[The Shipping Database](https://theshippingdatabase.com/),
 [VesselFinder☁](https://www.vesselfinder.com/)
 
-Package tracking:  
-[17TRACK](https://www.17track.net/en),
-[Boxoh](http://www.boxoh.com/),
-[Package Place□](https://package.place/),
-[Parcels](https://parcelsapp.com/en/)
+Vessel data - cruise ships:  
+[livecruiseshiptracker.com](https://livecruiseshiptracker.com/)
+
+Vessel map:  
+[Marine Vessel Traffic](https://www.marinevesseltraffic.com/)
+
+Submarine tracking:  
+[SUBMARINE TRACKER](https://www.marinevesseltraffic.com/submarine-vessels-tracking-map)
 
 Submarine cables:  
 [Globe.GL submarine cables](https://globe.gl/example/submarine-cables/)
 
-## Supply Chains
+### Spacecraft
 
-Supplier RFQs/quotes:  
-[Jiga☁](https://jiga.io/)
+Current LEO satellites:  
+[Low Earth Orbit Visualization☁](https://platform.leolabs.space/visualization)
 
-## ERP/CRM
-
-ERP:  
-[ERPNext🆓](https://erpnext.com/) ([GitHub](https://github.com/frappe/erpnext)),
-[LedgerSMB🐧](https://ledgersmb.org/),
-[SQL-Ledger⊞⌘🐧](https://www.sql-ledger.com/)
-
-ERP + CRM:  
-[Dolibarr⊞🐧🆓](https://www.dolibarr.org/) ([GitHub](https://github.com/Dolibarr/dolibarr)),
-[iDempiere⊞🐧🆓](https://www.idempiere.org/) ([GitHub](https://github.com/idempiere/idempiere)),
-[inoERP⊞🐧🆓](http://www.inoideas.org/) ([GitHub](https://github.com/inoerp/inoERP)),
-[metasfresh🐧🆓](https://metasfresh.com/en) ([GitHub](https://github.com/metasfresh/metasfresh))
-
-## Customer Service & Tickets
-
-User support/ticketing:  
-[Zammad🐧💾🆓](https://zammad.org/) ([GitHub](https://github.com/zammad/zammad))
-
-Knowledge base:  
-[Slite](https://slite.com/)
+Current LEO satellites - Starlink:  
+[STARLINKMAP.ORG](https://www.starlinkmap.org/)

@@ -3,7 +3,8 @@
 
 ## Piles of everything💩
 
-[awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+[awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt),
+[SORTED](https://github.com/PTDZ/SORTED)
 
 Deep learning:  
 [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning),

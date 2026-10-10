@@ -8,8 +8,17 @@ Dynamic instrumentation toolkit:
 [Frida](https://frida.re/) ([GitHub](https://github.com/frida/frida),enhanced with [awesome-frida💩](https://github.com/dweinstein/awesome-frida)),
 [gulp.js](https://gulpjs.com/) ([GitHub](https://github.com/gulpjs/gulp), enhanced with [Awesome gulp💩](https://alferov.github.io/awesome-gulp/) ([GitHub](https://github.com/alferov/awesome-gulp)))
 
+## Learning
+
+Tutorials:  
+[javascript info](https://javascript.info/)
+
 Cheatsheets:  
 [Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
+
+Front-end courses:  
+[Javascript30](https://javascript30.com)
+[vue school](https://vueschool.io/)
 
 ## Package manager
 

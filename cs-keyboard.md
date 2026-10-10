@@ -61,6 +61,9 @@ Existing hotkeys (for assigning others):
 NumPad shortcuts:  
 [ControlPad⊞■](https://sector-seven.com/software/controlpad)
 
+Compose key for special characters:  
+[WinCompose⊞](https://wincompose.info/) ([wincompose](https://github.com/samhocevar/wincompose))
+
 ## Hardware$
 
 General peripherals:  

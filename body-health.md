@@ -35,6 +35,11 @@ Healthcare comparison:
 Lab tests:  
 [Testing.com*](https://www.testing.com/)
 
+Healthcare crowdfunding (health insurance alternative):  
+[Christian Healthcare Ministries](https://chministries.org/),
+[CrowdHealth](https://www.joincrowdhealth.com/),
+[Medi-Share](https://www.medishare.com/)
+
 ## Medical Research
 
 Medical fraternity search engine:  

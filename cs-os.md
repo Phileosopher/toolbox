@@ -51,6 +51,11 @@ File server:
 USB hub per-port power control:  
 [uhubctl](https://github.com/mvp/uhubctl)
 
+## Specific-use operating systems
+
+IoT/integrated systems:  
+[Fuchsia🧛🆓](https://fuchsia.dev/)
+
 ## OS community
 
 News:  

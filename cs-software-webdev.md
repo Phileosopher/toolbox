@@ -1,6 +1,25 @@
 
 # Tools for web developers
 
+Piles of everything💩:  
+[awwwesome](https://github.com/sarfarazstark/awwwesome),
+[useful-links](https://github.com/kappa-wingman/useful-links)
+
+## Learning
+
+Tutorials/courses:  
+[fullstack open](https://fullstackopen.com/en/),
+[guru99](https://www.guru99.com/),
+[W3Schools](https://www.w3schools.com/),
+[web.dev](https://web.dev/)
+
+Front-end courses:  
+[Frontend mentor](https://frontendmentor.io)
+[the odin project](https://www.theodinproject.com)
+
+Games:  
+[css battle](https://cssbattle.dev/)
+
 ## Site inspection
 
 Site status:  
@@ -101,12 +120,13 @@ Emails reserved for other use:
 
 ## 3: OS
 
-Enterprise-grade Unix-like:  
+[Enterprise-grade](cs-distsys-enterprise.md) Unix-like:  
 [SUSE Linux](https://www.suse.com/),
 [Red Hat Enterprise Linux (RHEL)](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux),
-[CentOS](https://www.centos.org/),
-[AWS Linux](https://aws.amazon.com/linux/) (for AWS),
-[openSUSE](https://www.opensuse.org/)
+[openSUSE](https://www.opensuse.org/),
+[Oracle Linux](https://linux.oracle.com/),
+[Rocky Linux](https://rockylinux.org/) (from CentOS),
+[AWS Linux](https://aws.amazon.com/linux/) (for AWS)
 
 Remote boot management:  
 [DShutdown⊞](http://dimio.altervista.org/eng/#DShutdown)
@@ -166,6 +186,11 @@ Installer script:
 ## 5: Database
 
 ## 6: Code
+
+Web programming languages:  
+[PHP](cs-langs-specific-php.md),
+[Python](cs-langs-specific-python.md),
+[Imba](https://imba.io/)
 
 ### Code Generation
 

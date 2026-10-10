@@ -94,7 +94,7 @@ Its business model:
 
 Other:
 
-- 💩 it's a recursed pile of stuff, (presumably) curated by someone else
+- 💩 it's a recursed pile of stuff, (presumably) curated by someone else, or it looks badly maintained
 - ~~strikethrough~~ for bad tools, with a clear explanation
 
 These icons are volatile out-of-the-box guesstimates, for several reasons:  

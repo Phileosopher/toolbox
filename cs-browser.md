@@ -191,3 +191,8 @@ From a web browser:
 
 Tor links:  
 [The complete list of tor onion links*](https://hiddenwikitor.net/)
+
+## Browser development
+
+Modern web standards compliance:  
+[The Acid3 Test](http://acid3.acidtests.org/)

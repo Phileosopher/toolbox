@@ -22,6 +22,9 @@ Speedometer:
 
 ## Learning
 
+[awesome-math💩](https://github.com/rossant/awesome-math)
+
+Courses and guides:  
 [Math is Fun](https://www.mathsisfun.com/)
 
 Step-by-step explanations:  

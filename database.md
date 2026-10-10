@@ -1,6 +1,11 @@
 
 # Tools for databases
 
+## Learning
+
+SQL tutorials:  
+[Select Star SQL☁](https://selectstarsql.com/),
+
 ## Data Scrapers
 
 [Apify💩](https://apify.com/) ([GitHub](https://github.com/apify))

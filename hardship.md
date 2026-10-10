@@ -1,2 +1,0 @@
-
-# Tools for experiencing hardship

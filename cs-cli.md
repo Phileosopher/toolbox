@@ -10,6 +10,15 @@ Install missing commands:
 Terminal-to-SVG animations:  
 [termtosvg](https://nbedos.github.io/termtosvg/) ([GitHub](https://github.com/nbedos/termtosvg))
 
+## Learning
+
+bash:  
+[An A-Z Index of the Linux command line](https://ss64.com/bash/),
+[The Bash Guide](https://guide.bash.academy/)
+
+bash game:  
+[bashcrawl](https://gitlab.com/slackermedia/bashcrawl)
+
 ## Terminal Design
 
 Style definitions:  

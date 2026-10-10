@@ -1,5 +1,5 @@
 
-# Tools for geolocation
+# Tools for geolocation data
 
 Random geolocation generator:  
 [Comment Picker's Country☁](https://commentpicker.com/random-country-generator.php)
@@ -9,11 +9,8 @@ Random geolocation generator:
 Bluetooth enhancement via GPS:  
 [Hubble Network](https://hubblenetwork.com/)
 
-Current LEO satellites:  
-[Low Earth Orbit Visualization☁](https://platform.leolabs.space/visualization)
-
-GPS interference:  
-[GPSJam GPS/GNSS Interference Map](https://gpsjam.org)
+GPS enhancement via Wi-Fi:  
+[beaconDB](https://beacondb.net/) ([Codeberg](https://codeberg.org/beacondb/beacondb))
 
 ## Maps
 
@@ -39,7 +36,7 @@ Historical atlas:
 OSM Map editor:  
 [Rapid Editor🧛](https://rapideditor.org/) ([GitHub](https://github.com/facebook/Rapid))
 
-## GIS Data Management
+## GIS data management
 
 GIS data creation:  
 [Felt](https://felt.com/)
@@ -54,7 +51,7 @@ OSM editor:
 Map API:  
 [Google Custom Map Tools & Products🧛](https://mapsplatform.google.com/maps-products/)
 
-## Location Data
+## Location data
 
 Device location (from IP address):  
 [What is my Geolocation☁](https://webbrowsertools.com/geolocation/)
@@ -75,6 +72,9 @@ DMS to Lat/Long:
 Lat/Long to UTM:  
 [LatLong.net Lat Long to UTM Converter☁](https://www.latlong.net/lat-long-utm.html)
 
+Distance calculator:  
+[Mapping and Distance Tools](https://www.acscdg.com/)
+
 GPS visualization from GPX/TCX files:  
 [GPS Visualizer☁](https://www.gpsvisualizer.com/)
 
@@ -86,30 +86,6 @@ IP address geolocation:
 
 Forest sounds:  
 [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
-
-## Tile Data APIs
-
-[OpenMapTiles](https://openmaptiles.org/),
-[Overture Maps Schema](https://docs.overturemaps.org/),
-[Planetiler🆓](https://github.com/onthegomap/planetiler),
-[Protomaps](https://docs.protomaps.com/) ([GitHub](https://github.com/protomaps/PMTiles))
-
-Google Earth regional tiles API:  
-[Google Maps Platform Coverage Details🧛](https://developers.google.com/maps/coverage)
-
-OSM data visualization:  
-[prettymaps🐍](https://github.com/marceloprates/prettymaps) (optimized with [prettymapp](https://github.com/chrieke/prettymapp))
-
-Aerial data:  
-[DroneDB](https://docs.dronedb.app/) ([GitHub](https://github.com/DroneDB/DroneDB))
-
-## Map Data APIs
-
-[Mapbox](https://www.mapbox.com/)
-
-## GIS UI
-
-[Globe.GL](https://globe.gl/) ([GitHub](https://github.com/vasturiano/globe.gl))
 
 ## Privacy-Respecting GPS Hardware
 

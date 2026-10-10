@@ -38,3 +38,9 @@ Wallpapers:
 
 Fitbit notifications from Android device:  
 [Fit Notifications](https://f-droid.org/packages/com.abhijitvalluri.android.fitnotifications/) ([GitHub](https://github.com/abhijitvalluri/fitnotifications))
+
+## iOS🍎
+
+File explorer:  
+[FileExplorer](https://github.com/Augustyniak/FileExplorer),
+[files-ios](https://github.com/steventroughtonsmith/files-ios)

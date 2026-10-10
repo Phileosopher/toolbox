@@ -15,14 +15,17 @@ Augmented reality platforms:
 [Meta Open Source🧛](https://opensource.fb.com/),
 [Unity's AR Foundation🧛](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@1.0/manual/index.html)
 
-## Acquiring headsets
+## Acquiring headsets$
+
+Open-source VR headset🆓:  
+[SimulaVR](https://shop.simulavr.com/)
+
+Self-made VR headset🆓:  
+[Project Northstar](https://docs.projectnorthstar.org/project-north-star),
+[Relativty](https://github.com/relativty/Relativty)
 
 Liberated Oculus VR headset:  
 [Oculess](https://github.com/basti564/Oculess)
-
-Self-made VR headset$🆓:  
-[Project Northstar](https://docs.projectnorthstar.org/project-north-star),
-[Relativty](https://github.com/relativty/Relativty)
 
 ## Increasing headset usefulness
 

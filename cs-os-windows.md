@@ -29,6 +29,9 @@ IFilter plugins:
 
 ## System Updates
 
+Hotfix batch download:  
+[WHDownloader](https://whdownloader.en.lo4d.com/windows) ([GitHub](https://github.com/abbodi1406/WHD))
+
 Installation media:  
 [Windows 10🧛](https://www.microsoft.com/en-us/software-download/windows10)
 

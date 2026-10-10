@@ -21,7 +21,7 @@ Linux (on Linux):
 [User-mode Linux🐧](http://user-mode-linux.sourceforge.net/)
 
 Linux (on Windows):  
-[Cygwin⊞](https://www.cygwin.com/)
+~~[Cygwin⊞](https://www.cygwin.com/)~~ largely deprecated due to WSL
 
 Windows (on Linux):  
 [Wine🐧](https://www.winehq.org/),

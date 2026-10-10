@@ -37,6 +37,11 @@ Icon fonts:
 
 [Jotform](https://www.jotform.com/)
 
+## Fonts
+
+Text shaping (Unicode to glyph output):  
+[HarfBuzz](https://harfbuzz.github.io/) ([GitHub](https://github.com/harfbuzz/harfbuzz))
+
 ## Environment Generators☁
 
 Domiciles:  
