@@ -142,6 +142,11 @@ Jokes:
 Chuck Norris jokes:  
 [Chuck Norris Jokes Api](https://api.chucknorris.io/) ([GitHub](https://github.com/chucknorris-io))
 
+## Productivity enhancement
+
+Voice coding:  
+[Cursorless](https://www.cursorless.org/) ([GitHub](https://github.com/cursorless-dev/cursorless))
+
 ## Software development community
 
 [one4All💩](https://one4all.netlify.app/) ([GitHub](https://github.com/Surajv311/one4All))
