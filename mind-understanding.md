@@ -22,6 +22,7 @@ Book search/archive:
 [Google Books🧛](https://books.google.com/),
 [HathiTrust Digital Library](https://www.hathitrust.org/),
 [Memory of the World Library](https://library.memoryoftheworld.org/),
+[ReadAnyBook](https://www.readanybook.com/),
 [OceanofPDF](https://oceanofpdf.com/),
 [PDF Room](https://pdfroom.com/),
 [UPenn's The Online Books Page](https://onlinebooks.library.upenn.edu/),
@@ -92,7 +93,8 @@ Enhanced Wikipedia search:
 ## Formalized systems
 
 MOOCs/courses/tutorials:  
-[MOOC List](https://www.mooc-list.com/)
+[MOOC List](https://www.mooc-list.com/),
+[MIT OpenCourseWare](https://ocw.mit.edu/search/)
 
 ## Holistic understanding
 

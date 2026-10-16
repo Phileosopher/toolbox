@@ -131,6 +131,9 @@ Hex editor:
 [HxD⊞](https://mh-nexus.de/en/hxd/),
 [ImHex⊞⌘🐧](https://imhex.werwolv.net/) ([GitHub](https://github.com/WerWolv/ImHex))
 
+Kid-friendly:  
+[Pickcode$](https://pickcode.io/)
+
 ## IDE Themes⇉💩
 
 Theme engine:  

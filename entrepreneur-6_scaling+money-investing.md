@@ -33,6 +33,7 @@ Entrepreneurship:
 [StartEngine☁](https://www.startengine.com/)
 
 Entrepreneurship - tech:  
+[F6S](https://www.f6s.com/),
 [Open Collective](https://opencollective.com/)
 
 Christian/NPO:  

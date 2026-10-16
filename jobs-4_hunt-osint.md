@@ -4,3 +4,7 @@
 [Better Business Bureau](https://www.bbb.org/),
 [Glassdoor](https://www.glassdoor.com/Community/index.htm),
 [Indeed Company Reviews](https://www.indeed.com/companies)
+
+Tech companies:  
+[Built In](https://builtin.com/),
+[Employbl](https://www.employbl.com/)

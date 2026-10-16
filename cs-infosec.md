@@ -40,3 +40,6 @@ News - hacks and exploits:
 
 Communities and industry alliances:  
 [CyberRisk Alliance](https://www.cyberriskalliance.com/)
+
+Blogs:  
+[Cybrary Blog](https://www.cybrary.it/blog)

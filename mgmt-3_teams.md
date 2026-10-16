@@ -1,8 +1,6 @@
 
 # Tools for managing teams
 
-## Employee Search
-
 ATS:  
 [CareerBuilder for Employers](https://hiring.careerbuilder.com/)
 [Indeed Resume](https://resumes.indeed.com/),
@@ -10,16 +8,34 @@ ATS:
 [MightyRecruiter](https://www.mightyrecruiter.com/),
 [Rolepad for Hiring](https://rolepad.com/hiring)
 
-Developer search:  
-[GitHunt](https://githunt.dev/)
+## Role research
 
 Employee salary data:  
 [The Work Number](https://theworknumber.com/) (with [one for employees and consumers](https://employees.theworknumber.com/))
 
+## Job postings
+
+Multi-site job posting:  
+[Betterstream](https://www.betterteam.com/)
+
+## Employee Search
+
+Talent agencies - STEM:  
+[10x](https://10xmanagement.com/),
+[Gun.io](https://gun.io/)
+
+Developer search:  
+[GitHunt](https://githunt.dev/)
+
+## Responding
+
 Resumé text parsing:  
 [ResumeParser](https://github.com/gogsbread/ResumeParser)
 
-## UNSORTED - JOB POSTING TOOLS
+## Employee OSINT
 
-[Betterstream](https://www.betterteam.com/)
-Post jobs for free with one click to 100+ job sites including Indeed, Glassdoor, and ZipRecruiter. Start a free trial today.
+Profile search:  
+[RecruitEm](https://recruitin.net/)
+
+Career tracker:  
+[Woo](https://tech.woo.io/)

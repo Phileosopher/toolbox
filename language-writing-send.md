@@ -149,6 +149,13 @@ Emergency response quick-connect:
 Sending an SMS via email:  
 [Email to SMS](https://email2sms.info/)
 
+Book publishing:  
+[Draft2Digital](https://draft2digital.com/),
+[IngramSpark](https://www.ingramspark.com/),
+[Kobo Writing Life](https://www.kobo.com/us/en/p/writinglife),
+[Lulu](https://www.lulu.com/),
+[Smashwords](https://www.smashwords.com/)
+
 ## Specific Message Needs - Email
 
 Email masks🕵️:  

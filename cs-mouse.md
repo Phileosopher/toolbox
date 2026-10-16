@@ -4,6 +4,9 @@
 Control mouse through the keyboard:  
 [NeatMouse⊞■🆓](https://neatdecisions.com/products/neatmouse/)
 
+Button remapping:  
+[X-Mouse Button Control⊞](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm)
+
 Hand tracker:  
 [yoha](https://github.com/handtracking-io/yoha)
 
@@ -18,8 +21,23 @@ Jiggler (keep screensaver/sleep from activating):
 [Don't Sleep⊞](https://www.softwareok.com/?seite=Microsoft/DontSleep),
 [ScreenSaver Mouse Jiggler (needs an Arduino)](https://github.com/nshadov/screensaver-mouse-jiggler)
 
+Mouse gestures:  
+[Input.Observer⊞](https://input.observer/),
+[mouse-actions](https://github.com/jersou/mouse-actions),
+[StrokeIt⊞](https://tcbmi.com/strokeit/)
+
 Mouth-based trackpad:  
 [Augmental MouthPad$](https://www.augmental.tech/)
+
+## Hardware$
+
+High-end:  
+[Swiftpoint](https://www.swiftpoint.com/)
+
+## Development
+
+DBus daemon:  
+[libratbag](https://github.com/libratbag/libratbag) (frontend with [piper](https://github.com/libratbag/piper))
 
 ## Community
 
