@@ -47,7 +47,8 @@ From Office files:
 [Office.Files.Images⊞](https://www.softwareok.com/?seite=Freeware/Office.Files.Images)
 
 Thumbnail generator:  
-[thumbnail.ws🔌](https://thumbnail.ws/)
+[thumbnail.ws🔌](https://thumbnail.ws/),
+[CurlShot☁🔌⬆️](https://curlshot.com/)
 
 Text output to image:  
 [WebBrowserTools' Text to Image☁](https://webbrowsertools.com/text-to-image/)
