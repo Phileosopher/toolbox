@@ -5,18 +5,12 @@ View line-by-line changes:
 [git-blame](https://www.git-scm.com/docs/git-blame),
 [GitLens(VS Code)](https://gitlens.amod.io/) ([GitHub](https://github.com/gitkraken/vscode-gitlens))
 
-## Version Control Systems
+## Version control systems
 
 [Bitbucket⊞🐧](https://bitbucket.org/),
 [Git⊞■⌘🐧](https://git-scm.com/)
 
-Social network:  
-[GitHub☁](https://github.com/)
-
-GitHub front-end:  
-[GotHub](https://gh.akisblack.dev/)
-
-## File Diff and Merge
+## File diff and merge
 
 [Perforce's P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge)
 
@@ -40,6 +34,17 @@ Multiple users/emails:
 Large file storage:  
 [Git Large File Storage](https://git-lfs.github.com/) ([GitHub](https://github.com/git-lfs/git-lfs))
 
-## GitHub Repo Datasets
+## Software platform
 
+[GitLab](https://gitlab.com/),
+[SourceForge](https://sourceforge.net/)
+
+### Software platform - GitHub
+
+[GitHub☁](https://github.com/)
+
+GitHub front-end:  
+[GotHub](https://gh.akisblack.dev/)
+
+GitHub repo datasets:  
 [gh-repos](https://github.com/a2u/gh-repos)

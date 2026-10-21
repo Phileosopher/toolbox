@@ -45,6 +45,25 @@ Housing:
 [LOUQE](https://www.louqe.com/),
 [teenage engineering](https://teenage.engineering/)
 
+## Hardware monitoring
+
+ASCII system information:  
+[fastfetch](https://github.com/fastfetch-cli/fastfetch),
+[macchina](https://github.com/Macchina-CLI/macchina),
+[NerdFetch](https://github.com/ThatOneCalculator/NerdFetch),
+[screenFetch](https://github.com/KittyKatt/screenFetch),
+[winfetch](https://github.com/lptstr/winfetch)
+
+System tray hardware information:  
+[phwmon](https://gitlab.com/o9000/phwmon)
+
 ## Hardware community
 
+News outlets:  
+[Phoronix](https://www.phoronix.com/)
+
+Social media:  
 [Hackster.io](https://www.hackster.io/)
+
+Crowd-sourced hardware:  
+[Crowd Supply](https://www.crowdsupply.com/)

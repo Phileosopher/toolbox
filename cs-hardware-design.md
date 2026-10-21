@@ -1,12 +1,18 @@
 
-# Tools for engineering for computer design
+# Tools for designing computer hardware
+
+Power electronic tools:  
+[awesome-open-source-power-electronics💩](https://github.com/upb-lea/awesome-open-source-power-electronics)
+
+PCB automation:  
+[LibrePCB](https://librepcb.org/)
 
 ## Mobile Networks
 
 4G cellular network design:  
 [LibreCellular](https://librecellular.org/)
 
-## Design - TCAD
+## TCAD
 
 [Chips4Makers](https://chips4makers.io/)
 [Cirkit Designer☁⊞⌘🐧](https://www.cirkitdesigner.com/index.html),
@@ -53,7 +59,7 @@ EDA tools:
 
 [Device Fundamentals Tests - Windows drivers⊞🧛](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/device-fundamentals-tests)
 
-## Hardware Development Community
+## Hardware development community
 
 [Hackaday.io](https://hackaday.io/)
 

@@ -32,6 +32,9 @@ Healthcare comparison:
 [Health Sherpa☁](https://www.healthsherpa.com/),
 [Healthcare Compare☁](https://healthcarecomps.com/)
 
+High-end hearing aids:  
+[Jabra Enhance](https://www.jabraenhance.com/)
+
 Lab tests:  
 [Testing.com*](https://www.testing.com/)
 

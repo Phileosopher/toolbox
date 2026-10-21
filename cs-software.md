@@ -4,14 +4,18 @@
 Piles of everything💩:  
 [andou tech-resources](https://andou.github.io/tech-resources/),
 [awesome](https://github.com/sindresorhus/awesome) (with [Awesome Search](https://awesomelists.top/)),
+[awesome-awesome](https://github.com/emijrp/awesome-awesome),
+[awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome),
 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness),
 [awesome](https://github.com/cn-80/awesome),
+[awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers),
 [Awesome-Learning-Resources](https://github.com/GDGAhmedabad/Awesome-Learning-Resources),
 [Awesome-List](https://github.com/ryparker/Awesome-List),
 [awesome-programming](https://github.com/hardikvasa/awesome-programming),
 [awesome-programmer](https://github.com/dhilipsiva/awesome-programmer),
 [awesome_roadmaps](https://github.com/mkassm/awesome_roadmaps),
 [Awesome Resources](https://shahednasser.github.io/awesome-resources/),
+[Awesome Viewer](https://awesome.digitalbunker.dev/),
 [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html),
 [best-of-generator□](https://github.com/best-of-lists/best-of-generator), [best-of-lists](https://github.com/best-of-lists/best-of),
 [curated-programming-resources](https://github.com/Michael0x2a/curated-programming-resources),
@@ -38,14 +42,16 @@ Piles of everything💩:
 [UsefulStuff](https://byteshaman.github.io/useful-stuff/) ([GitHub](https://github.com/byteshaman/useful-stuff)),
 [uva-tips-cheatsheets-collection](https://github.com/Uvacoder/uva-tips-cheatsheets-collection)
 
-Zero-config tools:  
-[awesome-toolkits](https://github.com/reyronald/awesome-toolkits)
-
 Web-based tools☁:  
-[DevToolEasy☁](https://devtooleasy.com/)
+[DevPal](https://devpal.co/),
+[DevToolEasy☁](https://devtooleasy.com/),
+[DevToolCafe](https://devtoolcafe.com/),
+[IT Tools](https://it-tools.tech/)
 
-Library/framework search:  
-[Libraries.io🆓](https://libraries.io/) ([GitHub](https://github.com/librariesio/libraries.io))
+## Planning💩
+
+Checklists:  
+[Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist)
 
 Free stuff:  
 [Free Developer Stuff](https://freestuff.dev/) ([GitHub](https://github.com/hilmanski/freeStuffDev/)),
@@ -53,6 +59,15 @@ Free stuff:
 [free-for-dev](https://github.com/jixserver/free-for-dev),
 [Free for developers](https://free-for.dev/) ([GitHub](https://github.com/ripienaar/free-for-dev)),
 [stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)
+
+Library/framework search:  
+[Libraries.io🆓](https://libraries.io/) ([GitHub](https://github.com/librariesio/libraries.io))
+
+Typical SaaS by other developers:  
+[ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)
+
+Zero-config tools:  
+[awesome-toolkits](https://github.com/reyronald/awesome-toolkits)
 
 ## Learning
 
@@ -81,6 +96,10 @@ Courses/Tutorials:
 [How to be a Programmer](https://braydie.gitbooks.io/how-to-be-a-programmer/) ([GitHub](https://github.com/braydie/HowToBeAProgrammer)),
 [open-source-cs](https://github.com/ForrestKnight/open-source-cs),
 [TutorialsPoint](https://www.tutorialspoint.com)
+
+Text file tutorials💩:  
+[awesome-gists](https://github.com/vsouza/awesome-gists),
+[awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists)
 
 Games:  
 [awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding)
@@ -147,6 +166,20 @@ Chuck Norris jokes:
 Voice coding:  
 [Cursorless](https://www.cursorless.org/) ([GitHub](https://github.com/cursorless-dev/cursorless))
 
+Unnecessary additions:  
+[You-Dont-Need](https://github.com/you-dont-need/You-Dont-Need)
+
+Automatic code completion:  
+[Tabnine](https://www.tabnine.com/)
+
+### Productivity enhancement: OS improvements
+
+Window manager:  
+[awesomewm](https://awesomewm.org/),
+[i3](https://i3wm.org/),
+[Openbox](https://openbox.org/),
+[xmonad](https://xmonad.org/)
+
 ## Software development community
 
 [one4All💩](https://one4all.netlify.app/) ([GitHub](https://github.com/Surajv311/one4All))
@@ -188,6 +221,9 @@ Social media and forums:
 [Stack Overflow Chat](https://chat.stackoverflow.com/),
 [The Devs Network](https://thedevs.network/)
 
-Social media and forums - dev advice:  
+Social media and forums: dev advice:  
 [Stack Overflow☁](https://stackoverflow.com/),
 [TopAnswers](https://topanswers.xyz/)
+
+Social media and forums: new products:  
+[Product Hunt](https://www.producthunt.com/)

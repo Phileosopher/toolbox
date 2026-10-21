@@ -81,6 +81,9 @@ Device use:
 AT alternative:  
 [AtNow■□](https://www.nirsoft.net/utils/atnow.html)
 
+Excessive uptime clocking:  
+[UptimeFaker](https://github.com/CookiePLMonster/UptimeFaker)
+
 ## Registry Issues
 
 UserAssist registry entries:  

@@ -76,3 +76,8 @@ Lightnovels:
 
 Social media:  
 [Inventaire☁](https://inventaire.io/)
+
+## Text analysis
+
+Curated piles💩:  
+[TAPoR](https://tapor.ca/home)

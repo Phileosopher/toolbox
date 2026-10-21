@@ -1,5 +1,5 @@
 
-# Tools for enjoying games
+# Tools for enjoying computer games
 
 ## Planning
 

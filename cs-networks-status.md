@@ -21,7 +21,7 @@ Network settings - Apple:
 
 [FCC National Broadband Map](https://broadbandmap.fcc.gov/)
 
-## L1 Physical - Hardware
+### L1 Physical: hardware
 
 IP camera$:  
 [Axis Network Cameras](https://www.axis.com/products/network-cameras),
@@ -30,36 +30,17 @@ IP camera$:
 Netgear unbricking:  
 [nmrpflash](https://github.com/jclehner/nmrpflash)
 
-## L1 Physical - Mobile
+### L1 Physical: mobile adapters and WLAN
+
+Mobile bandwidth reference*:  
+[FCC's Online Table of Frequency Allocations](https://transition.fcc.gov/oet/spectrum/table/fcctable.pdf),
+[NTIA's United States Frequency Allocation Chart](https://www.ntia.doc.gov/page/2011/united-states-frequency-allocation-chart)
 
 WLAN adapter - tracking:  
 [AdapterWatch⊞■](https://www.nirsoft.net/utils/awatch.html)
 
 WLAN adapter - history:  
 [WifiHistoryView⊞■](https://www.nirsoft.net/utils/wifi_history_view.html)
-
-Mobile bandwidth reference*:  
-[FCC's Online Table of Frequency Allocations](https://transition.fcc.gov/oet/spectrum/table/fcctable.pdf),
-[NTIA's United States Frequency Allocation Chart](https://www.ntia.doc.gov/page/2011/united-states-frequency-allocation-chart)
-
-Datacenter/infrastructure - map:  
-[Infrapedia](https://www.infrapedia.com/)
-
-Mobile networks - monitoring:  
-[MobileAtlas](https://mobileatlas.eu/)
-
-Mobile networks - MNO location:  
-[CellMapper](https://www.cellmapper.net/Index),
-[API mylnikov.org🔌](https://www.mylnikov.org/),
-[nPerf 3G/4G/5G coverage in United States](https://www.nperf.com/en/map/),
-[Unwired Labs' OpenCelliD](https://opencellid.org/),
-[OpenSignal🍎🤖](https://www.opensignal.com/apps),
-[SCADACore's Cell Tower Map - Canada](https://www.scadacore.com/tools/rf-path/cell-tower-map-canada/),
-[SCADACore's Cell Tower Map - United States](https://www.scadacore.com/tools/rf-path/cell-tower-map-united-states/),
-[Spectrum Omega - US](https://specmap.sequence-omega.net/)
-
-Mobile networks - MVNO parent networks:
-[MVNO List](https://bestmvno.com/mvnos/)
 
 WLAN - map:  
 [geowifi□](https://github.com/GONZOsint/geowifi),
@@ -91,9 +72,32 @@ VHF/UHF TV signals:
 Wireless radio API:  
 [GNU Radio🆓](https://wiki.gnuradio.org/)
 
-USB NIC
+### L1 Physical: mobile telecom providers
 
-## L1 Physical - Cabled
+Datacenter/infrastructure atlas:  
+[Infrapedia](https://www.infrapedia.com/)
+
+Mobile network monitoring:  
+[MobileAtlas](https://mobileatlas.eu/)
+
+MNO location:  
+[CellMapper](https://www.cellmapper.net/Index),
+[API mylnikov.org🔌](https://www.mylnikov.org/),
+[nPerf 3G/4G/5G coverage in United States](https://www.nperf.com/en/map/),
+[Unwired Labs' OpenCelliD](https://opencellid.org/),
+[OpenSignal🍎🤖](https://www.opensignal.com/apps),
+[SCADACore's Cell Tower Map - Canada](https://www.scadacore.com/tools/rf-path/cell-tower-map-canada/),
+[SCADACore's Cell Tower Map - United States](https://www.scadacore.com/tools/rf-path/cell-tower-map-united-states/),
+[Spectrum Omega - US](https://specmap.sequence-omega.net/)
+
+MVNO parent networks:
+[MVNO List](https://bestmvno.com/mvnos/)
+
+Affordable, decent-coverage MVNO$:  
+[Mint Mobile](https://www.mintmobile.com/),
+[US Mobile](https://www.usmobile.com/)
+
+### L1 Physical: cabled
 
 Cabled Providers:  
 [BroadbandNow.com☁](https://broadbandnow.com/)
@@ -115,7 +119,7 @@ PoE cable
 
 Electrician's scissors, cable bits, wire crimper
 
-## L1 Physical - Running/Recabling Tools
+### L1 Physical: running/recabling tools
 
 Cable strippers, crimpers, and electrician's scissors
 
@@ -131,7 +135,7 @@ Fishing rods
 
 Drywall saw
 
-## L2 Data Link
+## L2 Data link
 
 Packet Analysis:  
 [TCPDUMP/LIBPCAP🐧](https://www.tcpdump.org/) ([GitHub](https://github.com/the-tcpdump-group/)),
@@ -224,7 +228,7 @@ Phone lookup:
 Phone number country codes:  
 [CountryCode.org☁](https://www.countrycode.org/)
 
-## L3 Network - Probes
+### L3 Network: probes
 
 IP address scanner:  
 [Advanced IP Scanner⊞](https://www.advanced-ip-scanner.com/),
@@ -250,7 +254,7 @@ IP lookup/info:
 IP lookup/info - offline:  
 [IPInfoOffline⊞■](https://www.nirsoft.net/utils/ip_country_info_offline.html)
 
-## L3 Network - Monitoring
+### L3 Network: monitoring
 
 Traffic monitoring:  
 [Sniffnet](https://www.sniffnet.net/)

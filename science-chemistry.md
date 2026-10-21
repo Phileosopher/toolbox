@@ -4,8 +4,11 @@
 Chemical information:  
 [NIH PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 
-Atomic physics simulations:  
+Physics simulations - atomic:  
 [CP2K](https://www.cp2k.org/) ([GitHub](https://github.com/cp2k/cp2k/))
+
+Physics simulations - snowflake growth:  
+[Snowflake Grower: Grow Snow Crystals with Reiter's Automaton](https://evoluteur.github.io/snowflake-grower/) ([GitHub](https://github.com/evoluteur/snowflake-grower))
 
 Molecular modeling:  
 [Ascalaph](http://www.biomolecular-modeling.com/Ascalaph/) ([SourceForge](https://sourceforge.net/projects/asc-designer/)),

@@ -70,6 +70,7 @@ Inputs across multiple computers:
 
 Service synchronization:  
 [IFTTT☁](https://ifttt.com),
+[StackStorm](https://stackstorm.com/),
 [Zapier☁](https://zapier.com/)
 
 Service synchronization - enterprise:  

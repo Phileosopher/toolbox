@@ -10,10 +10,12 @@ Alternative software:
 [AlternativeTo](https://alternativeto.net/),
 [Appmus](https://appmus.com/),
 [Capterra](https://www.capterra.com/),
+[Clone Wars💩](https://gourav.io/clone-wars) ([GitHub](https://github.com/GorvGoyl/Clone-Wars)),
 [ListAlternative](https://www.listalternative.com/),
 [SaaSHub](https://www.saashub.com/),
 [Slant](https://www.slant.co/),
-[TopAlter.com](https://topalter.com/)
+[TopAlter.com](https://topalter.com/),
+[Versus](https://versusutil.com/)
 
 Abandonware:  
 [Internet Archive's TOSEC](https://archive.org/details/tosec),

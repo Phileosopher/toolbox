@@ -37,7 +37,8 @@ Less sensationalized news:
 [Boring Report🍎](https://www.boringreport.org/)
 
 News aggregator:  
-[AllSides](https://www.allsides.com/unbiased-balanced-news)
+[AllSides](https://www.allsides.com/unbiased-balanced-news),
+[LinkLonk](https://linklonk.com/)
 
 Media outlet bias:  
 [AllSides Media Bias](https://www.allsides.com/media-bias)

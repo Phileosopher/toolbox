@@ -1,5 +1,5 @@
 
-# Tools for acquiring lots of religion/philosophy-based information
+# Tools for religious studies
 
 [isidore](https://isidore.co/)💩
 

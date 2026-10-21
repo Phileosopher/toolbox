@@ -8,6 +8,7 @@
 [PDF Tool](https://www.pdftool.org/)
 
 Editor:  
+[Firefox (built-in)](https://www.firefox.com/en-US/features/pdf-editor/),
 [PDFescape☁](https://www.pdfescape.com/windows/),
 [PDF-XChange Editor⊞■](https://pdf-xchange.eu/pdf-xchange-editor/index.htm),
 [PDFTK Builder⊞■🆓](http://www.angusj.com/pdftkb/),
@@ -98,6 +99,10 @@ Comics to EPUB/MOBI/CBZ:
 Markdown text processing:  
 [remarkjs□](https://remark.js.org/) [GitHub](https://github.com/remarkjs/remark),
 [turndown](https://github.com/mixmark-io/turndown)
+
+## Speech to text
+
+[Handy](https://handy.computer/) ([GitHub](https://github.com/cjpais/Handy))
 
 ## Text Adaptation
 

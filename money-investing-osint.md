@@ -1,5 +1,5 @@
 
-# Tools for OSINT regarding investing
+# OSINT tools for investing
 
 [Crunchbase](https://www.crunchbase.com/)
 

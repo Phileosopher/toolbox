@@ -4,6 +4,9 @@
 Land for sale:  
 [LandWatch☁](https://www.landwatch.com/)
 
+Land for sale - bordering public land:  
+[Unfenced](https://unfenced.land/)
+
 Goat rental:  
 [Hire Goats☁](https://hiregoats.com/)
 

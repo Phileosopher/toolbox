@@ -1,6 +1,9 @@
 
 # Tools for mobile device operating systems
 
+Mobile app search:  
+[AppRecs](https://apprecs.com/)
+
 ## Kindle/Kobo
 
 [KindleTool□](https://github.com/NiLuJe/KindleTool),
@@ -30,6 +33,9 @@ Remove ad software:
 Email:  
 [FairEmail](https://email.faircode.eu/),
 [K-9 Mail](https://k9mail.app/) ([GitHub](https://github.com/k9mail/k9mail.app))
+
+Video streaming across mobile devices:  
+[Remote Video Camera](https://f-droid.org/packages/org.avmedia.remotevideocam/) ([GitHub](https://github.com/izivkov/RemoteVideoCam))
 
 Wallpapers:  
 [GalleryWall](https://github.com/bossly/gallerywall),

@@ -1,23 +1,30 @@
 
 # Graphical tools for CSS and front-end development
 
-[Specificity Calculator](https://specificity.keegan.st/)
+Curated piles💩:  
+[AngryTools.com](https://angrytools.com/),
+[Web Toolbox](https://thewebtoolbox.cc/) ([GitHub](https://github.com/ToshNeox/webtoolbox))
 
 ## Foraging/Inspiration
 
 [CSSMania*🔌](https://www.cssmania.com/),
 [CSS-Tricks*](https://css-tricks.com/)
 
+## CSS code
+
 CSS/HTML themes/templates:  
 [CSS Portal](https://www.cssportal.com/),
 [Free CSS*](https://www.free-css.com/),
 [HTML5 UP!](https://html5up.net/),
 
-## General Visual Effects
+CSS specificity calculator:  
+[Specificity Calculator](https://specificity.keegan.st/)
+
+## General visual effects
 
 [Toptal's CSS3Maker☁](https://www.toptal.com/developers/css3maker)
 
-## Framework-free Non-CSS-Reset UI Libraries
+## Framework-free Non-CSS-Reset UI libraries
 
 [Blaze UI](https://www.blazeui.com/),
 [modern-normalize](https://github.com/sindresorhus/modern-normalize),
@@ -25,7 +32,7 @@ CSS/HTML themes/templates:
 [Reseter.css](https://github.com/resetercss/reseter.css),
 [Shoelace](https://shoelace.style/)
 
-## CSS Frameworks
+## CSS frameworks
 
 Blocks:  
 [blocks.css](https://thesephist.github.io/blocks.css/),
@@ -43,7 +50,7 @@ Classless:
 [CSS Bed](https://www.cssbed.com/),
 [Simple.css](https://simplecss.org/) ([GitHub](https://github.com/kevquirk/simple.css))
 
-## Specific Elements
+## Specific elements
 
 [Bootstrap 4 Cheat Sheet*](https://hackerthemes.com/bootstrap-cheatsheet/),
 [codrops' CSS Reference*](https://tympanus.net/codrops/css_reference/)
@@ -64,7 +71,7 @@ Clip path:
 Cubic bezier:  
 [10015's Cubic Bezier Generator☁](https://10015.io/tools/css-cubic-bezier-generator)
 
-## Responsive Design
+## Responsive design
 
 Centering:  
 [How to Center in CSS*](http://howtocenterincss.com/)
@@ -97,7 +104,7 @@ Gradients with hover effects:
 Photo filters:  
 [CSSGram](https://una.github.io/CSSgram/)
 
-## Supporting Elements - Animations
+## Supporting elements: animations
 
 [Animate.css*](https://animate.style/) ([GitHub](https://github.com/animate-css/animate.css))
 
@@ -116,7 +123,7 @@ On-demand library:
 SVG animations:  
 [Vivus Instant☁](https://maxwellito.github.io/vivus-instant/) ([GitHub](https://github.com/maxwellito/vivus-instant))
 
-## Supporting Elements - Decorations
+## Supporting elements: decorations
 
 Border radius:  
 [10015's CSS Border Radius Generator☁](https://10015.io/tools/css-border-radius-generator) (with [8 point full control](https://9elements.github.io/fancy-border-radius/full-control.html)) ([GitHub](https://github.com/9elements/fancy-border-radius)),
@@ -139,7 +146,7 @@ Shadows:
 Text effects:  
 [Leon Arnott's Site](https://leonarnott.neocities.org/)
 
-## Supporting Elements - Background Patterns
+## Supporting elements: background patterns
 
 Geometric patterns:  
 [10015's CSS Background Pattern Generator☁](https://10015.io/tools/css-background-pattern-generator),
@@ -156,7 +163,7 @@ Live backgrounds:
 Triangle patterns:  
 [Trianglify.io☁](https://trianglify.io/) (with [🔌Trianglify JS library](https://qrohlf.com/trianglify/))
 
-## Frameworks/Engines
+## Frameworks/engines
 
 Utility-first:  
 [Tailwind CSS](https://tailwindcss.com/)
@@ -164,7 +171,7 @@ Utility-first:
 Data visualizations:  
 [Charts.css](https://chartscss.org)
 
-## Theme Management
+## Theme management
 
 [Bootstrap](https://getbootstrap.com/)
 
@@ -180,7 +187,7 @@ CSS reset:
 CSS reset (without classes):  
 [marx](https://github.com/mblode/marx)
 
-## Frameworks/Engines - Foraging/Inspiration
+## Frameworks/engines: foraging/inspiration
 
 Bootstrap themes/templates:  
 [Bootswatch](https://bootswatch.com/),
@@ -192,7 +199,7 @@ Tailwind components:
 [Tailwind UI](https://tailwindui.com/)
 [Tailwind UI Kit](https://www.tailwind-kit.com/)
 
-## Testing/Debugging
+## Testing/debugging
 
 A11y issues:  
 [a11y.css⇉](https://ffoodd.github.io/a11y.css/) ([GitHub](https://github.com/ffoodd/a11y.css)),

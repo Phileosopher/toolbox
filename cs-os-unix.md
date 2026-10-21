@@ -175,5 +175,17 @@ Desktop shortcuts:
 
 ## Linux community
 
+News outlets:  
+[9to5Linux](https://9to5linux.com/),
+[Linux Journal](https://www.linuxjournal.com/),
+[LXer](https://lxer.com/),
+[Tux Machines](https://news.tuxmachines.org/)
+
+News aggregator:  
+[TuxURLs](https://tuxurls.com/)
+
 Events:  
 [Red Hat Events](https://www.redhat.com/en/events)
+
+Distro discussion forums:  
+[DistroWatch.com](https://distrowatch.com/)
