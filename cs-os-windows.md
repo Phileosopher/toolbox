@@ -1,9 +1,6 @@
 
 # Tools for Microsoft Windows⊞
 
-CMD alternative:  
-[NirCmd■□](https://www.nirsoft.net/utils/nircmd.html)
-
 Package manager:  
 [winget🧛](https://docs.microsoft.com/en-us/windows/package-manager/winget/)
 
@@ -18,6 +15,11 @@ Activation codes:
 Process monitoring:  
 [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer),
 [System Informer](https://systeminformer.io/)
+
+Boot disk creation:  
+[Hiren's BootCD PE](https://www.hirensbootcd.org/),
+[MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat),
+[UUP Media Creator - Free download and install on Windows | Microsoft Store](https://apps.microsoft.com/detail/9n1z0jxb224x)
 
 ## Windows Search
 

@@ -7,7 +7,7 @@ Electronics parts:
 Electronics parts - development boards:  
 [HackerBoards☁](https://hackerboards.com/)
 
-## General-Purpose Computers
+## General-purpose computers
 
 Mini PCs:  
 [Low Cost Mini PCs☁](https://lowcostminipcs.com/),
@@ -27,7 +27,7 @@ PC builds - 3DMark score:
 Handheld e-paper computer:  
 [Beepy](https://beepy.sqfmi.com/)
 
-## Individual Parts
+## Individual parts
 
 PC parts:  
 [ByteBucket☁](https://www.bytebucket.co),
@@ -47,15 +47,21 @@ Housing:
 
 ## Hardware monitoring
 
-ASCII system information:  
+System information:  
+[CPU Info🤖](https://f-droid.org/packages/com.kgurgul.cpuinfo/) ([GitHub](https://github.com/kamgurgul/cpu-info))
+
+System information - ASCII:  
 [fastfetch](https://github.com/fastfetch-cli/fastfetch),
 [macchina](https://github.com/Macchina-CLI/macchina),
 [NerdFetch](https://github.com/ThatOneCalculator/NerdFetch),
 [screenFetch](https://github.com/KittyKatt/screenFetch),
 [winfetch](https://github.com/lptstr/winfetch)
 
-System tray hardware information:  
+Hardware information - system tray:  
 [phwmon](https://gitlab.com/o9000/phwmon)
+
+Sensor data:  
+[Sensorkraken🤖](https://f-droid.org/packages/org.sensorkraken/) ([GitLab](https://gitlab.com/sensorkraken/android-app))
 
 ## Hardware community
 

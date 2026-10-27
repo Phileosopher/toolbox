@@ -241,6 +241,9 @@ Wikis:
 Mobile AppURLs:  
 [app-urls](https://github.com/bhagyas/app-urls)
 
+Search engine:  
+[Typesense🆓](https://typesense.org/)
+
 ### Code Testing
 
 JS tester:  

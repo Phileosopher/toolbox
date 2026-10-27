@@ -188,6 +188,7 @@ Remote work:
 [Authentic Jobs](https://authenticjobs.com/),
 [Etsy](https://www.etsy.com/),
 [Flexiple](https://flexiple.com/),
+[Makerbay](https://shopmakerbay.com/),
 [WorkWithUs](https://workwithus.work/)
 
 Graphic designers:  

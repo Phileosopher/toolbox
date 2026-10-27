@@ -73,3 +73,6 @@ News:
 
 Discussion groups:  
 [freshcode.club](https://freshcode.club/)
+
+Conventions:  
+[FOSDEM](https://fosdem.org/)

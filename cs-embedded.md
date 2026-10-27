@@ -1,18 +1,20 @@
 
 # Tools for embedded systems
 
+BBC micro:bit:  
+[awesome-microbit](https://github.com/carlosperate/awesome-microbit)
+
 ## Microcontrollers/Minicomputers$
 
-[ODROID](https://www.hardkernel.com/)
-
-Raspberry Pi:  
-[RPi Hub*](https://elinux.org/RPi_Hub)
-
-Raspberry Pi - verified peripherals:  
-[RPi Verified Peripherals*](https://elinux.org/RPi_VerifiedPeripherals)
-
-Other PCB:  
+Hardware vendors:  
+[Arduino](https://www.arduino.cc/),
+[Micro:bit](https://microbit.org/),
+[ODROID](https://www.hardkernel.com/),
+[Raspberry Pi](https://www.raspberrypi.com/),
 [smoothieboard](https://smoothieware.org/smoothieboard)
+
+Raspberry Pi verified peripherals:  
+[RPi Verified Peripherals*](https://elinux.org/RPi_VerifiedPeripherals)
 
 ## Firmware
 
@@ -20,9 +22,6 @@ Camera firmware:
 [OpenIPC](https://github.com/OpenIPC)
 
 ## CNC
-
-Arduino - flashing code:  
-[xLoader](https://github.com/xinabox/xLoader)
 
 G-code sending:  
 [cncjs](https://cnc.js.org/) ([GitHub](https://github.com/cncjs/cncjs/)),
@@ -32,6 +31,9 @@ G-code parsing:
 [grbl (for Arduino flashing)](https://github.com/grbl/grbl),
 [TinyG](https://github.com/synthetos/TinyG/wiki)
 
+Arduino - flashing code:  
+[xLoader](https://github.com/xinabox/xLoader)
+
 ## Software development
 
 Python implementation🐍:  
@@ -39,3 +41,8 @@ Python implementation🐍:
 
 Wi-Fi interfaces:  
 [MicroWifi](https://github.com/jczic/MicroWifi)
+
+## Embedded community
+
+Raspberry Pi:  
+[RPi Hub*](https://elinux.org/RPi_Hub)

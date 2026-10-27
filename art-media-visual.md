@@ -85,3 +85,24 @@ Content creator graphics:
 
 Sprites:  
 [256 Arts' Sprite Catalog](https://www.256arts.com/spritecatalog/) ([GitHub](https://github.com/256Arts/Sprite-Catalog))
+
+## Pose references
+
+[Line of Action](https://line-of-action.com/)
+
+Pose app:  
+[DesignDoll$](https://terawell.net/en/index.php),
+[JustSketchMe](https://justsketch.me/),
+[Magic Poser](https://magicposer.com/)
+
+Human pose photos:  
+[AdorkaStock](https://www.adorkastock.com/),
+[Characterdesigns.com](https://www.characterdesigns.com/),
+[PoseSpace](https://posespace.com/)
+
+Animals:  
+[Animal Photo Art References Search](https://x6ud.github.io/#/) ([GitHub](https://github.com/x6ud/search-photos-by-model-tool)),
+[Warren Photographic](https://www.warrenphotographic.co.uk/index.php)
+
+Hairstyles:  
+[Hairstyles](https://www.hairfinder.com/)

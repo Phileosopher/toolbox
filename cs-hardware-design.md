@@ -55,6 +55,11 @@ EDA tools:
 [Libre Silicon](https://libresilicon.com/),
 [LibreSilicon's Standard Cell Library](https://github.com/chipforge/StdCellLib)
 
+### Very specific parts
+
+Z80 schematics:  
+[z80-open-silicon](https://github.com/rejunity/z80-open-silicon)
+
 ## Testing
 
 [Device Fundamentals Tests - Windows drivers⊞🧛](https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/device-fundamentals-tests)

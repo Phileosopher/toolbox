@@ -4,6 +4,11 @@
 Freight cost calculation:  
 [Freight Metrics](https://freightmetrics.com.au/)
 
+Package shipping:  
+[Pirate Ship](https://www.pirateship.com/),
+[Stamps.com](https://www.stamps.com/),
+[USPS Click-N-Ship](https://www.usps.com/ship/online-shipping.htm)
+
 Package tracking:  
 [17TRACK](https://www.17track.net/en),
 [Boxoh](http://www.boxoh.com/),

@@ -12,20 +12,29 @@ Samsung mobile devices:
 Game consoles:  
 [APK-Retro's BIOS](https://apkretro.com/bios/)
 
-## Flashing
+BIOS password recovery - laptops:  
+[BIOS Master Password Generator for Laptops](https://bios-pw.org/)
 
+## Firmware flashing
+
+Firmware flashing:  
 [Zerocat CHIPFLASHER](http://www.zerocat.org/chipflasher.html)
 
-Samsung Firmware:  
+Samsung firmware flashing:  
 [SamFirm Tool](https://samfirmtool.com/)
 
-## Booting
+## Bootloaders
+
+[CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader)
 
 UEFI boot:  
 [EasyUEFI](https://www.easyuefi.com/index-us.html)
 
-Bootloader - GRUB:  
+GRUB boot:  
 [Grub2Win](https://sourceforge.net/projects/grub2win/)
 
 USB boot:  
 [Easy2Boot](https://easy2boot.xyz/)
+
+ZFS disk journaling boot:  
+[ZFSBootMenu](https://zfsbootmenu.org/) ([GitHub](https://github.com/zbm-dev/zfsbootmenu))

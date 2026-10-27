@@ -29,6 +29,7 @@ Celebrity sightings map:
 [Celeb Map](https://celebmap.com/)
 
 Interesting places listed on Wikipedia:  
+[Local Wikipedia](https://edjefferson.com/localwiki/),
 [NearbyWiki](https://en.nearbywiki.org/map/),
 [Wikimap](https://wikimap.wiki/)
 

@@ -34,14 +34,22 @@ BIN to ISO converter:
 Portable apps:  
 [PortableApps.com⊞■](https://portableapps.com/)
 
-Portable OS - 1 OS at a time:  
+Portable USB OS - 1 OS at a time:  
 [Rufus⊞■](https://rufus.ie/),
 
 Portable OS - multi-OS or PXE/netboot:  
 [Ventoy⊞■⌘🐧](https://www.ventoy.net/) ([GitHub](https://github.com/ventoy/Ventoy))
 
+iPXE bootloader:  
+[netboot.xyz](https://www.netboot.xyz/) ([GitHub](https://github.com/netbootxyz/netboot.xyz))
+
 Portable USB/CD drive (from a phone's storage):  
 [DriveDroid🤖](https://www.drivedroid.io/)
+
+## OS management
+
+Task manager:  
+[TMOG](https://tmog.org/)
 
 ## Windows/Linux internetworking
 

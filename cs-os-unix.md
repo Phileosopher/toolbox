@@ -59,9 +59,6 @@ Specific hardware - [embedded](cs-embedded.md):
 [Raspbian](https://www.raspbian.org/) ([Raspberry Pi](cs-embedded.md)),
 [antiX](https://antixlinux.com/) (older computers)
 
-Emergency portable backup:  
-[SystemRescue](https://www.system-rescue.org/)
-
 Extremely small and portable:  
 [Alpine Linux](https://www.alpinelinux.org/),
 [Knoppix](https://www.knopper.net/knoppix/index-en.html),

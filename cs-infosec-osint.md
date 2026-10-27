@@ -21,6 +21,7 @@ Verification:
 [Verification Toolset](https://start.me/p/ZGAzN7/verification-toolset)
 
 Search engines:  
+[Search-22](https://search-22.com/),
 [Search engines](https://start.me/p/b56G5Q/search-engines)
 
 Journalistic investigation:  
@@ -65,7 +66,8 @@ European surnames:
 [Surname Map](https://www.surnamemap.eu/)
 
 Government license plate readers:  
-[DeFlock](https://deflock.org/)
+[DeFlock](https://deflock.org/),
+[Proton's Flock camera map](https://proton.me/flock-camera-map)
 
 ## Researching senders
 

@@ -9,3 +9,9 @@ Vice list:
 
 Work-life balance:  
 [Day Grid Balancer*](https://davidseah.com/node/the-day-grid-balancer/)
+
+Personal data tracking:  
+[Track & Graph🤖](https://f-droid.org/packages/com.samco.trackandgraph/) ([GitHub](https://github.com/SamAmco/track-and-graph))
+
+Montage maker:  
+[Momentum🤖](https://f-droid.org/packages/shub39.momentum/) ([GitHub](https://github.com/shub39/Momentum))
