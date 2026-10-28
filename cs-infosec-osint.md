@@ -22,7 +22,7 @@ Verification:
 
 Search engines:  
 [Search-22](https://search-22.com/),
-[Search engines](https://start.me/p/b56G5Q/search-engines)
+[Search engines](https://start.me/p/b56G5Q/search-engines),
 
 Journalistic investigation:  
 [OCCRP Aleph☁](https://aleph.occrp.org/),
@@ -37,10 +37,10 @@ Fact mapping:
 [God's Eye View](https://eye.securityops.co/) ([GitHub](https://github.com/bilawalsidhu/gods-eye-view)),
 [Pattrn](https://github.com/pattrn-project/pattrn)
 
-Flights from airports:  
-[FlightsFrom.com](https://www.flightsfrom.com/)
+Fact mapping with social media:  
+[creepy](https://github.com/ilektrojohn/creepy)
 
-More options within [navigation](logistics-navigation.md) and [GPS](logistics-navigation-gps.md)
+More options within [logistics](logistics.md), [navigation](logistics-navigation.md), [GPS](logistics-navigation-gps.md), and [network status](cs-networks-status.md).
 
 ### Map comparisons
 
@@ -54,20 +54,59 @@ Area calculator:
 Outline comparison:  
 [MAPfrappe](https://mapfrappe.com/outlines)
 
-## Public information
+## People search
 
-Public information☁:  
+Broad multi-query searches:  
+[AdvancedBackgroundChecks](https://www.advancedbackgroundchecks.com/),
+[Epieos](https://epieos.com/),
+[People Search Now](https://www.peoplesearchnow.com/),
+[Radaris People Search](https://radaris.com/),
+[TruePeopleSearch.com](https://www.truepeoplesearch.com/),
 [Truthfinder](https://www.truthfinder.com/)
+
+Alternate spelling:  
+[data·yze's Alternate Spelling Finder](https://datayze.com/alternate-spelling-finder)
+
+Address search:  
+[People Search Now's Address Lookup](https://www.peoplesearchnow.com/address)
+
+Death records:  
+[Echovita](https://www.echovita.com/us/),
+[Find a Grave](https://www.findagrave.com/),
+[Interment.net](https://www.interment.net/),
+[Legacy](https://www.legacy.com/),
+[Obituary Archives](https://www.obitsarchive.com/),
+[Tribute Archive](https://www.tributearchive.com/)
+
+Death records - government:  
+[GenealogyBank's Social Security Death Index (SSDI)](https://www.genealogybank.com/explore/ssdi/),
+[VA Nationwide Gravesite Locator](https://gravelocator.cem.va.gov/)
 
 Phone number (via site crawling):  
 [Ampare Phone Number Crawler🐧](https://snapcraft.io/amparephonenumbercrawler)
 
+Census records:  
+[UK Census Online](https://ukcensusonline.com/search/free/?),
+[Nederlandse Voornamenbank](https://nvb.meertens.knaw.nl/)
+
 European surnames:  
 [Surname Map](https://www.surnamemap.eu/)
+
+Genealogical records:  
+[GenealogyBank](https://www.genealogybank.com/),
+[SortedByName.com](https://sortedbyname.com/)
+
+## Government records
 
 Government license plate readers:  
 [DeFlock](https://deflock.org/),
 [Proton's Flock camera map](https://proton.me/flock-camera-map)
+
+Public government information:  
+[FOIA.gov search](https://www.foia.gov/search.html),
+[FBI Vault](https://vault.fbi.gov/),
+[governmentattic.org](https://governmentattic.org/),
+[MuckRock](https://www.muckrock.com/)
 
 ## Researching senders
 
@@ -76,21 +115,19 @@ Reverse phone/carrier lookup☁:
 [NumLookup](https://www.numlookup.com/),
 [USPhoneBook](https://www.usphonebook.com/)
 
+Phone information:  
+[THEDIRECTORY](https://www.thedirectory.org/)
+
+Phone area codes:  
+[AreaCode.org](https://areacode.org/),
+[THEDIRECTORY prefix lookup](https://www.thedirectory.org/pref/)
+
 Email headers☁:  
 [Google's Messageheader🧛](https://toolbox.googleapps.com/apps/messageheader/)
 [WhatIsMyIPAddress' Trace Email](https://whatismyipaddress.com/trace-email)
 
 Google email inspection:  
 [GHunt](https://github.com/mxrch/GHunt)
-
-## People search
-
-[Epieos](https://epieos.com/),
-[People Search Now](https://www.peoplesearchnow.com/),
-[Radaris People Search](https://radaris.com/)
-
-Address search:  
-[People Search Now's Address Lookup](https://www.peoplesearchnow.com/address)
 
 ## Social media search
 
@@ -194,4 +231,5 @@ DOJ:
 OSINT news and blogs:  
 [Cyber Detective](https://cybdetective.com/),
 [Map the World](https://www.spatialintelligence.ai/),
-[PI Buzz](https://pibuzz.com/)
+[PI Buzz](https://pibuzz.com/),
+[Shodan Blog](https://shodanio.wordpress.com/)

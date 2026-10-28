@@ -1,6 +1,9 @@
 
 # Tools for geolocation data
 
+Quick geolocation coordinates:  
+[Quick geolocation search](https://cybdetective.com/quickgeolocationsearch.html)
+
 Random geolocation generator:  
 [Comment Picker's Country☁](https://commentpicker.com/random-country-generator.php)
 [Random.org's Geographic Coordinates☁](https://www.random.org/geographic-coordinates/),

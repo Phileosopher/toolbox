@@ -10,6 +10,9 @@ Text character Reference:
 [TypeIt☁](https://www.typeit.org/),
 [Unicode Character Table☁](https://unicode-table.com)
 
+Name generator:  
+[Behind the Name's Random Name Generator](https://www.behindthename.com/random/)
+
 ## Dictionary
 
 [Ninjawords☁](https://ninjawords.com/),
@@ -48,6 +51,9 @@ Similar words:
 Similar words - historical:  
 [GutenSearch](https://gutensearch.com/)
 
+Alternate spelling:  
+[data·yze's Alternate Spelling Finder](https://datayze.com/alternate-spelling-finder)
+
 Thesaurus:  
 [Artha⊞■🐧](http://artha.sourceforge.net/),
 [OneLook Thesaurus](https://onelook.com/reverse-dictionary.shtml),
@@ -72,6 +78,9 @@ Historical word usage:
 [Google Books Ngram Viewer☁🧛](https://books.google.com/ngrams),
 [Online Etymology Dictionary☁](https://www.etymonline.com/),
 [Wordsworth☁](http://www.wordsworth.us/)
+
+Historical word usage - names:  
+[Behind the Name](https://www.behindthename.com/)
 
 Word comparison:  
 [WikiDiff](https://wikidiff.com/)

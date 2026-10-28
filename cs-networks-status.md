@@ -230,6 +230,9 @@ Phone number country codes:
 
 ### L3 Network: probes
 
+Network search:  
+[Shodan Search Engine](https://www.shodan.io/)
+
 IP address scanner:  
 [Advanced IP Scanner⊞](https://www.advanced-ip-scanner.com/),
 [Angry IP Scanner⊞■⌘🐧](https://angryip.org/),
@@ -255,6 +258,8 @@ IP lookup/info - offline:
 [IPInfoOffline⊞■](https://www.nirsoft.net/utils/ip_country_info_offline.html)
 
 ### L3 Network: monitoring
+
+[Shodan Monitor](https://monitor.shodan.io/)
 
 Traffic monitoring:  
 [Sniffnet](https://www.sniffnet.net/)
