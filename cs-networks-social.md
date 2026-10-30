@@ -196,13 +196,105 @@ Tracking and saving information🕵️:
 
 ### Reddit front-ends and enhancements
 
-[Geddit🤖](https://kaangiray26.github.io/geddit-app/) ([GitHub](https://github.com/kaangiray26/geddit-app))
+Full Reddit search:  
+[Pholder](https://pholder.com/)
+
+Redirect to old Reddit:  
+[Old Reddit Redirect⇉](https://github.com/tom-james-watson/old-reddit-redirect)
+
+Graphical improvements:  
+[Reddit Enhancement Suite](https://redditenhancementsuite.com/) ([GitHub](https://github.com/honestbleeps/Reddit-Enhancement-Suite)),
+[redditmod2⇉](https://greasyfork.org/en/scripts/29724-redditmod2)
+
+Full front-ends:  
+[Area51🍎](https://github.com/kgellci/Area51),
+[Geddit🤖](https://kaangiray26.github.io/geddit-app/) ([GitHub](https://github.com/kaangiray26/geddit-app)),
+[Infinity For Reddit🤖](https://github.com/Docile-Alligator/Infinity-For-Reddit),
+[reddit-stream⇉](https://reddit-stream.com/),
+[Redlib](https://github.com/redlib-org/redlib),
+[RedReader🤖](https://f-droid.org/packages/org.quantumbadger.redreader/) ([GitHub](https://github.com/QuantumBadger/RedReader)),
+[Stealth🤖](https://f-droid.org/packages/com.cosmos.unreddit/) ([GitLab](https://gitlab.com/cosmosapps/stealth)),
+[SwipeIt🍎](https://github.com/ivanbruel/SwipeIt)
+
+Full front-ends - scraped images and videos:  
+[Redinfinite](https://redinfinite.com/)
+[Scrolller](https://scrolller.com/)
+
+Random content:  
+[Wisdom of reddit](https://wisdomofreddit.com/)
+
+CLI interface□:  
+[reddio](https://gitlab.com/aaronNG/reddio)
 
 Map visualization:  
-[Map of Reddit](https://www.mapofreddit.com/)
+[Map of Reddit](https://anvaka.github.io/map-of-reddit/)
+[redditviz](https://rhiever.github.io/redditviz/),
+[Vizit](https://redditstuff.github.io/sna/vizit/)
 
-Remove comment history🕵️:  
+Content organizer:  
+[Updoot.app](https://updoot.app/)
+
+Subs - search:  
+[subreddits](https://subreddits.org/)
+
+Subs - similar subreddits:  
+[Reddit Subreddit Similarity and Algebra](https://trevor.shinyapps.io/subalgebra/),
+[Suggest subreddit](https://nikas.praninskas.com/suggest-subreddit/)
+
+Posts - previewing post appearance:  
+[Preview your Reddit post](https://redditpreview.com/)
+
+Posts - repost detection:  
+[RedditRepostSleuth🐍](https://github.com/barrycarey/RedditRepostSleuth)
+
+Posts - post scheduling:  
+[Delay for Reddit](https://www.delayforreddit.com/)
+
+Comments - enhanced viewing:  
+[rComments⇉](https://github.com/iampueroo/rComments)
+
+Comments - highlight new:  
+[reddit-comment-highlights⇉](https://github.com/aesy/reddit-comment-highlights)
+
+Comments - remove history🕵️:  
 [Shreddit🐍□](https://github.com/x89/Shreddit)
+
+Comments - undelete:  
+[reveddit](https://www.reveddit.com/),
+[Unedit and Undelete for Reddit⇉](https://greasyfork.org/en/scripts/407466-unedit-and-undelete-for-reddit),
+[Unreddit⇉](https://addons.mozilla.org/en-US/firefox/addon/unreddit/) ([GitHub](https://github.com/pauldraper/unreddit))
+
+Content downloader:  
+[bdfr🐍](https://pypi.org/project/bdfr/) ([GitHub](https://github.com/Serene-Arc/bulk-downloader-for-reddit)),
+[Reddit Downloader](https://redditdownloader.github.io/) ([GitHub](https://github.com/RedditDownloader/redditdownloader.github.io)),
+[saveddit🐍](https://github.com/p-ranav/saveddit),
+[URS□](https://github.com/JosephLai241/URS)
+
+Content downloader - videos:  
+[Download Reddit Videos With Sound](https://savemp4.red/),
+[RapidSave](https://rapidsave.com/),
+[reddvideo.tube](https://www.reddvideo.tube/),
+[viddit.red](https://viddit.red/)
+
+RSS feed export:  
+[reddit-rss](https://github.com/trashhalo/reddit-rss)
+
+Check if link was submitted to Reddit:  
+[Find on Reddit⇉](https://chromewebstore.google.com/detail/find-on-reddit/jbcdpeekakanklckgooknpbonojhjncm)
+[Mostly Harmless⇉](https://kerrick.github.io/Mostly-Harmless/#features)
+
+Moderation - remove posts and comments:  
+[Power Delete Suite](https://github.com/j0be/PowerDeleteSuite),
+[Social Media Nuker⇉](https://github.com/sr33/ares)
+
+Moderation - remove old posts:  
+[subredditScrubber🐍](https://github.com/db0/subredditScrubber)
+
+Users - scammer list:  
+[Universal Scammer List](https://www.universalscammerlist.com/)
+
+Users - age and karma:  
+[rAger⇉](https://chromewebstore.google.com/detail/rager/fohlpjahcdbkpcckapphhpahbiajccmj)
 
 ### YouTube front-ends and enhancements
 
