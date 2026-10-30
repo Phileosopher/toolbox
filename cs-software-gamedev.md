@@ -96,9 +96,10 @@ Free licensed games:
 
 ### AI
 
+Curated piles💩:  
 [awesome-ai-tools-for-game-dev](https://github.com/simoninithomas/awesome-ai-tools-for-game-dev),
 [awesome-game-ai](https://github.com/datamllab/awesome-game-ai),
-[RespawnStack](https://respawnstack.com) (free directory of pricing, commercial-use and ownership terms for AI game-dev tools)
+[RespawnStack](https://respawnstack.com)
 
 ## Game Publishing
 
