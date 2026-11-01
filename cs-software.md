@@ -89,6 +89,7 @@ Books:
 [Technical-eBooks](https://github.com/com-puter-tips/Technical-eBooks)
 
 Video tutorials:  
+[Awesome Youtube](https://awesome-yt.vercel.app/),
 [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
 
 Courses/Tutorials:  
