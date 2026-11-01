@@ -1,0 +1,72 @@
+
+# General tools for operating systems
+
+Curated piles💩:  
+[AWESOME-Operating-System-Resources](https://github.com/Francesco601/AWESOME-Operating-System-Resources),
+[osdev](https://github.com/felipenlunkes/osdev)
+
+Alternative software:  
+[Alternative.me](https://alternative.me/),
+[AlternativeTo](https://alternativeto.net/),
+[Appmus](https://appmus.com/),
+[Capterra](https://www.capterra.com/),
+[Clone Wars💩](https://gourav.io/clone-wars) ([GitHub](https://github.com/GorvGoyl/Clone-Wars)),
+[ListAlternative](https://www.listalternative.com/),
+[SaaSHub](https://www.saashub.com/),
+[Slant](https://www.slant.co/),
+[TopAlter.com](https://topalter.com/),
+[Versus](https://versusutil.com/)
+
+Abandonware:  
+[Internet Archive's TOSEC](https://archive.org/details/tosec),
+[Internet Archive's Vintage Software Collection](https://archive.org/details/vintagesoftware),
+[SCiZE's CLASSIC WAREZ COLLECTION](https://scenelist.org/),
+[VETUSWARE.COM](https://vetusware.com/)
+
+Vintage OS emulation:  
+[The Virtual OS Museum](https://virtualosmuseum.org/)
+
+## Portable Computing
+
+BIN to ISO converter:  
+[WinBin2Iso⊞](https://www.softwareok.com/?seite=Freeware/WinBin2Iso)
+
+Portable apps:  
+[PortableApps.com⊞■](https://portableapps.com/)
+
+Portable USB OS - 1 OS at a time:  
+[Rufus⊞■](https://rufus.ie/),
+
+Portable OS - multi-OS or PXE/netboot:  
+[Ventoy⊞■⌘🐧](https://www.ventoy.net/) ([GitHub](https://github.com/ventoy/Ventoy))
+
+iPXE bootloader:  
+[netboot.xyz](https://www.netboot.xyz/) ([GitHub](https://github.com/netbootxyz/netboot.xyz))
+
+Portable USB/CD drive (from a phone's storage):  
+[DriveDroid🤖](https://www.drivedroid.io/)
+
+## OS management
+
+Task manager:  
+[TMOG](https://tmog.org/)
+
+## Windows/Linux internetworking
+
+File server:  
+[Samba](https://www.samba.org/)
+
+## Driver management
+
+USB hub per-port power control:  
+[uhubctl](https://github.com/mvp/uhubctl)
+
+## Specific-use operating systems
+
+IoT/integrated systems:  
+[Fuchsia🧛🆓](https://fuchsia.dev/)
+
+## OS community
+
+News:  
+[OSnews](https://www.osnews.com/)
