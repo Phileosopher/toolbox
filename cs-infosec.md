@@ -19,6 +19,55 @@ Antivirus software:
 [ClamAV⊞⌘🐧□](https://www.clamav.net/)
 [ClamWin⊞■](http://www.clamwin.com/)
 
+## CVEs and CWEs reported
+
+[Aqua Security's Vulnerability Database](https://avd.aquasec.com/),
+[CESNET'S Network Entity Reputation Database (NERD)](https://nerd.cesnet.cz/),
+[CISA's Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog),
+[CVE](https://www.cve.org/),
+[CVE security vulnerability database](https://www.cvedetails.com/),
+[cveapi🔌](https://cveapi.com/),
+[cxsecurity's Free Vulnerability Database](https://cxsecurity.com/wlb),
+[CyberCrime](https://cybercrime-tracker.net/index.php),
+[Exploit Database](https://www.exploit-db.com/),
+[Mend.io's Open Source Vulnerability Database](https://www.mend.io/vulnerability-database/),
+[MITRE's CWE](https://cwe.mitre.org/),
+[OpenCVE's Vulnerabilities](https://app.opencve.io/cve/),
+[OSV](https://osv.dev/),
+[OWASP Vulnerable Web Applications Directory](https://vwad.owasp.org/),
+[Snyk Security Database](https://security.snyk.io/),
+[Sploitus](https://sploitus.com/),
+[TheHackLabs](https://www.thehacklabs.com/),
+[VULDB](https://vuldb.com/),
+[Vulners](https://vulners.com/) ([GitHub](https://github.com/vulnersCom/getsploit))
+
+Cloud-specific:  
+[Cloud Vulnerabilities and Security Issues Database](https://www.cloudvulndb.org/)
+
+Data leak-specific:  
+[LeakIX🔌](https://leakix.net/)
+
+GitHub-specific:  
+[advisory-database](https://github.com/github/advisory-database)
+
+Malware-specific:  
+[Comodo's Valkyrie Advanced File Analysis System](https://valkyrie.comodo.com/)
+
+Phishing-specific:  
+[OpenPhish](https://openphish.com/)
+
+Shellcode-specific:  
+[Exploit Database's Shellcodes](https://www.exploit-db.com/shellcodes)
+
+Threat modeling-specific:  
+[MITRE's ATT&CK](https://attack.mitre.org/) (with [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/) ([GitHub](https://github.com/mitre-attack/attack-navigator)))
+
+Zero-day-specific:  
+[TrendAI Zero Day Initiative (ZDI) Published Advisories](https://www.zerodayinitiative.com/advisories/published/)
+
+Advanced security research:  
+[IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)
+
 ## Cybersecurity community
 
 News:  

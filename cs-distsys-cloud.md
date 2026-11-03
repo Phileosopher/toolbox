@@ -125,6 +125,11 @@ AWS IP ranges:
 AWS security:  
 [awesome-aws-security💩](https://github.com/jassics/awesome-aws-security)
 
+## Dropbox
+
+Front-end client:  
+[Maestral🍎](https://maestral.app/) ([GitHub](https://github.com/samschott/maestral))
+
 ## Hetzner
 
 [awesome-hcloud💩](https://github.com/hetznercloud/awesome-hcloud)

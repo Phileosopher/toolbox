@@ -1,6 +1,11 @@
 
 # Tools for posting on social media
 
+## Posting
+
+Fake post generator:  
+[Zeoob](https://zeoob.com/)
+
 ## Specific Social Media
 
 Twitter/X☁🧛:  

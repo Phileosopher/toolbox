@@ -58,7 +58,7 @@ I've left emoji earmarks for reference, and my frequency of use approximately co
 Its starting platform:
 
 - _*_ reference sheet or copy/paste.
-- ☁ browser-based
+- ☁ browser-based or online-only
 - ⇉ browser/software plugin, bookmarklet, or extension
 - ⊞ Windows
 - ⌘ Mac OS X
@@ -68,7 +68,7 @@ Its starting platform:
 
 Its safety:
 
-- 🕵️ helps with [trust issues](https://gainedin.site/trust/)
+- 🕵️ helps with [trust issues](https://stucky.tech/notes/mind-trust.md)
 
 Its convenience:
 

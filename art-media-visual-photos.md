@@ -100,3 +100,9 @@ Landing pages:
 404 pages:  
 [404 Illustrations](https://error404.fun/),
 [Kapwing's 404 Illustrations](https://www.kapwing.com/404-illustrations)
+
+## Wallpapers and backgrounds
+
+Steam backgrounds:  
+[Backgrounds.Gallery](https://backgrounds.gallery/),
+[Steam.Design](https://steam.design/)

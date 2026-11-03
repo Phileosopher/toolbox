@@ -1,6 +1,9 @@
 
 # Tools for enjoying computer games
 
+Curated piles💩:  
+[A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails?id=451698754)
+
 ## Planning
 
 Premature strategies:  
@@ -22,10 +25,31 @@ Discount games:
 [Gocdkeys](https://gocdkeys.com/),
 [IsThereAnyDeal☁](https://isthereanydeal.com/),
 [Razer Game Deals⊞☁](https://deals.razer.com/),
-[SteamDB☁](https://steamdb.info/)
+
+Discount games - Steam:  
+[IsThereAnyDeal's Augmented Steam](https://augmentedsteam.com/) ([GitHub](https://github.com/IsThereAnyDeal/AugmentedSteam)),
+[SteamDB's Extension for Steam](https://steamdb.info/extension/)
 
 Gamepad testing:  
 [Gamepad Tester☁](https://hardwaretester.com/gamepad)
+
+## Modern PC gaming platforms
+
+Full-featured:  
+[Steam](https://store.steampowered.com/)
+
+Games only:  
+[Epic Games Store](https://store.epicgames.com/),
+[Ubisoft Connect](https://www.ubisoft.com/en-us/ubisoft-connect)
+
+Games only - includes bloatware:  
+[EA Origin](https://www.origin.com/)
+
+Games only - DRM-free:  
+[GOG.com](https://www.gog.com/)
+
+Front-end improvements for Steam:  
+[Pressure-for-Steam](https://github.com/DirtDiglett/Pressure-for-Steam)
 
 ## Virtual gaming platforms
 
@@ -185,6 +209,9 @@ Save file tweaking:
 Mods:  
 [CurseForge](https://www.curseforge.com/),
 [Nexus mods](https://www.nexusmods.com/) (with [Vortex Mod Manager](https://www.nexusmods.com/about/vortex/))
+
+Steam - symlink to move less-used games:  
+[Steam Mover](https://www.traynier.com/software/steammover)
 
 ## Games Tracking
 

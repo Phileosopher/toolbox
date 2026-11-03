@@ -23,6 +23,9 @@ Keyword research:
 [Keyword Discovery](https://www.keyworddiscovery.com/),
 [Wordtracker's Free Keyword Research Tool](https://www.wordtracker.com/)
 
+Keyword research - Pinterest:  
+[Pingroupie](https://pingroupie.com/)
+
 Keyword research - Reddit:  
 [redditlist.com](https://redditlist.com/),
 [HigherVisibility's Reddit Keyword Research Tool](https://www.highervisibility.com/seo/tools/keyworddit/)

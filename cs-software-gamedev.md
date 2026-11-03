@@ -1,16 +1,20 @@
 
 # Tools for game development
 
-Curated piles💩:  
+## Curated piles💩
+
 [awesome-gamedev](https://github.com/Calinou/awesome-gamedev),
 [magictools](https://github.com/ellisonleao/magictools)
 
-Curated piles - AI tools💩:  
+AI tools:  
 [RespawnStack](https://respawnstack.com)
 
 Web-based games:  
-[Newgrounds Game Dev Resources💩](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources),
+[Newgrounds Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources),
 [Web Game Dev](https://www.webgamedev.com/) ([GitHub](https://github.com/verekia/webgamedev))
+
+Steam games:  
+[awesome-steam](https://github.com/scholtzm/awesome-steam)
 
 ## Learning
 
@@ -20,6 +24,12 @@ Web-based games:
 
 Existing games' technologies:  
 [Awesome-Game-Analysis](https://github.com/OTFCG/Awesome-Game-Analysis)
+
+## Researching
+
+Existing game data - Steam:  
+[SteamDB☁](https://steamdb.info/),
+[SteamSpy](https://steamspy.com/)
 
 ## Game Engines
 
@@ -54,7 +64,7 @@ RPG:
 [EasyRPG](https://easyrpg.org/) ([GitHub](https://github.com/EasyRPG/)),
 [OpenMW](https://gitlab.com/OpenMW/openmw)
 
-## Source Code
+## Game source code
 
 ### Entire games
 
@@ -96,9 +106,7 @@ Free licensed games:
 [Space Nerds In Space](https://smcameron.github.io/space-nerds-in-space/) ([GitHub](https://github.com/smcameron/space-nerds-in-space)),
 [The Battle for Wesnoth](https://www.wesnoth.org/) ([SourceForge](https://sourceforge.net/projects/wesnoth/)) ([GitHub](https://github.com/wesnoth/wesnoth))
 
-## Source code
-
-### AI
+### Game AI
 
 Curated piles💩:  
 [awesome-ai-tools-for-game-dev](https://github.com/simoninithomas/awesome-ai-tools-for-game-dev),
@@ -110,3 +118,11 @@ Curated piles💩:
 
 Compatibility tool for Linux:  
 [Proton](https://github.com/ValveSoftware/Proton)
+
+### Steam publishing
+
+Server updates:  
+[SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD) (with [SteamCMD-GUI](https://github.com/AndrSator/SteamCMD-GUI) for a GUI frontend)
+
+Steamworks integration - nw.js/Electron:  
+[greenworks](https://github.com/greenheartgames/greenworks)

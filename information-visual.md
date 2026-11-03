@@ -108,7 +108,7 @@ Film and TV re-releases:
 [Movie-Censorship.com](https://www.movie-censorship.com/)
 
 Database:  
-[IMDb](https://www.imdb.com/)
+[IMDb](https://www.imdb.com/) (with [libremdb](https://libremdb.iket.me/) as a front-end)
 
 Database - TV:  
 [TVmaze.com](https://www.tvmaze.com/)

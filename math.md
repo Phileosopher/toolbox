@@ -6,7 +6,7 @@ Lightweight calculators:
 [SpeedCrunch⊞■⌘🐧](https://heldercorreia.bitbucket.io/speedcrunch/)
 
 Heavy-duty calculating:  
-[Wolfram|Alpha☁🍎🤖](https://www.wolframalpha.com/)
+[Wolfram|Alpha☁🍎🤖](https://www.wolframalpha.com/) (with [Wolfree](https://gqq.gitlab.io/) as a front-end client)
 
 Math reference:  
 [Wumbo](https://wumbo.net/)

@@ -90,7 +90,8 @@ Books:
 
 Video tutorials:  
 [Awesome Youtube](https://awesome-yt.vercel.app/),
-[awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
+[awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers),
+[awesome-youtube](https://github.com/npv2k1/awesome-youtube)
 
 Courses/Tutorials:  
 [GeeksforGeeks](https://www.geeksforgeeks.org/),

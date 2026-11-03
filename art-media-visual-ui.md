@@ -267,6 +267,11 @@ MacOS:
 Social media:  
 [Iconshock's Social Media Icons](https://www.iconshock.com/social-media-icons/)
 
+### Game assets
+
+Steam games:  
+[SteamGridDB](https://www.steamgriddb.com/)
+
 ## Usability Testing
 
 Multi-browser testing:  

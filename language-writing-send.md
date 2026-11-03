@@ -68,7 +68,7 @@ Large files:
 [WeTransfer☁](https://wetransfer.com/)
 
 Images:  
-[Imgur](https://imgur.com/) (with [MyImgur](https://myimgur.eden.fm/) to assist),
+[Imgur](https://imgur.com/) (with [MyImgur](https://myimgur.eden.fm/) to assist or [rimgo](https://codeberg.org/video-prize-ranch/rimgo) as a front-end),
 [TinyPix](https://tinypix.co.uk/)
 
 Faxes:  
