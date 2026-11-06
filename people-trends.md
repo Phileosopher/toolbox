@@ -28,6 +28,10 @@ Popular trends:
 [Pinterest Trends](https://trends.pinterest.com/),
 [Popular Hashtags On TikTok🧛](https://ads.tiktok.com/business/creativecenter/inspiration/)
 
+Prediction markets:  
+[Kalshi](https://kalshi.com/),
+[Polymarket](https://polymarket.com/)
+
 Short-term rental data:  
 [AirDNA](https://www.airdna.co/)
 

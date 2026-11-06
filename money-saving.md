@@ -48,7 +48,8 @@ Rebates and cash back services:
 [Mr. Rebates☁](https://mrrebates.com/),
 [Rakuten⇉](https://www.rakuten.com/),
 [Swagbucks☁](https://www.swagbucks.com/),
-[TopCashback☁](https://www.topcashback.com/)
+[TopCashback☁](https://www.topcashback.com/),
+[Upside](https://www.upside.com/)
 
 Restaurants:  
 [Restaurant.com☁](https://www.restaurant.com/)

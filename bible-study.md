@@ -43,3 +43,6 @@ Bible maps and visualizations:
 
 Bible study videos/prompts:  
 [BibleProject](https://bibleproject.com/)
+
+Teaching mnemonics:  
+[The Jesus Teachers](https://thejesusteachers.com/)

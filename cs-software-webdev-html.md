@@ -2,7 +2,8 @@
 # Tools for HTML design
 
 Code-less HTML editing:  
-[HtmlDocEdit⊞■](https://www.nirsoft.net/utils/html_doc_edit.html)
+[HtmlDocEdit⊞■](https://www.nirsoft.net/utils/html_doc_edit.html),
+[Slingcode☁](https://slingcode.net/)
 
 HTML shell:  
 [Toptal's HTMLShell☁](https://www.toptal.com/developers/htmlshell)

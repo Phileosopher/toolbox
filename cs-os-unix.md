@@ -41,6 +41,9 @@ Mac-familiar Linux:
 Microsoft-familiar Linux:  
 [Zorin](https://zorin.com/)
 
+Microsoft-familiar Linux - Windows 95:  
+[Chicago95](https://github.com/grassmunk/Chicago95)
+
 Vintage UX Linux:  
 [SerenityOS](https://serenityos.org/)
 

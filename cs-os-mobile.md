@@ -50,3 +50,6 @@ Fitbit notifications from Android device:
 File explorer:  
 [FileExplorer](https://github.com/Augustyniak/FileExplorer),
 [files-ios](https://github.com/steventroughtonsmith/files-ios)
+
+Photos converted to blurred wallpapers:  
+[Blear](https://sindresorhus.com/blear) ([GitHub](https://github.com/sindresorhus/blear))

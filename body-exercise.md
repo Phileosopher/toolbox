@@ -28,7 +28,7 @@ Workout tracker:
 
 Distance tracker:  
 [FitoTrack🆓🤖](https://f-droid.org/packages/de.tadris.fitness/) ([Codeberg](https://codeberg.org/jannis/FitoTrack)),
-[OpenTracks](https://f-droid.org/packages/de.dennisguse.opentracks/) ([GitHub](https://github.com/OpenTracksApp/OpenTracks), with [OSM Dashboard](https://f-droid.org/en/packages/de.storchp.opentracks.osmplugin/)+[GitHub](https://github.com/OpenTracksApp/OSMDashboard)),
+[OpenTracks](https://f-droid.org/packages/de.dennisguse.opentracks/) ([GitHub](https://github.com/OpenTracksApp/OpenTracks), with [OSM Dashboard](https://f-droid.org/en/packages/de.storchp.opentracks.osmplugin/) and [GitHub](https://github.com/OpenTracksApp/OSMDashboard)),
 
 ## Exercise - Specific Activities
 

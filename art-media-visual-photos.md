@@ -64,6 +64,10 @@ Furniture:
 African:  
 [Iwaria](https://iwaria.com/)
 
+Astronomy:  
+[NASA's Astronomy Picture of the Day Archive](https://science.nasa.gov/apod/archive/),
+[Official SpaceX Photos](https://www.flickr.com/photos/spacex/)
+
 Minorities:  
 [Nappy](https://nappy.co/)
 
@@ -77,7 +81,17 @@ Patterns:
 [CodeinWP](https://www.codeinwp.com/pattern-collection/)
 
 Wallpaper photos:  
-[wallhaven.cc](https://wallhaven.cc/)
+[aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers),
+[HD Wallpapers](https://www.hdwallpapers.net/),
+[Psiu Puxa Wallpapers](https://psiupuxa.com/),
+[wallhaven.cc](https://wallhaven.cc/),
+[Wallpaper Abyss](https://wall.alphacoders.com/),
+[Wallpaper Cave](https://wallpapercave.com/),
+[Wallup.net](https://wallup.net/)
+
+Steam backgrounds:  
+[Backgrounds.Gallery](https://backgrounds.gallery/),
+[Steam.Design](https://steam.design/)
 
 Paid stock photos - search:  
 [GetPaidStock](https://getpaidstock.com/)
@@ -100,9 +114,3 @@ Landing pages:
 404 pages:  
 [404 Illustrations](https://error404.fun/),
 [Kapwing's 404 Illustrations](https://www.kapwing.com/404-illustrations)
-
-## Wallpapers and backgrounds
-
-Steam backgrounds:  
-[Backgrounds.Gallery](https://backgrounds.gallery/),
-[Steam.Design](https://steam.design/)

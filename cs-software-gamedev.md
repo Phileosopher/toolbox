@@ -126,3 +126,8 @@ Server updates:
 
 Steamworks integration - nw.js/Electron:  
 [greenworks](https://github.com/greenheartgames/greenworks)
+
+## Game dev community
+
+Videos and news:  
+[Game Maker's Toolkit](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw)

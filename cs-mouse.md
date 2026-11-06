@@ -29,6 +29,10 @@ Mouse gestures:
 Mouth-based trackpad:  
 [Augmental MouthPad$](https://www.augmental.tech/)
 
+Middle-click paste (the default in Linux)⊞:  
+[AutoClipX](https://autoclipx.en.softonic.com/),
+[X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm)
+
 ## Hardware$
 
 High-end:  

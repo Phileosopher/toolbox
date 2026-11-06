@@ -56,6 +56,20 @@ Task manager:
 File server:  
 [Samba](https://www.samba.org/)
 
+Bash editing in cmd.exe:  
+[Clink](https://chrisant996.github.io/clink/) ([GitHub](https://github.com/chrisant996/clink))
+
+Linux subsystem within Windows:  
+[WSL🧛](https://wsl.dev/) ([GitHub](https://github.com/microsoft/WSL))
+
+WSL expansions:  
+[awesome-wsl💩](https://github.com/sirredbeard/Awesome-WSL),
+[WSL kernel code🆓](https://github.com/microsoft/WSL2-Linux-Kernel),
+[WSL GUI support🧛](https://github.com/microsoft/wslg)
+
+ProcDump for Linux:  
+[Microsoft's ProcDump-Linux🧛](https://github.com/microsoft/ProcDump-Linux)
+
 ## Driver management
 
 USB hub per-port power control:  

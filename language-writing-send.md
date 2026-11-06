@@ -5,6 +5,9 @@
 
 [ShortURL-Services-List💩](https://github.com/sambokai/ShortURL-Services-List)
 
+Temporary URL🕵️:  
+[Temporary URL generator](https://www.temporary-url.com/)
+
 Delete-on-command links🕵️:  
 [keeplinks.org](https://www.keeplinks.org/)
 

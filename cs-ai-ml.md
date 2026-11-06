@@ -15,7 +15,12 @@ Deep learning:
 Deep learning - music-focused:  
 [awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music)
 
-## Content Auto-Generation - machine learning and NLP
+## Learning
+
+Video tutorials:  
+[Welch Labs](https://www.youtube.com/channel/UConVfxXodg78Tzh5nNu85Ew)
+
+## Content auto-generation
 
 GPT prompts:  
 [awesome-gpt-prompt-engineering💩](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)

@@ -28,6 +28,9 @@ Eyewear:
 [Warby Parker☁](https://www.warbyparker.com/),
 [Zenni Optical☁](https://www.zennioptical.com/)
 
+Dental mouth guards:  
+[Sentinel Mouthguards](https://sentinelmouthguards.com/)
+
 Healthcare comparison:  
 [Health Sherpa☁](https://www.healthsherpa.com/),
 [Healthcare Compare☁](https://healthcarecomps.com/)

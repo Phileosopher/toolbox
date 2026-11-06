@@ -1,8 +1,11 @@
 
 # Tools for command-line interfaces
 
-Piles of everything💩:
+Curated piles💩:
 [Terminals Are Sexy](https://terminalsare.sexy/) ([GitHub](https://github.com/k4m4/terminals-are-sexy))
+
+Curated piles - fetch tools💩:  
+[Awesome Fetch](https://beucismis.github.io/awesome-fetch/) ([GitHub](https://github.com/beucismis/awesome-fetch))
 
 Install missing commands:  
 [command-not-found.com](https://command-not-found.com/)

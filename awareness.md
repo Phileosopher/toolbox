@@ -3,7 +3,8 @@
 
 Meditation:  
 [Sit☁](https://sit.sonnet.io/),
-[Noice🤖☁](https://trynoice.com/) ([F-Droid](https://f-droid.org/packages/com.github.ashutoshgngwr.noice/)+[GitHub](https://github.com/trynoice/android-app))
+[Meditation Timer☁](https://www.meditation-timer.com/),
+[Noice🤖☁](https://trynoice.com/) ([F-Droid](https://f-droid.org/packages/com.github.ashutoshgngwr.noice/) and [GitHub](https://github.com/trynoice/android-app))
 
 Meditation with prayer:  
 [Hallow](https://hallow.com/)

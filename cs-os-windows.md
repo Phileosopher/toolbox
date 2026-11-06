@@ -92,3 +92,8 @@ Empty file directories:
 
 SQLite databases (Firefox, Chrome, et al):  
 [SpeedyFox⊞■](https://www.crystalidea.com/speedyfox)
+
+## Cosmetic features
+
+Animated desktop wallpapers:  
+[Lively Wallpaper](https://livelywallpaper.net/) ([GitHub](https://github.com/lively-community/lively))

@@ -145,6 +145,9 @@ Search:
 [Export Facebook Comments to Excel & CSV☁](https://commentpicker.com/export-comments-facebook.php),
 [Facebook Post ID Finder☁](https://commentpicker.com/facebook-post-id-finder.php)
 
+Video downloader:  
+[Facebook Video Downloader☁](https://getfbvideo.pro/)
+
 ## Fandom front-ends and enhancements
 
 [BreezeWiki](https://breezewiki.com/) ([Git](https://gitdab.com/cadence/breezewiki))

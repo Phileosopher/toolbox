@@ -12,3 +12,6 @@ Habit-tracking:
 
 Habit-tracking - gamified:  
 [Habitica](https://habitica.com/) ([GitHub](https://github.com/HabitRPG/habitica))
+
+How-to guides:  
+[wikiHow](https://www.wikihow.com/)

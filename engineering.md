@@ -15,5 +15,5 @@ Miscellaneous components:
 
 ## Learning
 
-Engineering notes:  
+Notes:  
 [LearnEngineering.in](https://learnengineering.in/)

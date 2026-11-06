@@ -73,10 +73,6 @@ Zero-config tools:
 
 [pointers-for-software-engineers💩](https://github.com/vicoyeh/pointers-for-software-engineers)
 
-Kid-friendly:  
-[awesome-programming-for-kids](https://github.com/HollyAdele/awesome-programming-for-kids),
-[Scratch](https://scratch.mit.edu/)
-
 Books:  
 [Awesome-Computer_Science-Resources](https://github.com/thekalyan001/Awesome-Computer_Science-Resources),
 [awesome-programming-books](https://github.com/zero-equals-false/awesome-programming-books),
@@ -88,10 +84,12 @@ Books:
 [Runestone Academy](https://runestone.academy/ns/books/index),
 [Technical-eBooks](https://github.com/com-puter-tips/Technical-eBooks)
 
-Video tutorials:  
-[Awesome Youtube](https://awesome-yt.vercel.app/),
-[awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers),
-[awesome-youtube](https://github.com/npv2k1/awesome-youtube)
+Games:  
+[awesome-games-of-coding💩](https://github.com/michelpereira/awesome-games-of-coding)
+
+Lectures:  
+[awesome-talks](https://github.com/JanVanRyswyck/awesome-talks),
+[programming-talks](https://github.com/hellerve/programming-talks)
 
 Courses/Tutorials:  
 [GeeksforGeeks](https://www.geeksforgeeks.org/),
@@ -99,18 +97,30 @@ Courses/Tutorials:
 [open-source-cs](https://github.com/ForrestKnight/open-source-cs),
 [TutorialsPoint](https://www.tutorialspoint.com)
 
-Text file tutorials💩:  
-[awesome-gists](https://github.com/vsouza/awesome-gists),
-[awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists)
-
-Games:  
-[awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding)
+Kid-friendly:  
+[awesome-programming-for-kids](https://github.com/HollyAdele/awesome-programming-for-kids),
+[Scratch](https://scratch.mit.edu/)
 
 Tests and certifications:  
 [codecademy](https://codecademy.com),
 [CodeSignal☁](https://codesignal.com/),
 [freeCodeCamp☁](https://www.freecodecamp.org/),
 [HackerRank☁](https://www.hackerrank.com/)
+
+Text file tutorials💩:  
+[awesome-gists](https://github.com/vsouza/awesome-gists),
+[awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists)
+
+Video tutorials:  
+[Awesome Youtube💩](https://awesome-yt.vercel.app/),
+[awesome-youtubers💩](https://github.com/JoseDeFreitas/awesome-youtubers),
+[awesome-youtube💩](https://github.com/npv2k1/awesome-youtube),
+[Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ([website](https://brianwill.github.io/)),
+[Eli the Computer Guy](https://www.youtube.com/channel/UCD4EOyXKjfDUhCI6jlOZZYQ),
+[TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw),
+[The Coding Train](https://thecodingtrain.com/),
+[thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw),
+[Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
 ## Project naming
 
@@ -186,8 +196,11 @@ Window manager:
 
 [one4All💩](https://one4all.netlify.app/) ([GitHub](https://github.com/Surajv311/one4All))
 
-Success stories:  
-[No CS Degree](https://www.nocsdegree.com/)
+Blogs:  
+[Awesome Tech Blogs💩](https://tech-blogs.dev/) ([GitHub](https://github.com/markodenic/awesome-tech-blogs)),
+[company-engineering-blogs💩](https://github.com/MartinsOnuoha/company-engineering-blogs),
+[engineering-blogs💩](https://github.com/kilimchoi/engineering-blogs),
+[tech-blogs💩](https://github.com/amitmerchant1990/tech-blogs)
 
 Code challenges:  
 [Hacktoberfest](https://hacktoberfest.com/)
@@ -198,20 +211,12 @@ Conventions and conferences:
 [Devoxx](https://devoxx.com/),
 [gotopia](https://gotopia.tech/)
 
-Meetups:  
-[Handmade Cities](https://handmadecities.com/)
-
-Tech talks:  
-[awesome-talks](https://github.com/JanVanRyswyck/awesome-talks),
-[programming-talks](https://github.com/hellerve/programming-talks)
-
-Tech journalism:  
+Journalism:  
 [digest💩](https://github.com/vinibrsl/digest),
 [DEV](https://dev.to/) ([GitHub](https://github.com/forem/forem))
 
-Tech blogs:  
-[Awesome Tech Blogs](https://tech-blogs.dev/) ([GitHub](https://github.com/markodenic/awesome-tech-blogs)),
-[tech-blogs](https://github.com/amitmerchant1990/tech-blogs)
+Meetups:  
+[Handmade Cities](https://handmadecities.com/)
 
 Social media and forums:  
 [awesome-subreddits🧛](https://github.com/iCHAIT/awesome-subreddits),
@@ -229,3 +234,6 @@ Social media and forums: dev advice:
 
 Social media and forums: new products:  
 [Product Hunt](https://www.producthunt.com/)
+
+Success stories:  
+[No CS Degree](https://www.nocsdegree.com/)

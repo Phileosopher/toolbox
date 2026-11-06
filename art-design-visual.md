@@ -74,3 +74,8 @@ Macbook:
 
 Book covers:  
 [DIY Book Cover's 3D Book Cover Creator☁](https://diybookcovers.com/3Dmockups/)
+
+## Visual design community
+
+Video tutorials:  
+[Learn How To Edit Stuff](https://www.youtube.com/channel/UCsXMr0Gg0dHrMD_I8KlYmwA)

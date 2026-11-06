@@ -10,6 +10,9 @@ More in tools for [notes](mind-memory-notes.md), [studying](mind-memory-study.md
 Quizzes:  
 [Quickz](https://quickz.org/)
 
+Teaching methods:  
+[Whole Brain Teaching](https://wholebrainteaching.com/)
+
 ## Institutions
 
 Open education groups:  

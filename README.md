@@ -82,7 +82,7 @@ Its scalability:
 
 - 🔌 an affordable/free API, or simply has advertised API documentation
 - ⦿ data-intensive tool
-- 🐍 runs in Python
+- 🐍 runs with Python
 
 Its business model:
 

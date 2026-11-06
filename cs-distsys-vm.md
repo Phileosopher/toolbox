@@ -9,6 +9,9 @@ All-purpose VMs:
 Architecture simulator:  
 [gem5](https://www.gem5.org/) (with [gem5 Resources](https://resources.gem5.org/) ([GitHub](https://github.com/gem5/gem5-resources)))
 
+RISC-V system emulator:  
+[semu](https://github.com/sysprog21/semu)
+
 Type 1 hypervisors (bare-metal):  
 [KVM🐧](https://www.linux-kvm.org/page/Main_Page)
 
