@@ -36,6 +36,7 @@ Step-by-step explanations:
 
 Practical calculators:  
 [Best Calculators☁](https://best-calculators.com/),
+[figured.fyi](https://figured.fyi/),
 [Toolhuts☁](https://toolhuts.com/)
 
 Measurement conversion:  

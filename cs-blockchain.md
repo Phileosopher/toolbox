@@ -1,7 +1,13 @@
 
 # Tools for blockchain
 
-MEV:  
+## Crypto wallets
+
+Cold storage hardware wallet$:  
+[Trezor](https://trezor.io/)
+
+## MEV
+
 [Mev_Book💩](https://github.com/0xOsiris/Mev_Book)
 
 ## Ethereum

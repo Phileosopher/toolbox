@@ -17,6 +17,9 @@ Raspberry Pi network monitor:
 Network settings - Apple:  
 [Apple Support's recommended settings for Wi-Fi routers and access points](https://support.apple.com/en-us/102766)
 
+Latency calculator:  
+[figured.fyi's Latency Calculator](https://figured.fyi/latency-calculator)
+
 ## L1 Physical
 
 [FCC National Broadband Map](https://broadbandmap.fcc.gov/)
