@@ -18,7 +18,7 @@ Web bookmarks:
 [Every bookmark manager ever made💩](https://bookmarkos.com/every-bookmark-manager-ever-made),
 [OneKeep☁](https://onekeep.com/),
 [Pocket⇉](https://getpocket.com/),
-[Raindrop.io☁⇉⊞⌘🐧🍎🤖🔌](https://raindrop.io/)
+[Raindrop.io☁⇉⊞⌘🐧🍎🤖🔌](https://raindrop.io/) ([GitHub](https://github.com/raindropio/app))
 
 Alternatives to websites:  
 [SimilarSiteSearch.com](https://www.similarsitesearch.com/),

@@ -1,56 +1,7 @@
 
-# Tools for writing automation
+# Automation tools for text data
 
-## PDF/ebook Editing
-
-[PDF24⊞☁](https://en.pdf24.org/),
-[PDF Resizer](https://pdfresizer.com/),
-[PDF Tool](https://www.pdftool.org/)
-
-Editor:  
-[Firefox (built-in)](https://www.firefox.com/en-US/features/pdf-editor/),
-[PDFescape☁](https://www.pdfescape.com/windows/),
-[PDF-XChange Editor⊞■](https://pdf-xchange.eu/pdf-xchange-editor/index.htm),
-[PDFTK Builder⊞■🆓](http://www.angusj.com/pdftkb/),
-[Sejda PDF Editor☁](https://www.sejda.com/pdf-editor),
-[Smallpdf☁](https://smallpdf.com/),
-[XpdfReader⊞🐧🆓](https://www.xpdfreader.com/)
-
-EPUB - editor:  
-[Sigil⊞■⌘🐧](https://sigil-ebook.com/) ([GitHub](https://github.com/Sigil-Ebook/Sigil))
-
-PDF - detect differences:  
-[Aspose's Compare PDF☁](https://products.aspose.app/pdf/comparison),
-[Draftable's Compare PDF & Word Documents Online☁](https://draftable.com/compare),
-[PDF24 Compare PDF files☁](https://tools.pdf24.org/en/compare-pdf),
-[PDF Compare☁](https://copyleaks.com/text-compare/compare-pdf-files)
-
-PDF - looking scanned:  
-[Look Scanned](https://lookscanned.io/) ([GitHub](https://github.com/rwv/lookscanned.io))
-
-PDF - erase content:  
-[PDF Eraser⊞](https://www.pdferaser.net/)
-
-## OCR (Optical Character Recognition)
-
-[Free Online OCR☁](https://www.newocr.com/),
-[Online OCR☁](https://www.onlineocr.net/),
-[Tesseract OCR🐧](https://tesseract-ocr.github.io/) ([GitHub](https://github.com/tesseract-ocr/tesseract))
-
-Screenshots:  
-[Screenshot Hero🍎](https://asadmemon.com/projects/screenshothero/)
-
-PDF OCR:  
-[pdfsandwich🐧□](http://www.tobias-elze.de/pdfsandwich/)
-
-Machine learning OCR:  
-[EasyOCR□](https://github.com/JaidedAI/EasyOCR)
-
-Pull text from images:  
-[Frog🐧](https://flathub.org/apps/com.github.tenderowl.frog)
-
-Convert image numbers to CSV:  
-[image2csv🐍](https://github.com/artperrin/image2csv)
+Note: more in [OCR](cs-ocr.md)
 
 ## Text Format Conversion
 
@@ -67,16 +18,9 @@ HTML to markdown text:
 HTML to markdown text - batch files:  
 [datahoarder-website-to-markdown](https://github.com/passthesh3ll/datahoarder-website-to-markdown)
 
-PDF modification:  
-[pikepdf🐍](https://github.com/pikepdf/pikepdf) (With [pdfarranger](https://github.com/pdfarranger/pdfarranger)
- as a frontend)
-
-PDF/TIFF Splitter/Joiner:  
-[FaxTool⊞■](https://sector-seven.com/software/faxtool)
-
-PDF/PS:  
-[CleverPDF☁](https://www.cleverpdf.com/),
-[Ghostscript⊞■🐧](https://www.ghostscript.com/)
+PDF conversion:  
+[Ghostscript⊞■🐧](https://www.ghostscript.com/),
+[OBAR.INFO☁](https://obar.info/)
 
 PDF to JPG:  
 [Adobe's PDF to JPG Conversion Tool☁](https://www.adobe.com/acrobat/online/pdf-to-jpg.html)
@@ -99,6 +43,52 @@ Comics to EPUB/MOBI/CBZ:
 Markdown text processing:  
 [remarkjs□](https://remark.js.org/) [GitHub](https://github.com/remarkjs/remark),
 [turndown](https://github.com/mixmark-io/turndown)
+
+## PDF and ebook editing
+
+Online editor☁:  
+[CleverPDF](https://www.cleverpdf.com/),
+[Firefox (built-in)](https://www.firefox.com/en-US/features/pdf-editor/),
+[iLovePDF](https://www.ilovepdf.com/) ([GitHub](https://github.com/nabilanavab/ilovepdf)),
+[PDF.io](https://pdf.io/),
+[PDF2Go](https://www.pdf2go.com/),
+[PDF24⊞](https://en.pdf24.org/),
+[PDFCrowd⇉](https://pdfcrowd.com/),
+[PDFescape](https://www.pdfescape.com/),
+[PDF Resizer](https://pdfresizer.com/),
+[PDF Shelter](https://pdfshelter.com/),
+[Sejda PDF Editor](https://www.sejda.com/pdf-editor),
+[Smallpdf](https://smallpdf.com/)
+
+Downloadable editor software:  
+[PDF-XChange Editor⊞■](https://pdf-xchange.eu/pdf-xchange-editor/index.htm),
+[PDF4QT](https://jakubmelka.github.io/) ([GitHub](https://github.com/JakubMelka/PDF4QT)),
+[PDFTK Builder⊞■🆓](http://www.angusj.com/pdftkb/),
+[PDF Tool](https://www.pdftool.org/),
+[pypdf🐍](https://pypi.org/project/pypdf/),
+[Stirling PDF](https://www.stirling.com/) ([GitHub](https://github.com/Stirling-Tools/Stirling-PDF)),
+[XpdfReader⊞🐧🆓](https://www.xpdfreader.com/)
+
+PDF modification:  
+[pikepdf🐍](https://github.com/pikepdf/pikepdf) (With [pdfarranger](https://github.com/pdfarranger/pdfarranger)
+ as a frontend),
+[QPDF□](https://qpdf.sourceforge.io/) ([GitHub](https://github.com/qpdf/qpdf))
+
+EPUB editor:  
+[Sigil⊞■⌘🐧](https://sigil-ebook.com/) ([GitHub](https://github.com/Sigil-Ebook/Sigil))
+
+PDF - looking scanned:  
+[Look Scanned](https://lookscanned.io/) ([GitHub](https://github.com/rwv/lookscanned.io))
+
+PDF - erase content:  
+[PDF Eraser⊞](https://www.pdferaser.net/)
+
+PDF - shrink size:  
+[Reduce PDF Size⊞](https://www.reducepdfsize.com/)
+
+PDF/TIFF - splitter/joiner:  
+[FaxTool⊞■](https://sector-seven.com/software/faxtool),
+[PDFsam](https://pdfsam.org/) ([GitHub](https://github.com/torakiki/pdfsam))
 
 ## Speech to text
 

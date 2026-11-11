@@ -12,6 +12,9 @@ Third-party RSS feeds:
 [RSS-Bridge](https://rss-bridge.org/bridge01/) ([GitHub](https://github.com/RSS-Bridge/rss-bridge)),
 [RSSHub](https://docs.rsshub.app/) ([GitHub](https://github.com/DIYgod/RSSHub))
 
+Third-party RSS feeds - comics:  
+[ComicCaster](https://comiccaster.xyz/) ([GitHub](https://github.com/adamprime/comiccaster))
+
 RSS feed manager/reader:  
 [feedi](https://github.com/facundoolano/feedi),
 [FreshRSS💾🤖](https://freshrss.org/) (([GitHub](https://github.com/FreshRSS/FreshRSS))with [extensions](https://github.com/cn-tools/cntools_FreshRssExtensions) and [demo](https://demo.freshrss.org/i/?rid=65834a6431fb4)),

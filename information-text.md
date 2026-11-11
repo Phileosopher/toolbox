@@ -1,5 +1,5 @@
 
-# Tools for wrangling lots of text information
+# Tools for consuming lots of text information
 
 Book reading estimation:  
 [How Long to Read☁](https://www.howlongtoread.com/)
@@ -51,9 +51,13 @@ DjVu:
 [WinDjView/MacDjView⊞■⌘](https://windjview.sourceforge.io/)
 
 PDF/ePub/MOBI:  
+[evince🐧](https://gitlab.gnome.org/GNOME/evince),
 [Foliate🐧](https://johnfactotum.github.io/foliate/) ([GitHub](https://github.com/johnfactotum/foliate/)),
 [Sumatra⊞■](https://www.sumatrapdfreader.org/free-pdf-reader.html) ([GitHub](https://github.com/sumatrapdfreader/sumatrapdf)),
 [TUI Ebook Reader□](https://github.com/wustho/baca)
+
+PDF reader - technical document focus:  
+[Sioyek](https://sioyek.info/) ([GitHub](https://github.com/ahrm/sioyek))
 
 ePub reader:  
 [WebBrowserTools' ePub reader☁](https://webbrowsertools.com/epub-reader/)
@@ -81,3 +85,31 @@ Social media:
 
 Curated piles💩:  
 [TAPoR](https://tapor.ca/home)
+
+### PDF analysis
+
+[IPA](https://github.com/seekbytes/IPA)
+
+Inspect tree structure:  
+[PDF debugger☁](https://pdf.hyzyla.dev/),
+[PDF Inspector](https://www.reportmill.com/snaptea/PDFViewer/)
+[PDFSyntax🐍](https://pdfsyntax.dev/) ([GitHub](https://github.com/desgeeko/pdfsyntax))
+
+Object-based inspection:  
+[RUPS](https://github.com/itext/rups)
+
+Character-by-character inspection:  
+[pdfplumber🐍](https://pypi.org/project/pdfplumber/)
+
+Visually compare two PDF files:  
+[Aspose's Compare PDF☁](https://products.aspose.app/pdf/comparison),
+[diff-pdf](https://vslavik.github.io/diff-pdf/) ([GitHub](https://github.com/vslavik/diff-pdf)),
+[Draftable's Compare PDF & Word Documents Online☁](https://draftable.com/compare),
+[PDF24 Compare PDF files☁](https://tools.pdf24.org/en/compare-pdf),
+[PDF Compare☁](https://copyleaks.com/text-compare/compare-pdf-files)
+
+Printed document duplicate finder:  
+[DFD](https://dfd.inf.tu-dresden.de/)
+
+Optical mark recognition (OMR) evaluation:  
+[OMRChecker](https://github.com/Udayraj123/OMRChecker)

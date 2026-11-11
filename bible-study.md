@@ -11,6 +11,7 @@ Torah/Bible study websites:
 [Bible Hub](https://biblehub.com/),
 [BiblePortal.com](https://bibleportal.com/),
 [Bible Study Tools' Library of Resources](https://www.biblestudytools.com/library/),
+[Deep Dive Bible](https://deepdivebible.org/),
 [Study Bible](https://studybible.info/)
 
 Torah/Bible study software:  

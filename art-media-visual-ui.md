@@ -1,5 +1,5 @@
 
-# Tools for acquiring lots of UX/design information/components💩
+# Tools for acquiring lots of software UX/design information/components💩
 
 Front-end piles💩:  
 [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers),

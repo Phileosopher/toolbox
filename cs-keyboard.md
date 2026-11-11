@@ -93,6 +93,9 @@ Sound feedback - typewriter sound effect:
 Additional keyboard entry layer:  
 [Extend Extra Extreme](https://dreymar.colemak.org/layers-extend.html)
 
+Stenotype engine (stenography):  
+[Plover](https://opensteno.org/plover/) ([GitHub](https://github.com/opensteno/plover))
+
 ## Shortcuts
 
 Keyboard shortcut reference and courses:  

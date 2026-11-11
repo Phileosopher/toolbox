@@ -89,6 +89,11 @@ Specific generators:
 Math animations:  
 [Manim⊞🐧🐍](https://www.manim.community/) ([GitHub](https://github.com/manimCommunity/manim))
 
+## LaTeX
+
+Symbol reference via handwriting:  
+[Detexify☁](https://detexify.kirelabs.org/#/)
+
 ## Math Community
 
 [Mathematics Stack Exchange](https://math.stackexchange.com/)

@@ -4,8 +4,7 @@
 ## Media-based social networks
 
 Everything-at-once:  
-[Facebook🧛](https://www.facebook.com/),
-[Gab](https://gab.com/)
+[Meta's Facebook🧛](https://www.facebook.com/)
 
 Wikis:  
 [Fandom🧛](https://www.fandom.com/),
@@ -16,10 +15,19 @@ Text/post feed:
 [Mastodon🍎🤖🕵️](https://joinmastodon.org/),
 [Minds](https://www.minds.com/)
 
+Text/post feed - alt-tech:  
+[Gab](https://gab.com/),
+[GETTR](https://gettr.com/),
+[Parler](https://www.parler.com/),
+[Truth Social](https://truthsocial.com/)
+
 Topical forums:  
 [Reddit🧛](https://reddit.com),
 [Lemmy🍎🤖](https://join-lemmy.org/),
 [The Something Awful Forums](https://forums.somethingawful.com/)
+
+Books and reviews:  
+[Amazon's Goodreads🧛](https://www.goodreads.com/)
 
 Videos/images:  
 [Pixelfed🍎🤖🕵️](https://pixelfed.org/)
@@ -27,11 +35,11 @@ Videos/images:
 Videos:  
 [BitChute](https://www.bitchute.com/),
 [Dailymotion](https://www.dailymotion.com/),
-[Facebook Live🧛](https://www.facebook.com/watch/live/),
+[Meta's Facebook Live🧛](https://www.facebook.com/watch/live/),
 [Odysee](https://odysee.com/),
 [PeerTube](https://joinpeertube.org/),
 [Vimeo](https://vimeo.com/watch),
-[YouTube🧛](https://www.youtube.com/)
+[Google's YouTube🧛](https://www.youtube.com/)
 
 Videos - short-form:  
 [Mix](https://mix.com/),
@@ -43,8 +51,12 @@ Images:
 [Flickr🔌🧛](https://www.flickr.com/),
 [Pinterest🍎🤖](https://pinterest.com)
 
+Images - alt-tech:  
+[4chan](https://4chan.org/),
+[8chan/8kun](https://8kun.top/)
+
 Images feed:  
-[Instagram🧛](https://www.instagram.com/)
+[Meta's Instagram🧛](https://www.instagram.com/)
 
 Blog posts/articles:  
 [Medium🧛](https://medium.com/),
@@ -52,7 +64,7 @@ Blog posts/articles:
 [WordPress](https://wordpress.com/)
 
 Simultaneous group chat:  
-[Discord](https://discord.com/),
+[Discord🧛](https://discord.com/),
 [ICQ](https://icq.com/),
 [Kik](https://kik.com/),
 [matrix⊞⌘🐧🍎🤖🕵️](https://matrix.org/),
@@ -61,13 +73,6 @@ Simultaneous group chat:
 Simultaneous group chat - IRC search:  
 [IRC Index](https://netsplit.de/)
 [Mibbit Search](https://search.mibbit.com/)
-
-Simultaneous chat - topic search:  
-[DISBOARD](https://disboard.org/),
-[Discadia](https://discadia.com/),
-[DiscordBee](https://discordbee.com/home),
-[Discord Servers](https://discordservers.com/),
-[Public Discord Servers and Bots](https://discord.me/servers)
 
 ## Creator-based social networks
 
@@ -119,7 +124,27 @@ IRL - meetings:
 [Radius](https://radius.to/),
 [townscript](https://www.townscript.com/)
 
-## Discord front-ends and enhancements
+## 4chan front-ends and enhancements
+
+Image-only frontend:  
+[ThreadPuller☁](https://thread-puller.party/)
+
+Enhancement suite:  
+[4chan X⇉](https://www.4chan-x.net/) ([GitHub](https://github.com/ccd0/4chan-x/), with [OneeChan](https://github.com/KevinParnell/OneeChan))
+
+Search:  
+[4chan Search☁](https://4chansearch.org/)
+
+Community-run archive:  
+[4plebs☁](https://4plebs.org/),
+[Archived.Moe☁](https://archived.moe/),
+[not arch.b4k.co☁](https://arch.b4k.dev/)
+
+## Amazon's Goodreads front-ends and enhancements🧛
+
+[BiblioReads](https://biblioreads.eu.org/) ([GitHub](https://github.com/nesaku/BiblioReads))
+
+## Discord front-ends and enhancements🧛
 
 [Bluecord🤖](https://bluesmods.com/bluecord/),
 [discord-PWA](https://github.com/NeverDecaf/discord-PWA),
@@ -138,23 +163,43 @@ Separate voice channels:
 Tracking and saving information🕵️:  
 [Discord History Tracker](https://dht.chylex.com/)
 
-## Facebook front-ends and enhancements
+Topic search:  
+[DISBOARD](https://disboard.org/),
+[Discadia](https://discadia.com/),
+[DiscordBee](https://discordbee.com/home),
+[Discord Servers](https://discordservers.com/),
+[Public Discord Servers and Bots](https://discord.me/servers)
 
-Search:  
-[Export Facebook Pages Post Likes to Excel☁](https://commentpicker.com/export-likes-facebook.php),
-[Export Facebook Comments to Excel & CSV☁](https://commentpicker.com/export-comments-facebook.php),
-[Facebook Post ID Finder☁](https://commentpicker.com/facebook-post-id-finder.php)
-
-Video downloader:  
-[Facebook Video Downloader☁](https://getfbvideo.pro/)
-
-## Fandom front-ends and enhancements
+## Fandom front-ends and enhancements🧛
 
 [BreezeWiki](https://breezewiki.com/) ([Git](https://gitdab.com/cadence/breezewiki))
 
-## Goodreads front-ends and enhancements
+## Google's YouTube front-ends and enhancements🧛
 
-[BiblioReads](https://biblioreads.eu.org/) ([GitHub](https://github.com/nesaku/BiblioReads))
+[CloudTube](https://tube.cadence.moe/),
+[FreeTube⊞⌘🐧](https://freetubeapp.io/) ([GitHub](https://github.com/FreeTubeApp/FreeTube)),
+[Invidious](https://invidious.io/) ([GitHub](https://github.com/iv-org/invidious)),
+[Piped☁](https://piped.video/) ([GitHub](https://github.com/TeamPiped/Piped)),
+[yattee⌘🍎](https://github.com/yattee/yattee)
+
+TV channel experience:  
+[YTCH](https://ytch.tv/)
+
+Ad blocking:  
+[SponsorBlock🔌](https://sponsor.ajay.app/) ([GitHub](https://github.com/ajayyy/SponsorBlock))
+
+Channel reviews:  
+[Favoree☁](https://www.favoree.io/)
+
+Restricted content:  
+[YouTube Region Restriction Checker☁](https://polsy.org.uk/stuff/ytrestrict.cgi)
+
+YouTube Music:  
+[Beatbump](https://beatbump.io/),
+[Hyperpipe](https://hyperpipe.surge.sh/)
+
+Archived YouTube data:  
+[Internet Archive's Youtube Videos](https://archive.org/details/youtubecrawl)
 
 ## Kik front-ends and enhancements
 
@@ -176,6 +221,27 @@ Username search:
 Photo upload enhancement:  
 [MeetupOrganizer🍎](https://github.com/ayunav/MeetupOrganizer)
 
+## Meta's Facebook front-ends and enhancements🧛
+
+Front-ends:  
+[Caprine](https://github.com/sindresorhus/caprine)
+[SlimSocial for Facebook](https://f-droid.org/packages/it.rignanese.leo.slimfacebook/) ([GitHub](https://github.com/rignaneseleo/SlimSocial-for-Facebook)),
+
+Search:  
+[Export Facebook Pages Post Likes to Excel☁](https://commentpicker.com/export-likes-facebook.php),
+[Export Facebook Comments to Excel & CSV☁](https://commentpicker.com/export-comments-facebook.php),
+[Facebook Post ID Finder☁](https://commentpicker.com/facebook-post-id-finder.php)
+
+Video downloader:  
+[Facebook Video Downloader☁](https://getfbvideo.pro/),
+[Facebook Video Downloader Online☁](https://fdown.net/),
+[facebook-dl🐍](https://github.com/sdushantha/facebook-dl),
+[FBDownloader☁](https://fvdownloader.net/),
+[Online Facebook Video Downloader☁](https://downvideo.net/)
+
+Export Facebook archive JSON to table:  
+[fbjson2table🐍](https://pypi.org/project/fbjson2table/)
+
 ## Pinterest front-ends and enhancements
 
 Remove no-login restrictions:  
@@ -190,7 +256,7 @@ Username search:
 
 [Quetre](https://quetre.iket.me/) ([GitHub](https://github.com/zyachel/quetre))
 
-## Reddit front-ends and enhancements
+## Reddit front-ends and enhancements🧛
 
 Full Reddit search:  
 [Pholder](https://pholder.com/)
@@ -326,38 +392,11 @@ Inventory improvement:
 
 [Nekogram🤖](https://nekogram.app/) ([GitHub](https://github.com/Nekogram/Nekogram))
 
-## TikTok front-ends and enhancements
+## TikTok front-ends and enhancements🧛
 
 [ProxiTok](https://proxitok.pussthecat.org/)
 
-## Twitter/X front-ends and enhancements
+## X/Twitter front-ends and enhancements🧛
 
 ActivityPub bridge:  
 [bird.makeup](https://bird.makeup/)
-
-## YouTube front-ends and enhancements
-
-[CloudTube](https://tube.cadence.moe/),
-[FreeTube⊞⌘🐧](https://freetubeapp.io/) ([GitHub](https://github.com/FreeTubeApp/FreeTube)),
-[Invidious](https://invidious.io/) ([GitHub](https://github.com/iv-org/invidious)),
-[Piped☁](https://piped.video/) ([GitHub](https://github.com/TeamPiped/Piped)),
-[yattee⌘🍎](https://github.com/yattee/yattee)
-
-TV channel experience:  
-[YTCH](https://ytch.tv/)
-
-Ad blocking:  
-[SponsorBlock🔌](https://sponsor.ajay.app/) ([GitHub](https://github.com/ajayyy/SponsorBlock))
-
-Channel reviews:  
-[Favoree☁](https://www.favoree.io/)
-
-Restricted content:  
-[YouTube Region Restriction Checker☁](https://polsy.org.uk/stuff/ytrestrict.cgi)
-
-YouTube Music:  
-[Beatbump](https://beatbump.io/),
-[Hyperpipe](https://hyperpipe.surge.sh/)
-
-Archived YouTube data:  
-[Internet Archive's Youtube Videos](https://archive.org/details/youtubecrawl)

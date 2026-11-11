@@ -1,6 +1,8 @@
 
 # Tools for software development
 
+Note: front-end-specific is located at [UI design](art-media-visual-ui.md) and [UI assets](art-media-visual-ui.md)
+
 Piles of everything💩:  
 [andou tech-resources](https://andou.github.io/tech-resources/),
 [awesome](https://github.com/sindresorhus/awesome) (with [Awesome Search](https://awesomelists.top/)),

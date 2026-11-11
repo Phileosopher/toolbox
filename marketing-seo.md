@@ -19,6 +19,8 @@ Google ad preview:
 
 ## Keyword Tracking
 
+NOTE: more in [trends](people-trends.md)
+
 Keyword research:  
 [Keyword Discovery](https://www.keyworddiscovery.com/),
 [Wordtracker's Free Keyword Research Tool](https://www.wordtracker.com/)
@@ -102,3 +104,8 @@ SERP (search engine results page) preview:
 
 Meta tag generator:  
 [Meta Tags☁](https://metatags.io/)
+
+## Ad campaign APIs
+
+Facebook:  
+[Meta Marketing API](https://developers.facebook.com/documentation/ads-commerce/marketing-api)

@@ -11,6 +11,7 @@ Password management - Windows:
 [Password Security Scanner⊞■](https://www.nirsoft.net/utils/password_security_scanner.html)
 
 Password generator:  
+[DinoPass☁](https://dinopass.com/),
 [Password generator☁](https://xorbin.com/tools/password-generator)
 
 Two-factor authentication:  

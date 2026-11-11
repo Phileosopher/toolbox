@@ -22,7 +22,8 @@ Twitter list search🧛:
 ## Trends
 
 Popular trends:  
-[Google Trends - Hot Searches visualization🧛](https://trends.google.com/trends/hottrends/visualize)
+[4stats.io](https://4stats.io/),
+[Google Trends - Hot Searches visualization🧛](https://trends.google.com/trends/hottrends/visualize),
 [Exploding Topics☁](https://explodingtopics.com/),
 [English Wikipedia Top 100☁](https://top.hatnote.com/),
 [Pinterest Trends](https://trends.pinterest.com/),
