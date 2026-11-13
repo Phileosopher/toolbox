@@ -1,18 +1,6 @@
 
 # Tools for acquiring lots of software UX/design information/components💩
 
-Front-end piles💩:  
-[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers),
-[frontend-development](https://github.com/codingknite/frontend-development),
-[link-list](https://github.com/Vincenius/link-list),
-[Tiny helpers](https://tiny-helpers.dev/),
-[UI Goodies](https://www.uigoodies.com/)
-
-## Planning
-
-Checklist:  
-[Front-End Checklist☁](https://frontendchecklist.io/) ([GitHub](https://github.com/thedaviddias/Front-End-Checklist)),
-
 ## Front-End Frameworks
 
 Beginner-friendly:  
@@ -47,6 +35,7 @@ Cross-platform webapps:
 ## HTML+CSS+JS Code Snips
 
 [Code My UI☁](https://codemyui.com/),
+[CSS Author's Freebies](https://cssauthor.com/freebies/),
 [LittleSnippets.net☁](https://littlesnippets.net/)
 
 ## UI Inspiration/Learning

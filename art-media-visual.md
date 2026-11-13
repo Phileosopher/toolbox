@@ -54,32 +54,10 @@ Payment methods:
 [Microsoft Clipart Extra](https://archive.org/details/mso97clipart),
 [Openclipart](https://www.openclipart.org/)
 
-## SVGs/illustrations/animations
+## Comics
 
-[Absurd Design](https://absurd.design/), [Amigos Illustrations](https://amigos.blush.design/),
-[Black Illustrations](https://www.blackillustrations.com/), [Bulbman](https://bulbman.art/),
-[Charco](https://www.karthiksrinivas.in/charco), [Control](https://control.rocks/), [Creative Veila](https://www.veila.me/freebies/scandinavian-houses-free-vector-images),
-[DrawKit](https://www.drawkit.io/), [Dash Illustrations](https://www.karthiksrinivas.in/dash), [Delesign's Free Illustrations](https://www.delesign.com/free-designs/graphics),
-[Freellustrations](https://www.freellustrations.com/), [Fresh Folk](https://fresh-folk.com/),
-[Getillustrations.com's Ghost Builder](https://getillustrations.com/illustration-pack/ghost-illustrations-builder), [Glaze](https://www.glazestock.com/),
-[Humaaans](https://www.humaaans.com/),
-[Icons8 Illustrations](https://icons8.com/illustrations), [iconscout's Indian Doodle](https://iconscout.com/illustration-pack/indian-doodle), [iconscout's Paper Illustrations](https://iconscout.com/paper-illustrations), [illlustrations](https://illlustrations.co/), [Illustration Kit](https://illustrationkit.com/), [IRA Design](https://iradesign.io/gallery/illustrations),
-[Karthic Srinivas' Illustrations](https://www.karthiksrinivas.in/illustrations),
-[Lukasz Adam's Free Illustrations](https://lukaszadam.com),
-[Manuela Langella's Retroooo Folks!](https://www.manuelalangella.com/retroooo-folks/), [ManyPixels' Illustration Gallery](https://www.manypixels.co/gallery/),
-[mega-doodles-pack](https://github.com/MariaLetta/mega-doodles-pack),
-[Open Doodles](https://www.opendoodles.com/), [Open Peeps](https://www.openpeeps.com/),
-[Paaatterns!](https://products.ls.graphics/paaatterns/), [PIMPMYDRAWING](https://pimpmydrawing.com/),
-[Reddit's Resources for Free Illustrations](https://www.reddit.com/r/FreeIllustrations/),
-[Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations), [Shape](https://shape.so/), [sketchvalley](https://sketchvalley.com/), [Smash Illustrations](https://usesmash.com/), [Storyset by Freepik](https://storyset.com/), [SVGDevs.com](https://svgdevs.com/), [Streamline Labs](https://www.streamlinehq.com/illustrations/free-illustrations-bundle), [SVG Repo](https://www.svgrepo.com),
-[unDraw](https://undraw.co/illustrations), [useAnimations](https://useanimations.com/),
-[WOOBRO.design](https://woobro.design/)
-
-React components:  
-[React Kawaii](https://react-kawaii.vercel.app/)
-
-Content creator graphics:  
-[PixelPro.io Free Graphics](https://pixelpro.io/graphics)
+[Comic Book Plus](https://comicbookplus.com/),
+[Digital Comic Museum](https://www.digitalcomicmuseum.com/)
 
 ## Pixel art
 
@@ -106,3 +84,30 @@ Animals:
 
 Hairstyles:  
 [Hairstyles](https://www.hairfinder.com/)
+
+## SVGs/illustrations/animations
+
+[Absurd Design](https://absurd.design/), [Amigos Illustrations](https://amigos.blush.design/),
+[Black Illustrations](https://www.blackillustrations.com/), [Bulbman](https://bulbman.art/),
+[Charco](https://www.karthiksrinivas.in/charco), [Control](https://control.rocks/), [Creative Veila](https://www.veila.me/freebies/scandinavian-houses-free-vector-images),
+[DrawKit](https://www.drawkit.io/), [Dash Illustrations](https://www.karthiksrinivas.in/dash), [Delesign's Free Illustrations](https://www.delesign.com/free-designs/graphics),
+[Freellustrations](https://www.freellustrations.com/), [Fresh Folk](https://fresh-folk.com/),
+[Getillustrations.com's Ghost Builder](https://getillustrations.com/illustration-pack/ghost-illustrations-builder), [Glaze](https://www.glazestock.com/),
+[Humaaans](https://www.humaaans.com/),
+[Icons8 Illustrations](https://icons8.com/illustrations), [iconscout's Indian Doodle](https://iconscout.com/illustration-pack/indian-doodle), [iconscout's Paper Illustrations](https://iconscout.com/paper-illustrations), [illlustrations](https://illlustrations.co/), [Illustration Kit](https://illustrationkit.com/), [IRA Design](https://iradesign.io/gallery/illustrations),
+[Karthic Srinivas' Illustrations](https://www.karthiksrinivas.in/illustrations),
+[Lukasz Adam's Free Illustrations](https://lukaszadam.com),
+[Manuela Langella's Retroooo Folks!](https://www.manuelalangella.com/retroooo-folks/), [ManyPixels' Illustration Gallery](https://www.manypixels.co/gallery/),
+[mega-doodles-pack](https://github.com/MariaLetta/mega-doodles-pack),
+[Open Doodles](https://www.opendoodles.com/), [Open Peeps](https://www.openpeeps.com/),
+[Paaatterns!](https://products.ls.graphics/paaatterns/), [PIMPMYDRAWING](https://pimpmydrawing.com/),
+[Reddit's Resources for Free Illustrations](https://www.reddit.com/r/FreeIllustrations/),
+[Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations), [Shape](https://shape.so/), [sketchvalley](https://sketchvalley.com/), [Smash Illustrations](https://usesmash.com/), [Storyset by Freepik](https://storyset.com/), [SVGDevs.com](https://svgdevs.com/), [Streamline Labs](https://www.streamlinehq.com/illustrations/free-illustrations-bundle), [SVG Repo](https://www.svgrepo.com),
+[unDraw](https://undraw.co/illustrations), [useAnimations](https://useanimations.com/),
+[WOOBRO.design](https://woobro.design/)
+
+React components:  
+[React Kawaii](https://react-kawaii.vercel.app/)
+
+Content creator graphics:  
+[PixelPro.io Free Graphics](https://pixelpro.io/graphics)

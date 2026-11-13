@@ -1,7 +1,7 @@
 
 # Tools for sending information via writing
 
-## Sending Web Links
+## Sending web links
 
 [ShortURL-Services-List💩](https://github.com/sambokai/ShortURL-Services-List)
 
@@ -53,7 +53,7 @@ Link lengthener:
 Make link look suspicious:  
 [Very Legit Link☁](https://verylegit.link/)
 
-## Data-Sending Platforms
+## Message-sending platforms
 
 [Bitwarden Send⊞⌘🐧🍎🤖🕵️](https://bitwarden.com/products/send/) ([GitHub](https://github.com/bitwarden))
 
@@ -91,35 +91,7 @@ PDFs that look scanned:
 PDFs that look signed:  
 [falsisign🕵️](https://gitlab.com/edouardklein/falsisign)
 
-## Temporary Messages
-
-Short-term notes☁🕵️:  
-[Burner Note](https://burnernote.com/),
-[privnote](https://privnote.com/)
-
-Pastebin☁:  
-[0wx.org's UNIX 336 Pastebin](https://www.0wx.org/0wx/?show=paste),
-[Encrypted Pastebin🕵️](https://defuse.ca/pastebin.htm),
-[Hardbin🕵️](https://hardbin.com/),
-[JustPaste.it](https://justpaste.it/),
-[paste.gg](https://paste.gg/),
-[Pastebin.com](https://pastebin.com/) (with [iOS app🍎](https://github.com/jonluca/PasteBinApp)),
-[PrivateBin🕵️💾](https://privatebin.info/),
-[Shrib.com](https://shrib.com/),
-[Telegraph](https://telegra.ph/),
-[Toptal's Hastebin](https://www.toptal.com/developers/hastebin)
-
-Pastebin - markdown☁:  
-[MarkdownPastebin](https://markdownpastebin.com/),
-[Rentry.co](https://rentry.co/) ([Mirror](https://rentry.org/))
-
-Temporary text messages:  
-[tmpsms🕵️](https://github.com/sdushantha/tmpsms)
-
-Video messages:  
-[Loom☁⊞🍎🕵️](https://www.loom.com/)
-
-## Specific Message Needs
+## Specific message needs
 
 File hosting multi-upload/mirroring:  
 [Deepbrid Service](https://www.deepbrid.com/service),
@@ -159,7 +131,7 @@ Book publishing:
 [Lulu](https://www.lulu.com/),
 [Smashwords](https://www.smashwords.com/)
 
-## Specific Message Needs - Email
+### Email
 
 Email masks🕵️:  
 [addy.io](https://addy.io/),
@@ -174,3 +146,39 @@ Send corrupted files🕵️:
 
 Sending straight to recipient's spam folder:  
 [Straight to Spam☁](https://straight2spam.xyz/)
+
+### Temporary messages
+
+Short-term notes☁🕵️:  
+[Burner Note](https://burnernote.com/),
+[privnote](https://privnote.com/)
+
+Pastebin☁:  
+[0wx.org's UNIX 336 Pastebin](https://www.0wx.org/0wx/?show=paste),
+[Encrypted Pastebin🕵️](https://defuse.ca/pastebin.htm),
+[Hardbin🕵️](https://hardbin.com/),
+[JustPaste.it](https://justpaste.it/),
+[paste.gg](https://paste.gg/),
+[Pastebin.com](https://pastebin.com/) (with [iOS app🍎](https://github.com/jonluca/PasteBinApp)),
+[PrivateBin🕵️💾](https://privatebin.info/),
+[Shrib.com](https://shrib.com/),
+[Telegraph](https://telegra.ph/),
+[Toptal's Hastebin](https://www.toptal.com/developers/hastebin)
+
+Pastebin - markdown☁:  
+[MarkdownPastebin](https://markdownpastebin.com/),
+[Rentry.co](https://rentry.co/) ([Mirror](https://rentry.org/))
+
+Temporary text messages:  
+[tmpsms🕵️](https://github.com/sdushantha/tmpsms)
+
+Video messages:  
+[Loom☁⊞🍎🕵️](https://www.loom.com/)
+
+## Translation
+
+English-to-slang:  
+[Gizoogle's Textilizer](https://gizoogle.net/textilizer.php)
+
+Latin-to-Arabic text:  
+[Lexilogos](https://www.lexilogos.com/keyboard/arabic_latin.htm)

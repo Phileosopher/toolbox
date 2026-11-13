@@ -1,9 +1,17 @@
 
 # Tools for web developers
 
-Piles of everything💩:  
+Note: More in [UI design](art-design-visual-ui.md) for front-end
+
+Curated piles💩:  
+[Awesome-Tools-For-WebDevelopers](https://github.com/mjebrahimi/Awesome-Tools-For-WebDevelopers),
 [awwwesome](https://github.com/sarfarazstark/awwwesome),
-[useful-links](https://github.com/kappa-wingman/useful-links)
+[DEVURL](https://devurl.netlify.app/),
+[Digital Point's Free Webmaster & SEO Tools☁](https://tools.digitalpoint.com/),
+[dxsrc's Web Development Tools](https://dxsrc.org/tools/),
+[inspire](https://github.com/noahbuscher/inspire),
+[useful-links](https://github.com/kappa-wingman/useful-links),
+[xWebTools☁](https://www.xwebtools.com/)
 
 ## Learning
 
@@ -12,10 +20,6 @@ Tutorials/courses:
 [guru99](https://www.guru99.com/),
 [W3Schools](https://www.w3schools.com/),
 [web.dev](https://web.dev/)
-
-Front-end courses:  
-[Frontend mentor](https://frontendmentor.io)
-[the odin project](https://www.theodinproject.com)
 
 Games:  
 [css battle](https://cssbattle.dev/)
@@ -89,7 +93,8 @@ Wi-Fi access point:
 ## 1: Planning
 
 Checklist:  
-[Toptal's Web Developer Checklist*](https://www.toptal.com/developers/webdevchecklist)
+[Toptal's Web Developer Checklist*](https://www.toptal.com/developers/webdevchecklist),
+[website-development-questionnaire](https://github.com/0nn0/website-development-questionnaire)
 
 App cost calculator:  
 [Estimate My App](https://estimatemyapp.com/)
@@ -285,6 +290,10 @@ HTTP:
 
 ### Testing
 
+Performance testing checklist:  
+[Front-End-Performance-Checklist💩](https://github.com/thedaviddias/Front-End-Performance-Checklist),
+[performance-checklist💩](https://github.com/flowforfrank/performance-checklist)
+
 Speed test:  
 [Cloudflare Internet Speed Test☁](https://speed.cloudflare.com/),
 [DSLReports' Speed test☁](https://www.dslreports.com/speedtest),
@@ -332,6 +341,7 @@ HOSTS file:
 ## Web development community
 
 Web dev journalism:  
+[dxsrc](https://dxsrc.org/),
 [ForumWeb](https://forumweb.hosting/)
 
 Forums and social media:  
@@ -341,3 +351,6 @@ Forums and social media:
 Low-end hosting discussion:  
 [LowEndSpirit](https://lowendspirit.com/),
 [LowEndTalk](https://lowendtalk.com/)
+
+Browser maintainer journalism:  
+[The Mozilla Blog](https://blog.mozilla.org/)

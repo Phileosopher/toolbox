@@ -75,6 +75,11 @@ Macbook:
 Book covers:  
 [DIY Book Cover's 3D Book Cover Creator☁](https://diybookcovers.com/3Dmockups/)
 
+## Web hosting
+
+Webcomic hosting:  
+[ComicFury](https://comicfury.com/)
+
 ## Visual design community
 
 Video tutorials:  

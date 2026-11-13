@@ -78,6 +78,9 @@ News:
 [Infosecurity Magazine](https://www.infosecurity-magazine.com/),
 [SC Media (part of CyberRisk Alliance)](https://www.scworld.com/)
 
+News - browser security:  
+[Mozilla Security Blog](https://blog.mozilla.org/security/)
+
 News - Linux security:  
 [LinuxSecurity.com](https://linuxsecurity.com/)
 

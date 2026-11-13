@@ -53,7 +53,8 @@ Images:
 
 Images - alt-tech:  
 [4chan](https://4chan.org/),
-[8chan/8kun](https://8kun.top/)
+[8chan/8kun](https://8kun.top/),
+[Minichan](https://minichan.net/)
 
 Images feed:  
 [Meta's Instagram🧛](https://www.instagram.com/)

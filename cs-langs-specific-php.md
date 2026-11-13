@@ -6,3 +6,6 @@
 Cheat sheets:  
 [PHP Cheatsheets](https://phpcheatsheets.com/),
 [PHP Configuration](https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html),
+
+Algorithm implementations:  
+[PHPAlgorithms](https://github.com/doganoo/PHPAlgorithms)

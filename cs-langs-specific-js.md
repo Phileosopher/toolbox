@@ -16,6 +16,9 @@ Tutorials:
 Cheatsheets:  
 [Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
 
+Algorithm implementations:  
+[javascript-algorithms](https://github.com/mgechev/javascript-algorithms)
+
 Front-end courses:  
 [Javascript30](https://javascript30.com)
 [vue school](https://vueschool.io/)
@@ -28,6 +31,9 @@ Node:
 ## Optimization
 
 [The JavaScript Oxidation Compiler](https://oxc.rs/) ([GitHub](https://github.com/oxc-project/oxc))
+
+Minifier:  
+[minify](https://github.com/matthiasmullie/minify)
 
 ## Optimization - dependencies
 

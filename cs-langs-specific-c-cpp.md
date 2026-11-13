@@ -7,6 +7,18 @@ Optical simulation/design:
 Code profiling:  
 [Luke Stackwalker](https://lukestackwalker.sourceforge.net/)
 
+## Learning
+
+C algorithm implementations:  
+[C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+
+C library and data structures:  
+[sc](https://github.com/tezc/sc),
+[C-Macro-Collections](https://github.com/LeoVen/C-Macro-Collections)
+
+C++ tutorials - algorithms and data structures:  
+[Algorithms for Competitive Programming](https://cp-algorithms.com/) ([GitHub](https://github.com/cp-algorithms/cp-algorithms))
+
 ## Specific tools
 
 HTTP server within another program:  

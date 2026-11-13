@@ -41,6 +41,9 @@ Broad component libraries:
 Node-based UIs:  
 [xyflow](https://xyflow.com/) ([GitHub](https://github.com/xyflow/xyflow), with [React Flow](https://reactflow.dev/) and [Svelte Flow](https://svelteflow.dev/))
 
+Design systems:  
+[Pinterest's Gestalt](https://gestalt.pinterest.systems/) ([GitHub](https://github.com/pinterest/gestalt))
+
 ## Libraries: specific elements and interactions
 
 Charts (with D3.js):  

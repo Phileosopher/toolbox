@@ -33,7 +33,9 @@ Stable everyday use:
 [Fedora Linux Workstation](https://fedoraproject.org/workstation/)
 
 Stable everyday use (low-spec):
-[Linux Mint](https://linuxmint.com/), [Puppy Linux](https://puppylinux.com/)
+[Linux Mint](https://linuxmint.com/),
+[Puppy Linux](https://puppylinux.com/),
+[LCOS](https://github.com/BryanLunduke/LCOS)
 
 Mac-familiar Linux:  
 [Ubuntu Linux](https://ubuntu.com/)

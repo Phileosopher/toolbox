@@ -77,6 +77,10 @@ Photo guides:
 Educational audio/video:  
 [LearnOutLoud.com](https://www.learnoutloud.com/)
 
+Content referenced on Hacker News:  
+[HackerBooks](https://hackerbooks.org/),
+[HackerTube](https://hackertube.org/)
+
 ### Wikipedia
 
 Wikipedia reader:  

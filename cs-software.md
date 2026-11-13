@@ -97,6 +97,7 @@ Courses/Tutorials:
 [GeeksforGeeks](https://www.geeksforgeeks.org/),
 [How to be a Programmer](https://braydie.gitbooks.io/how-to-be-a-programmer/) ([GitHub](https://github.com/braydie/HowToBeAProgrammer)),
 [open-source-cs](https://github.com/ForrestKnight/open-source-cs),
+[RIP Tutorial](https://riptutorial.com/),
 [TutorialsPoint](https://www.tutorialspoint.com)
 
 Kid-friendly:  
@@ -123,6 +124,9 @@ Video tutorials:
 [The Coding Train](https://thecodingtrain.com/),
 [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw),
 [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+
+Example apps:  
+[realworld](https://github.com/realworld-apps/realworld)
 
 ## Project naming
 
