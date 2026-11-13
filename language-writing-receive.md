@@ -1,17 +1,6 @@
 
 # Tools for receiving written information
 
-Language translation☁:  
-[DeepL](https://www.deepl.com/translator),
-[Google Translate🧛](https://translate.google.com/),
-[LibreTranslate](https://libretranslate.com/) [GitHub](https://github.com/LibreTranslate/LibreTranslate),
-[Lingva Translate](https://lingva.ml/) ([GitHub](https://github.com/thedaviddelta/lingva-translate)),
-[PROMT.One Translator](https://www.online-translator.com/)
-
-Language translation - browser plugin🔌:  
-[Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/),
-[TWP](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-
 ## Researching Senders🕵️
 
 Short link scan/unshortener☁:  
