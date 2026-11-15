@@ -94,6 +94,9 @@ PDF/TIFF - splitter/joiner:
 
 [Handy](https://handy.computer/) ([GitHub](https://github.com/cjpais/Handy))
 
+YouTube video transcripts:  
+[GetYouTubeTranscript☁⇉🔌⬆️](https://getyoutubetranscript.com/)
+
 ## Text Adaptation
 
 Removing extra whitespace:  
