@@ -71,6 +71,9 @@ Comic books:
 Lightnovels:  
 [lightnovel-crawler🐍](https://pypi.org/project/lightnovel-crawler/) ([GitHub](https://github.com/dipu-bd/lightnovel-crawler))
 
+Mobile reader back-end:  
+[MobileRead](https://wiki.mobileread.com/wiki/Main_Page)
+
 ## Book Managers
 
 [Alexandria⊞■⌘🐧](https://github.com/btpf/Alexandria),

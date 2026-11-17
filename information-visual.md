@@ -96,18 +96,15 @@ Tracking new releases:
 [Simkl](https://simkl.com/),
 [Trakt](https://trakt.tv/)
 
-## Video/Audio Information
+## Video/audio information and metadata
 
-TL;DW YouTube:  
+YouTube video summaries:  
 [you-tldr🎰](https://www.you-tldr.com/)
-
-TL;DW YouTube - Transcript:  
-[YouTube Transcript🎰](https://youtubetranscript.com/)
 
 Film and TV re-releases:  
 [Movie-Censorship.com](https://www.movie-censorship.com/)
 
-Database:  
+Database - films and TV:  
 [IMDb](https://www.imdb.com/) (with [libremdb](https://libremdb.iket.me/) as a front-end)
 
 Database - TV:  

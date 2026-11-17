@@ -81,15 +81,20 @@ Money:
 [Braid☁](https://braid.co/),
 [Privacy☁](https://privacy.com/)
 
+## Image files
+
+Remove metadata:🕵️  
+[Metadata Delete☁](https://metadatadelete.com/)
+
 ## PDF files
 
 [FILE.re](https://file.re/)
 
-PDFs that look scanned:  
-[Scan Your PDF☁🕵️](https://www.scanyourpdf.com/) ([GitHub](https://github.com/baicunko/scanyourpdf))
+PDFs that look scanned🕵️:  
+[Scan Your PDF☁](https://www.scanyourpdf.com/) ([GitHub](https://github.com/baicunko/scanyourpdf))
 
-PDFs that look signed:  
-[falsisign🕵️](https://gitlab.com/edouardklein/falsisign)
+PDFs that look signed🕵️:  
+[falsisign](https://gitlab.com/edouardklein/falsisign)
 
 ## Specific message needs
 

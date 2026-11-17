@@ -16,6 +16,10 @@ Troubleshooting cheatsheet:
 Remap inputs:  
 [input-remapper](https://github.com/sezanzeb/input-remapper)
 
+System info:  
+[dmidecode](https://linux.die.net/man/8/dmidecode),
+[hardinfo2](https://hardinfo2.org/) ([GitHub](https://github.com/hardinfo2/hardinfo2))
+
 ## Learning
 
 Arch-based distro:  

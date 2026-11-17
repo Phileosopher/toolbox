@@ -43,3 +43,8 @@ News - outlets:
 
 Discussion boards:  
 [Science Forums](https://www.scienceforums.net/)
+
+## Scientific community
+
+Open research:  
+[Authorea](https://www.authorea.com/)

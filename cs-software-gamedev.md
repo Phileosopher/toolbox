@@ -112,21 +112,6 @@ Curated piles💩:
 [awesome-ai-tools-for-game-dev](https://github.com/simoninithomas/awesome-ai-tools-for-game-dev),
 [awesome-game-ai](https://github.com/datamllab/awesome-game-ai),
 
-## Game Publishing
-
-[itch.io☁](https://itch.io/)
-
-Compatibility tool for Linux:  
-[Proton](https://github.com/ValveSoftware/Proton)
-
-### Steam publishing
-
-Server updates:  
-[SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD) (with [SteamCMD-GUI](https://github.com/AndrSator/SteamCMD-GUI) for a GUI frontend)
-
-Steamworks integration - nw.js/Electron:  
-[greenworks](https://github.com/greenheartgames/greenworks)
-
 ## Game dev community
 
 Videos and news:  

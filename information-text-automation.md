@@ -92,10 +92,11 @@ PDF/TIFF - splitter/joiner:
 
 ## Speech to text
 
-[Handy](https://handy.computer/) ([GitHub](https://github.com/cjpais/Handy))
+[Handy🐧](https://handy.computer/) ([GitHub](https://github.com/cjpais/Handy))
 
 Video transcript - YouTube:  
-[GetYouTubeTranscript☁⇉🔌⬆️](https://getyoutubetranscript.com/)
+[GetYouTubeTranscript☁⇉🔌⬆️](https://getyoutubetranscript.com/),
+[YouTube Transcript🎰](https://youtubetranscript.com/)
 
 ## Text Adaptation
 
