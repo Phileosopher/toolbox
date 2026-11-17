@@ -1,6 +1,8 @@
 
 # Tools for enjoying computer games
 
+Note: more in [game development](cs-software-gamedev.md)
+
 Curated piles💩:  
 [A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails?id=451698754)
 
@@ -51,7 +53,7 @@ Games only - DRM-free:
 Front-end improvements for Steam:  
 [Pressure-for-Steam](https://github.com/DirtDiglett/Pressure-for-Steam)
 
-## Virtual gaming platforms
+## Virtual gaming platforms and emulators
 
 [Emulator files](https://emulation.gametechwiki.com/index.php/Emulator_files)
 
@@ -96,6 +98,9 @@ Microsoft MS-DOS:
 
 Microsoft Xbox:  
 [xemu](https://xemu.app/) ([GitHub](https://github.com/xemu-project/xemu))
+
+Neo-Geo:  
+[NEOGEOFUN☁](https://www.neogeofun.com/)
 
 Nintendo Entertainment System (NES):  
 [FCEUX](https://fceux.com/),
@@ -154,7 +159,7 @@ Sony PSP:
 Sony PlayStation 3:  
 [RPCS3⊞🐧](https://rpcs3.net/) ([GitHub](https://github.com/RPCS3/rpcs3))
 
-## Legacy computer systems
+## Emulators for legacy computer systems
 
 Very, very old computers:  
 [SimH🐧](http://simh.trailing-edge.com/)
@@ -195,7 +200,7 @@ Texas Instruments calculators - TI-89 onward:
 Flash Player:  
 [Ruffle⊞⌘🐧⇉](https://ruffle.rs/) ([GitHub](https://github.com/ruffle-rs/ruffle))
 
-## Expanding the Experience
+## Expanding the experience
 
 Pausing any game:  
 [Universal Pause Button⊞](https://github.com/ryanries/UniversalPauseButton)
@@ -213,7 +218,19 @@ Mods:
 Steam - symlink to move less-used games:  
 [Steam Mover](https://www.traynier.com/software/steammover)
 
-## Games Tracking
+### Specific console hacks and firmware
+
+Nintendo 3DS:  
+[3DS Hacks Guide](https://3ds.hacks.guide/) ([GitHub](https://github.com/hacks-guide/Guide_3DS))
+
+Sony Playstation:  
+[PlayStation DataCenter💩](https://psxdatacenter.com/),
+[PSXHAX💩](https://www.psxhax.com/)
+
+Sony PlayStation Vita:  
+[Vita Hacks Guide](https://vita.hacks.guide/) ([Github](https://github.com/hacks-guide/Guide_Vita))
+
+## Games tracking
 
 Steam game tracking:  
 [Steam Gauge☁](https://www.mysteamgauge.com/),

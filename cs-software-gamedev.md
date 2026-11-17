@@ -3,8 +3,14 @@
 
 ## Curated piles💩
 
+[anything_about_game](https://github.com/killop/anything_about_game),
 [awesome-gamedev](https://github.com/Calinou/awesome-gamedev),
+[GameDevelopmentLinks](https://github.com/UnterrainerInformatik/GameDevelopmentLinks),
+[Game-Jam-Tools-Resources](https://github.com/kobitoko/Game-Jam-Tools-Resources),
 [magictools](https://github.com/ellisonleao/magictools)
+
+Game engines:  
+[awesome-game-engine-dev](https://github.com/stevinz/awesome-game-engine-dev)
 
 AI tools:  
 [RespawnStack](https://respawnstack.com)
@@ -16,11 +22,28 @@ Web-based games:
 Steam games:  
 [awesome-steam](https://github.com/scholtzm/awesome-steam)
 
+### Specific consoles
+
+Nintendo Game Boy:  
+[gbdev.io](https://gbdev.io/) ([GitHub](https://github.com/gbdev/awesome-gbdev))
+
+Nintendo N64:  
+[Awesome N64 Development](https://n64.dev/) ([GitHub](https://github.com/command-tab/awesome-n64-development))
+
+Playstation Vita:  
+[Awesome-PlayStation-Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita)
+
+Sega Genesis/Mega Drive:  
+[awesome-smd-sg-dev](https://github.com/PaulTheRoman/awesome-smd-sg-dev)
+
 ## Learning
 
 [awesome-game-design](https://github.com/Roobyx/awesome-game-design),
 [awesome-learn-gamedev](https://github.com/notpresident35/awesome-learn-gamedev),
 [Game-Development-Guide](https://github.com/mikeroyal/Game-Development-Guide)
+
+2D games:  
+[2D Game Development: From Zero To Hero](https://therealpenaz91.itch.io/2dgd-f0th) ([GitHub](https://github.com/2DGD-F0TH/2DGD_F0TH))
 
 Existing games' technologies:  
 [Awesome-Game-Analysis](https://github.com/OTFCG/Awesome-Game-Analysis)
@@ -34,6 +57,7 @@ Existing game data - Steam:
 ## Game Engines
 
 Visual novels:  
+[ChoiceScript](https://www.choiceofgames.com/make-your-own-games/choicescript-intro/) ([GitHub](https://github.com/dfabulich/choicescript/)),
 [Ren'Py](https://www.renpy.org/) ([GitHub](https://github.com/renpy/renpy))
 
 Web game engine - no-code:  
@@ -42,6 +66,10 @@ Web game engine - no-code:
 Web game engine - HTML5:  
 [Phaser](https://phaser.io/) ([GitHub](https://github.com/phaserjs/phaser)),
 [PlayCanvas](https://playcanvas.com/)
+
+2d engine:  
+[GameMaker](https://gamemaker.io/),
+[RPG Maker](https://www.rpgmakerweb.com/)
 
 2D engine - JS:  
 [Construct](https://www.construct.net/en)
@@ -56,6 +84,7 @@ Web game engine - HTML5:
 [Flax Engine](https://flaxengine.com/) ([GitHub](https://github.com/FlaxEngine/FlaxEngine)),
 [Godot Engine](https://godotengine.org/) (([GitHub](https://github.com/godotengine/godot)), with [awesome-godot](https://github.com/godotengine/awesome-godot)),
 [Source SDK🆓](https://developer.valvesoftware.com/wiki/SDK_Installation),
+[Vulkan](https://vulkan.org/)
 
 RTS engines:  
 [permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine)
@@ -81,6 +110,7 @@ Specific open-source game clones🆓💩:
 [The Dark Mod (Thief)](https://www.thedarkmod.com/),
 [Freeciv (Civilization)](https://www.freeciv.org/) ([GitHub](https://github.com/freeciv/)),
 [OpenRA (Command & Conquer)](https://www.openra.net/) ([GitHub](https://github.com/OpenRA/OpenRA)),
+[CorsixTH (Theme Hospital)](https://github.com/CorsixTH/CorsixTH),
 [Widelands (Settlers II)](https://www.widelands.org/)
 
 Unix ASCII games🆓💩:  
@@ -89,7 +119,8 @@ Unix ASCII games🆓💩:
 Licensed games:  
 [Amnesia: The Dark Descent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent),
 [Amnesia: A Machine For Pigs](https://github.com/FrictionalGames/AmnesiaAMachineForPigs),
-[Command & Conquer/Red Alert](https://github.com/electronicarts/CnC_Remastered_Collection)
+[Command & Conquer/Red Alert](https://github.com/electronicarts/CnC_Remastered_Collection),
+[Descent 3](https://github.com/DescentDevelopers/Descent3),
 [Elite (for the BBC Micro)](https://www.bbcelite.com/),
 [Redirection](https://github.com/dan200/Redirection),
 [shapez](https://shapez.io/) [GitHub](https://github.com/tobspr/shapez.io),
@@ -103,6 +134,7 @@ Free licensed games:
 [Citybound](https://aeplay.org/citybound) ([GitHub](https://github.com/citybound/citybound)),
 [Mindustry](https://mindustrygame.github.io/) ([GitHub](https://github.com/Anuken/Mindustry)),
 [Orbiter Space Flight Simulator](https://github.com/orbitersim/orbiter),
+[Second Life](https://github.com/secondlife),
 [Space Nerds In Space](https://smcameron.github.io/space-nerds-in-space/) ([GitHub](https://github.com/smcameron/space-nerds-in-space)),
 [The Battle for Wesnoth](https://www.wesnoth.org/) ([SourceForge](https://sourceforge.net/projects/wesnoth/)) ([GitHub](https://github.com/wesnoth/wesnoth))
 
