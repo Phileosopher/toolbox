@@ -4,7 +4,7 @@
 ## Back-end
 
 Media broadcasting:  
-[awesome-broadcasting](https://github.com/ebu/awesome-broadcasting)
+[awesome-broadcasting💩](https://github.com/ebu/awesome-broadcasting)
 
 Game publishing - Steamworks integration (nw.js/Electron):  
 [greenworks](https://github.com/greenheartgames/greenworks)
