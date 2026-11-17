@@ -101,17 +101,3 @@ Spreasheet to HTML table:
 
 Creative Commons:  
 [Choose a License☁](https://chooser-beta.creativecommons.org/)
-
-## Publishing
-
-Tech pay-what-you-want:  
-[Leanpub](https://leanpub.com/)
-
-## Publishing - Quick Blogging Platforms
-
-[Bear Blog](https://bearblog.dev/) ([GitHub](https://github.com/HermanMartinus/bearblog/)),
-[Emanates](https://emanates-demo.netlify.app/) ([GitHub](https://github.com/emanates/emanates-web)),
-[Haven🕵️](https://havenweb.org/),
-[Mataroa](https://mataroa.blog/),
-[twtxt💾](https://twtxt.readthedocs.io/en/stable/) ([GitHub](https://github.com/buckket/twtxt)),
-[WriteFreely](https://writefreely.org/) ([GitHub](https://github.com/writefreely/writefreely))

@@ -13,9 +13,6 @@ Web profile pages:
 [urspace](https://urspace.io/),
 [YourChamp](https://www.yourchamp.io/)
 
-Book publishing profile:  
-[Books2Read.com](https://books2read.com/)
-
 Business card - GitHub:  
 [GitHub Business Card](https://scastiel.dev/github-card) ([GitHub](https://github.com/scastiel/github-business-card))
 
