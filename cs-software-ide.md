@@ -1,6 +1,14 @@
 
 # Tools for integrated development environments
 
+Universal config:  
+[EditorConfig](https://editorconfig.org/)
+
+General-purpose syntax highlighting:  
+[GNU Source-highlight](https://www.gnu.org/software/src-highlite/) ([Savannah](https://savannah.gnu.org/projects/src-highlite)),
+[sight⇉](https://github.com/tsenart/sight),
+[ToHTML☁](https://tohtml.com/)
+
 ## Git Improvement
 
 Quickly open remote gits in the IDE:  
@@ -14,25 +22,23 @@ Auto-save a separate branch for ALL work:
 GitHub actions:  
 [awesome-actions💩](https://github.com/sdras/awesome-actions)
 
-## Classic IDE - vim
+## vim
 
-vim:  
 [vi](https://ex-vi.sourceforge.net/),
 [Vim⊞■⌘🐧🤖](https://www.vim.org/) ([GitHub](https://github.com/vim/vim)),
-[Neovim](https://neovim.io/) ([GitHub](https://github.com/neovim/neovim))
+[Neovim](https://neovim.io/) ([GitHub](https://github.com/neovim/neovim)),
+[iVim🍎](https://github.com/terrychou/iVim)
+
+Config generator:  
+[Vim Bootstrap](https://vim-bootstrap.com/) ([GitHub](https://github.com/editor-bootstrap/vim-bootstrap))
 
 vim plugin manager:  
 [vim-plug](https://github.com/junegunn/vim-plug)
 
-vim extensions⇉💩:  
-[awesome-vim](https://github.com/akrawchyk/awesome-vim),
-[Vim Awesome](https://vimawesome.com/) ([GitHub](https://github.com/vim-awesome/vim-awesome)),
-[vim-galore](https://github.com/mhinz/vim-galore),
-[vim-plugin-list](https://github.com/altermo/vim-plugin-list)
-
-neovim extensions⇉💩:  
-[neovimcraft](https://neovimcraft.com/) ([GitHub](https://github.com/neurosnap/neovimcraft)),
-[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+vim training:  
+[Vim Racer☁](https://vim-racer.com/),
+[VimGenius*](https://www.vimgenius.com/),
+[Vimschool*](https://vimschool.netlify.app/)
 
 vim keybindings everywhere:  
 [vim-keybindings-everywhere-the-ultimate-list*](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list)
@@ -41,30 +47,100 @@ vim keybindings everywhere - browser:
 [Vimium](https://vimium.github.io/) ([GitHub](https://github.com/philc/vimium)),
 [vimium-c](https://github.com/gdh1995/vimium-c)
 
+vim keybindings everywhere - Firefox⇉:  
+[Tridactyl](https://tridactyl.xyz/) ([GitHub](https://github.com/tridactyl/tridactyl))
+
+vim keybindings everywhere - Chrome⇉:  
+[cVim](https://github.com/1995eaton/chromium-vim)
+
+vi commands cheatsheet*:  
+[Vim Cheat Sheet](https://vim.rtorr.com/),
+[why-vi.rocks](https://why-vi.rocks/)
+
+### vim extensions⇉
+
+Curated piles💩:  
+[awesome-vim](https://github.com/akrawchyk/awesome-vim),
+[Vim Awesome](https://vimawesome.com/) ([GitHub](https://github.com/vim-awesome/vim-awesome)),
+[vim-galore](https://github.com/mhinz/vim-galore),
+[vim-plugin-list](https://github.com/altermo/vim-plugin-list)
+
+Plugin management:  
+[dein.vim](https://github.com/Shougo/dein.vim),
+[vim-pathogen](https://github.com/tpope/vim-pathogen),
+[vim-plug](https://junegunn.github.io/vim-plug/) ([GitHub](https://github.com/junegunn/vim-plug)),
+[Vundle.vim](https://github.com/VundleVim/Vundle.vim)
+
+Filesystem explorer:  
+[nerdtree](https://github.com/preservim/nerdtree)
+
+Search enhancement:  
+[ctrlp.vim](https://ctrlpvim.github.io/ctrlp.vim/) ([GitHub](https://github.com/ctrlpvim/ctrlp.vim))
+
+Color schemes:  
+[Solarized](https://ethanschoonover.com/solarized/) ([GitHub](https://github.com/altercation/vim-colors-solarized))
+
+Distraction-free editing:  
+[goyo.vim](https://github.com/junegunn/goyo.vim)
+
+Status line improvement:  
+[Powerline](https://github.com/powerline/powerline),
+[vim-airline](https://github.com/vim-airline/vim-airline)
+
+Automatic bulleted lists:  
+[bullets.vim](https://github.com/bullets-vim/bullets.vim)
+
+Code completion engine:  
+[YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
+
+git wrapper:  
+[vim-fugitive](https://github.com/tpope/vim-fugitive)
+
+git diff marker:  
+[vim-gitgutter](https://github.com/airblade/vim-gitgutter)
+
+Wiki system:  
+[Vimwiki by vimwiki](https://vimwiki.github.io/) ([GitHub](https://github.com/vimwiki/vimwiki))
+
+Intellisense engine:  
+[coc.nvim](https://cocnvim.com/) ([GitHub](https://github.com/neoclide/coc.nvim), with [coc-lists](https://github.com/neoclide/coc-lists))
+
+Python config:  
+[python-mode](https://github.com/python-mode/python-mode)
+
+### neovim extensions⇉
+
+Curated piles💩:  
+[neovimcraft](https://neovimcraft.com/) ([GitHub](https://github.com/neurosnap/neovimcraft)),
+[awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+
+Frontend⇉:  
+[NvChad](https://nvchad.com/) ([GitHub](https://github.com/NvChad/NvChad))
+
 vim + emacs:  
 [SpaceVim](https://spacevim.org/) ([GitHub](https://github.com/SpaceVim/SpaceVim))
 
-vim keyboard extensions for the web browser - Firefox⇉:  
-[Tridactyl](https://tridactyl.xyz/) ([GitHub](https://github.com/tridactyl/tridactyl))
+## emacs
 
-vim keyboard extensions for the web browser - Chrome⇉:  
-[cVim](https://github.com/1995eaton/chromium-vim)
+[GNU Emacs⊞⌘🐧🆓](https://www.gnu.org/software/emacs/),
+[GNU Zile](https://www.gnu.org/software/zile/)
 
-## Classic IDE - emacs
-
-emacs:  
-[GNU Emacs⊞⌘🐧🆓](https://www.gnu.org/software/emacs/) (with [awesome-emacs](https://github.com/emacs-tw/awesome-emacs))
+Curated piles💩:  
+[awesome-elisp](https://github.com/emacs-tw/awesome-elisp),
+[awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
 
 emacs config files:  
 [emacs.dz](https://github.com/caisah/emacs.dz)
 
-emacs extensions - productivity enhancement⇉:  
+### emacs extensions⇉
+
+Productivity enhancement:  
 [Org mode](https://orgmode.org/)
 
-emacs extensions - LISP package manager⇉:  
+LISP package manager⇉:  
 [MELPA](https://melpa.org/)
 
-emacs extensions - completion UI⇉:  
+Completion UI⇉:  
 [vertico](https://github.com/minad/vertico)
 
 emacs + vim:  
@@ -73,52 +149,105 @@ emacs + vim:
 
 ## Modern IDE
 
-Microsoft-tailored:  
+[KDevelop](https://kdevelop.org/) ([GitLab](https://invent.kde.org/kdevelop/kdevelop))
+
+Code-focused text editor:  
+[Helix](https://helix-editor.com/) ([GitHu](https://github.com/helix-editor/helix)),
+[Micro](https://micro-editor.github.io/) ([GitHub](https://github.com/micro-editor/micro)),
+[Sublime Text$](https://www.sublimetext.com/),
+
+IDE-style text editor enhancements:  
+[Behave](https://jakiestfu.github.io/Behave.js/) ([GitHub](https://github.com/jakiestfu/Behave.js))
+
+Linux-tailored🐧:  
+[The GTK Project⊞⌘](https://gtk.org/) ([Gitlab](https://gitlab.gnome.org/GNOME/gtk/)),
+[Zed](https://zed.dev/) ([GitHub](https://github.com/zed-industries/zed))
+
+Web-based and cloud IDE☁:  
+[awesome-online-ide💩](https://styfle.dev/projects/awesome-online-ide) ([GitHub](https://github.com/styfle/awesome-online-ide)),
+[Atheos](https://www.atheos.io/) ([GitHub](https://github.com/Atheos/Atheos)),
+[AWS Cloud9🧛](https://aws.amazon.com/cloud9/) (with [Ace](https://ace.c9.io/))
+
+Web dev tailored:  
+[BBEdit$](https://www.barebones.com/products/bbedit/)
+[Apache NetBeans⊞⌘🐧](https://netbeans.apache.org/) ([GitHub](https://github.com/apache/netbeans))
+
+Web dev - responsive web design tailored:  
+[Responsively⊞⌘🐧](https://responsively.app/)
+
+### Specific language tailored
+
+JavaScript/TypeScript-tailored:  
+[WebStorm](https://www.jetbrains.com/webstorm/)
+
+PHP-tailored:  
+[PhpStorm](https://www.jetbrains.com/phpstorm/) (with [awesome-phpstorm](https://github.com/WyriHaximus/awesome-phpstorm))
+
+Prolog-tailored:  
+[SWI-Prolog](https://www.swi-prolog.org/) ([online IDE☁](https://swish.swi-prolog.org/) and [GitHub](https://github.com/SWI-Prolog/swish))
+
+Python-tailored:  
+[PyCharm$](https://www.jetbrains.com/pycharm/)
+[Thonny](https://thonny.org/) ([GitHub](https://github.com/thonny/thonny/))
+
+### Microsoft-tailored
+
 [Visual Studio⊞🧛](https://visualstudio.microsoft.com/),
 [Visual Studio Code⊞⌘🐧🧛](https://code.visualstudio.com/),
 [VSCodium⊞⌘🐧🆓](https://vscodium.com/) ([GitHub](https://github.com/VSCodium/vscodium))
 [Visual Studio Code Web☁](https://vscode.dev/)
 
-VS Code extensions⇉💩:  
+Extensions⇉💩:  
 [awesome-vscode](https://github.com/viatsko/awesome-vscode),
 [Open VSX Registry](https://open-vsx.org/) ([GitHub](https://github.com/eclipse/openvsx))
 
-VS Code extensions - productivity enhancement⇉:  
+#### VS Code extensions⇉
+
+Productivity enhancement:  
 [vs-org](https://github.com/boydvoid/vs-org)
 
-VS Code extensions - Git improvement⇉:  
+git improvement:  
 [Git Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack)
 
-VS Code themes⇉💩:  
+browser preview:  
+[vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview)
+
+productivity management:  
+[vscode-winddown](https://github.com/schneefux/vscode-winddown)
+
+Diagramming:  
+[vscode-drawio](https://github.com/hediet/vscode-drawio)
+
+Debugging visualizer:  
+[vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer)
+
+Guided codebase tour:  
+[codetour](https://github.com/microsoft/codetour),
+[vscode-stories](https://github.com/ide-stories/vscode-stories)
+
+Web environment:  
+[codeswing](https://github.com/lostintangent/codeswing)
+
+Virtual environment:  
+[Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
+
+Themes💩:  
 [VS Code Theme Editor](https://themes.vscode.one/),
 [VS Code Themes](https://vscodethemes.com/)
 
-VS Code guides:  
-[VSCode-Guide](https://github.com/mikeroyal/VSCode-Guide)
+### Apple-tailored
 
-Apple-tailored:  
+[GNUstep](https://developer.gnustep.org/),
 [Xcode⌘🍎](https://developer.apple.com/xcode/)
+
+iOS-tailored🍎:  
+[Edhita](https://edhita.bornneet.com/) ([GitHub](https://github.com/tnantoka/edhita))
 
 Xcode config files:  
 [xcode-defaults](https://github.com/ctreffs/xcode-defaults)
 
 Xcode extensions⇉💩:  
 [awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions)
-
-Xcode guides - sample Core Data/CloudKit config:  
-[iCloudCoreDataStarter](https://github.com/jazzychad/iCloudCoreDataStarter)
-
-Linux-tailored:  
-[The GTK Project⊞⌘🐧](https://gtk.org/) ([Gitlab](https://gitlab.gnome.org/GNOME/gtk/))
-
-PHP-tailored:  
-[PhpStorm](https://www.jetbrains.com/phpstorm/) (with [awesome-phpstorm](https://github.com/WyriHaximus/awesome-phpstorm))
-
-Web dev tailored:  
-[Apache NetBeans⊞⌘🐧](https://netbeans.apache.org/) ([GitHub](https://github.com/apache/netbeans))
-
-Responsive web design tailored:  
-[Responsively⊞⌘🐧](https://responsively.app/)
 
 ## Specific-Use IDEs
 

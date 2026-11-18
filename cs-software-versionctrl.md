@@ -5,6 +5,12 @@ View line-by-line changes:
 [git-blame](https://www.git-scm.com/docs/git-blame),
 [GitLens(VS Code)](https://gitlens.amod.io/) ([GitHub](https://github.com/gitkraken/vscode-gitlens))
 
+View line-by-line dependencies:  
+[Version Lens (VS Code)](https://versionlens.net/) ([GitLab](https://gitlab.com/versionlens/vscode-versionlens))
+
+Code screenshots:  
+[CodeSnap](https://codesnap.dev/)
+
 ## Version control systems
 
 [Bitbucket⊞🐧](https://bitbucket.org/),
@@ -14,7 +20,7 @@ View line-by-line changes:
 
 [Perforce's P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge)
 
-## Versioning - Git
+## Git
 
 .gitignore templates (to ignore during updates):  
 [gitignore](https://github.com/github/gitignore/)
@@ -39,7 +45,7 @@ Large file storage:
 [GitLab](https://gitlab.com/),
 [SourceForge](https://sourceforge.net/)
 
-### Software platform - GitHub
+### GitHub
 
 [GitHub☁](https://github.com/)
 

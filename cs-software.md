@@ -100,6 +100,9 @@ Courses/Tutorials:
 [RIP Tutorial](https://riptutorial.com/),
 [TutorialsPoint](https://www.tutorialspoint.com)
 
+Cheatsheets:  
+[Devhints](https://devhints.io/)
+
 Kid-friendly:  
 [awesome-programming-for-kids](https://github.com/HollyAdele/awesome-programming-for-kids),
 [Scratch](https://scratch.mit.edu/)
@@ -201,6 +204,9 @@ Window manager:
 ## Software development community
 
 [one4All💩](https://one4all.netlify.app/) ([GitHub](https://github.com/Surajv311/one4All))
+
+Snippet sharing:  
+[Coderwall](https://www.coderwall.com/)
 
 Blogs:  
 [Awesome Tech Blogs💩](https://tech-blogs.dev/) ([GitHub](https://github.com/markodenic/awesome-tech-blogs)),
