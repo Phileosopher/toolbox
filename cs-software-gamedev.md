@@ -84,6 +84,7 @@ Web game engine - HTML5:
 [Flax Engine](https://flaxengine.com/) ([GitHub](https://github.com/FlaxEngine/FlaxEngine)),
 [Godot Engine](https://godotengine.org/) (([GitHub](https://github.com/godotengine/godot)), with [awesome-godot](https://github.com/godotengine/awesome-godot)),
 [Source SDK🆓](https://developer.valvesoftware.com/wiki/SDK_Installation),
+[Unreal Engine](https://www.unrealengine.com/),
 [Vulkan](https://vulkan.org/)
 
 RTS engines:  

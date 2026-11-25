@@ -3,6 +3,9 @@
 
 [ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS)
 
+RSS feed search (within a website):  
+[RSS Finder☁](https://rssfinder.app/)
+
 RSS feed generator:  
 [FetchRSS☁⬆️](https://fetchrss.com/),
 [GetRSSFeed☁](https://getrssfeed.com/)

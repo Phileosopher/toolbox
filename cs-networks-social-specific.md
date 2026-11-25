@@ -95,6 +95,9 @@ Cross-platform influencer following:
 Emotional support:  
 [7 Cups](https://www.7cups.com/)
 
+Creativity - art curation:  
+[Artsy](https://www.artsy.net/)
+
 Creativity - computer code:  
 [CodePen☁](https://codepen.io/),
 [CodeSandbox☁](https://codesandbox.io/)

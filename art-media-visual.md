@@ -85,6 +85,13 @@ Animals:
 Hairstyles:  
 [Hairstyles](https://www.hairfinder.com/)
 
+## Animation
+
+[Settei Dreams](https://setteidreams.net/)
+
+Screencaps:  
+[Animation Screencaps](https://animationscreencaps.com/)
+
 ## SVGs/illustrations/animations
 
 [Absurd Design](https://absurd.design/), [Amigos Illustrations](https://amigos.blush.design/),

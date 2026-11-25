@@ -10,6 +10,7 @@ Learning:
 ## Inspiration
 
 General design:  
+[Autodesk AutoCAD$](https://www.autodesk.com/products/autocad),
 [Sharpen for STEM☁](https://sharpen.design/stem)
 
 Spatial dimensions:  

@@ -122,6 +122,7 @@ Video tutorials:
 [awesome-youtubers💩](https://github.com/JoseDeFreitas/awesome-youtubers),
 [awesome-youtube💩](https://github.com/npv2k1/awesome-youtube),
 [Brian Will](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw) ([website](https://brianwill.github.io/)),
+[Carnegie Mellon's CS Learn](https://www.cs.cmu.edu/learn/),
 [Eli the Computer Guy](https://www.youtube.com/channel/UCD4EOyXKjfDUhCI6jlOZZYQ),
 [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw),
 [The Coding Train](https://thecodingtrain.com/),
@@ -249,3 +250,6 @@ Social media and forums: new products:
 
 Success stories:  
 [No CS Degree](https://www.nocsdegree.com/)
+
+Big Tech showcase🧛:  
+[Experiments with Google](https://experiments.withgoogle.com/)

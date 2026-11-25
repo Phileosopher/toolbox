@@ -27,8 +27,11 @@ Removing paywalls:
 ## Web Content
 
 Opening many hyperlinks at once:  
-[DevToolEasy's Markdown Link Extractor](https://devtooleasy.com/dev-tools/markdown-link-extractor),
-[InterviewCue's Link Opener Tool](https://interviewcue.com/tools/link-opener)
+[Bulk URL Opener⇉](https://bulkurlopener.com/),
+[Open Bulk Url☁](https://openbulkurl.com/),
+[DevToolEasy's Markdown Link Extractor☁](https://devtooleasy.com/dev-tools/markdown-link-extractor),
+[InterviewCue's Link Opener Tool☁](https://interviewcue.com/tools/link-opener),
+[OpenAllURLs☁](https://www.openallurls.com/)
 
 ## Text Search
 

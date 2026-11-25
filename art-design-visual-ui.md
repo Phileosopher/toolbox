@@ -31,3 +31,8 @@ Front-end courses:
 Checklist:  
 [Front-End Checklist☁](https://frontendchecklist.io/) ([GitHub](https://github.com/thedaviddias/Front-End-Checklist)),
 [Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist),
+
+## Inspiration
+
+Front-end web design samples:  
+[Web Graphic Experiments](https://experiments.p5aholic.me/)
