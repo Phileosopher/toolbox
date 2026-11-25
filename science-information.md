@@ -1,5 +1,5 @@
 
-# Tools for acquiring lots of scientific media
+# Tools for acquiring lots of scientific information
 
 [awesome-PhD💩](https://github.com/helenahartmann/awesome-PhD)
 
